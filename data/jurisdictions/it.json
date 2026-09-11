@@ -3,420 +3,452 @@
   "type": "country",
   "flag": "🇮🇹",
   "region": "europe",
-
   "names": {
     "ja": "イタリア",
     "en": "Italy",
     "it": "Italia"
   },
-
   "office": {
     "ja": "イタリア特許商標庁（UIBM）",
     "en": "Italian Patent and Trademark Office (UIBM)",
     "it": "Ufficio Italiano Brevetti e Marchi (UIBM)"
   },
-
   "availableLanguages": [
     "it"
   ],
-
   "createdAt": "2026-09-11",
   "updatedAt": "2026-09-11",
   "status": "review",
-
   "facts": {
     "authority": {
       "ja": "イタリア特許商標庁（UIBM）",
       "en": "Italian Patent and Trademark Office (UIBM)",
       "it": "Ufficio Italiano Brevetti e Marchi (UIBM)"
     },
-
     "protectionScope": {
       "ja": "イタリア国内において効力を有する登録商標。商品商標、役務商標、団体商標、証明商標その他が保護対象となり得る。",
       "en": "Registered marks effective in Italy. Trade marks, service marks, collective marks, certification marks and other eligible signs may be protected.",
       "it": "Marchi registrati efficaci nel territorio italiano. Possono essere protetti marchi di prodotto, di servizio, collettivi, di certificazione e altri segni ammissibili."
     },
-
     "markTypes": {
       "ja": "文字、図形、文字と図形の結合、立体的形状、位置、模様、色彩、音、動き、マルチメディア、ホログラムその他。",
       "en": "Word, figurative, combined, shape, position, pattern, colour, sound, motion, multimedia, hologram and other marks.",
       "it": "Marchi denominativi, figurativi, misti, di forma, di posizione, a motivi ripetuti, di colore, sonori, di movimento, multimediali, olografici e altre tipologie."
     },
-
     "madridAccessionDate": {
       "ja": "2000年4月17日（マドリッド協定議定書発効）",
       "en": "17 April 2000 (entry into force of the Madrid Protocol)",
       "it": "17 aprile 2000 (entrata in vigore del Protocollo di Madrid)"
     },
-
     "niceClassification": {
       "ja": "採用",
       "en": "Adopted",
       "it": "Adottata"
     },
-
     "classHeadingPractice": {
       "ja": "商品・役務は明確かつ正確に記載する必要がある。類見出しの一般的文言が必ずしも類内の全商品・役務を包含するわけではない。",
       "en": "Goods and services must be identified clearly and precisely. General indications in class headings do not necessarily cover every item in the class.",
       "it": "I prodotti e i servizi devono essere indicati in modo chiaro e preciso. Le indicazioni generali dei titoli delle classi non comprendono necessariamente tutti i prodotti o servizi della classe."
     },
-
     "retailServices": {
       "ja": "可。小売の対象となる商品または商品分野を適切に特定する。",
       "en": "Available. The goods or product sectors to which the retail services relate should be appropriately identified.",
       "it": "Ammessi. Devono essere adeguatamente indicati i prodotti o i settori merceologici ai quali si riferiscono i servizi di vendita al dettaglio."
     },
-
     "multiClassApplication": {
       "ja": "可",
       "en": "Available",
       "it": "Ammessa"
     },
-
     "applicationForm": {
       "ja": "電子出願または所定の願書を使用する。出願人、標章、商品・役務、優先権その他の所定事項を記載する。",
       "en": "Electronic filing or the prescribed application form may be used. The applicant, mark, goods and services, priority claim and other required particulars must be provided.",
       "it": "La domanda può essere depositata online o mediante il modulo previsto. Devono essere indicati il richiedente, il marchio, i prodotti e servizi, l’eventuale priorità e gli altri elementi richiesti."
     },
-
     "powerOfAttorney": {
       "ja": "代理人を選任する場合の委任状および署名要件は、出願方法と代理人の資格に応じて確認する。",
       "en": "Power-of-attorney and signature requirements should be checked according to the filing method and status of the representative.",
       "it": "I requisiti relativi alla procura e alla firma devono essere verificati in base alla modalità di deposito e alla qualifica del mandatario."
     },
-
     "priorityDocuments": {
       "ja": "優先権を主張する場合、基礎出願の国、日付、番号その他の情報が必要。証明書類と翻訳の要否は個別に確認する。",
       "en": "A priority claim requires details of the underlying application, including country, date and number. Supporting documents and translation requirements should be checked.",
       "it": "La rivendicazione di priorità richiede i dati della domanda anteriore, compresi il paese, la data e il numero. Devono essere verificati i documenti giustificativi e l’eventuale traduzione."
     },
-
     "homeRegistrationCertificate": {
       "ja": "通常のイタリア国内出願では、本国登録証明書は一般的な出願要件ではない。",
       "en": "A home-country registration certificate is not generally required for an ordinary Italian national application.",
       "it": "Il certificato di registrazione nel paese d’origine non è generalmente richiesto per una normale domanda nazionale italiana."
     },
-
     "useEvidenceAtFiling": {
       "ja": "通常の出願時に現実の使用証拠または使用宣誓書は要求されない。",
       "en": "Evidence or a declaration of actual use is not generally required when filing an ordinary application.",
       "it": "La prova o una dichiarazione dell’uso effettivo non è generalmente richiesta al momento del deposito di una normale domanda."
     },
-
     "notarizationCertification": {
       "ja": "通常の出願では、公証、領事認証または出願人の公証済み印章は一般に不要。代理書類等について個別確認を要する。",
       "en": "Notarization, consular legalization or a notarized applicant seal is not generally required for an ordinary application. Particular representation documents should be checked.",
       "it": "Per una domanda ordinaria non sono generalmente richiesti l’autenticazione notarile, la legalizzazione consolare o un sigillo autenticato del richiedente. Devono essere verificati gli eventuali documenti di rappresentanza."
     },
-
     "otherDocuments": {
       "ja": "団体商標・証明商標では使用規則等が必要。標章の種類、優先権その他の事情に応じて追加書類が必要となり得る。",
       "en": "Regulations are required for collective or certification marks. Additional material may be required depending on the type of mark, priority claim and other circumstances.",
       "it": "Per i marchi collettivi o di certificazione è richiesto un regolamento d’uso. Possono essere necessari altri documenti in funzione del tipo di marchio, della priorità e delle circostanze."
     },
-
     "absoluteGroundsExamination": {
       "ja": "あり",
       "en": "Yes",
       "it": "Sì"
     },
-
     "relativeGroundsExamination": {
       "ja": "先行商標との抵触について、原則として包括的な職権拒絶審査は行わず、異議申立て等により争われる。個別の審査範囲は要確認。",
       "en": "Conflicts with earlier marks are generally addressed through opposition rather than comprehensive ex officio refusal examination. The precise scope of examination should be verified.",
       "it": "I conflitti con marchi anteriori sono generalmente trattati mediante opposizione anziché attraverso un esame completo d’ufficio. L’esatto ambito dell’esame deve essere verificato."
     },
-
     "disclaimer": {
       "ja": "米国型の一般的なディスクレーム制度とは異なる。適用可能な場面は個別に確認する。",
       "en": "The practice differs from the general United States-style disclaimer system. Any applicable circumstances should be checked individually.",
       "it": "La prassi differisce dal sistema generale di disclaimer statunitense. Le eventuali situazioni applicabili devono essere verificate caso per caso."
     },
-
     "consent": {
       "ja": "同意書または共存契約の効果は、異議、無効、侵害その他の手続と具体的事情に応じて判断される。",
       "en": "The effect of a consent or coexistence agreement depends on the particular opposition, invalidity, infringement or other proceeding.",
       "it": "L’effetto di un consenso o di un accordo di coesistenza dipende dalla specifica procedura di opposizione, nullità, contraffazione o da altre circostanze."
     },
-
     "acceleratedExamination": {
       "ja": "早期審査または特別な迅速化措置の有無および利用要件は、最新のUIBM運用を確認する。",
       "en": "The availability and requirements of accelerated examination or other expedited measures should be checked against current UIBM practice.",
       "it": "La disponibilità e i requisiti dell’esame accelerato o di altre misure rapide devono essere verificati secondo la prassi aggiornata dell’UIBM."
     },
-
     "thirdPartyObservation": {
       "ja": "第三者による情報・意見提出の可否、対象理由、提出時期および法的効果は要確認。",
       "en": "The availability, grounds, timing and legal effect of third-party observations should be verified.",
       "it": "Devono essere verificati la disponibilità, i motivi, i termini e gli effetti giuridici delle osservazioni di terzi."
     },
-
     "responsePeriod": {
       "ja": "通知および手続の種類により異なる。各通知に記載された期限を確認する。",
       "en": "The response period depends on the type of communication and procedure. The deadline stated in each notice should be checked.",
       "it": "Il termine di risposta dipende dal tipo di comunicazione e di procedura. Deve essere verificato il termine indicato in ciascuna comunicazione."
     },
-
     "extensionAvailable": {
       "ja": "手続および期間の性質により可能な場合がある。",
       "en": "May be available depending on the procedure and nature of the time limit.",
       "it": "Può essere disponibile in funzione della procedura e della natura del termine."
     },
-
     "extensionLength": {
       "ja": "通知および適用される手続により異なる。",
       "en": "Depends on the communication and applicable procedure.",
       "it": "Dipende dalla comunicazione e dalla procedura applicabile."
     },
-
     "extensionRequirements": {
       "ja": "期限満了前の申請、理由および料金の要否を確認する。法定期間は延長できない場合がある。",
       "en": "Whether a request before expiry, reasons and a fee are required should be checked. Statutory periods may not be extendable.",
       "it": "Devono essere verificati l’eventuale richiesta prima della scadenza, la motivazione e le tasse. I termini legali possono non essere prorogabili."
     },
-
     "appealRoute": {
       "ja": "UIBMの決定に対する行政上または司法上の不服申立経路がある。対象決定、管轄および期限は個別に確認する。",
       "en": "Administrative or judicial appeal routes are available against relevant UIBM decisions. The appealable decision, jurisdiction and deadline should be checked.",
       "it": "Sono disponibili rimedi amministrativi o giudiziari contro le decisioni pertinenti dell’UIBM. Devono essere verificati la decisione impugnabile, la competenza e il termine."
     },
-
     "publicDatabase": {
       "ja": "UIBM商標データベース",
       "en": "UIBM trade mark database",
       "it": "Banca dati dei marchi UIBM",
       "url": "https://uibm.mise.gov.it/index.php/it/banche-dati"
     },
-
     "publicationStage": {
       "ja": "出願情報が公報に掲載され、所定の異議申立期間が進行する。具体的な起算日は要確認。",
       "en": "Application information is published in the official bulletin and the applicable opposition period begins. The precise commencement date should be checked.",
       "it": "Le informazioni relative alla domanda sono pubblicate nel bollettino ufficiale e decorre il termine di opposizione applicabile. Deve essere verificata la data esatta di decorrenza."
     },
-
     "oppositionPeriod": {
       "ja": "原則として公開から3か月。国際登録のイタリア指定については起算関係を別途確認する。",
       "en": "Generally three months from publication. The commencement rules for an Italian designation under an international registration should be checked separately.",
       "it": "Generalmente tre mesi dalla pubblicazione. Per la designazione dell’Italia mediante registrazione internazionale, la decorrenza deve essere verificata separatamente."
     },
-
     "oppositionExtension": {
       "ja": "異議申立期間自体は法定期間であり、原則として延長できない。異議成立後の手続期間は別途確認する。",
       "en": "The opposition period itself is a statutory period and is generally not extendable. Procedural periods after filing should be considered separately.",
       "it": "Il termine di opposizione è un termine legale e non è generalmente prorogabile. I termini successivi al deposito devono essere considerati separatamente."
     },
-
     "averagePendency": {
       "ja": "拒絶または異議がない場合でも、案件およびUIBMの処理状況により異なる。最新統計を参照する。",
       "en": "Even without an objection or opposition, timing depends on the application and the UIBM workload. Current statistics should be consulted.",
       "it": "Anche in assenza di rilievi o opposizioni, i tempi dipendono dalla domanda e dal carico di lavoro dell’UIBM. Devono essere consultate le statistiche aggiornate."
     },
-
     "term": {
       "ja": "10年。10年ごとに更新可能。",
       "en": "10 years, renewable for further ten-year periods.",
       "it": "10 anni, rinnovabile per ulteriori periodi di dieci anni."
     },
-
     "termStart": {
       "ja": "出願日から",
       "en": "From the filing date",
       "it": "Dalla data di deposito"
     },
-
     "renewalWindow": {
       "ja": "原則として満了前12か月以内。最新の提出可能期間と料金を確認する。",
       "en": "Generally within the 12 months preceding expiry. The current filing window and fees should be verified.",
       "it": "Generalmente entro i dodici mesi precedenti la scadenza. Devono essere verificati il periodo di deposito e le tasse aggiornate."
     },
-
     "gracePeriod": {
       "ja": "満了後6か月の追納期間あり。割増料金が必要。",
       "en": "A six-month grace period is available after expiry, subject to a surcharge.",
       "it": "Dopo la scadenza è disponibile un periodo di grazia di sei mesi, soggetto a una soprattassa."
     },
-
     "renewalEvidence": {
       "ja": "通常、更新時に使用証拠の提出は要求されない。更新料その他の形式要件を確認する。",
       "en": "Evidence of use is not generally required at renewal. Renewal fees and other formal requirements should be checked.",
       "it": "La prova dell’uso non è generalmente richiesta al rinnovo. Devono essere verificate le tasse e le altre formalità."
     },
-
     "nonUseCancellation": {
       "ja": "あり",
       "en": "Available",
       "it": "Disponibile"
     },
-
     "nonUsePeriod": {
       "ja": "原則として継続5年間。",
       "en": "Generally a continuous period of five years.",
       "it": "Generalmente un periodo ininterrotto di cinque anni."
     },
-
     "nonUseDefenses": {
       "ja": "真正な使用、使用の主体・地域・商品役務、使用形態、正当な不使用理由、使用再開の時期その他を検討する。",
       "en": "Genuine use, the user, territory, goods or services, form of use, proper reasons for non-use and timing of resumed use should be assessed.",
       "it": "Devono essere valutati l’uso effettivo, l’utilizzatore, il territorio, i prodotti o servizi, la forma d’uso, i motivi legittimi di mancato uso e il momento della ripresa."
     },
-
     "otherCancellation": {
       "ja": "普通名称化、誤認を生じさせる使用その他を理由とする取消しがあり得る。",
       "en": "Revocation may be available where the mark has become generic, its use has become misleading or on other applicable grounds.",
       "it": "La decadenza può essere pronunciata quando il marchio è divenuto generico, il suo uso è divenuto ingannevole o ricorrono altri motivi applicabili."
     },
-
     "invalidation": {
       "ja": "絶対的または相対的無効理由に基づく行政上・司法上の無効手続あり。",
       "en": "Administrative and judicial invalidity proceedings are available on absolute or relative grounds.",
       "it": "Sono disponibili procedimenti amministrativi e giudiziari di nullità fondati su motivi assoluti o relativi."
     },
-
     "civilInjunction": {
       "ja": "あり。侵害行為の差止めおよび一定の場合の仮処分を求めることができる。",
       "en": "Available. Injunctive relief and, where appropriate, interim measures may be sought against infringement.",
       "it": "Disponibile. Possono essere richiesti provvedimenti inibitori e, ove opportuno, misure cautelari contro la contraffazione."
     },
-
     "civilDamages": {
       "ja": "あり。損害額、侵害者利益、ロイヤルティ相当額その他の算定方法を事案ごとに検討する。",
       "en": "Available. Actual loss, the infringer’s profits, reasonable royalties and other calculation methods should be considered case by case.",
       "it": "Disponibile. Devono essere valutati caso per caso il danno effettivo, gli utili del contraffattore, la royalty ragionevole e gli altri criteri di calcolo."
     },
-
     "civilEvidencePreservation": {
       "ja": "証拠記述、差押え、検査、情報請求その他の証拠収集・保全措置があり得る。",
       "en": "Description, seizure, inspection, information claims and other evidence-gathering or preservation measures may be available.",
       "it": "Possono essere disponibili descrizione, sequestro, ispezione, diritto d’informazione e altre misure di acquisizione o conservazione delle prove."
     },
-
     "civilOther": {
       "ja": "侵害品の回収・廃棄、判決公表、費用負担その他の救済があり得る。",
       "en": "Recall or destruction of infringing goods, publication of the judgment, costs and other remedies may be available.",
       "it": "Possono essere disponibili il ritiro o la distruzione dei prodotti contraffatti, la pubblicazione della sentenza, le spese e altri rimedi."
     },
-
     "borderMeasures": {
       "ja": "あり。EU税関差止制度を利用できる。申請範囲、更新および手続要件を確認する。",
       "en": "Available through the EU customs enforcement system. Territorial scope, renewal and procedural requirements should be checked.",
       "it": "Disponibile attraverso il sistema doganale dell’Unione europea. Devono essere verificati l’ambito territoriale, il rinnovo e i requisiti procedurali."
     },
-
     "administrativeRaid": {
       "ja": "行政機関、警察、税関その他の所管機関による措置の可否は、侵害態様および地域に応じて確認する。",
       "en": "Measures by administrative authorities, police, customs and other competent bodies should be checked according to the infringement and locality.",
       "it": "Le misure delle autorità amministrative, della polizia, delle dogane e degli altri organi competenti devono essere verificate in base alla contraffazione e al luogo."
     },
-
     "administrativeOther": {
       "ja": "行政上の差押え、没収、侵害品の市場からの排除その他が問題となり得る。",
       "en": "Administrative seizure, forfeiture, removal of infringing goods from the market and other measures may be available.",
       "it": "Possono essere disponibili il sequestro amministrativo, la confisca, il ritiro dei prodotti contraffatti dal mercato e altre misure."
     },
-
     "criminalAvailability": {
       "ja": "あり。故意による商標偽造品の製造・販売等が刑事罰の対象となり得る。",
       "en": "Available. Intentional manufacture or trade in counterfeit-marked goods may constitute a criminal offense.",
       "it": "Disponibile. La produzione o il commercio intenzionale di prodotti recanti marchi contraffatti può costituire reato."
     },
-
     "criminalFine": {
       "ja": "あり。犯罪類型、故意、規模その他の事情により異なる。",
       "en": "Available. The penalty depends on the offense, intent, scale and other circumstances.",
       "it": "Disponibile. La pena dipende dal reato, dal dolo, dalle dimensioni dell’attività e dalle altre circostanze."
     },
-
     "criminalImprisonment": {
       "ja": "あり得る。適用される犯罪類型および加重事由により期間が異なる。",
       "en": "Potentially available. The term depends on the applicable offense and any aggravating circumstances.",
       "it": "Potenzialmente applicabile. La durata dipende dal reato e dalle eventuali circostanze aggravanti."
     },
-
     "criminalOther": {
       "ja": "偽造品・製造設備の差押え、没収、廃棄その他があり得る。",
       "en": "Seizure, forfeiture or destruction of counterfeit goods and production equipment may be available.",
       "it": "Possono essere disposti il sequestro, la confisca o la distruzione dei prodotti contraffatti e delle attrezzature di produzione."
+    },
+    "directExaminationPeriod": {
+      "ja": "UIBMの2019–2020年活動報告では、通常手続の出願から公開まで約180日（6か月）、Fast Trackでは約120日（4か月）とされた。これは公開までの歴史的目安であり、登録完了までの現行平均ではない。2025年の活動報告は件数を公表しているが一律の最新平均期間を示していないため、現在の所要期間はUIBMまたは現地代理人に確認する。",
+      "en": "The UIBM 2019–2020 activity report stated approximately 180 days (six months) from filing to publication under the ordinary route and approximately 120 days (four months) under Fast Track. These are historical filing-to-publication benchmarks, not a current average to final registration. The 2025 activity report provides volumes but no single current average, so present timing should be confirmed with UIBM or Italian counsel.",
+      "it": "Il Rapporto UIBM 2019–2020 indicava circa 180 giorni (sei mesi) dal deposito alla pubblicazione con l’iter ordinario e circa 120 giorni (quattro mesi) con il Fast Track. Si tratta di riferimenti storici fino alla pubblicazione, non di una media attuale fino alla registrazione definitiva. Il Rapporto 2025 pubblica i volumi ma non un’unica durata media aggiornata; i tempi attuali devono essere verificati con l’UIBM o un mandatario italiano."
+    },
+    "madridExaminationPeriod": {
+      "ja": "イタリア指定の国際登録について独立した平均審査期間は公表されていない。イタリアはマドリッド協定議定書上の拒絶通報期間を18か月とする宣言をしており、異議に基づく拒絶は所定の場合に18か月経過後も通報され得る。この18か月は平均審査期間ではなく国際的な通報期限である。",
+      "en": "No separate average examination period is published for international registrations designating Italy. Italy has declared an 18-month refusal notification period under the Madrid Protocol, and an opposition-based refusal may in specified circumstances be notified after that period. The 18 months is an international notification limit, not an average examination time.",
+      "it": "Non è pubblicata una durata media separata dell’esame per le registrazioni internazionali che designano l’Italia. L’Italia ha dichiarato un termine di 18 mesi per notificare il rifiuto ai sensi del Protocollo di Madrid; un rifiuto fondato su opposizione può, nei casi previsti, essere notificato anche dopo tale termine. I 18 mesi costituiscono un termine internazionale di notifica, non una durata media dell’esame."
+    },
+    "colourPriorityIdentity": {
+      "ja": "イタリア（UIBM）は2014年のCP4策定に参加しておらず、CP4の『色彩差が重大でない場合に限り同一』という共通基準をイタリア国内出願へ当然に適用できるとは限らない。白黒・グレースケールの基礎出願からカラー版について優先権を主張する場合は、CPI、UIBMの最新運用および国内判例に基づく同一性を個別に確認する。",
+      "en": "Italy (UIBM) did not participate in the 2014 CP4 project, so CP4’s rule that identity exists only where colour differences are insignificant should not automatically be treated as the rule for Italian national filings. Where priority is claimed from a black-and-white or greyscale filing for a colour version, identity should be checked individually under the Italian Industrial Property Code, current UIBM practice and national case law.",
+      "it": "L’Italia (UIBM) non ha partecipato al progetto CP4 del 2014; pertanto, il criterio CP4 secondo cui l’identità sussiste solo quando le differenze cromatiche sono insignificanti non deve essere automaticamente considerato applicabile ai depositi nazionali italiani. In caso di priorità rivendicata da un deposito in bianco e nero o in scala di grigi per una versione a colori, l’identità va verificata alla luce del Codice della proprietà industriale, della prassi UIBM aggiornata e della giurisprudenza nazionale."
+    },
+    "colourRelativeGrounds": {
+      "ja": "UIBMは2014年のCP4不参加庁であるため、相対的拒絶理由における白黒版とカラー版の『同一』の判断についてCP4を自動適用しない。異議・無効手続では、標章の全体的印象、色彩の識別上の役割、商品・役務および関連公衆を踏まえ、同一性とは別に類似性・混同のおそれが認められる可能性がある。最新のUIBM・裁判所実務を確認する。",
+      "en": "As the UIBM did not participate in the 2014 CP4 project, CP4 should not automatically be applied to identity between black-and-white and colour signs under Italian relative grounds. In opposition or invalidity proceedings, similarity and likelihood of confusion may still be found independently of strict identity after considering the overall impression, the distinctive role of colour, the goods or services and the relevant public. Current UIBM and court practice should be checked.",
+      "it": "Poiché l’UIBM non ha partecipato al progetto CP4 del 2014, la CP4 non deve essere applicata automaticamente all’identità tra segni in bianco e nero e a colori nell’ambito dei motivi relativi italiani. Nei procedimenti di opposizione o nullità, la somiglianza e il rischio di confusione possono comunque sussistere, indipendentemente dall’identità rigorosa, considerando l’impressione complessiva, il ruolo distintivo del colore, i prodotti o servizi e il pubblico pertinente. Occorre verificare la prassi aggiornata dell’UIBM e dei giudici."
+    },
+    "colourGenuineUse": {
+      "ja": "UIBMが2014年のCP4に参加していないため、登録態様と異なる色彩での使用についてCP4の4要件をそのまま国内基準と断定しない。イタリアでは、変更された使用態様が登録商標の識別力を変更するかを個別に判断する。文字・図形要素、明暗、色彩自体の識別力、色彩が全体の識別力に占める重要性を検討し、現地判例を確認する。",
+      "en": "Because the UIBM did not participate in the 2014 CP4 project, CP4’s four conditions for use in a different colour should not be stated categorically as the Italian national test. Italy assesses case by case whether the altered form changes the registered mark’s distinctive character. Relevant factors include the word or figurative elements, contrast, the distinctiveness of colour itself and colour’s importance to overall distinctiveness; Italian case law should be checked.",
+      "it": "Poiché l’UIBM non ha partecipato al progetto CP4 del 2014, le quattro condizioni CP4 sull’uso con colori diversi non devono essere indicate in modo categorico come criterio nazionale italiano. In Italia si valuta caso per caso se la forma usata alteri il carattere distintivo del marchio registrato. Sono rilevanti gli elementi denominativi o figurativi, il contrasto, il carattere distintivo del colore e la sua importanza per il carattere distintivo complessivo; va verificata la giurisprudenza italiana."
+    },
+    "colourInfringementScope": {
+      "ja": "CP4は侵害訴訟を直接対象とせず、かつUIBMは2014年のCP4不参加庁である。イタリアの侵害裁判所は、登録表示、被疑侵害標章の実際の色彩、標章全体の印象、色彩の識別力および混同のおそれを個別に判断する。白黒登録があらゆる色彩を当然に独占するとも、カラー版に及ばないとも一律には扱わない。",
+      "en": "CP4 does not directly govern infringement litigation, and the UIBM did not participate in the 2014 project. Italian infringement courts assess the registered representation, the colours actually used in the challenged sign, the overall impression, the distinctive role of colour and likelihood of confusion case by case. A black-and-white registration should not categorically be assumed either to monopolise every colour or to exclude all colour variants.",
+      "it": "La CP4 non disciplina direttamente la contraffazione e l’UIBM non ha partecipato al progetto del 2014. I giudici italiani valutano caso per caso la rappresentazione registrata, i colori effettivamente usati nel segno contestato, l’impressione complessiva, il ruolo distintivo del colore e il rischio di confusione. Non si deve presumere in modo assoluto né che una registrazione in bianco e nero monopolizzi ogni colore né che escluda tutte le varianti cromatiche."
+    },
+    "colourFilingStrategy": {
+      "ja": "色彩がブランド上重要な場合、白黒版だけに依存せず、主要なカラー版の別出願を検討する。イタリアが2014年のCP4不参加国であることを踏まえ、白黒版・カラー版の双方を出願する必要性、優先権主張との整合、使用予定態様および保存すべき使用証拠をイタリア代理人に確認する。",
+      "en": "Where colour is commercially important, consider a separate filing for the principal colour version rather than relying only on a black-and-white filing. Given Italy’s non-participation in the 2014 CP4 project, ask Italian counsel whether both versions should be filed, how they align with any priority claim, which forms will be used and what use evidence should be retained.",
+      "it": "Se il colore è commercialmente importante, è opportuno considerare un deposito separato della principale versione cromatica anziché affidarsi soltanto a una domanda in bianco e nero. Tenuto conto della mancata partecipazione dell’Italia alla CP4 del 2014, occorre verificare con un mandatario italiano l’opportunità di depositare entrambe le versioni, la coerenza con la priorità, le forme d’uso previste e le prove da conservare."
+    },
+    "refusalResponseRoute": {
+      "ja": "UIBMが方式上の欠陥または絶対的拒絶理由を指摘した場合、通知で指定された期間内に意見、補正・限定または証拠を提出する。最終的な全部・一部拒絶決定に対しては、原則として決定の通知または了知から60日以内に、UIBMおよび関係する相手方へ通知した上でUIBM不服審判委員会（Commissione dei ricorsi）へ不服申立てを行う。国際登録のイタリア指定では、暫定的拒絶がWIPO経由で通知され、通知記載の方法・期限に従いUIBMへ応答する。",
+      "en": "If the UIBM raises a formal deficiency or an absolute ground for refusal, the applicant responds within the period stated in the communication with observations, an amendment or limitation, and evidence as appropriate. A final total or partial refusal may generally be challenged before the UIBM Board of Appeal (Commissione dei ricorsi) within 60 days from communication or knowledge of the decision, after serving the appeal on the UIBM and relevant counter-interested parties. For an international registration designating Italy, a provisional refusal is transmitted through WIPO and the holder responds to UIBM in the manner and period stated in the notice.",
+      "it": "Se l’UIBM rileva un’irregolarità formale o un motivo assoluto di rifiuto, il richiedente presenta osservazioni, modifiche o limitazioni e le eventuali prove entro il termine indicato nella comunicazione. Contro il rifiuto definitivo totale o parziale è generalmente ammesso ricorso alla Commissione dei ricorsi entro 60 giorni dalla comunicazione o conoscenza del provvedimento, previa notificazione del ricorso all’UIBM e ai controinteressati pertinenti. Per una registrazione internazionale che designa l’Italia, il rifiuto provvisorio è trasmesso tramite l’OMPI e il titolare risponde all’UIBM secondo modalità e termini indicati nella notifica."
+    },
+    "refusalAppealPeriod": {
+      "ja": "UIBM不服審判委員会における商標拒絶事件について、全事件に共通する最新の公式平均審理期間は確認できない。期間は事件の複雑性、通知、相手方の有無、証拠および審理日程により変動する。60日の不服申立期間と、審理に要する平均期間は別であるため、見込み期間はイタリア代理人に個別確認する。",
+      "en": "No current official average common to all trade mark refusal appeals before the UIBM Board of Appeal has been identified. Duration varies with complexity, service requirements, the presence of counter-interested parties, evidence and the hearing schedule. The 60-day appeal deadline is distinct from the time required to decide the appeal; expected pendency should be confirmed with Italian counsel.",
+      "it": "Non è stata individuata una durata media ufficiale aggiornata comune a tutti i ricorsi contro il rifiuto di marchi dinanzi alla Commissione dei ricorsi. I tempi variano secondo la complessità, le notificazioni, la presenza di controinteressati, le prove e il calendario delle udienze. Il termine di 60 giorni per proporre ricorso è distinto dal tempo necessario per deciderlo; la durata prevista va verificata con un mandatario italiano."
     }
   },
-
   "statistics": {
     "coverage": "2016–2025",
     "status": "pending",
     "series": []
   },
-
   "news": [
     {
       "id": "research-pending",
       "type": "research",
       "date": "2026-09-11",
-
       "title": {
         "ja": "直近3年の法改正・審査実務・重要判例を調査予定",
         "en": "Research pending for amendments, examination practice and key cases from the last three years",
         "it": "Ricerca prevista sulle modifiche normative, la prassi d’esame e le decisioni principali degli ultimi tre anni"
       },
-
       "summary": {
         "ja": "UIBM、イタリア官報、裁判所およびEU司法裁判所の一次資料に基づいて追記する。",
         "en": "To be populated from primary sources issued by the UIBM, the Italian Official Gazette, Italian courts and the Court of Justice of the European Union.",
         "it": "Da integrare sulla base delle fonti primarie dell’UIBM, della Gazzetta Ufficiale, dei giudici italiani e della Corte di giustizia dell’Unione europea."
       },
-
       "sourceUrl": ""
+    },
+    {
+      "id": "cp4-italy-non-participation",
+      "type": "practice",
+      "date": "2014-04-15",
+      "title": {
+        "ja": "CP4とイタリア：白黒・色彩商標の共通実務への不参加",
+        "en": "CP4 and Italy: non-participation in the common practice on black-and-white and colour marks",
+        "it": "CP4 e Italia: mancata partecipazione alla prassi comune sui marchi in bianco e nero e a colori"
+      },
+      "summary": {
+        "ja": "UIBMは2014年のCP4プロジェクトに参加しなかった。したがって、EUIPOや参加国のCP4基準をイタリア国内出願・異議・不使用判断へ自動転用せず、最新の国内実務を確認する必要がある。直近ニュースではないが、法域比較上重要な継続的実務として収録。",
+        "en": "The UIBM did not participate in the 2014 CP4 project. Accordingly, the CP4 approach used by EUIPO and participating offices should not automatically be transferred to Italian national priority, opposition or genuine-use assessments. Although not recent news, it is retained as an important continuing jurisdictional distinction.",
+        "it": "L’UIBM non ha partecipato al progetto CP4 del 2014. Di conseguenza, l’approccio CP4 seguito dall’EUIPO e dagli uffici partecipanti non deve essere automaticamente trasferito alle valutazioni nazionali italiane di priorità, opposizione o uso effettivo. Pur non essendo una notizia recente, è inserito come importante differenza tuttora rilevante tra giurisdizioni."
+      },
+      "sourceUrl": "https://www.tmdn.org/network/documents/10181/299339/cp4_common_communication_%2Ben.pdf"
+    },
+    {
+      "id": "uibm-decisions-database-2025",
+      "type": "practice",
+      "date": "2025-11-19",
+      "title": {
+        "ja": "UIBMが商標の異議・無効・取消決定をまとめて検索できるサービスを開始",
+        "en": "UIBM launches consolidated access to trade mark opposition, invalidity and revocation decisions",
+        "it": "UIBM rende disponibile un servizio unico per le decisioni su opposizione, nullità e decadenza dei marchi"
+      },
+      "summary": {
+        "ja": "UIBMデータベースで、商標の異議、無効および取消しに関する最終決定をまとめて迅速に検索できるサービスが利用可能となった。実務傾向・先例調査に有用。",
+        "en": "The UIBM database introduced consolidated, faster access to final decisions concerning trade mark oppositions, invalidity and revocation, supporting research into administrative practice and precedents.",
+        "it": "La banca dati UIBM ha introdotto un accesso unitario e più rapido alle decisioni finali in materia di opposizione, nullità e decadenza dei marchi, utile per la ricerca della prassi e dei precedenti amministrativi."
+      },
+      "sourceUrl": "https://www.uibm.gov.it/bancadati/"
     }
   ],
-
   "faqs": [
     {
       "tag": "Filing",
-
       "question": {
         "ja": "本件では、イタリア国内出願とEU商標出願のどちらが適切でしょうか。",
         "en": "Would an Italian national application or an EU trade mark application be more appropriate in this case?",
         "it": "In questo caso sarebbe più opportuna una domanda nazionale italiana o una domanda di marchio dell’Unione europea?"
       },
-
       "followUp": {
         "ja": "先行権利、費用、対象市場および権利行使の観点から比較してください。",
         "en": "Please compare the options in light of prior rights, costs, the intended market and enforcement.",
         "it": "La prego di confrontare le opzioni tenendo conto dei diritti anteriori, dei costi, del mercato previsto e della tutela."
       }
     },
-
     {
       "tag": "Opposition",
-
       "question": {
         "ja": "異議申立て前に相手方へ連絡するのが通常でしょうか。",
         "en": "Is it customary to contact the other party before filing an opposition?",
         "it": "È consuetudine contattare la controparte prima di depositare un’opposizione?"
       },
-
       "followUp": {
         "ja": "典型的な交渉期間、異議費用および和解方法も教えてください。",
         "en": "Could you also indicate the typical negotiation period, opposition costs and settlement options?",
         "it": "Potrebbe indicare anche la durata tipica delle trattative, i costi dell’opposizione e le possibili soluzioni transattive?"
       }
     },
-
     {
       "tag": "Enforcement",
-
       "question": {
         "ja": "この事案では民事仮処分、刑事告訴、税関差止めのどれを優先すべきでしょうか。",
         "en": "In this matter, should we prioritize civil interim relief, a criminal complaint or customs enforcement?",
         "it": "In questo caso, dovremmo dare priorità a una misura cautelare civile, a una denuncia penale o all’intervento doganale?"
       },
-
       "followUp": {
         "ja": "それぞれの概算費用、必要証拠および処理期間も教えてください。",
         "en": "Please also indicate the estimated cost, required evidence and timing for each option.",
         "it": "La prego di indicare anche i costi stimati, le prove necessarie e i tempi di ciascuna opzione."
       }
+    },
+    {
+      "tag": "Colour marks",
+      "question": {
+        "ja": "イタリアでは当社ロゴの白黒版とカラー版の双方を出願すべきでしょうか。",
+        "en": "Should we file both the black-and-white and colour versions of our logo in Italy?",
+        "it": "Dovremmo depositare in Italia sia la versione in bianco e nero sia quella a colori del nostro logo?"
+      },
+      "followUp": {
+        "ja": "イタリアのCP4不参加が、優先権、異議、真正な使用および侵害判断に与える影響と、保存すべき使用証拠を教えてください。",
+        "en": "Please explain how Italy’s non-participation in CP4 affects priority, opposition, genuine use and infringement, and what evidence of use we should retain.",
+        "it": "La prego di spiegare come la mancata partecipazione italiana alla CP4 incida sulla priorità, sull’opposizione, sull’uso effettivo e sulla contraffazione, nonché quali prove d’uso conservare."
+      }
+    },
+    {
+      "tag": "Refusal",
+      "question": {
+        "ja": "このUIBMの拒絶通知または拒絶決定に対して、どの手段で応答すべきでしょうか。",
+        "en": "How should we respond to this UIBM objection or refusal decision?",
+        "it": "Come dovremmo rispondere a questo rilievo o provvedimento di rifiuto dell’UIBM?"
+      },
+      "followUp": {
+        "ja": "意見・補正・証拠提出とCommissione dei ricorsiへの不服申立てを、期限、費用、見込み期間および戦略上の利点から比較してください。",
+        "en": "Please compare observations, amendment, evidence and an appeal to the Commissione dei ricorsi in terms of deadlines, costs, expected duration and strategic advantages.",
+        "it": "La prego di confrontare osservazioni, modifiche, prove e ricorso alla Commissione dei ricorsi sotto il profilo dei termini, costi, durata prevista e vantaggi strategici."
+      }
     }
   ],
-
   "sources": [
     {
       "label": "UIBM",
@@ -446,6 +478,48 @@
       "label": "WIPO Madrid Monitor",
       "url": "https://www3.wipo.int/madrid/monitor/en/",
       "type": "official",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "label": "UIBM — Rapporto attività: Marchi 2025",
+      "url": "https://rapporti-uibm.mise.gov.it/index.php/ita/tutelare/marchi",
+      "type": "official",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "label": "UIBM — Rapporto 2019–2020 (filing-to-publication timing)",
+      "url": "https://uibm.mise.gov.it/images/REPORT_UIBM_2019-2020_ITA.pdf",
+      "type": "official",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "label": "UIBM — National database and final trade mark decisions",
+      "url": "https://www.uibm.gov.it/bancadati/",
+      "type": "official",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "label": "WIPO Lex — Italy Madrid Protocol declarations",
+      "url": "https://www.wipo.int/wipolex/en/treaties/parties/remarks/IT/8",
+      "type": "official",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "label": "EUIPN — CP4 Common Communication",
+      "url": "https://www.tmdn.org/network/documents/10181/299339/cp4_common_communication_%2Ben.pdf",
+      "type": "official",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "label": "EUIPO Academy — CP4 Scope of Protection of Black and White Marks",
+      "url": "https://euipo.europa.eu/knowledge/course/view.php?id=1791&lang=it",
+      "type": "official",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "label": "Italian Industrial Property Code — Article 136 appeal procedure",
+      "url": "https://www.parlamento.it/parlam/leggi/deleghe/05030dl1.htm",
+      "type": "legislation",
       "checkedAt": "2026-09-11"
     }
   ]
