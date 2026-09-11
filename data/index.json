@@ -1,0 +1,18 @@
+[
+  {
+    "id": "us",
+    "path": "./data/jurisdictions/us.json"
+  },
+  {
+    "id": "euipo",
+    "path": "./data/jurisdictions/euipo.json"
+  },
+  {
+    "id": "de",
+    "path": "./data/jurisdictions/de.json"
+  },
+  {
+    "id": "it",
+    "path": "./data/jurisdictions/it.json"
+  }
+]
