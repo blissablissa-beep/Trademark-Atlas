@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0",
+  "version": "2.1.0",
   "sections": [
     {
       "id": "basic",
@@ -127,8 +127,8 @@
     {
       "id": "examination",
       "title": {
-        "ja": "審査制度",
-        "en": "Examination"
+        "ja": "審査制度・審査期間",
+        "en": "Examination system and pendency"
       },
       "fields": [
         {
@@ -172,16 +172,81 @@
             "ja": "情報提供・第三者意見",
             "en": "Third-party observations"
           }
+        },
+        {
+          "id": "directExaminationPeriod",
+          "label": {
+            "ja": "直接出願の場合の平均審査期間",
+            "en": "Average examination period for direct applications"
+          }
+        },
+        {
+          "id": "madridExaminationPeriod",
+          "label": {
+            "ja": "マドプロ出願の場合の平均審査期間",
+            "en": "Average examination period for Madrid designations"
+          }
+        }
+      ]
+    },
+    {
+      "id": "colourTreatment",
+      "title": {
+        "ja": "白黒・グレースケール・色彩商標",
+        "en": "Black-and-white, greyscale and colour marks"
+      },
+      "fields": [
+        {
+          "id": "colourPriorityIdentity",
+          "label": {
+            "ja": "優先権主張における同一性",
+            "en": "Identity for priority claims"
+          }
+        },
+        {
+          "id": "colourRelativeGrounds",
+          "label": {
+            "ja": "相対的拒絶理由・類否判断における同一性・類似性",
+            "en": "Identity and similarity in relative grounds"
+          }
+        },
+        {
+          "id": "colourGenuineUse",
+          "label": {
+            "ja": "使用証明・不使用取消における同一性",
+            "en": "Identity for genuine use and non-use cancellation"
+          }
+        },
+        {
+          "id": "colourInfringementScope",
+          "label": {
+            "ja": "侵害判断における保護範囲",
+            "en": "Scope of protection in infringement proceedings"
+          }
+        },
+        {
+          "id": "colourFilingStrategy",
+          "label": {
+            "ja": "出願戦略・実務上の注意",
+            "en": "Filing strategy and practical considerations"
+          }
         }
       ]
     },
     {
       "id": "officeAction",
       "title": {
-        "ja": "拒絶への応答",
-        "en": "Response to refusal"
+        "ja": "拒絶への応答・不服申立て",
+        "en": "Response to refusal and appeals"
       },
       "fields": [
+        {
+          "id": "refusalResponseRoute",
+          "label": {
+            "ja": "拒絶後の応答手段",
+            "en": "Available routes for responding to a refusal"
+          }
+        },
         {
           "id": "responsePeriod",
           "label": {
@@ -215,6 +280,13 @@
           "label": {
             "ja": "不服申立て・審判",
             "en": "Appeal or review route"
+          }
+        },
+        {
+          "id": "refusalAppealPeriod",
+          "label": {
+            "ja": "拒絶査定不服審判の平均審理期間",
+            "en": "Average duration of an appeal against refusal"
           }
         }
       ]
