@@ -3,30 +3,25 @@
   "type": "regional",
   "flag": "🇪🇺",
   "region": "europe",
-
   "names": {
     "ja": "欧州連合知的財産庁",
     "en": "European Union Intellectual Property Office",
     "de": "Amt der Europäischen Union für geistiges Eigentum",
     "it": "Ufficio dell’Unione europea per la proprietà intellettuale"
   },
-
   "office": {
     "ja": "EUIPO（欧州連合商標）",
     "en": "EUIPO (European Union trade mark)",
     "de": "EUIPO (Unionsmarke)",
     "it": "EUIPO (marchio dell’Unione europea)"
   },
-
   "availableLanguages": [
     "de",
     "it"
   ],
-
   "createdAt": "2026-09-11",
   "updatedAt": "2026-09-11",
   "status": "draft",
-
   "facts": {
     "authority": {
       "ja": "欧州連合知的財産庁（EUIPO）",
@@ -34,182 +29,156 @@
       "de": "Amt der Europäischen Union für geistiges Eigentum (EUIPO)",
       "it": "Ufficio dell’Unione europea per la proprietà intellettuale (EUIPO)"
     },
-
     "protectionScope": {
       "ja": "EU加盟国において単一的効力を有する欧州連合商標。詳細調査待ち。",
       "en": "A unitary European Union trade mark covering the EU Member States. Detailed research is pending.",
       "de": "Eine einheitliche Unionsmarke mit Wirkung in den Mitgliedstaaten der Europäischen Union. Die Detailprüfung steht noch aus.",
       "it": "Un marchio unitario dell’Unione europea valido negli Stati membri dell’UE. La ricerca dettagliata è ancora in corso."
     },
-
     "markTypes": {
       "ja": "文字、図形、文字と図形の結合、立体、位置、模様、色彩、音、動き、マルチメディア、ホログラムその他。各類型の要件は要確認。",
       "en": "Word, figurative, shape, position, pattern, colour, sound, motion, multimedia, hologram and other marks, subject to the applicable requirements.",
       "de": "Wortmarken, Bildmarken, Formmarken, Positionsmarken, Mustermarken, Farbmarken, Hörmarken, Bewegungsmarken, Multimediamarken, Hologrammmarken und weitere Markenformen nach Maßgabe der jeweiligen Voraussetzungen.",
       "it": "Marchi denominativi, figurativi, di forma, di posizione, a motivi ripetuti, di colore, sonori, di movimento, multimediali, olografici e altre tipologie, nel rispetto dei relativi requisiti."
     },
-
     "madridAccessionDate": {
       "ja": "EUについてマドリッド制度による指定が可能。適用開始年月日は要確認。",
       "en": "The European Union may be designated under the Madrid System. The applicable commencement date should be verified.",
       "de": "Die Europäische Union kann im Rahmen des Madrider Systems benannt werden. Der maßgebliche Beginn ist noch zu prüfen.",
       "it": "L’Unione europea può essere designata nell’ambito del Sistema di Madrid. La data di decorrenza deve essere verificata."
     },
-
     "niceClassification": {
       "ja": "採用",
       "en": "Adopted",
       "de": "Angewandt",
       "it": "Adottata"
     },
-
     "classHeadingPractice": {
       "ja": "類見出しの一般的文言が常に類内の全商品・役務を包含するとは限らない。指定内容は明確かつ正確である必要がある。",
       "en": "General indications in class headings do not necessarily cover all goods or services in a class. The specification must be sufficiently clear and precise.",
       "de": "Allgemeine Angaben der Klassenüberschriften erfassen nicht zwangsläufig sämtliche Waren oder Dienstleistungen einer Klasse. Das Verzeichnis muss hinreichend klar und eindeutig sein.",
       "it": "Le indicazioni generali dei titoli delle classi non comprendono necessariamente tutti i prodotti o servizi della classe. L’elenco deve essere sufficientemente chiaro e preciso."
     },
-
     "retailServices": {
       "ja": "可。小売の対象となる商品を適切に特定する必要がある。",
       "en": "Available. The goods to which the retail services relate should be appropriately identified.",
       "de": "Möglich. Die Waren, auf die sich die Einzelhandelsdienstleistungen beziehen, sind angemessen zu bezeichnen.",
       "it": "Ammessi. I prodotti ai quali si riferiscono i servizi di vendita al dettaglio devono essere adeguatamente indicati."
     },
-
     "multiClassApplication": {
       "ja": "可",
       "en": "Available",
       "de": "Möglich",
       "it": "Ammessa"
     },
-
     "applicationForm": {
       "ja": "オンライン出願可能。出願人、標章、指定商品・役務その他の所定事項を記載する。",
       "en": "Online filing is available. The application identifies the applicant, mark, goods and services, and other required particulars.",
       "de": "Eine Online-Anmeldung ist möglich. Die Anmeldung enthält Angaben zum Anmelder, zur Marke, zu den Waren und Dienstleistungen sowie weitere erforderliche Angaben.",
       "it": "È disponibile il deposito online. La domanda indica il richiedente, il marchio, i prodotti e servizi e gli altri elementi richiesti."
     },
-
     "powerOfAttorney": {
       "ja": "通常の出願における提出要否は、代理関係および手続内容に応じて確認する。",
       "en": "The need to file a power of attorney should be checked in light of the representation arrangement and particular procedure.",
       "de": "Ob eine Vollmacht einzureichen ist, ist anhand des Vertretungsverhältnisses und des jeweiligen Verfahrens zu prüfen.",
       "it": "La necessità di depositare una procura deve essere verificata in base al rapporto di rappresentanza e alla procedura interessata."
     },
-
     "priorityDocuments": {
       "ja": "優先権主張を行う場合の情報・証明書類および提出期限は要確認。",
       "en": "Information, supporting documents and deadlines for a priority claim should be verified.",
       "de": "Die Angaben, Nachweise und Fristen für die Inanspruchnahme einer Priorität sind zu prüfen.",
       "it": "Devono essere verificati i dati, i documenti giustificativi e i termini relativi alla rivendicazione di priorità."
     },
-
     "homeRegistrationCertificate": {
       "ja": "通常のEU商標出願では本国登録を出願要件としない。",
       "en": "A home-country registration is not ordinarily a prerequisite for an EU trade mark application.",
       "de": "Eine Registrierung im Ursprungsland ist grundsätzlich keine Voraussetzung für die Anmeldung einer Unionsmarke.",
       "it": "Una registrazione nel paese d’origine non costituisce normalmente un requisito per una domanda di marchio dell’Unione europea."
     },
-
     "useEvidenceAtFiling": {
       "ja": "通常の出願時に現実の使用証拠を提出することは一般的な登録要件ではない。",
       "en": "Evidence of actual use is not generally required as a condition for filing an ordinary EU trade mark application.",
       "de": "Ein Nachweis der tatsächlichen Benutzung ist grundsätzlich keine Voraussetzung für die gewöhnliche Anmeldung einer Unionsmarke.",
       "it": "La prova dell’uso effettivo non è generalmente richiesta per il deposito di una normale domanda di marchio dell’Unione europea."
     },
-
     "notarizationCertification": {
       "ja": "通常のオンライン出願では、公証または出願人の公証済み印章は一般に要求されない。個別手続では要確認。",
       "en": "Notarization or a notarized applicant seal is not generally required for an ordinary online filing. Particular procedures should be checked separately.",
       "de": "Für eine gewöhnliche Online-Anmeldung sind grundsätzlich weder eine notarielle Beglaubigung noch ein notariell beglaubigtes Siegel des Anmelders erforderlich. Besondere Verfahren sind gesondert zu prüfen.",
       "it": "Per un normale deposito online non sono generalmente richiesti né l’autenticazione notarile né un sigillo autenticato del richiedente. Le procedure particolari devono essere verificate separatamente."
     },
-
     "otherDocuments": {
       "ja": "標章の種類、優先権、団体商標・証明商標その他の事情に応じて追加書類が必要となり得る。",
       "en": "Additional documents may be required depending on the type of mark, priority claim, collective or certification mark status, and other circumstances.",
       "de": "Je nach Markenform, Prioritätsanspruch, Kollektiv- oder Gewährleistungsmarke und weiteren Umständen können zusätzliche Unterlagen erforderlich sein.",
       "it": "Possono essere richiesti documenti aggiuntivi in funzione del tipo di marchio, della priorità, della natura collettiva o di certificazione e di altre circostanze."
     },
-
     "absoluteGroundsExamination": {
       "ja": "あり",
       "en": "Yes",
       "de": "Ja",
       "it": "Sì"
     },
-
     "relativeGroundsExamination": {
       "ja": "先行商標との抵触について、原則として職権による拒絶審査は行わず、異議申立手続で争われる。",
       "en": "Earlier trade mark conflicts are generally not examined ex officio as grounds for refusal and are instead addressed through opposition proceedings.",
       "de": "Kollisionen mit älteren Marken werden grundsätzlich nicht von Amts wegen als Zurückweisungsgrund geprüft, sondern im Widerspruchsverfahren behandelt.",
       "it": "I conflitti con marchi anteriori non sono generalmente esaminati d’ufficio come motivi di rifiuto, ma sono trattati nel procedimento di opposizione."
     },
-
     "disclaimer": {
       "ja": "米国型の一般的なディスクレーム運用とは異なる。適用場面は要確認。",
       "en": "The practice differs from the general United States-style disclaimer system. Any relevant application should be checked.",
       "de": "Die Praxis unterscheidet sich vom allgemeinen Disclaimer-System der Vereinigten Staaten. Etwaige Anwendungsfälle sind zu prüfen.",
       "it": "La prassi differisce dal sistema generale di disclaimer statunitense. Gli eventuali casi applicabili devono essere verificati."
     },
-
     "consent": {
       "ja": "共存合意または同意の効果は、手続および具体的事情に応じて判断される。",
       "en": "The effect of a coexistence agreement or consent depends on the procedure and particular circumstances.",
       "de": "Die Wirkung einer Koexistenzvereinbarung oder Zustimmung hängt vom Verfahren und den konkreten Umständen ab.",
       "it": "L’effetto di un accordo di coesistenza o del consenso dipende dalla procedura e dalle circostanze concrete."
     },
-
     "acceleratedExamination": {
       "ja": "利用可能な迅速化措置の有無および要件は要最新確認。",
       "en": "The availability and requirements of any expedited measures should be verified.",
       "de": "Die Verfügbarkeit und die Voraussetzungen beschleunigter Maßnahmen sind zu prüfen.",
       "it": "Devono essere verificate la disponibilità e le condizioni delle eventuali misure accelerate."
     },
-
     "thirdPartyObservation": {
       "ja": "第三者意見の提出制度あり。対象となる理由、時期および方法は要確認。",
       "en": "Third-party observations are available. The applicable grounds, timing and procedure should be verified.",
       "de": "Bemerkungen Dritter sind möglich. Die einschlägigen Gründe, Fristen und Verfahrensweisen sind zu prüfen.",
       "it": "È possibile presentare osservazioni di terzi. Devono essere verificati i motivi, i termini e la procedura applicabili."
     },
-
     "responsePeriod": {
       "ja": "通知または手続の種類により異なる。各通知に記載された期限を確認する。",
       "en": "Depends on the type of communication or procedure. The deadline stated in each communication should be checked.",
       "de": "Die Frist hängt von der Art der Mitteilung oder des Verfahrens ab. Maßgeblich ist die in der jeweiligen Mitteilung angegebene Frist.",
       "it": "Il termine dipende dal tipo di comunicazione o procedura. Deve essere verificato il termine indicato in ciascuna comunicazione."
     },
-
     "extensionAvailable": {
       "ja": "手続により可能",
       "en": "Available for certain procedures",
       "de": "Bei bestimmten Verfahren möglich",
       "it": "Disponibile per determinate procedure"
     },
-
     "extensionLength": {
       "ja": "対象となる手続および通知により異なる。",
       "en": "Depends on the particular procedure and communication.",
       "de": "Abhängig vom jeweiligen Verfahren und von der Mitteilung.",
       "it": "Dipende dalla procedura e dalla comunicazione interessata."
     },
-
     "extensionRequirements": {
       "ja": "延長可能性、申請方法、料金および理由の要否を手続ごとに確認する。",
       "en": "Availability, filing method, fees and whether reasons are required should be checked for each procedure.",
       "de": "Verfügbarkeit, Antragsform, Gebühren und ein etwaiges Begründungserfordernis sind für jedes Verfahren zu prüfen.",
       "it": "La disponibilità, le modalità di richiesta, le tasse e l’eventuale necessità di motivazione devono essere verificate per ciascuna procedura."
     },
-
     "appealRoute": {
       "ja": "EUIPOの審判部およびEU裁判所への不服申立経路がある。対象となる決定および期限は要確認。",
       "en": "Appeal routes to the EUIPO Boards of Appeal and the EU courts are available. The appealable decision and applicable deadline should be verified.",
       "de": "Rechtsbehelfe zu den Beschwerdekammern des EUIPO und zu den Unionsgerichten sind möglich. Die anfechtbare Entscheidung und die maßgebliche Frist sind zu prüfen.",
       "it": "Sono disponibili ricorsi dinanzi alle commissioni di ricorso dell’EUIPO e ai giudici dell’Unione. Devono essere verificati la decisione impugnabile e il termine applicabile."
     },
-
     "publicDatabase": {
       "ja": "EUIPO eSearch plus",
       "en": "EUIPO eSearch plus",
@@ -217,224 +186,263 @@
       "it": "EUIPO eSearch plus",
       "url": "https://euipo.europa.eu/eSearch/"
     },
-
     "publicationStage": {
       "ja": "絶対的拒絶理由等の審査後、異議申立てのため公開される。",
       "en": "The application is published for opposition after examination of absolute grounds and other formal requirements.",
       "de": "Nach der Prüfung der absoluten Schutzhindernisse und weiterer formeller Voraussetzungen wird die Anmeldung für Widersprüche veröffentlicht.",
       "it": "Dopo l’esame dei motivi assoluti e degli altri requisiti formali, la domanda viene pubblicata ai fini dell’opposizione."
     },
-
     "oppositionPeriod": {
       "ja": "公開から3か月。国際登録によるEU指定では起算関係を別途確認する。",
       "en": "Three months from publication. The commencement rules for an EU designation through an international registration should be checked separately.",
       "de": "Drei Monate ab Veröffentlichung. Für die Benennung der EU über eine internationale Registrierung ist der Fristbeginn gesondert zu prüfen.",
       "it": "Tre mesi dalla pubblicazione. Per la designazione dell’UE mediante registrazione internazionale, la decorrenza deve essere verificata separatamente."
     },
-
     "oppositionExtension": {
       "ja": "異議申立期間自体の延長は原則として認められない。手続開始後の各期間やクーリングオフは別途確認する。",
       "en": "The opposition period itself is generally not extendable. Procedural time limits and the cooling-off period after filing should be considered separately.",
       "de": "Die Widerspruchsfrist selbst ist grundsätzlich nicht verlängerbar. Verfahrensfristen und die Cooling-off-Phase nach Einlegung des Widerspruchs sind gesondert zu betrachten.",
       "it": "Il termine di opposizione non è generalmente prorogabile. I termini procedurali e il periodo di riflessione successivo al deposito devono essere considerati separatamente."
     },
-
     "averagePendency": {
       "ja": "異議または拒絶がない場合の期間は比較的短いが、最新のEUIPO統計を参照する。",
       "en": "The process may be relatively short if no objection or opposition arises, but current EUIPO statistics should be consulted.",
       "de": "Ohne Beanstandung oder Widerspruch kann das Verfahren vergleichsweise kurz sein; aktuelle Statistiken des EUIPO sind heranzuziehen.",
       "it": "In assenza di obiezioni o opposizioni, la procedura può essere relativamente breve; devono essere consultate le statistiche aggiornate dell’EUIPO."
     },
-
     "term": {
       "ja": "10年",
       "en": "10 years",
       "de": "10 Jahre",
       "it": "10 anni"
     },
-
     "termStart": {
       "ja": "出願日から",
       "en": "From the filing date",
       "de": "Ab dem Anmeldetag",
       "it": "Dalla data di deposito"
     },
-
     "renewalWindow": {
       "ja": "満了前6か月以内を基本とする。最新の提出期間を要確認。",
       "en": "Generally within the six months preceding expiry. Current filing periods should be verified.",
       "de": "Grundsätzlich innerhalb der sechs Monate vor Ablauf. Die aktuellen Einreichungsfristen sind zu prüfen.",
       "it": "Generalmente entro i sei mesi precedenti la scadenza. Devono essere verificati i termini aggiornati."
     },
-
     "gracePeriod": {
       "ja": "満了後6か月の追加期間あり。割増料金が必要。",
       "en": "An additional six-month period is available after expiry, subject to a surcharge.",
       "de": "Nach Ablauf steht gegen Zuschlagsgebühr eine zusätzliche Frist von sechs Monaten zur Verfügung.",
       "it": "Dopo la scadenza è disponibile un periodo supplementare di sei mesi, soggetto a una soprattassa."
     },
-
     "renewalEvidence": {
       "ja": "通常、更新時に使用証拠の提出は要求されない。更新料その他の要件は要確認。",
       "en": "Evidence of use is not generally required at renewal. Renewal fees and other requirements should be verified.",
       "de": "Bei der Verlängerung ist grundsätzlich kein Benutzungsnachweis erforderlich. Verlängerungsgebühren und weitere Voraussetzungen sind zu prüfen.",
       "it": "La prova dell’uso non è generalmente richiesta al rinnovo. Devono essere verificate le tasse e le altre condizioni."
     },
-
     "nonUseCancellation": {
       "ja": "あり",
       "en": "Available",
       "de": "Möglich",
       "it": "Disponibile"
     },
-
     "nonUsePeriod": {
       "ja": "登録手続完了後、継続5年間の不使用。",
       "en": "A continuous period of five years following completion of the registration procedure.",
       "de": "Ununterbrochene Nichtbenutzung während eines Zeitraums von fünf Jahren nach Abschluss des Eintragungsverfahrens.",
       "it": "Mancato uso ininterrotto per un periodo di cinque anni dopo la conclusione della procedura di registrazione."
     },
-
     "nonUseDefenses": {
       "ja": "正当な理由、真正な使用、使用再開の時期その他を個別に検討する。",
       "en": "Proper reasons for non-use, genuine use, timing of resumed use and other issues should be assessed individually.",
       "de": "Berechtigte Gründe für die Nichtbenutzung, ernsthafte Benutzung, der Zeitpunkt der Wiederaufnahme und weitere Fragen sind im Einzelfall zu prüfen.",
       "it": "Devono essere valutati caso per caso i motivi legittimi di mancato uso, l’uso effettivo, il momento della ripresa dell’uso e le altre questioni."
     },
-
     "otherCancellation": {
       "ja": "普通名称化、誤認を生じさせる使用その他を理由とする取消しがあり得る。",
       "en": "Revocation may be available on grounds such as the mark becoming generic or its use becoming misleading.",
       "de": "Ein Verfall kann unter anderem wegen Entwicklung zur Gattungsbezeichnung oder irreführender Benutzung eintreten.",
       "it": "La decadenza può essere pronunciata, tra l’altro, quando il marchio diviene generico o il suo uso diviene ingannevole."
     },
-
     "invalidation": {
       "ja": "絶対的または相対的無効理由に基づく無効手続あり。",
       "en": "Invalidity proceedings are available on absolute or relative grounds.",
       "de": "Nichtigkeitsverfahren sind aufgrund absoluter oder relativer Nichtigkeitsgründe möglich.",
       "it": "Sono disponibili procedimenti di nullità fondati su motivi assoluti o relativi."
     },
-
     "civilInjunction": {
       "ja": "あり。EU商標裁判所における差止救済が可能。",
       "en": "Available. Injunctive relief may be sought before an EU trade mark court.",
       "de": "Möglich. Unterlassungsansprüche können vor einem Unionsmarkengericht geltend gemacht werden.",
       "it": "Disponibile. È possibile richiedere provvedimenti inibitori dinanzi a un tribunale dei marchi dell’Unione europea."
     },
-
     "civilDamages": {
       "ja": "あり。具体的な算定・要件は加盟国法の影響を受けるため、訴訟地ごとに確認する。",
       "en": "Available. Calculation and requirements are affected by Member State law and should be checked for the proposed forum.",
       "de": "Möglich. Berechnung und Voraussetzungen werden durch das Recht des Mitgliedstaats beeinflusst und sind für den vorgesehenen Gerichtsstand zu prüfen.",
       "it": "Disponibile. Il calcolo e i requisiti dipendono anche dal diritto dello Stato membro e devono essere verificati in relazione al foro previsto."
     },
-
     "civilEvidencePreservation": {
       "ja": "証拠保全・開示の具体的制度は、訴訟地となる加盟国の手続法を確認する。",
       "en": "Specific evidence-preservation and disclosure mechanisms should be checked under the procedural law of the Member State concerned.",
       "de": "Die konkreten Instrumente zur Beweissicherung und Offenlegung richten sich nach dem Verfahrensrecht des betreffenden Mitgliedstaats.",
       "it": "Gli specifici strumenti di conservazione e divulgazione delle prove devono essere verificati secondo il diritto processuale dello Stato membro interessato."
     },
-
     "civilOther": {
       "ja": "侵害品の回収・廃棄、判決公表その他。利用可能性は加盟国法および事案に応じて確認する。",
       "en": "Recall or destruction of infringing goods, publication of the judgment and other remedies may be available, subject to Member State law and the circumstances.",
       "de": "Rückruf oder Vernichtung verletzender Waren, Veröffentlichung des Urteils und weitere Rechtsbehelfe können nach dem Recht des Mitgliedstaats und den Umständen verfügbar sein.",
       "it": "Possono essere disponibili il ritiro o la distruzione dei prodotti contraffatti, la pubblicazione della sentenza e altri rimedi, secondo il diritto dello Stato membro e le circostanze."
     },
-
     "borderMeasures": {
       "ja": "EU税関による水際措置あり。申請・更新・加盟国指定等の手続を確認する。",
       "en": "EU customs border measures are available. Application, renewal and Member State designation requirements should be checked.",
       "de": "Zollrechtliche Grenzmaßnahmen der EU sind verfügbar. Antrag, Verlängerung und Benennung der Mitgliedstaaten sind zu prüfen.",
       "it": "Sono disponibili misure doganali dell’UE. Devono essere verificati la domanda, il rinnovo e la designazione degli Stati membri."
     },
-
     "administrativeRaid": {
       "ja": "行政摘発の有無および所管機関は加盟国ごとに異なる。",
       "en": "The availability of administrative raids and the competent authority differ among Member States.",
       "de": "Die Verfügbarkeit behördlicher Maßnahmen und die zuständige Behörde unterscheiden sich je nach Mitgliedstaat.",
       "it": "La disponibilità di interventi amministrativi e l’autorità competente variano tra gli Stati membri."
     },
-
     "administrativeOther": {
       "ja": "EU制度と各加盟国の国内制度を併せて検討する。",
       "en": "EU mechanisms and the domestic systems of the relevant Member States should be considered together.",
       "de": "Die Mechanismen der EU und die nationalen Systeme der betroffenen Mitgliedstaaten sind gemeinsam zu berücksichtigen.",
       "it": "Devono essere considerati congiuntamente i meccanismi dell’UE e i sistemi nazionali degli Stati membri interessati."
     },
-
     "criminalAvailability": {
       "ja": "EU商標規則自体による統一的刑事罰ではなく、加盟国法に基づく刑事救済を確認する。",
       "en": "Criminal remedies should be considered under Member State law rather than as a unitary criminal penalty under the EU trade mark regulation.",
       "de": "Strafrechtliche Sanktionen richten sich nach dem Recht der Mitgliedstaaten und nicht nach einer einheitlichen Strafbestimmung der Unionsmarkenverordnung.",
       "it": "I rimedi penali devono essere valutati secondo il diritto degli Stati membri, non come sanzione penale unitaria prevista dal regolamento sul marchio UE."
     },
-
     "criminalFine": {
       "ja": "加盟国法による。",
       "en": "Governed by Member State law.",
       "de": "Nach dem Recht des jeweiligen Mitgliedstaats.",
       "it": "Disciplinata dal diritto dello Stato membro."
     },
-
     "criminalImprisonment": {
       "ja": "加盟国法による。",
       "en": "Governed by Member State law.",
       "de": "Nach dem Recht des jeweiligen Mitgliedstaats.",
       "it": "Disciplinata dal diritto dello Stato membro."
     },
-
     "criminalOther": {
       "ja": "没収・廃棄その他の刑事上の措置について、関係加盟国法を確認する。",
       "en": "The law of the relevant Member State should be checked for forfeiture, destruction and other criminal measures.",
       "de": "Für Einziehung, Vernichtung und weitere strafrechtliche Maßnahmen ist das Recht des betreffenden Mitgliedstaats zu prüfen.",
       "it": "Per la confisca, la distruzione e le altre misure penali deve essere verificato il diritto dello Stato membro interessato."
+    },
+    "directExaminationPeriod": {
+      "ja": "EUIPOは手続別の処理時間をCustomer Service Charterで四半期ごとに公表しているが、全直接出願に共通する単一の平均月数は示していない。異議・拒絶のない出願、Fast Track、欠陥・拒絶理由のある出願で期間が異なるため、最新の同Charterを確認する。",
+      "en": "EUIPO publishes quarterly timeliness results by procedure under its Customer Service Charter, but does not state one universal average in months for all direct applications. Timing differs for unopposed applications, Fast Track cases and applications with deficiencies or objections; consult the latest Charter.",
+      "de": "Das EUIPO veröffentlicht im Rahmen seiner Customer Service Charter vierteljährlich Bearbeitungszeiten nach Verfahrensart, nennt jedoch keinen einheitlichen Durchschnitt in Monaten für alle Direktanmeldungen. Die Dauer unterscheidet sich bei unbeanstandeten Anmeldungen, Fast-Track-Fällen und Anmeldungen mit Mängeln oder Beanstandungen; die aktuelle Charter ist heranzuziehen.",
+      "it": "L’EUIPO pubblica trimestralmente, nella Customer Service Charter, i tempi per tipo di procedimento, ma non indica un’unica durata media in mesi per tutte le domande dirette. I tempi variano tra domande senza rilievi, Fast Track e domande con irregolarità o obiezioni; consultare la versione più recente della Carta."
+    },
+    "madridExaminationPeriod": {
+      "ja": "国際登録のEU指定について単一の平均審査期間は公表されていない。EUIPOがEU指定を受領した日から18か月以内に、考え得るすべての拒絶理由をWIPOへ通知しなければならない。この18か月は平均期間ではなく通報期限である。絶対的拒絶理由の審査は直接出願と同様に行われる。",
+      "en": "No single average examination period is published for international registrations designating the EU. EUIPO must notify WIPO of all possible grounds for refusal within 18 months from the date on which EUIPO receives the EU designation. This is a notification time limit, not an average pendency figure. Absolute grounds are examined in the same way as for direct EUTM applications.",
+      "de": "Für internationale Registrierungen mit Benennung der EU wird keine einheitliche durchschnittliche Prüfungsdauer veröffentlicht. Das EUIPO muss WIPO innerhalb von 18 Monaten ab Eingang der EU-Benennung über alle möglichen Schutzverweigerungsgründe unterrichten. Dabei handelt es sich um eine Mitteilungsfrist, nicht um eine durchschnittliche Verfahrensdauer. Absolute Schutzhindernisse werden wie bei direkten Unionsmarkenanmeldungen geprüft.",
+      "it": "Non è pubblicata un’unica durata media dell’esame per le registrazioni internazionali che designano l’UE. L’EUIPO deve notificare all’OMPI tutti i possibili motivi di rifiuto entro 18 mesi dal ricevimento della designazione UE. Si tratta di un termine di notifica, non di una durata media. I motivi assoluti sono esaminati come per le domande dirette di MUE."
+    },
+    "colourPriorityIdentity": {
+      "ja": "CP4によれば、白黒またはグレースケールの標章と同じ標章のカラー版は、差異が重大でなく、平均的需要者が並べて比較した場合にのみ認識し得る程度である場合に限り、優先権上同一と扱われる。白黒登録・出願が当然にすべての色彩を包含するわけではない。",
+      "en": "Under CP4, a black-and-white or greyscale sign and the same sign in colour are identical for priority purposes only where the differences are insignificant and may be noticed by the average consumer only upon side-by-side examination. A black-and-white filing does not automatically cover every colour version.",
+      "de": "Nach CP4 sind ein schwarz-weißes oder in Graustufen gehaltenes Zeichen und dasselbe Zeichen in Farbe für Prioritätszwecke nur identisch, wenn die Unterschiede unbedeutend sind und vom Durchschnittsverbraucher nur bei unmittelbarer Gegenüberstellung wahrgenommen werden können. Eine Schwarz-Weiß-Anmeldung erfasst nicht automatisch jede Farbversion.",
+      "it": "Secondo la CP4, un segno in bianco e nero o in scala di grigi e lo stesso segno a colori sono identici ai fini della priorità soltanto se le differenze sono insignificanti e possono essere percepite dal consumatore medio solo mediante un confronto diretto. Un deposito in bianco e nero non copre automaticamente ogni versione cromatica."
+    },
+    "colourRelativeGrounds": {
+      "ja": "相対的拒絶理由における『同一』についてもCP4の厳格な基準が適用され、色彩差が重大でない場合に限り同一となる。同一でない場合でも、外観・観念・称呼、色彩の識別力、商品・役務および関連公衆を総合して、類似性や混同のおそれが認められる可能性はある。",
+      "en": "For identity under relative grounds, CP4 likewise applies a strict test: the signs are identical only if the colour differences are insignificant. Even where they are not identical, similarity and likelihood of confusion may still be found after assessing the visual, conceptual and aural aspects, the distinctive role of colour, the goods or services and the relevant public.",
+      "de": "Auch für die Identität im Rahmen relativer Schutzhindernisse gilt nach CP4 ein strenger Maßstab: Identität besteht nur bei unbedeutenden Farbunterschieden. Fehlt Identität, können Ähnlichkeit und Verwechslungsgefahr dennoch aufgrund einer Gesamtwürdigung von Bild, Bedeutung und Klang, der Kennzeichnungskraft der Farbe, der Waren oder Dienstleistungen und der maßgeblichen Verkehrskreise bejaht werden.",
+      "it": "Anche per l’identità nell’ambito dei motivi relativi la CP4 applica un criterio rigoroso: i segni sono identici solo se le differenze cromatiche sono insignificanti. In mancanza di identità, possono comunque sussistere somiglianza e rischio di confusione valutando gli aspetti visivi, concettuali e fonetici, il ruolo distintivo del colore, i prodotti o servizi e il pubblico pertinente."
+    },
+    "colourGenuineUse": {
+      "ja": "登録態様と使用態様の色彩が異なっても、①文字・図形要素が一致して主要な識別要素であること、②明暗のコントラストが保たれること、③色彩または色彩の組合せ自体に識別力がないこと、④色彩が標章全体の識別力に主要な影響を与えないこと、というCP4の要件を満たせば、識別力を変更しない使用となり得る。個別判断を要する。",
+      "en": "A difference in colour between the registered and used forms may preserve genuine use where: the word or figurative elements coincide and are the main distinctive elements; the contrast of shades is respected; the colour or colour combination has no distinctive character in itself; and colour is not one of the main contributors to the mark’s overall distinctiveness. The CP4 assessment remains case-specific.",
+      "de": "Eine abweichende Farbgebung zwischen eingetragener und benutzter Form kann rechtserhaltend sein, wenn die Wort- oder Bildelemente übereinstimmen und die wesentlichen kennzeichnenden Elemente darstellen, der Helligkeitskontrast gewahrt bleibt, die Farbe oder Farbkombination für sich nicht unterscheidungskräftig ist und die Farbe die Gesamtkennzeichnungskraft nicht maßgeblich bestimmt. Die Beurteilung nach CP4 erfolgt im Einzelfall.",
+      "it": "Una differenza cromatica tra la forma registrata e quella usata può preservare l’uso effettivo se gli elementi denominativi o figurativi coincidono e costituiscono i principali elementi distintivi, il contrasto delle tonalità è rispettato, il colore o la combinazione di colori non possiede carattere distintivo di per sé e il colore non contribuisce in modo principale al carattere distintivo complessivo. La valutazione CP4 resta individuale."
+    },
+    "colourInfringementScope": {
+      "ja": "CP4は優先権、相対的拒絶理由における同一性および真正な使用を対象とする共通実務であり、侵害訴訟における保護範囲を一律に決定するものではない。白黒登録があらゆる色彩を自動的に独占するとはせず、侵害地のEU商標裁判所が標章全体、実際の使用色、識別力および混同のおそれを事案ごとに判断する。",
+      "en": "CP4 addresses priority, identity under relative grounds and genuine use; it does not uniformly determine the scope of protection in infringement litigation. A black-and-white registration should not be assumed automatically to monopolise every colour. The competent EU trade mark court assesses the signs as a whole, the colours actually used, distinctiveness and likelihood of confusion case by case.",
+      "de": "CP4 betrifft Priorität, Identität bei relativen Schutzhindernissen und ernsthafte Benutzung; der Schutzumfang im Verletzungsverfahren wird dadurch nicht einheitlich festgelegt. Aus einer Schwarz-Weiß-Eintragung folgt nicht automatisch ein Monopol für jede Farbe. Das zuständige Unionsmarkengericht beurteilt die Zeichen insgesamt, die tatsächlich verwendeten Farben, die Kennzeichnungskraft und die Verwechslungsgefahr im Einzelfall.",
+      "it": "La CP4 riguarda la priorità, l’identità nell’ambito dei motivi relativi e l’uso effettivo; non determina uniformemente l’ambito di protezione nelle cause di contraffazione. Non si deve presumere che una registrazione in bianco e nero monopolizzi automaticamente ogni colore. Il tribunale dei marchi UE competente valuta caso per caso i segni nel loro insieme, i colori effettivamente usati, il carattere distintivo e il rischio di confusione."
+    },
+    "colourFilingStrategy": {
+      "ja": "ブランドにとって色彩が重要な場合、白黒出願だけに依存せず、実際に使用する主要なカラー版の別出願を検討する。白黒版・カラー版の双方を出願する必要性、優先権主張との整合、使用証拠を確保する態様、色彩自体の識別力を現地代理人と確認する。",
+      "en": "Where colour is commercially important, consider a separate filing for the principal colour version actually used rather than relying only on a black-and-white filing. Discuss with EU counsel whether both versions should be filed, consistency with any priority claim, the forms in which use evidence should be retained and whether the colour itself is distinctive.",
+      "de": "Ist die Farbgebung für die Marke wirtschaftlich wichtig, sollte neben einer Schwarz-Weiß-Anmeldung eine gesonderte Anmeldung der tatsächlich benutzten Hauptfarbversion erwogen werden. Mit einem EU-Vertreter sind Doppelanmeldungen, die Übereinstimmung mit Prioritätsansprüchen, die aufzubewahrenden Benutzungsnachweise und die Kennzeichnungskraft der Farbe selbst zu prüfen.",
+      "it": "Se il colore è commercialmente importante, è opportuno considerare un deposito separato della principale versione cromatica effettivamente utilizzata, anziché affidarsi soltanto a una domanda in bianco e nero. Occorre verificare con un professionista UE l’opportunità di depositare entrambe le versioni, la coerenza con la priorità, le forme di prova d’uso da conservare e il carattere distintivo del colore."
+    },
+    "refusalResponseRoute": {
+      "ja": "方式上の欠陥または絶対的拒絶理由が認められる場合、EUIPOは通常、指定期間内に補正または意見提出の機会を与える。最終的な全部・一部拒絶決定には審判部への不服申立てが可能で、決定通知から2か月以内に申立書を提出して審判請求料を納付し、4か月以内に理由書を提出する。国際登録のEU指定では、暫定的拒絶がWIPO経由で通知され、EUIPOに対して応答する。",
+      "en": "Where EUIPO identifies a formal deficiency or an absolute ground for refusal, it normally allows the applicant to remedy the deficiency or submit observations within the specified period. A final total or partial refusal may be appealed to the Boards of Appeal: the notice of appeal and fee are due within two months of notification, and the statement of grounds within four months. For an international registration designating the EU, a provisional refusal is notified through WIPO and the response is filed with EUIPO.",
+      "de": "Stellt das EUIPO einen Formmangel oder ein absolutes Schutzhindernis fest, erhält der Anmelder grundsätzlich Gelegenheit, den Mangel zu beheben oder innerhalb der gesetzten Frist Stellung zu nehmen. Gegen eine endgültige vollständige oder teilweise Zurückweisung ist Beschwerde zu den Beschwerdekammern möglich: Beschwerdeschrift und Gebühr sind innerhalb von zwei Monaten nach Zustellung, die Begründung innerhalb von vier Monaten einzureichen. Bei einer internationalen Registrierung mit EU-Benennung wird eine vorläufige Schutzverweigerung über WIPO mitgeteilt; die Erwiderung ist beim EUIPO einzureichen.",
+      "it": "Quando l’EUIPO rileva un’irregolarità formale o un motivo assoluto di rifiuto, di norma consente al richiedente di porvi rimedio o presentare osservazioni entro il termine assegnato. Contro un rifiuto definitivo totale o parziale è possibile ricorrere alle commissioni di ricorso: l’atto di ricorso e la tassa devono essere presentati entro due mesi dalla notifica e la memoria contenente i motivi entro quattro mesi. Per una registrazione internazionale che designa l’UE, il rifiuto provvisorio è notificato tramite l’OMPI e la risposta è depositata presso l’EUIPO."
+    },
+    "refusalAppealPeriod": {
+      "ja": "EUIPO審判部の2024年実績では、当事者系でない事件（登録拒絶を含むex parte）の決定通知は、事件が登録部門から審判部へ送付された後、平均3.7か月。当事者系事件は平均4.8か月。これらは審判請求日から全手続終了までの総期間ではなく、審判部が登録部門から受領した後の意思決定期間である。",
+      "en": "In the Boards of Appeal’s 2024 results, ex parte decisions, including registration refusals, were notified on average 3.7 months after receipt from the Registry; the corresponding average for inter partes decisions was 4.8 months. These figures measure the decision-making stage after receipt from the Registry, not the entire period from filing the appeal to final disposal.",
+      "de": "Nach den Ergebnissen der Beschwerdekammern für 2024 wurden Ex-parte-Entscheidungen einschließlich Zurückweisungen durchschnittlich 3,7 Monate nach Eingang von der Geschäftsstelle zugestellt; bei Inter-partes-Entscheidungen betrug der Durchschnitt 4,8 Monate. Die Zahlen betreffen die Entscheidungsphase nach Eingang von der Geschäftsstelle, nicht die Gesamtdauer ab Einlegung der Beschwerde.",
+      "it": "Secondo i risultati 2024 delle commissioni di ricorso, le decisioni ex parte, comprese quelle relative ai rifiuti, sono state notificate in media 3,7 mesi dopo la ricezione dalla cancelleria; per le decisioni inter partes la media è stata di 4,8 mesi. Questi dati misurano la fase decisionale successiva alla ricezione dalla cancelleria, non l’intera durata dal deposito del ricorso alla conclusione."
     }
   },
-
   "statistics": {
     "coverage": "2016–2025",
     "status": "pending",
     "series": []
   },
-
   "news": [
     {
       "id": "research-pending",
       "type": "research",
       "date": "2026-09-11",
-
       "title": {
         "ja": "直近3年の法改正・審査実務・重要判例を調査予定",
         "en": "Research pending for legal amendments, examination practice and key cases from the last three years",
         "de": "Recherche zu Gesetzesänderungen, Prüfungspraxis und wichtigen Entscheidungen der letzten drei Jahre vorgesehen",
         "it": "Ricerca prevista sulle modifiche normative, la prassi d’esame e le decisioni principali degli ultimi tre anni"
       },
-
       "summary": {
         "ja": "EUIPO公式資料およびEU裁判所の一次資料に基づいて追記する。",
         "en": "To be populated from official EUIPO guidance and primary EU court sources.",
         "de": "Ergänzung anhand offizieller Unterlagen des EUIPO und der Primärquellen der Unionsgerichte.",
         "it": "Da integrare sulla base delle fonti ufficiali dell’EUIPO e delle fonti primarie dei giudici dell’Unione."
       },
-
       "sourceUrl": ""
+    },
+    {
+      "id": "cp4-black-white-colour-marks",
+      "type": "practice",
+      "date": "2014-04-15",
+      "title": {
+        "ja": "CP4：白黒・グレースケール商標の保護範囲に関する共通実務",
+        "en": "CP4: Common Practice on the scope of protection of black-and-white and greyscale marks",
+        "de": "CP4: Gemeinsame Praxis zum Schutzumfang schwarz-weißer Marken und Graustufenmarken",
+        "it": "CP4: Prassi comune sull’ambito di protezione dei marchi in bianco e nero e in scala di grigi"
+      },
+      "summary": {
+        "ja": "優先権および相対的拒絶理由における同一性と、色彩を変更した使用が真正な使用となる条件を共通化した基礎実務。直近3年のニュースではないが、現在の出願・使用戦略に継続的な重要性があるため収録。",
+        "en": "A foundational common practice addressing identity for priority and relative grounds and the conditions under which use in a different colour may constitute genuine use. Although not recent news, it remains important for current filing and use strategies.",
+        "de": "Eine grundlegende gemeinsame Praxis zur Identität bei Priorität und relativen Schutzhindernissen sowie zu den Voraussetzungen rechtserhaltender Benutzung in abweichender Farbe. Obwohl keine aktuelle Nachricht, bleibt sie für Anmelde- und Benutzungsstrategien bedeutsam.",
+        "it": "Una prassi comune fondamentale sull’identità ai fini della priorità e dei motivi relativi e sulle condizioni in cui l’uso con colori diversi può costituire uso effettivo. Pur non essendo una notizia recente, resta importante per le strategie di deposito e uso."
+      },
+      "sourceUrl": "https://www.euipn.org/practices/CP4-Scope-of-Protection-of-Black-and-White-BW-Marks"
     }
   ],
-
   "faqs": [
     {
       "tag": "Strategy",
-
       "question": {
         "ja": "本件ではEU商標と各国出願のどちらが適切でしょうか。",
         "en": "Would an EU trade mark or separate national filings be more appropriate in this case?",
         "de": "Wäre in diesem Fall eine Unionsmarke oder wären einzelne nationale Anmeldungen zweckmäßiger?",
         "it": "In questo caso sarebbe più opportuno un marchio dell’Unione europea o domande nazionali separate?"
       },
-
       "followUp": {
         "ja": "単一性に伴う拒絶・異議リスクと、各国出願へ切り替える場合の選択肢も教えてください。",
         "en": "Please also explain the refusal and opposition risks arising from the unitary character and the available national fallback options.",
@@ -442,26 +450,37 @@
         "it": "La prego di spiegare anche i rischi di rifiuto e opposizione derivanti dal carattere unitario e le possibili alternative nazionali."
       }
     },
-
     {
       "tag": "Opposition",
-
       "question": {
         "ja": "異議申立て後のクーリングオフ期間は、実務上どのように利用されていますか。",
         "en": "How is the cooling-off period used in practice after an opposition has been filed?",
         "de": "Wie wird die Cooling-off-Phase nach Einlegung eines Widerspruchs in der Praxis genutzt?",
         "it": "Come viene utilizzato nella pratica il periodo di riflessione successivo al deposito dell’opposizione?"
       },
-
       "followUp": {
         "ja": "和解交渉を開始する最適な時期と、典型的な費用も教えてください。",
         "en": "Please also indicate the best time to begin settlement discussions and the typical costs.",
         "de": "Bitte nennen Sie auch den besten Zeitpunkt für die Aufnahme von Vergleichsverhandlungen und die typischen Kosten.",
         "it": "La prego di indicare anche il momento migliore per iniziare le trattative transattive e i costi tipici."
       }
+    },
+    {
+      "tag": "Colour marks",
+      "question": {
+        "ja": "当社のロゴは白黒版とカラー版の両方をEU商標として出願すべきでしょうか。",
+        "en": "Should we file both the black-and-white and colour versions of our logo as EU trade marks?",
+        "de": "Sollten wir sowohl die Schwarz-Weiß- als auch die Farbversion unseres Logos als Unionsmarke anmelden?",
+        "it": "Dovremmo depositare come marchi UE sia la versione in bianco e nero sia quella a colori del nostro logo?"
+      },
+      "followUp": {
+        "ja": "優先権、異議、真正な使用および侵害判断への影響と、保持すべき使用証拠も教えてください。",
+        "en": "Please explain the implications for priority, opposition, genuine use and infringement, and what evidence of use we should retain.",
+        "de": "Bitte erläutern Sie die Auswirkungen auf Priorität, Widerspruch, ernsthafte Benutzung und Verletzung sowie die aufzubewahrenden Benutzungsnachweise.",
+        "it": "La prego di spiegare gli effetti sulla priorità, sull’opposizione, sull’uso effettivo e sulla contraffazione, nonché le prove d’uso da conservare."
+      }
     }
   ],
-
   "sources": [
     {
       "label": "EUIPO",
@@ -469,11 +488,46 @@
       "type": "official",
       "checkedAt": "2026-09-11"
     },
-
     {
       "label": "EUIPO eSearch plus",
       "url": "https://euipo.europa.eu/eSearch/",
       "type": "official",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "label": "EUIPN — CP4 Scope of Protection of Black and White Marks",
+      "url": "https://www.euipn.org/practices/CP4-Scope-of-Protection-of-Black-and-White-BW-Marks",
+      "type": "official",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "label": "EUIPO — Customer Service Charter",
+      "url": "https://www.euipo.europa.eu/en/about-us/the-office/what-we-do/quality/customer-service-charter",
+      "type": "official",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "label": "EUIPO — FAQ: International registration",
+      "url": "https://www.euipo.europa.eu/en/help-centre/tm/faq-international-registration",
+      "type": "official",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "label": "EUIPO — 2024 Consolidated Annual Activity Report",
+      "url": "https://euipo.europa.eu/tunnel-web/secure/webdav/guest/document_library/contentPdfs/about_euipo/annual_report/Annual_Activity_Report_2024_en.pdf",
+      "type": "official",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "label": "EUR-Lex — Regulation (EU) 2017/1001",
+      "url": "https://eur-lex.europa.eu/eli/reg/2017/1001/oj",
+      "type": "official",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "label": "Soei — 白黒vs色彩商標の同一性に関する共通取扱",
+      "url": "https://www.soei.com/%EF%BC%BB%E5%95%86%E6%A8%99%EF%BC%8Feu%EF%BC%BD%E7%99%BD%E9%BB%92vs%E8%89%B2%E5%BD%A9%E5%95%86%E6%A8%99%E3%81%AE%E5%90%8C%E4%B8%80%E6%80%A7%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%85%B1%E9%80%9A/",
+      "type": "secondary",
       "checkedAt": "2026-09-11"
     }
   ]
