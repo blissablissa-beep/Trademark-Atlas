@@ -1,0 +1,336 @@
+{
+  "id": "us",
+  "type": "country",
+  "flag": "🇺🇸",
+  "region": "americas",
+
+  "names": {
+    "ja": "アメリカ合衆国",
+    "en": "United States"
+  },
+
+  "office": {
+    "ja": "米国特許商標庁（USPTO）",
+    "en": "United States Patent and Trademark Office (USPTO)"
+  },
+
+  "availableLanguages": [],
+
+  "createdAt": "2026-09-11",
+  "updatedAt": "2026-09-11",
+  "status": "review",
+
+  "facts": {
+    "authority": {
+      "ja": "米国特許商標庁（USPTO）",
+      "en": "United States Patent and Trademark Office (USPTO)"
+    },
+
+    "protectionScope": {
+      "ja": "商品商標、サービスマーク、証明商標、団体商標その他。詳細は要最新確認。",
+      "en": "Trade marks, service marks, certification marks, collective marks and others. Current requirements must be verified."
+    },
+
+    "markTypes": {
+      "ja": "文字、図形、記号、立体的形状、色彩、音、動き、香りその他。各類型の要件は要確認。",
+      "en": "Words, designs, symbols, three-dimensional configurations, color, sound, motion, scent and other matter, subject to applicable requirements."
+    },
+
+    "madridAccessionDate": {
+      "ja": "2003年11月2日",
+      "en": "2 November 2003"
+    },
+
+    "niceClassification": {
+      "ja": "採用",
+      "en": "Adopted"
+    },
+
+    "classHeadingPractice": {
+      "ja": "類見出しのみの包括的な指定は原則として不可。受理可能な表示を個別に確認する。",
+      "en": "Broad reliance on class headings alone is generally not accepted; each identification should be checked for acceptability."
+    },
+
+    "retailServices": {
+      "ja": "可",
+      "en": "Available"
+    },
+
+    "multiClassApplication": {
+      "ja": "可",
+      "en": "Available"
+    },
+
+    "applicationForm": {
+      "ja": "オンライン願書。出願人、標章、指定商品・役務、出願根拠等を記載。",
+      "en": "Online application identifying the applicant, mark, goods and services, filing basis and other required information."
+    },
+
+    "powerOfAttorney": {
+      "ja": "通常の出願では原則不要。代理資格・署名要件は要確認。",
+      "en": "Generally not required for an ordinary filing; representation and signature requirements should be checked."
+    },
+
+    "priorityDocuments": {
+      "ja": "優先権主張の内容に応じて必要。提出時期・翻訳要否は要確認。",
+      "en": "Required depending on the priority claim; filing timing and translation requirements should be verified."
+    },
+
+    "homeRegistrationCertificate": {
+      "ja": "本国登録に基づく出願では、登録証明書および必要な英訳を提出する。",
+      "en": "For a filing based on a home-country registration, a copy of the registration and any required English translation must be submitted."
+    },
+
+    "useEvidenceAtFiling": {
+      "ja": "米国での使用に基づく場合、宣誓、使用日、使用見本等が必要。",
+      "en": "For a use-based filing, declarations, dates of use and specimens are required as applicable."
+    },
+
+    "notarizationCertification": {
+      "ja": "通常、公証済みの出願人印章は不要。個別手続では要確認。",
+      "en": "A notarized applicant seal is generally not required; confirm for the particular procedure."
+    },
+
+    "otherDocuments": {
+      "ja": "法人形態・本拠地、翻訳、標章の説明その他、出願内容に応じた情報。",
+      "en": "Entity type and domicile, translations, description of the mark and other information depending on the application."
+    },
+
+    "absoluteGroundsExamination": {
+      "ja": "あり",
+      "en": "Yes"
+    },
+
+    "relativeGroundsExamination": {
+      "ja": "あり",
+      "en": "Yes"
+    },
+
+    "disclaimer": {
+      "ja": "あり",
+      "en": "Available"
+    },
+
+    "consent": {
+      "ja": "あり。ただし、同意書のみで混同のおそれに関する拒絶が必ず解消されるわけではない。",
+      "en": "Available, but a letter of consent alone does not necessarily overcome a likelihood-of-confusion refusal."
+    },
+
+    "acceleratedExamination": {
+      "ja": "制度あり。利用可能な事由および申請要件は要最新確認。",
+      "en": "An accelerated route is available, subject to current eligibility and petition requirements."
+    },
+
+    "thirdPartyObservation": {
+      "ja": "第三者による情報提出に相当する手続あり。提出時期・方法は要最新確認。",
+      "en": "A procedure comparable to a third-party submission is available; current timing and format should be verified."
+    },
+
+    "responsePeriod": {
+      "ja": "オフィスアクションの種類および発行日により異なる。通知ごとに期限を確認する。",
+      "en": "The response period depends on the type and issue date of the Office action; the deadline must be checked in each notice."
+    },
+
+    "extensionAvailable": {
+      "ja": "手続により可能",
+      "en": "Available for certain procedures"
+    },
+
+    "extensionLength": {
+      "ja": "通知および適用規則により異なる。",
+      "en": "Depends on the notice and applicable rules."
+    },
+
+    "extensionRequirements": {
+      "ja": "所定の申請、料金その他の要件がある。理由の要否は個別に確認する。",
+      "en": "An applicable request, fee and other requirements may apply. Whether reasons are required should be verified for the relevant procedure."
+    },
+
+    "appealRoute": {
+      "ja": "行政上の不服申立ておよび司法審査の経路あり。対象となる決定に応じて確認する。",
+      "en": "Administrative appeal and judicial review routes are available depending on the decision concerned."
+    },
+
+    "publicDatabase": {
+      "ja": "USPTO Trademark Search",
+      "en": "USPTO Trademark Search",
+      "url": "https://tmsearch.uspto.gov/"
+    },
+
+    "publicationStage": {
+      "ja": "審査通過後、異議申立てのため公告される。",
+      "en": "The application is published for opposition after examination."
+    },
+
+    "oppositionPeriod": {
+      "ja": "出願公告日から30日。延長手続あり。",
+      "en": "30 days from publication, with an extension procedure available."
+    },
+
+    "oppositionExtension": {
+      "ja": "あり。延長期間、申請期限および要件は要確認。",
+      "en": "Available; the extension period, filing deadline and requirements should be verified."
+    },
+
+    "averagePendency": {
+      "ja": "案件および審査状況により異なる。最新のUSPTO統計を参照する。",
+      "en": "Depends on the application and examination history; current USPTO statistics should be consulted."
+    },
+
+    "term": {
+      "ja": "10年",
+      "en": "10 years"
+    },
+
+    "termStart": {
+      "ja": "登録日から",
+      "en": "From the registration date"
+    },
+
+    "renewalWindow": {
+      "ja": "満了前1年を目安とするが、登録ごとに最新の提出期限を確認する。",
+      "en": "Generally beginning one year before expiry, although the current filing deadline should be verified for each registration."
+    },
+
+    "gracePeriod": {
+      "ja": "あり。期間および割増料金は要確認。",
+      "en": "Available; the current period and surcharge should be verified."
+    },
+
+    "renewalEvidence": {
+      "ja": "存続期間中の所定時期に、使用宣誓、使用証拠その他の書類が必要。",
+      "en": "Declarations, evidence of use and other documents are required at prescribed points during the registration term."
+    },
+
+    "nonUseCancellation": {
+      "ja": "あり",
+      "en": "Available"
+    },
+
+    "nonUsePeriod": {
+      "ja": "継続3年の不使用が重要な基準となる。具体的な手続および立証事項は要確認。",
+      "en": "Three consecutive years of non-use is an important threshold; the applicable procedure and evidentiary requirements must be checked."
+    },
+
+    "nonUseDefenses": {
+      "ja": "使用、使用の再開、正当な不使用理由その他の論点を個別に確認する。",
+      "en": "Use, resumption of use, excusable non-use and other defenses should be assessed individually."
+    },
+
+    "otherCancellation": {
+      "ja": "あり。行政上または司法上の取消手続があり得る。",
+      "en": "Available through administrative and/or judicial proceedings."
+    },
+
+    "invalidation": {
+      "ja": "あり",
+      "en": "Available"
+    },
+
+    "civilInjunction": {
+      "ja": "あり",
+      "en": "Available"
+    },
+
+    "civilDamages": {
+      "ja": "あり。損害額の算定、増額、侵害者利益の返還等は事案ごとに確認する。",
+      "en": "Available; calculation, enhancement and recovery of the infringer’s profits require case-specific analysis."
+    },
+
+    "civilEvidencePreservation": {
+      "ja": "ディスカバリーその他の証拠収集手続あり。",
+      "en": "Discovery and other evidence-gathering procedures are available."
+    },
+
+    "civilOther": {
+      "ja": "侵害品の廃棄、訴訟費用、弁護士費用その他。適用要件は個別に確認する。",
+      "en": "Destruction of infringing goods, costs, attorney fees and other relief may be available, subject to applicable requirements."
+    },
+
+    "borderMeasures": {
+      "ja": "あり",
+      "en": "Available"
+    },
+
+    "administrativeRaid": {
+      "ja": "利用可能な行政手続および所管機関を事案ごとに確認する。",
+      "en": "Applicable administrative procedures and competent agencies should be assessed case by case."
+    },
+
+    "administrativeOther": {
+      "ja": "輸入差止めその他の措置。",
+      "en": "Import exclusion and other measures."
+    },
+
+    "criminalAvailability": {
+      "ja": "あり",
+      "en": "Available"
+    },
+
+    "criminalFine": {
+      "ja": "あり。犯罪類型、故意、規模その他の事情により異なる。",
+      "en": "Available; the penalty depends on the offense, intent, scale and other circumstances."
+    },
+
+    "criminalImprisonment": {
+      "ja": "あり得る。犯罪類型その他の事情により異なる。",
+      "en": "Potentially available, depending on the offense and other circumstances."
+    },
+
+    "criminalOther": {
+      "ja": "没収、廃棄その他の措置。",
+      "en": "Forfeiture, destruction and other measures."
+    }
+  },
+
+  "statistics": {
+    "coverage": "2016–2025",
+    "status": "pending",
+    "series": []
+  },
+
+  "news": [
+    {
+      "id": "research-pending",
+      "type": "research",
+      "date": "2026-09-11",
+
+      "title": {
+        "ja": "直近3年の法改正・審査実務・重要判例を調査予定",
+        "en": "Research pending for legal amendments, examination practice and key cases from the last three years"
+      },
+
+      "summary": {
+        "ja": "公式資料および判例一次資料に基づいて追記する。",
+        "en": "To be populated from official guidance and primary case-law sources."
+      },
+
+      "sourceUrl": ""
+    }
+  ],
+
+  "faqs": [
+    {
+      "tag": "Filing",
+
+      "question": {
+        "ja": "この案件では、どの出願根拠を選択するのが最も安全ですか。",
+        "en": "Which filing basis would be the safest choice for this application?"
+      },
+
+      "followUp": {
+        "ja": "後から出願根拠を変更する必要が生じる可能性はありますか。",
+        "en": "Is there a realistic chance that the filing basis would need to be amended later?"
+      }
+    }
+  ],
+
+  "sources": [
+    {
+      "label": "USPTO Trademarks",
+      "url": "https://www.uspto.gov/trademarks",
+      "type": "official",
+      "checkedAt": "2026-09-11"
+    }
+  ]
+}
