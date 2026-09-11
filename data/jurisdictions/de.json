@@ -3,420 +3,436 @@
   "type": "country",
   "flag": "🇩🇪",
   "region": "europe",
-
   "names": {
     "ja": "ドイツ",
     "en": "Germany",
     "de": "Deutschland"
   },
-
   "office": {
     "ja": "ドイツ特許商標庁（DPMA）",
     "en": "German Patent and Trade Mark Office (DPMA)",
     "de": "Deutsches Patent- und Markenamt (DPMA)"
   },
-
   "availableLanguages": [
     "de"
   ],
-
   "createdAt": "2026-09-11",
   "updatedAt": "2026-09-11",
   "status": "review",
-
   "facts": {
     "authority": {
       "ja": "ドイツ特許商標庁（DPMA）",
       "en": "German Patent and Trade Mark Office (DPMA)",
       "de": "Deutsches Patent- und Markenamt (DPMA)"
     },
-
     "protectionScope": {
       "ja": "ドイツ国内において効力を有する登録商標。商品商標、役務商標、団体商標、保証商標その他が保護対象となり得る。",
       "en": "Registered marks effective in Germany. Trade marks, service marks, collective marks, certification marks and other eligible signs may be protected.",
       "de": "Eingetragene Marken mit Schutzwirkung in Deutschland. Schutzfähig sind insbesondere Warenmarken, Dienstleistungsmarken, Kollektivmarken und Gewährleistungsmarken."
     },
-
     "markTypes": {
       "ja": "文字、文字と図形の結合、図形、立体的形状、色彩、音、位置、模様、動き、マルチメディア、ホログラムその他。",
       "en": "Word, figurative, combined word and figurative, three-dimensional, colour, sound, position, pattern, motion, multimedia, hologram and other marks.",
       "de": "Wortmarken, Wort-/Bildmarken, Bildmarken, dreidimensionale Marken, Farbmarken, Hörmarken, Positionsmarken, Mustermarken, Bewegungsmarken, Multimediamarken, Hologrammmarken und sonstige Markenformen."
     },
-
     "madridAccessionDate": {
       "ja": "1996年3月20日（マドリッド協定議定書発効）",
       "en": "20 March 1996 (entry into force of the Madrid Protocol)",
       "de": "20. März 1996 (Inkrafttreten des Madrider Protokolls)"
     },
-
     "niceClassification": {
       "ja": "採用。商品・役務は45の類に区分される。",
       "en": "Adopted. Goods and services are divided into 45 classes.",
       "de": "Angewandt. Waren und Dienstleistungen werden in 45 Klassen eingeteilt."
     },
-
     "classHeadingPractice": {
       "ja": "商品・役務を明確に特定する必要がある。DPMAの統一分類データベースまたは最新のニース分類の用語を使用することが推奨される。",
       "en": "Goods and services must be clearly identified. Use of terms from the harmonized classification database or the current Nice Classification is recommended.",
       "de": "Die Waren und Dienstleistungen müssen klar bezeichnet werden. Empfohlen werden Begriffe aus der einheitlichen Klassifikationsdatenbank oder der aktuellen Nizza-Klassifikation."
     },
-
     "retailServices": {
       "ja": "可。小売役務の対象となる商品または商品分野を適切に特定する。",
       "en": "Available. The goods or product sectors to which the retail services relate should be appropriately identified.",
       "de": "Möglich. Die Waren oder Warenbereiche, auf die sich die Einzelhandelsdienstleistungen beziehen, sind angemessen zu bezeichnen."
     },
-
     "multiClassApplication": {
       "ja": "可",
       "en": "Available",
       "de": "Möglich"
     },
-
     "applicationForm": {
       "ja": "電子出願または所定の願書を使用する。出願人、標章の表示、商品・役務一覧その他の所定事項が必要。",
       "en": "Electronic filing or the prescribed application form may be used. The applicant, representation of the mark, list of goods and services and other required particulars must be provided.",
       "de": "Die Anmeldung kann elektronisch oder mit dem vorgesehenen Antragsformular eingereicht werden. Erforderlich sind insbesondere Angaben zum Anmelder, die Markendarstellung und das Waren- und Dienstleistungsverzeichnis."
     },
-
     "powerOfAttorney": {
       "ja": "代理人を選任する場合でも、通常は委任状の提出を常に要求されるわけではない。ただし、DPMAから求められた場合その他の個別事情は確認する。",
       "en": "A power of attorney is not invariably required merely because a representative is appointed. Particular requirements and any request from the DPMA should be checked.",
       "de": "Eine Vollmacht muss bei Bestellung eines Vertreters nicht stets von Anfang an eingereicht werden. Besondere Anforderungen und eine etwaige Aufforderung des DPMA sind zu prüfen."
     },
-
     "priorityDocuments": {
       "ja": "優先権を主張する場合、基礎出願の国・日付・番号その他の所定事項を申告する。証明書類および提出期限は個別に確認する。",
       "en": "A priority claim requires particulars of the underlying application, including country, date and number. Supporting documents and deadlines should be checked for the particular filing.",
       "de": "Bei Inanspruchnahme einer Priorität sind insbesondere Staat, Datum und Aktenzeichen der Erstanmeldung anzugeben. Nachweise und Fristen sind im Einzelfall zu prüfen."
     },
-
     "homeRegistrationCertificate": {
       "ja": "通常のドイツ国内出願では、本国登録証明書は出願要件ではない。",
       "en": "A home-country registration certificate is not ordinarily required for a German national application.",
       "de": "Für eine deutsche nationale Markenanmeldung ist grundsätzlich keine Heimatregistrierung erforderlich."
     },
-
     "useEvidenceAtFiling": {
       "ja": "通常の出願時に使用証拠または使用宣誓書は要求されない。",
       "en": "Evidence or a declaration of use is not generally required when filing an ordinary application.",
       "de": "Bei einer gewöhnlichen Markenanmeldung ist grundsätzlich kein Benutzungsnachweis und keine Benutzungserklärung erforderlich."
     },
-
     "notarizationCertification": {
       "ja": "通常の出願では、公証・領事認証または出願人の公証済み印章は一般に不要。",
       "en": "Notarization, consular legalization or a notarized applicant seal is not generally required for an ordinary application.",
       "de": "Für eine gewöhnliche Markenanmeldung sind grundsätzlich weder notarielle Beglaubigung noch Legalisation oder ein notariell beglaubigtes Siegel erforderlich."
     },
-
     "otherDocuments": {
       "ja": "団体商標・保証商標では規約等が必要。標章の種類、優先権その他の事情に応じて追加資料が必要となり得る。",
       "en": "Regulations are required for collective or certification marks. Additional material may be required depending on the type of mark, priority claim and other circumstances.",
       "de": "Bei Kollektiv- und Gewährleistungsmarken ist eine Markensatzung erforderlich. Je nach Markenform, Priorität und weiteren Umständen können zusätzliche Unterlagen erforderlich sein."
     },
-
     "absoluteGroundsExamination": {
       "ja": "あり",
       "en": "Yes",
       "de": "Ja"
     },
-
     "relativeGroundsExamination": {
       "ja": "なし。先行商標その他の先行権利との抵触は原則として職権審査されず、登録後の異議申立て等で争われる。",
       "en": "No. Conflicts with earlier marks or other earlier rights are generally not examined ex officio and may instead be raised after registration through opposition or other proceedings.",
       "de": "Nein. Entgegenstehende ältere Marken oder sonstige ältere Rechte werden grundsätzlich nicht von Amts wegen geprüft, sondern können nach der Eintragung insbesondere im Widerspruchsverfahren geltend gemacht werden."
     },
-
     "disclaimer": {
       "ja": "米国型の一般的なディスクレーム制度は採られていない。標章全体について識別力等が審査される。",
       "en": "There is no general disclaimer practice equivalent to the United States system. Registrability is assessed for the mark as a whole.",
       "de": "Ein allgemeines Disclaimer-System nach US-amerikanischem Vorbild besteht nicht. Die Schutzfähigkeit wird für die Marke in ihrer Gesamtheit beurteilt."
     },
-
     "consent": {
       "ja": "先行権利との抵触が職権審査されないため、同意書は通常の出願審査で拒絶を解消する制度としては中心的役割を持たない。異議・侵害・共存交渉では意味を持ち得る。",
       "en": "Because earlier-right conflicts are not generally examined ex officio, consent does not play a central role in overcoming an ordinary examination refusal. It may nevertheless be relevant in opposition, infringement and coexistence negotiations.",
       "de": "Da ältere Rechte grundsätzlich nicht von Amts wegen geprüft werden, spielt eine Zustimmungserklärung bei der Überwindung einer gewöhnlichen Beanstandung keine zentrale Rolle. Sie kann jedoch in Widerspruchs-, Verletzungs- und Koexistenzfragen relevant sein."
     },
-
     "acceleratedExamination": {
       "ja": "あり。所定の申請および料金により早期審査を請求できる。出願人が適切に協力する場合、原則として出願から6か月以内に判断される。",
       "en": "Available. Accelerated examination may be requested upon the prescribed request and fee. With sufficient cooperation by the applicant, a decision should generally be issued within six months after filing.",
       "de": "Möglich. Gegen Antrag und Gebühr kann eine beschleunigte Prüfung beantragt werden. Bei hinreichender Mitwirkung des Anmelders soll innerhalb von sechs Monaten nach der Anmeldung entschieden werden."
     },
-
     "thirdPartyObservation": {
       "ja": "登録前に絶対的拒絶理由に関する第三者の情報提供が可能となる場合がある。提出方法および法的効果は要確認。",
       "en": "Third parties may be able to submit information concerning absolute grounds before registration. The procedure and legal effect should be checked.",
       "de": "Dritte können vor der Eintragung unter Umständen Hinweise zu absoluten Schutzhindernissen einreichen. Verfahren und Rechtswirkung sind zu prüfen."
     },
-
     "responsePeriod": {
       "ja": "通知の種類およびDPMAが指定する期限による。各通知に記載された期限を確認する。",
       "en": "The response period depends on the communication and the period set by the DPMA. The deadline in each notice should be checked.",
       "de": "Die Äußerungsfrist richtet sich nach der jeweiligen Mitteilung und der vom DPMA gesetzten Frist. Maßgeblich ist die Frist im konkreten Bescheid."
     },
-
     "extensionAvailable": {
       "ja": "官庁指定期間について認められる場合がある。",
       "en": "May be available for time limits set by the Office.",
       "de": "Bei behördlich gesetzten Fristen kann eine Verlängerung möglich sein."
     },
-
     "extensionLength": {
       "ja": "通知および手続により異なる。",
       "en": "Depends on the communication and procedure.",
       "de": "Abhängig von Mitteilung und Verfahren."
     },
-
     "extensionRequirements": {
       "ja": "期限満了前の申請および理由の提示が必要となる場合がある。法定期間は原則として延長できないため、期間の性質を確認する。",
       "en": "A request before expiry and supporting reasons may be required. Statutory periods are generally not extendable, so the nature of the deadline must be checked.",
       "de": "Gegebenenfalls sind ein Antrag vor Fristablauf und eine Begründung erforderlich. Gesetzliche Fristen sind grundsätzlich nicht verlängerbar; daher ist die Art der Frist zu prüfen."
     },
-
     "appealRoute": {
       "ja": "DPMAの決定に対して、連邦特許裁判所への抗告等が可能。対象決定、期限および手数料は個別に確認する。",
       "en": "Decisions of the DPMA may be appealed to the Federal Patent Court, depending on the decision. The applicable deadline and fee should be checked.",
       "de": "Gegen Entscheidungen des DPMA kann je nach Entscheidung Beschwerde zum Bundespatentgericht eingelegt werden. Frist und Gebühr sind im Einzelfall zu prüfen."
     },
-
     "publicDatabase": {
       "ja": "DPMAregister",
       "en": "DPMAregister",
       "de": "DPMAregister",
       "url": "https://register.dpma.de/"
     },
-
     "publicationStage": {
       "ja": "商標は審査を経て登録され、登録が公表される。その後に異議申立期間が開始する。",
       "en": "After examination, the mark is registered and the registration is published. The opposition period then begins.",
       "de": "Nach der Prüfung wird die Marke eingetragen und die Eintragung veröffentlicht. Anschließend beginnt die Widerspruchsfrist."
     },
-
     "oppositionPeriod": {
       "ja": "登録の公表日から3か月。",
       "en": "Three months from publication of the registration.",
       "de": "Drei Monate ab Veröffentlichung der Eintragung."
     },
-
     "oppositionExtension": {
       "ja": "異議申立期間自体は法定期間であり、原則として延長不可。",
       "en": "The opposition period itself is a statutory period and is generally not extendable.",
       "de": "Die Widerspruchsfrist ist eine gesetzliche Frist und grundsätzlich nicht verlängerbar."
     },
-
     "averagePendency": {
       "ja": "案件および審査状況により異なる。早期審査でない通常案件については、最新のDPMA統計を参照する。",
       "en": "Depends on the application and examination history. Current DPMA statistics should be consulted for ordinary applications not subject to accelerated examination.",
       "de": "Abhängig von Anmeldung und Prüfungsverlauf. Für gewöhnliche, nicht beschleunigte Anmeldungen sind die aktuellen Statistiken des DPMA heranzuziehen."
     },
-
     "term": {
       "ja": "10年。10年ごとに繰り返し更新可能。",
       "en": "10 years, renewable repeatedly for further ten-year periods.",
       "de": "10 Jahre; jeweils um weitere zehn Jahre verlängerbar."
     },
-
     "termStart": {
       "ja": "出願日を基準として計算される。",
       "en": "Calculated by reference to the filing date.",
       "de": "Die Schutzdauer wird vom Anmeldetag aus berechnet."
     },
-
     "renewalWindow": {
       "ja": "更新料は原則として存続期間満了前6か月から支払可能。",
       "en": "Renewal fees may generally be paid during the six months preceding expiry.",
       "de": "Die Verlängerungsgebühren können grundsätzlich innerhalb der sechs Monate vor Ablauf der Schutzdauer gezahlt werden."
     },
-
     "gracePeriod": {
       "ja": "満了後6か月の追納期間あり。割増料金が必要。",
       "en": "A six-month grace period is available after expiry, subject to surcharges.",
       "de": "Nach Ablauf steht eine sechsmonatige Nachfrist zur Verfügung; Zuschlagsgebühren sind zu entrichten."
     },
-
     "renewalEvidence": {
       "ja": "通常、更新時に使用証拠の提出は要求されない。更新料および追加区分料金等を確認する。",
       "en": "Evidence of use is not generally required at renewal. Renewal fees and any additional class fees should be checked.",
       "de": "Bei der Verlängerung ist grundsätzlich kein Benutzungsnachweis erforderlich. Verlängerungs- und gegebenenfalls Klassengebühren sind zu beachten."
     },
-
     "nonUseCancellation": {
       "ja": "あり",
       "en": "Available",
       "de": "Möglich"
     },
-
     "nonUsePeriod": {
       "ja": "原則として5年。",
       "en": "Generally five years.",
       "de": "Grundsätzlich fünf Jahre."
     },
-
     "nonUseDefenses": {
       "ja": "真正な使用、使用の主体・地域・商品役務、使用形態、正当な不使用理由その他を個別に検討する。",
       "en": "Genuine use, the user, territory, relevant goods or services, form of use and proper reasons for non-use should be assessed individually.",
       "de": "Ernsthafte Benutzung, Benutzer, Gebiet, betroffene Waren oder Dienstleistungen, Benutzungsform und berechtigte Gründe für die Nichtbenutzung sind im Einzelfall zu prüfen."
     },
-
     "otherCancellation": {
       "ja": "普通名称化、誤認を生じさせる使用その他を理由とする取消しがあり得る。",
       "en": "Revocation may be available where the mark has become generic, its use has become misleading, or on other applicable grounds.",
       "de": "Ein Verfall kann insbesondere bei Entwicklung zur Gattungsbezeichnung, irreführender Benutzung oder aus anderen anwendbaren Gründen eintreten."
     },
-
     "invalidation": {
       "ja": "絶対的拒絶理由または先行権利等を理由とする無効手続あり。DPMA手続または裁判手続の選択を確認する。",
       "en": "Invalidity proceedings are available on absolute grounds or on the basis of earlier rights. The appropriate administrative or court route should be checked.",
       "de": "Nichtigkeitsverfahren sind aufgrund absoluter Schutzhindernisse oder älterer Rechte möglich. Der einschlägige Amts- oder Gerichtsweg ist zu prüfen."
     },
-
     "civilInjunction": {
       "ja": "あり。侵害のおそれがある場合の差止めおよび一定の場合の予防的差止めが問題となる。",
       "en": "Available. Injunctions against ongoing infringement and, in appropriate cases, threatened infringement may be sought.",
       "de": "Möglich. Unterlassung kann bei bestehender Verletzung und unter bestimmten Voraussetzungen bei drohender Verletzung verlangt werden."
     },
-
     "civilDamages": {
       "ja": "故意または過失がある場合に損害賠償請求が可能。具体的な算定方法は事案ごとに検討する。",
       "en": "Damages may be claimed where the infringement was intentional or negligent. The appropriate method of calculation should be assessed case by case.",
       "de": "Bei vorsätzlicher oder fahrlässiger Verletzung kann Schadensersatz verlangt werden. Die Berechnungsmethode ist im Einzelfall zu bestimmen."
     },
-
     "civilEvidencePreservation": {
       "ja": "情報請求、書類の提出・検査、証拠保全その他の制度があり得る。",
       "en": "Information claims, production and inspection of documents, preservation of evidence and other mechanisms may be available.",
       "de": "Auskunftsansprüche, Vorlage und Besichtigung von Unterlagen, Beweissicherung und weitere Maßnahmen können zur Verfügung stehen."
     },
-
     "civilOther": {
       "ja": "侵害品の廃棄・回収、情報開示、判決公表その他の救済があり得る。",
       "en": "Destruction or recall of infringing goods, information claims, publication of the judgment and other remedies may be available.",
       "de": "Vernichtung oder Rückruf verletzender Waren, Auskunft, Urteilsbekanntmachung und weitere Ansprüche können zur Verfügung stehen."
     },
-
     "borderMeasures": {
       "ja": "あり。EU税関差止制度を利用できる。申請範囲、更新および保証等の要否は事案ごとに確認する。",
       "en": "Available through the EU customs enforcement system. Territorial scope, renewal and any security requirements should be checked case by case.",
       "de": "Im Rahmen der unionsrechtlichen Zollmaßnahmen verfügbar. Räumlicher Umfang, Verlängerung und etwaige Sicherheitsleistungen sind im Einzelfall zu prüfen."
     },
-
     "administrativeRaid": {
       "ja": "中国等に見られる一般的な行政摘発制度とは異なり、通常は民事・刑事・税関手続が中心となる。",
       "en": "Unlike the general administrative raid systems found in some jurisdictions, enforcement normally centers on civil, criminal and customs procedures.",
       "de": "Anders als bei allgemeinen behördlichen Razzien in manchen Rechtsordnungen stehen regelmäßig zivilrechtliche, strafrechtliche und zollrechtliche Maßnahmen im Vordergrund."
     },
-
     "administrativeOther": {
       "ja": "税関、警察・検察その他の所管機関による措置を、侵害態様に応じて検討する。",
       "en": "Measures by customs, police, prosecutors and other competent authorities should be considered according to the nature of the infringement.",
       "de": "Maßnahmen von Zoll, Polizei, Staatsanwaltschaft und weiteren zuständigen Stellen sind anhand der Verletzungsform zu prüfen."
     },
-
     "criminalAvailability": {
       "ja": "あり。故意による商標権侵害等が刑事罰の対象となり得る。",
       "en": "Available. Intentional trade mark infringement may constitute a criminal offense.",
       "de": "Möglich. Vorsätzliche Markenverletzungen können strafbar sein."
     },
-
     "criminalFine": {
       "ja": "あり。犯罪類型、業としての実施その他の事情により法定刑が異なる。",
       "en": "Available. The statutory penalty depends on the offense, commercial conduct and other circumstances.",
       "de": "Möglich. Der Strafrahmen hängt insbesondere vom Tatbestand, gewerbsmäßigem Handeln und weiteren Umständen ab."
     },
-
     "criminalImprisonment": {
       "ja": "あり得る。通常類型と加重類型で上限が異なるため、適用条文を確認する。",
       "en": "Potentially available. The maximum term differs between ordinary and aggravated offenses, so the applicable statutory provision should be checked.",
       "de": "Möglich. Der Höchststrafrahmen unterscheidet sich zwischen Grundtatbestand und qualifizierten Fällen; die einschlägige Vorschrift ist zu prüfen."
     },
-
     "criminalOther": {
       "ja": "没収、侵害品・表示の除去または廃棄、判決公表その他があり得る。",
       "en": "Forfeiture, removal of unlawful signs, destruction and publication of the conviction may be available.",
       "de": "Einziehung, Beseitigung widerrechtlicher Kennzeichnungen, Vernichtung und Bekanntmachung der Verurteilung können in Betracht kommen."
+    },
+    "directExaminationPeriod": {
+      "ja": "通常の直接出願について、全案件に共通する最新の公式平均月数はDPMAの一般案内では示されていない。案件の複雑性、商品・役務表示の明確性、拒絶理由の有無および応答回数により変動する。早期審査を請求し、出願人が十分に協力した場合、DPMAは出願から6か月以内に決定しなければならない。",
+      "en": "The DPMA’s general guidance does not state one current official average in months for all ordinary direct applications. Timing varies with complexity, the clarity of the specification, objections and the number of responses. If accelerated examination is requested and the applicant cooperates sufficiently, the DPMA must decide within six months after filing.",
+      "de": "Für gewöhnliche Direktanmeldungen nennt die allgemeine Information des DPMA keinen einheitlichen aktuellen Durchschnitt in Monaten. Die Dauer hängt von der Komplexität, der Klarheit des Waren- und Dienstleistungsverzeichnisses, Beanstandungen und der Zahl der Erwiderungen ab. Bei beantragter beschleunigter Prüfung und hinreichender Mitwirkung des Anmelders muss innerhalb von sechs Monaten nach der Anmeldung entschieden werden."
+    },
+    "madridExaminationPeriod": {
+      "ja": "ドイツを指定する国際登録について、DPMAは独立した平均審査期間を公表していない。ドイツは拒絶通報期間を18か月に延長する宣言をしており、異議に基づく拒絶は一定の場合に18か月経過後も通報され得る。これは平均審査期間ではなく、国際的な拒絶通報期限である。",
+      "en": "The DPMA does not publish a separate average examination period for international registrations designating Germany. Germany has declared an 18-month refusal period, and a refusal based on opposition may in specified circumstances be notified after that period. This is an international notification limit, not an average examination time.",
+      "de": "Das DPMA veröffentlicht keine gesonderte durchschnittliche Prüfungsdauer für internationale Registrierungen mit Benennung Deutschlands. Deutschland hat die Schutzverweigerungsfrist auf 18 Monate verlängert; eine auf Widerspruch gestützte Schutzverweigerung kann unter bestimmten Voraussetzungen auch nach Ablauf dieser Frist mitgeteilt werden. Dies ist eine internationale Mitteilungsfrist und keine durchschnittliche Prüfungsdauer."
+    },
+    "colourPriorityIdentity": {
+      "ja": "DPMAが参加するEU共通実務CP4では、白黒またはグレースケールの標章と同じ標章のカラー版は、差異が重大でなく、平均的需要者が並べて比較した場合にのみ気付く程度である場合に限り、優先権上同一と扱われる。白黒出願が当然にすべての色彩を包含するわけではない。",
+      "en": "Under EU Common Practice CP4, in which the DPMA participates, a black-and-white or greyscale sign and the same sign in colour are identical for priority purposes only where the differences are insignificant and may be noticed by the average consumer only upon side-by-side examination. A black-and-white filing does not automatically cover every colour version.",
+      "de": "Nach der Gemeinsamen Praxis CP4, an der das DPMA beteiligt ist, sind ein schwarz-weißes oder in Graustufen gehaltenes Zeichen und dasselbe Zeichen in Farbe für Prioritätszwecke nur identisch, wenn die Unterschiede unbedeutend sind und vom Durchschnittsverbraucher nur bei unmittelbarer Gegenüberstellung wahrgenommen werden können. Eine Schwarz-Weiß-Anmeldung erfasst nicht automatisch jede Farbversion."
+    },
+    "colourRelativeGrounds": {
+      "ja": "CP4上、白黒・グレースケールの先行商標とカラーの後願商標は、色彩差が重大でない場合に限って『同一』となる。同一でなくても、ドイツの異議・無効手続では、標章の全体的印象、色彩の識別上の役割、商品・役務および関連公衆を総合して類似性・混同のおそれが認められ得る。",
+      "en": "Under CP4, an earlier black-and-white or greyscale mark and a later colour sign are ‘identical’ only where the colour differences are insignificant. Even absent identity, German opposition or invalidity proceedings may find similarity and likelihood of confusion after assessing the overall impression, the distinctive role of colour, the goods or services and the relevant public.",
+      "de": "Nach CP4 sind eine ältere schwarz-weiße oder in Graustufen gehaltene Marke und ein jüngeres farbiges Zeichen nur bei unbedeutenden Farbunterschieden ‚identisch‘. Auch ohne Identität können im deutschen Widerspruchs- oder Nichtigkeitsverfahren aufgrund des Gesamteindrucks, der kennzeichnenden Bedeutung der Farbe, der Waren oder Dienstleistungen und der maßgeblichen Verkehrskreise Ähnlichkeit und Verwechslungsgefahr bejaht werden."
+    },
+    "colourGenuineUse": {
+      "ja": "CP4では、登録態様と使用態様の色彩が異なっても、文字・図形要素が一致して主要な識別要素であり、明暗のコントラストが保たれ、色彩自体に識別力がなく、色彩が標章全体の識別力に主要な影響を与えない場合には、識別力を変更しない使用となり得る。ドイツの不使用・異議手続でも個別具体的に判断される。",
+      "en": "Under CP4, use in a different colour may preserve the registered mark’s distinctive character where the word or figurative elements coincide and remain the main distinctive elements, the contrast of shades is respected, the colour itself is not distinctive and colour is not a principal contributor to overall distinctiveness. German non-use and opposition proceedings require a case-specific assessment.",
+      "de": "Nach CP4 kann eine abweichende Farbgebung rechtserhaltend sein, wenn die Wort- oder Bildelemente übereinstimmen und die wesentlichen kennzeichnenden Elemente bleiben, der Helligkeitskontrast gewahrt wird, die Farbe selbst nicht unterscheidungskräftig ist und die Farbe die Gesamtkennzeichnungskraft nicht maßgeblich bestimmt. In deutschen Benutzungs- und Widerspruchsverfahren ist eine Einzelfallprüfung erforderlich."
+    },
+    "colourInfringementScope": {
+      "ja": "CP4は侵害訴訟の保護範囲を直接統一するものではない。ドイツの侵害裁判所は、登録商標と被疑侵害標章の全体的印象、実際の色彩、色彩の識別力、商品・役務の関係および混同のおそれを個別に判断する。白黒登録があらゆる色彩を自動的に独占すると想定すべきではない。",
+      "en": "CP4 does not directly harmonise the scope of protection in infringement litigation. German infringement courts assess the overall impression of the registered and challenged signs, the colours actually used, the distinctive role of colour, the relevant goods or services and likelihood of confusion case by case. A black-and-white registration should not be assumed automatically to monopolise every colour.",
+      "de": "CP4 vereinheitlicht den Schutzumfang im Verletzungsverfahren nicht unmittelbar. Deutsche Verletzungsgerichte beurteilen den Gesamteindruck der eingetragenen und angegriffenen Zeichen, die tatsächlich verwendeten Farben, die Kennzeichnungskraft der Farbe, die betroffenen Waren oder Dienstleistungen und die Verwechslungsgefahr im Einzelfall. Aus einer Schwarz-Weiß-Eintragung folgt nicht automatisch ein Monopol für jede Farbe."
+    },
+    "colourFilingStrategy": {
+      "ja": "ブランド上色彩が重要な場合、白黒版だけに依存せず、主要なカラー版の別出願を検討する。白黒版・カラー版の双方を出願する必要性、優先権主張との整合、ドイツでの実際の使用態様および保存すべき使用証拠を現地代理人に確認する。",
+      "en": "Where colour is commercially important, consider a separate filing for the principal colour version rather than relying only on a black-and-white filing. Ask German counsel whether both versions should be filed, how they align with any priority claim, which versions will actually be used in Germany and what use evidence should be retained.",
+      "de": "Ist die Farbgebung wirtschaftlich wichtig, sollte neben einer Schwarz-Weiß-Anmeldung eine gesonderte Anmeldung der Hauptfarbversion erwogen werden. Mit einem deutschen Vertreter sind Doppelanmeldungen, die Übereinstimmung mit Prioritätsansprüchen, die tatsächlich in Deutschland benutzten Formen und die aufzubewahrenden Benutzungsnachweise zu prüfen."
+    },
+    "refusalResponseRoute": {
+      "ja": "DPMAが方式上の欠陥または絶対的拒絶理由を指摘した場合、通常は指定期間内に意見書、補正・限定または必要な証拠を提出する。最終拒絶決定後、決定が上級職公務員等によってされた所定の場合には、1か月以内のErinnerung（庁内再審査）またはこれに代えて連邦特許裁判所へのBeschwerdeを選択できる。その他の決定には、原則として通知から1か月以内にDPMAへBeschwerdeを提出する。",
+      "en": "If the DPMA raises a formal deficiency or an absolute ground for refusal, the applicant normally responds within the specified period with observations, an amendment or limitation, and any necessary evidence. After a final refusal issued in an eligible case by a higher-service official or comparable employee, an Erinnerung (internal review) may be filed within one month, or an appeal to the Federal Patent Court may be filed instead. Other decisions are generally appealed by filing a Beschwerde with the DPMA within one month of service.",
+      "de": "Beanstandet das DPMA einen Formmangel oder ein absolutes Schutzhindernis, kann der Anmelder regelmäßig innerhalb der gesetzten Frist Stellung nehmen, die Anmeldung ändern oder beschränken und erforderliche Nachweise einreichen. Gegen einen geeigneten Zurückweisungsbeschluss eines Beamten des gehobenen Dienstes oder vergleichbaren Beschäftigten kann binnen eines Monats Erinnerung eingelegt oder stattdessen Beschwerde zum Bundespatentgericht erhoben werden. Gegen andere Beschlüsse ist die Beschwerde grundsätzlich binnen eines Monats nach Zustellung beim DPMA einzulegen."
+    },
+    "refusalAppealPeriod": {
+      "ja": "拒絶決定に対するErinnerungまたは連邦特許裁判所の商標抗告について、全事件に共通する最新の公式平均審理期間は確認できない。事件の複雑性、口頭審理、証拠および先決問題により変動する。なお、Erinnerung後6か月以内に決定がなく、決定申立て後さらに2か月以内にも決定がない場合、一定の要件下で元の決定に対して直接Beschwerdeを提起できる。これは平均期間ではなく遅延時の法定救済である。",
+      "en": "No current official average common to all refusal-related Erinnerungen or trade mark appeals before the Federal Patent Court has been identified. Duration varies with complexity, oral hearings, evidence and preliminary issues. If no decision on an Erinnerung is issued within six months and none is issued within a further two months after a request for decision, a direct appeal against the original decision may be available subject to the statutory conditions. This is a delay remedy, not an average duration.",
+      "de": "Ein aktueller amtlicher Durchschnitt für alle zurückweisungsbezogenen Erinnerungs- oder Markenbeschwerdeverfahren vor dem Bundespatentgericht ist nicht feststellbar. Die Dauer hängt von Komplexität, mündlicher Verhandlung, Beweisen und Vorfragen ab. Ist über eine Erinnerung binnen sechs Monaten nicht entschieden und ergeht auch binnen weiterer zwei Monate nach einem Antrag auf Entscheidung keine Entscheidung, kann unter den gesetzlichen Voraussetzungen unmittelbar Beschwerde gegen den ursprünglichen Beschluss erhoben werden. Dies ist ein Rechtsbehelf bei Verzögerung und keine durchschnittliche Verfahrensdauer."
     }
   },
-
   "statistics": {
     "coverage": "2016–2025",
     "status": "pending",
     "series": []
   },
-
   "news": [
     {
       "id": "dpma-annual-report-2025",
       "type": "practice",
       "date": "2026-03-01",
-
       "title": {
         "ja": "DPMA年次報告2025の商標統計・取消実務",
         "en": "Trade mark statistics and cancellation practice in the DPMA Annual Report 2025",
         "de": "Markenstatistik und Löschungspraxis im DPMA-Jahresbericht 2025"
       },
-
       "summary": {
         "ja": "DPMAの2025年報告では、絶対的拒絶理由、悪意出願、不使用等を含む取消し・無効手続の動向が公表されている。統計値は今後、statistics欄に整理する。",
         "en": "The DPMA Annual Report 2025 discusses developments in revocation and invalidity proceedings, including absolute grounds, bad-faith filings and non-use. The numerical data will be organized in the statistics section.",
         "de": "Der DPMA-Jahresbericht 2025 enthält Entwicklungen bei Verfalls- und Nichtigkeitsverfahren, unter anderem zu absoluten Schutzhindernissen, bösgläubigen Anmeldungen und Nichtbenutzung. Die Zahlen werden später im Statistikbereich aufbereitet."
       },
-
       "sourceUrl": "https://www.dpma.de/digitaler_jahresbericht/2025/jb25_de/marken.html"
+    },
+    {
+      "id": "cp4-black-white-colour-marks-de",
+      "type": "practice",
+      "date": "2014-04-15",
+      "title": {
+        "ja": "CP4：白黒・グレースケール商標と色彩商標に関するドイツの共通実務",
+        "en": "CP4: German common practice on black-and-white, greyscale and colour marks",
+        "de": "CP4: Deutsche gemeinsame Praxis zu Schwarz-Weiß-, Graustufen- und Farbmarken"
+      },
+      "summary": {
+        "ja": "DPMAが参加するEU収斂プロジェクトCP4は、優先権、相対的拒絶理由における同一性および色彩を変更した使用を扱う。直近ニュースではないが、現在のドイツ出願・使用戦略に不可欠な継続的実務として収録。",
+        "en": "The EU convergence project CP4, in which the DPMA participates, addresses priority, identity under relative grounds and use in a different colour. Although not recent news, it is retained as continuing practice essential to German filing and use strategy.",
+        "de": "Das EU-Konvergenzprojekt CP4, an dem das DPMA beteiligt ist, betrifft Priorität, Identität bei relativen Schutzhindernissen und Benutzung in abweichender Farbe. Obwohl keine aktuelle Nachricht, wird es als fortgeltende und für deutsche Anmelde- und Benutzungsstrategien wesentliche Praxis aufgenommen."
+      },
+      "sourceUrl": "https://www.dpma.de/english/trade_marks/trade_mark_protection/convergence_projects_eu/index.html"
     }
   ],
-
   "faqs": [
     {
       "tag": "Filing",
-
       "question": {
         "ja": "本件では、ドイツ国内出願とEU商標出願のどちらが適切でしょうか。",
         "en": "Would a German national application or an EU trade mark application be more appropriate in this case?",
         "de": "Wäre in diesem Fall eine deutsche Markenanmeldung oder eine Unionsmarkenanmeldung zweckmäßiger?"
       },
-
       "followUp": {
         "ja": "先行権利のリスク、費用および対象市場を踏まえて比較してください。",
         "en": "Please compare the options in light of prior-right risks, costs and the intended market.",
         "de": "Bitte vergleichen Sie die Möglichkeiten unter Berücksichtigung älterer Rechte, der Kosten und des vorgesehenen Marktes."
       }
     },
-
     {
       "tag": "Opposition",
-
       "question": {
         "ja": "異議申立て前に相手方へ連絡するのが通常でしょうか。",
         "en": "Is it customary to contact the other party before filing an opposition?",
         "de": "Ist es üblich, vor Einlegung eines Widerspruchs mit der Gegenseite Kontakt aufzunehmen?"
       },
-
       "followUp": {
         "ja": "典型的な交渉期間、異議費用および和解方法も教えてください。",
         "en": "Could you also indicate the typical negotiation period, opposition costs and settlement options?",
         "de": "Könnten Sie auch den üblichen Verhandlungszeitraum, die Widerspruchskosten und mögliche Vergleichslösungen nennen?"
       }
     },
-
     {
       "tag": "Non-use",
-
       "question": {
         "ja": "この使用資料は、ドイツにおける真正な使用を立証するのに十分でしょうか。",
         "en": "Would this material be sufficient to establish genuine use in Germany?",
         "de": "Wären diese Unterlagen ausreichend, um eine ernsthafte Benutzung in Deutschland nachzuweisen?"
       },
-
       "followUp": {
         "ja": "売上額、請求書、広告およびウェブサイト資料のうち、追加すべきものはありますか。",
         "en": "Should we add sales figures, invoices, advertising or website materials?",
         "de": "Sollten wir Umsatzzahlen, Rechnungen, Werbung oder Unterlagen zur Website ergänzen?"
       }
+    },
+    {
+      "tag": "Colour marks",
+      "question": {
+        "ja": "ドイツでは当社ロゴの白黒版とカラー版の双方を出願すべきでしょうか。",
+        "en": "Should we file both the black-and-white and colour versions of our logo in Germany?",
+        "de": "Sollten wir in Deutschland sowohl die Schwarz-Weiß- als auch die Farbversion unseres Logos anmelden?"
+      },
+      "followUp": {
+        "ja": "優先権、異議、真正な使用および侵害判断への影響と、保存すべき使用証拠も教えてください。",
+        "en": "Please explain the implications for priority, opposition, genuine use and infringement, and what evidence of use we should retain.",
+        "de": "Bitte erläutern Sie die Auswirkungen auf Priorität, Widerspruch, ernsthafte Benutzung und Verletzung sowie die aufzubewahrenden Benutzungsnachweise."
+      }
+    },
+    {
+      "tag": "Refusal",
+      "question": {
+        "ja": "この拒絶決定にはErinnerungと連邦特許裁判所へのBeschwerdeのどちらを選ぶべきでしょうか。",
+        "en": "Should we choose an Erinnerung or an appeal to the Federal Patent Court against this refusal?",
+        "de": "Sollten wir gegen diese Zurückweisung Erinnerung oder Beschwerde zum Bundespatentgericht einlegen?"
+      },
+      "followUp": {
+        "ja": "それぞれの期限、費用、平均所要期間、追加証拠の提出可能性および戦略上の利点を比較してください。",
+        "en": "Please compare the deadlines, costs, expected duration, ability to submit further evidence and strategic advantages of each route.",
+        "de": "Bitte vergleichen Sie Fristen, Kosten, voraussichtliche Dauer, die Möglichkeit weiteren Vorbringens und die strategischen Vorteile beider Wege."
+      }
     }
   ],
-
   "sources": [
     {
       "label": "DPMA — Marken",
@@ -451,6 +467,48 @@
     {
       "label": "WIPO Lex — Germany",
       "url": "https://www.wipo.int/wipolex/en/treaties/ShowResults?code=DE",
+      "type": "official",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "label": "DPMA — Beschleunigte Prüfung von Markenanmeldungen",
+      "url": "https://www.dpma.de/marken/anmeldung/index.html",
+      "type": "official",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "label": "DPMA — EU convergence projects including CP4",
+      "url": "https://www.dpma.de/english/trade_marks/trade_mark_protection/convergence_projects_eu/index.html",
+      "type": "official",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "label": "EUIPN — CP4 Scope of Protection of Black and White Marks",
+      "url": "https://www.euipn.org/practices/CP4-Scope-of-Protection-of-Black-and-White-BW-Marks",
+      "type": "official",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "label": "WIPO — Declarations and Notifications by Madrid System Members",
+      "url": "https://www.wipo.int/en/web/madrid-system/members/declarations",
+      "type": "official",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "label": "MarkenG § 64 — Erinnerung",
+      "url": "https://www.gesetze-im-internet.de/markeng/__64.html",
+      "type": "legislation",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "label": "MarkenG § 66 — Beschwerde",
+      "url": "https://www.gesetze-im-internet.de/markeng/__66.html",
+      "type": "legislation",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "label": "Bundespatentgericht",
+      "url": "https://www.bundespatentgericht.de/",
       "type": "official",
       "checkedAt": "2026-09-11"
     }
