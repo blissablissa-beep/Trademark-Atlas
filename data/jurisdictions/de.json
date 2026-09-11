@@ -1,0 +1,458 @@
+{
+  "id": "de",
+  "type": "country",
+  "flag": "🇩🇪",
+  "region": "europe",
+
+  "names": {
+    "ja": "ドイツ",
+    "en": "Germany",
+    "de": "Deutschland"
+  },
+
+  "office": {
+    "ja": "ドイツ特許商標庁（DPMA）",
+    "en": "German Patent and Trade Mark Office (DPMA)",
+    "de": "Deutsches Patent- und Markenamt (DPMA)"
+  },
+
+  "availableLanguages": [
+    "de"
+  ],
+
+  "createdAt": "2026-09-11",
+  "updatedAt": "2026-09-11",
+  "status": "review",
+
+  "facts": {
+    "authority": {
+      "ja": "ドイツ特許商標庁（DPMA）",
+      "en": "German Patent and Trade Mark Office (DPMA)",
+      "de": "Deutsches Patent- und Markenamt (DPMA)"
+    },
+
+    "protectionScope": {
+      "ja": "ドイツ国内において効力を有する登録商標。商品商標、役務商標、団体商標、保証商標その他が保護対象となり得る。",
+      "en": "Registered marks effective in Germany. Trade marks, service marks, collective marks, certification marks and other eligible signs may be protected.",
+      "de": "Eingetragene Marken mit Schutzwirkung in Deutschland. Schutzfähig sind insbesondere Warenmarken, Dienstleistungsmarken, Kollektivmarken und Gewährleistungsmarken."
+    },
+
+    "markTypes": {
+      "ja": "文字、文字と図形の結合、図形、立体的形状、色彩、音、位置、模様、動き、マルチメディア、ホログラムその他。",
+      "en": "Word, figurative, combined word and figurative, three-dimensional, colour, sound, position, pattern, motion, multimedia, hologram and other marks.",
+      "de": "Wortmarken, Wort-/Bildmarken, Bildmarken, dreidimensionale Marken, Farbmarken, Hörmarken, Positionsmarken, Mustermarken, Bewegungsmarken, Multimediamarken, Hologrammmarken und sonstige Markenformen."
+    },
+
+    "madridAccessionDate": {
+      "ja": "1996年3月20日（マドリッド協定議定書発効）",
+      "en": "20 March 1996 (entry into force of the Madrid Protocol)",
+      "de": "20. März 1996 (Inkrafttreten des Madrider Protokolls)"
+    },
+
+    "niceClassification": {
+      "ja": "採用。商品・役務は45の類に区分される。",
+      "en": "Adopted. Goods and services are divided into 45 classes.",
+      "de": "Angewandt. Waren und Dienstleistungen werden in 45 Klassen eingeteilt."
+    },
+
+    "classHeadingPractice": {
+      "ja": "商品・役務を明確に特定する必要がある。DPMAの統一分類データベースまたは最新のニース分類の用語を使用することが推奨される。",
+      "en": "Goods and services must be clearly identified. Use of terms from the harmonized classification database or the current Nice Classification is recommended.",
+      "de": "Die Waren und Dienstleistungen müssen klar bezeichnet werden. Empfohlen werden Begriffe aus der einheitlichen Klassifikationsdatenbank oder der aktuellen Nizza-Klassifikation."
+    },
+
+    "retailServices": {
+      "ja": "可。小売役務の対象となる商品または商品分野を適切に特定する。",
+      "en": "Available. The goods or product sectors to which the retail services relate should be appropriately identified.",
+      "de": "Möglich. Die Waren oder Warenbereiche, auf die sich die Einzelhandelsdienstleistungen beziehen, sind angemessen zu bezeichnen."
+    },
+
+    "multiClassApplication": {
+      "ja": "可",
+      "en": "Available",
+      "de": "Möglich"
+    },
+
+    "applicationForm": {
+      "ja": "電子出願または所定の願書を使用する。出願人、標章の表示、商品・役務一覧その他の所定事項が必要。",
+      "en": "Electronic filing or the prescribed application form may be used. The applicant, representation of the mark, list of goods and services and other required particulars must be provided.",
+      "de": "Die Anmeldung kann elektronisch oder mit dem vorgesehenen Antragsformular eingereicht werden. Erforderlich sind insbesondere Angaben zum Anmelder, die Markendarstellung und das Waren- und Dienstleistungsverzeichnis."
+    },
+
+    "powerOfAttorney": {
+      "ja": "代理人を選任する場合でも、通常は委任状の提出を常に要求されるわけではない。ただし、DPMAから求められた場合その他の個別事情は確認する。",
+      "en": "A power of attorney is not invariably required merely because a representative is appointed. Particular requirements and any request from the DPMA should be checked.",
+      "de": "Eine Vollmacht muss bei Bestellung eines Vertreters nicht stets von Anfang an eingereicht werden. Besondere Anforderungen und eine etwaige Aufforderung des DPMA sind zu prüfen."
+    },
+
+    "priorityDocuments": {
+      "ja": "優先権を主張する場合、基礎出願の国・日付・番号その他の所定事項を申告する。証明書類および提出期限は個別に確認する。",
+      "en": "A priority claim requires particulars of the underlying application, including country, date and number. Supporting documents and deadlines should be checked for the particular filing.",
+      "de": "Bei Inanspruchnahme einer Priorität sind insbesondere Staat, Datum und Aktenzeichen der Erstanmeldung anzugeben. Nachweise und Fristen sind im Einzelfall zu prüfen."
+    },
+
+    "homeRegistrationCertificate": {
+      "ja": "通常のドイツ国内出願では、本国登録証明書は出願要件ではない。",
+      "en": "A home-country registration certificate is not ordinarily required for a German national application.",
+      "de": "Für eine deutsche nationale Markenanmeldung ist grundsätzlich keine Heimatregistrierung erforderlich."
+    },
+
+    "useEvidenceAtFiling": {
+      "ja": "通常の出願時に使用証拠または使用宣誓書は要求されない。",
+      "en": "Evidence or a declaration of use is not generally required when filing an ordinary application.",
+      "de": "Bei einer gewöhnlichen Markenanmeldung ist grundsätzlich kein Benutzungsnachweis und keine Benutzungserklärung erforderlich."
+    },
+
+    "notarizationCertification": {
+      "ja": "通常の出願では、公証・領事認証または出願人の公証済み印章は一般に不要。",
+      "en": "Notarization, consular legalization or a notarized applicant seal is not generally required for an ordinary application.",
+      "de": "Für eine gewöhnliche Markenanmeldung sind grundsätzlich weder notarielle Beglaubigung noch Legalisation oder ein notariell beglaubigtes Siegel erforderlich."
+    },
+
+    "otherDocuments": {
+      "ja": "団体商標・保証商標では規約等が必要。標章の種類、優先権その他の事情に応じて追加資料が必要となり得る。",
+      "en": "Regulations are required for collective or certification marks. Additional material may be required depending on the type of mark, priority claim and other circumstances.",
+      "de": "Bei Kollektiv- und Gewährleistungsmarken ist eine Markensatzung erforderlich. Je nach Markenform, Priorität und weiteren Umständen können zusätzliche Unterlagen erforderlich sein."
+    },
+
+    "absoluteGroundsExamination": {
+      "ja": "あり",
+      "en": "Yes",
+      "de": "Ja"
+    },
+
+    "relativeGroundsExamination": {
+      "ja": "なし。先行商標その他の先行権利との抵触は原則として職権審査されず、登録後の異議申立て等で争われる。",
+      "en": "No. Conflicts with earlier marks or other earlier rights are generally not examined ex officio and may instead be raised after registration through opposition or other proceedings.",
+      "de": "Nein. Entgegenstehende ältere Marken oder sonstige ältere Rechte werden grundsätzlich nicht von Amts wegen geprüft, sondern können nach der Eintragung insbesondere im Widerspruchsverfahren geltend gemacht werden."
+    },
+
+    "disclaimer": {
+      "ja": "米国型の一般的なディスクレーム制度は採られていない。標章全体について識別力等が審査される。",
+      "en": "There is no general disclaimer practice equivalent to the United States system. Registrability is assessed for the mark as a whole.",
+      "de": "Ein allgemeines Disclaimer-System nach US-amerikanischem Vorbild besteht nicht. Die Schutzfähigkeit wird für die Marke in ihrer Gesamtheit beurteilt."
+    },
+
+    "consent": {
+      "ja": "先行権利との抵触が職権審査されないため、同意書は通常の出願審査で拒絶を解消する制度としては中心的役割を持たない。異議・侵害・共存交渉では意味を持ち得る。",
+      "en": "Because earlier-right conflicts are not generally examined ex officio, consent does not play a central role in overcoming an ordinary examination refusal. It may nevertheless be relevant in opposition, infringement and coexistence negotiations.",
+      "de": "Da ältere Rechte grundsätzlich nicht von Amts wegen geprüft werden, spielt eine Zustimmungserklärung bei der Überwindung einer gewöhnlichen Beanstandung keine zentrale Rolle. Sie kann jedoch in Widerspruchs-, Verletzungs- und Koexistenzfragen relevant sein."
+    },
+
+    "acceleratedExamination": {
+      "ja": "あり。所定の申請および料金により早期審査を請求できる。出願人が適切に協力する場合、原則として出願から6か月以内に判断される。",
+      "en": "Available. Accelerated examination may be requested upon the prescribed request and fee. With sufficient cooperation by the applicant, a decision should generally be issued within six months after filing.",
+      "de": "Möglich. Gegen Antrag und Gebühr kann eine beschleunigte Prüfung beantragt werden. Bei hinreichender Mitwirkung des Anmelders soll innerhalb von sechs Monaten nach der Anmeldung entschieden werden."
+    },
+
+    "thirdPartyObservation": {
+      "ja": "登録前に絶対的拒絶理由に関する第三者の情報提供が可能となる場合がある。提出方法および法的効果は要確認。",
+      "en": "Third parties may be able to submit information concerning absolute grounds before registration. The procedure and legal effect should be checked.",
+      "de": "Dritte können vor der Eintragung unter Umständen Hinweise zu absoluten Schutzhindernissen einreichen. Verfahren und Rechtswirkung sind zu prüfen."
+    },
+
+    "responsePeriod": {
+      "ja": "通知の種類およびDPMAが指定する期限による。各通知に記載された期限を確認する。",
+      "en": "The response period depends on the communication and the period set by the DPMA. The deadline in each notice should be checked.",
+      "de": "Die Äußerungsfrist richtet sich nach der jeweiligen Mitteilung und der vom DPMA gesetzten Frist. Maßgeblich ist die Frist im konkreten Bescheid."
+    },
+
+    "extensionAvailable": {
+      "ja": "官庁指定期間について認められる場合がある。",
+      "en": "May be available for time limits set by the Office.",
+      "de": "Bei behördlich gesetzten Fristen kann eine Verlängerung möglich sein."
+    },
+
+    "extensionLength": {
+      "ja": "通知および手続により異なる。",
+      "en": "Depends on the communication and procedure.",
+      "de": "Abhängig von Mitteilung und Verfahren."
+    },
+
+    "extensionRequirements": {
+      "ja": "期限満了前の申請および理由の提示が必要となる場合がある。法定期間は原則として延長できないため、期間の性質を確認する。",
+      "en": "A request before expiry and supporting reasons may be required. Statutory periods are generally not extendable, so the nature of the deadline must be checked.",
+      "de": "Gegebenenfalls sind ein Antrag vor Fristablauf und eine Begründung erforderlich. Gesetzliche Fristen sind grundsätzlich nicht verlängerbar; daher ist die Art der Frist zu prüfen."
+    },
+
+    "appealRoute": {
+      "ja": "DPMAの決定に対して、連邦特許裁判所への抗告等が可能。対象決定、期限および手数料は個別に確認する。",
+      "en": "Decisions of the DPMA may be appealed to the Federal Patent Court, depending on the decision. The applicable deadline and fee should be checked.",
+      "de": "Gegen Entscheidungen des DPMA kann je nach Entscheidung Beschwerde zum Bundespatentgericht eingelegt werden. Frist und Gebühr sind im Einzelfall zu prüfen."
+    },
+
+    "publicDatabase": {
+      "ja": "DPMAregister",
+      "en": "DPMAregister",
+      "de": "DPMAregister",
+      "url": "https://register.dpma.de/"
+    },
+
+    "publicationStage": {
+      "ja": "商標は審査を経て登録され、登録が公表される。その後に異議申立期間が開始する。",
+      "en": "After examination, the mark is registered and the registration is published. The opposition period then begins.",
+      "de": "Nach der Prüfung wird die Marke eingetragen und die Eintragung veröffentlicht. Anschließend beginnt die Widerspruchsfrist."
+    },
+
+    "oppositionPeriod": {
+      "ja": "登録の公表日から3か月。",
+      "en": "Three months from publication of the registration.",
+      "de": "Drei Monate ab Veröffentlichung der Eintragung."
+    },
+
+    "oppositionExtension": {
+      "ja": "異議申立期間自体は法定期間であり、原則として延長不可。",
+      "en": "The opposition period itself is a statutory period and is generally not extendable.",
+      "de": "Die Widerspruchsfrist ist eine gesetzliche Frist und grundsätzlich nicht verlängerbar."
+    },
+
+    "averagePendency": {
+      "ja": "案件および審査状況により異なる。早期審査でない通常案件については、最新のDPMA統計を参照する。",
+      "en": "Depends on the application and examination history. Current DPMA statistics should be consulted for ordinary applications not subject to accelerated examination.",
+      "de": "Abhängig von Anmeldung und Prüfungsverlauf. Für gewöhnliche, nicht beschleunigte Anmeldungen sind die aktuellen Statistiken des DPMA heranzuziehen."
+    },
+
+    "term": {
+      "ja": "10年。10年ごとに繰り返し更新可能。",
+      "en": "10 years, renewable repeatedly for further ten-year periods.",
+      "de": "10 Jahre; jeweils um weitere zehn Jahre verlängerbar."
+    },
+
+    "termStart": {
+      "ja": "出願日を基準として計算される。",
+      "en": "Calculated by reference to the filing date.",
+      "de": "Die Schutzdauer wird vom Anmeldetag aus berechnet."
+    },
+
+    "renewalWindow": {
+      "ja": "更新料は原則として存続期間満了前6か月から支払可能。",
+      "en": "Renewal fees may generally be paid during the six months preceding expiry.",
+      "de": "Die Verlängerungsgebühren können grundsätzlich innerhalb der sechs Monate vor Ablauf der Schutzdauer gezahlt werden."
+    },
+
+    "gracePeriod": {
+      "ja": "満了後6か月の追納期間あり。割増料金が必要。",
+      "en": "A six-month grace period is available after expiry, subject to surcharges.",
+      "de": "Nach Ablauf steht eine sechsmonatige Nachfrist zur Verfügung; Zuschlagsgebühren sind zu entrichten."
+    },
+
+    "renewalEvidence": {
+      "ja": "通常、更新時に使用証拠の提出は要求されない。更新料および追加区分料金等を確認する。",
+      "en": "Evidence of use is not generally required at renewal. Renewal fees and any additional class fees should be checked.",
+      "de": "Bei der Verlängerung ist grundsätzlich kein Benutzungsnachweis erforderlich. Verlängerungs- und gegebenenfalls Klassengebühren sind zu beachten."
+    },
+
+    "nonUseCancellation": {
+      "ja": "あり",
+      "en": "Available",
+      "de": "Möglich"
+    },
+
+    "nonUsePeriod": {
+      "ja": "原則として5年。",
+      "en": "Generally five years.",
+      "de": "Grundsätzlich fünf Jahre."
+    },
+
+    "nonUseDefenses": {
+      "ja": "真正な使用、使用の主体・地域・商品役務、使用形態、正当な不使用理由その他を個別に検討する。",
+      "en": "Genuine use, the user, territory, relevant goods or services, form of use and proper reasons for non-use should be assessed individually.",
+      "de": "Ernsthafte Benutzung, Benutzer, Gebiet, betroffene Waren oder Dienstleistungen, Benutzungsform und berechtigte Gründe für die Nichtbenutzung sind im Einzelfall zu prüfen."
+    },
+
+    "otherCancellation": {
+      "ja": "普通名称化、誤認を生じさせる使用その他を理由とする取消しがあり得る。",
+      "en": "Revocation may be available where the mark has become generic, its use has become misleading, or on other applicable grounds.",
+      "de": "Ein Verfall kann insbesondere bei Entwicklung zur Gattungsbezeichnung, irreführender Benutzung oder aus anderen anwendbaren Gründen eintreten."
+    },
+
+    "invalidation": {
+      "ja": "絶対的拒絶理由または先行権利等を理由とする無効手続あり。DPMA手続または裁判手続の選択を確認する。",
+      "en": "Invalidity proceedings are available on absolute grounds or on the basis of earlier rights. The appropriate administrative or court route should be checked.",
+      "de": "Nichtigkeitsverfahren sind aufgrund absoluter Schutzhindernisse oder älterer Rechte möglich. Der einschlägige Amts- oder Gerichtsweg ist zu prüfen."
+    },
+
+    "civilInjunction": {
+      "ja": "あり。侵害のおそれがある場合の差止めおよび一定の場合の予防的差止めが問題となる。",
+      "en": "Available. Injunctions against ongoing infringement and, in appropriate cases, threatened infringement may be sought.",
+      "de": "Möglich. Unterlassung kann bei bestehender Verletzung und unter bestimmten Voraussetzungen bei drohender Verletzung verlangt werden."
+    },
+
+    "civilDamages": {
+      "ja": "故意または過失がある場合に損害賠償請求が可能。具体的な算定方法は事案ごとに検討する。",
+      "en": "Damages may be claimed where the infringement was intentional or negligent. The appropriate method of calculation should be assessed case by case.",
+      "de": "Bei vorsätzlicher oder fahrlässiger Verletzung kann Schadensersatz verlangt werden. Die Berechnungsmethode ist im Einzelfall zu bestimmen."
+    },
+
+    "civilEvidencePreservation": {
+      "ja": "情報請求、書類の提出・検査、証拠保全その他の制度があり得る。",
+      "en": "Information claims, production and inspection of documents, preservation of evidence and other mechanisms may be available.",
+      "de": "Auskunftsansprüche, Vorlage und Besichtigung von Unterlagen, Beweissicherung und weitere Maßnahmen können zur Verfügung stehen."
+    },
+
+    "civilOther": {
+      "ja": "侵害品の廃棄・回収、情報開示、判決公表その他の救済があり得る。",
+      "en": "Destruction or recall of infringing goods, information claims, publication of the judgment and other remedies may be available.",
+      "de": "Vernichtung oder Rückruf verletzender Waren, Auskunft, Urteilsbekanntmachung und weitere Ansprüche können zur Verfügung stehen."
+    },
+
+    "borderMeasures": {
+      "ja": "あり。EU税関差止制度を利用できる。申請範囲、更新および保証等の要否は事案ごとに確認する。",
+      "en": "Available through the EU customs enforcement system. Territorial scope, renewal and any security requirements should be checked case by case.",
+      "de": "Im Rahmen der unionsrechtlichen Zollmaßnahmen verfügbar. Räumlicher Umfang, Verlängerung und etwaige Sicherheitsleistungen sind im Einzelfall zu prüfen."
+    },
+
+    "administrativeRaid": {
+      "ja": "中国等に見られる一般的な行政摘発制度とは異なり、通常は民事・刑事・税関手続が中心となる。",
+      "en": "Unlike the general administrative raid systems found in some jurisdictions, enforcement normally centers on civil, criminal and customs procedures.",
+      "de": "Anders als bei allgemeinen behördlichen Razzien in manchen Rechtsordnungen stehen regelmäßig zivilrechtliche, strafrechtliche und zollrechtliche Maßnahmen im Vordergrund."
+    },
+
+    "administrativeOther": {
+      "ja": "税関、警察・検察その他の所管機関による措置を、侵害態様に応じて検討する。",
+      "en": "Measures by customs, police, prosecutors and other competent authorities should be considered according to the nature of the infringement.",
+      "de": "Maßnahmen von Zoll, Polizei, Staatsanwaltschaft und weiteren zuständigen Stellen sind anhand der Verletzungsform zu prüfen."
+    },
+
+    "criminalAvailability": {
+      "ja": "あり。故意による商標権侵害等が刑事罰の対象となり得る。",
+      "en": "Available. Intentional trade mark infringement may constitute a criminal offense.",
+      "de": "Möglich. Vorsätzliche Markenverletzungen können strafbar sein."
+    },
+
+    "criminalFine": {
+      "ja": "あり。犯罪類型、業としての実施その他の事情により法定刑が異なる。",
+      "en": "Available. The statutory penalty depends on the offense, commercial conduct and other circumstances.",
+      "de": "Möglich. Der Strafrahmen hängt insbesondere vom Tatbestand, gewerbsmäßigem Handeln und weiteren Umständen ab."
+    },
+
+    "criminalImprisonment": {
+      "ja": "あり得る。通常類型と加重類型で上限が異なるため、適用条文を確認する。",
+      "en": "Potentially available. The maximum term differs between ordinary and aggravated offenses, so the applicable statutory provision should be checked.",
+      "de": "Möglich. Der Höchststrafrahmen unterscheidet sich zwischen Grundtatbestand und qualifizierten Fällen; die einschlägige Vorschrift ist zu prüfen."
+    },
+
+    "criminalOther": {
+      "ja": "没収、侵害品・表示の除去または廃棄、判決公表その他があり得る。",
+      "en": "Forfeiture, removal of unlawful signs, destruction and publication of the conviction may be available.",
+      "de": "Einziehung, Beseitigung widerrechtlicher Kennzeichnungen, Vernichtung und Bekanntmachung der Verurteilung können in Betracht kommen."
+    }
+  },
+
+  "statistics": {
+    "coverage": "2016–2025",
+    "status": "pending",
+    "series": []
+  },
+
+  "news": [
+    {
+      "id": "dpma-annual-report-2025",
+      "type": "practice",
+      "date": "2026-03-01",
+
+      "title": {
+        "ja": "DPMA年次報告2025の商標統計・取消実務",
+        "en": "Trade mark statistics and cancellation practice in the DPMA Annual Report 2025",
+        "de": "Markenstatistik und Löschungspraxis im DPMA-Jahresbericht 2025"
+      },
+
+      "summary": {
+        "ja": "DPMAの2025年報告では、絶対的拒絶理由、悪意出願、不使用等を含む取消し・無効手続の動向が公表されている。統計値は今後、statistics欄に整理する。",
+        "en": "The DPMA Annual Report 2025 discusses developments in revocation and invalidity proceedings, including absolute grounds, bad-faith filings and non-use. The numerical data will be organized in the statistics section.",
+        "de": "Der DPMA-Jahresbericht 2025 enthält Entwicklungen bei Verfalls- und Nichtigkeitsverfahren, unter anderem zu absoluten Schutzhindernissen, bösgläubigen Anmeldungen und Nichtbenutzung. Die Zahlen werden später im Statistikbereich aufbereitet."
+      },
+
+      "sourceUrl": "https://www.dpma.de/digitaler_jahresbericht/2025/jb25_de/marken.html"
+    }
+  ],
+
+  "faqs": [
+    {
+      "tag": "Filing",
+
+      "question": {
+        "ja": "本件では、ドイツ国内出願とEU商標出願のどちらが適切でしょうか。",
+        "en": "Would a German national application or an EU trade mark application be more appropriate in this case?",
+        "de": "Wäre in diesem Fall eine deutsche Markenanmeldung oder eine Unionsmarkenanmeldung zweckmäßiger?"
+      },
+
+      "followUp": {
+        "ja": "先行権利のリスク、費用および対象市場を踏まえて比較してください。",
+        "en": "Please compare the options in light of prior-right risks, costs and the intended market.",
+        "de": "Bitte vergleichen Sie die Möglichkeiten unter Berücksichtigung älterer Rechte, der Kosten und des vorgesehenen Marktes."
+      }
+    },
+
+    {
+      "tag": "Opposition",
+
+      "question": {
+        "ja": "異議申立て前に相手方へ連絡するのが通常でしょうか。",
+        "en": "Is it customary to contact the other party before filing an opposition?",
+        "de": "Ist es üblich, vor Einlegung eines Widerspruchs mit der Gegenseite Kontakt aufzunehmen?"
+      },
+
+      "followUp": {
+        "ja": "典型的な交渉期間、異議費用および和解方法も教えてください。",
+        "en": "Could you also indicate the typical negotiation period, opposition costs and settlement options?",
+        "de": "Könnten Sie auch den üblichen Verhandlungszeitraum, die Widerspruchskosten und mögliche Vergleichslösungen nennen?"
+      }
+    },
+
+    {
+      "tag": "Non-use",
+
+      "question": {
+        "ja": "この使用資料は、ドイツにおける真正な使用を立証するのに十分でしょうか。",
+        "en": "Would this material be sufficient to establish genuine use in Germany?",
+        "de": "Wären diese Unterlagen ausreichend, um eine ernsthafte Benutzung in Deutschland nachzuweisen?"
+      },
+
+      "followUp": {
+        "ja": "売上額、請求書、広告およびウェブサイト資料のうち、追加すべきものはありますか。",
+        "en": "Should we add sales figures, invoices, advertising or website materials?",
+        "de": "Sollten wir Umsatzzahlen, Rechnungen, Werbung oder Unterlagen zur Website ergänzen?"
+      }
+    }
+  ],
+
+  "sources": [
+    {
+      "label": "DPMA — Marken",
+      "url": "https://www.dpma.de/marken/",
+      "type": "official",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "label": "DPMAregister",
+      "url": "https://register.dpma.de/",
+      "type": "official",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "label": "DPMA — Anmeldung",
+      "url": "https://www.dpma.de/marken/anmeldung/",
+      "type": "official",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "label": "DPMA — Prüfung, Eintragung und Verlängerung",
+      "url": "https://www.dpma.de/marken/pruefung_eintragung_verlaengerung/",
+      "type": "official",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "label": "German Trade Mark Act",
+      "url": "https://www.gesetze-im-internet.de/markeng/",
+      "type": "legislation",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "label": "WIPO Lex — Germany",
+      "url": "https://www.wipo.int/wipolex/en/treaties/ShowResults?code=DE",
+      "type": "official",
+      "checkedAt": "2026-09-11"
+    }
+  ]
+}
