@@ -1,0 +1,460 @@
+{
+  "version": "2.0.0",
+  "sections": [
+    {
+      "id": "basic",
+      "title": {
+        "ja": "基本情報",
+        "en": "Basic information"
+      },
+      "fields": [
+        {
+          "id": "authority",
+          "label": {
+            "ja": "管轄官庁",
+            "en": "Competent authority"
+          }
+        },
+        {
+          "id": "protectionScope",
+          "label": {
+            "ja": "商標権の保護対象",
+            "en": "Scope of trademark protection"
+          }
+        },
+        {
+          "id": "markTypes",
+          "label": {
+            "ja": "商標の種類",
+            "en": "Types of marks"
+          }
+        },
+        {
+          "id": "madridAccessionDate",
+          "label": {
+            "ja": "マドプロ加盟年月日",
+            "en": "Madrid Protocol accession date"
+          }
+        },
+        {
+          "id": "niceClassification",
+          "label": {
+            "ja": "ニース国際分類",
+            "en": "Nice Classification"
+          }
+        },
+        {
+          "id": "classHeadingPractice",
+          "label": {
+            "ja": "類見出しの使用",
+            "en": "Use of class headings"
+          }
+        },
+        {
+          "id": "retailServices",
+          "label": {
+            "ja": "小売役務の指定",
+            "en": "Retail services"
+          }
+        },
+        {
+          "id": "multiClassApplication",
+          "label": {
+            "ja": "多区分出願",
+            "en": "Multi-class applications"
+          }
+        }
+      ]
+    },
+    {
+      "id": "filing",
+      "title": {
+        "ja": "出願・必要書類",
+        "en": "Filing and required documents"
+      },
+      "fields": [
+        {
+          "id": "applicationForm",
+          "label": {
+            "ja": "願書・申請書",
+            "en": "Application form"
+          }
+        },
+        {
+          "id": "powerOfAttorney",
+          "label": {
+            "ja": "委任状",
+            "en": "Power of attorney"
+          }
+        },
+        {
+          "id": "priorityDocuments",
+          "label": {
+            "ja": "優先権証明書類",
+            "en": "Priority documents"
+          }
+        },
+        {
+          "id": "homeRegistrationCertificate",
+          "label": {
+            "ja": "本国登録証明書",
+            "en": "Home registration certificate"
+          }
+        },
+        {
+          "id": "useEvidenceAtFiling",
+          "label": {
+            "ja": "出願時の使用証拠・宣誓書",
+            "en": "Use evidence or declaration at filing"
+          }
+        },
+        {
+          "id": "notarizationCertification",
+          "label": {
+            "ja": "公証・認証・出願人印章",
+            "en": "Notarization, legalization or applicant seal"
+          }
+        },
+        {
+          "id": "otherDocuments",
+          "label": {
+            "ja": "その他の必要書類",
+            "en": "Other required documents"
+          }
+        }
+      ]
+    },
+    {
+      "id": "examination",
+      "title": {
+        "ja": "審査制度",
+        "en": "Examination"
+      },
+      "fields": [
+        {
+          "id": "absoluteGroundsExamination",
+          "label": {
+            "ja": "絶対的登録要件の審査",
+            "en": "Examination on absolute grounds"
+          }
+        },
+        {
+          "id": "relativeGroundsExamination",
+          "label": {
+            "ja": "相対的登録要件の審査",
+            "en": "Examination on relative grounds"
+          }
+        },
+        {
+          "id": "disclaimer",
+          "label": {
+            "ja": "ディスクレーム制度",
+            "en": "Disclaimer practice"
+          }
+        },
+        {
+          "id": "consent",
+          "label": {
+            "ja": "コンセント制度",
+            "en": "Consent system"
+          }
+        },
+        {
+          "id": "acceleratedExamination",
+          "label": {
+            "ja": "早期・優先審査",
+            "en": "Accelerated or prioritized examination"
+          }
+        },
+        {
+          "id": "thirdPartyObservation",
+          "label": {
+            "ja": "情報提供・第三者意見",
+            "en": "Third-party observations"
+          }
+        }
+      ]
+    },
+    {
+      "id": "officeAction",
+      "title": {
+        "ja": "拒絶への応答",
+        "en": "Response to refusal"
+      },
+      "fields": [
+        {
+          "id": "responsePeriod",
+          "label": {
+            "ja": "応答期間",
+            "en": "Response period"
+          }
+        },
+        {
+          "id": "extensionAvailable",
+          "label": {
+            "ja": "期間延長の可否",
+            "en": "Availability of extension"
+          }
+        },
+        {
+          "id": "extensionLength",
+          "label": {
+            "ja": "延長可能期間",
+            "en": "Length of extension"
+          }
+        },
+        {
+          "id": "extensionRequirements",
+          "label": {
+            "ja": "延長の要件・理由",
+            "en": "Requirements or reasons for extension"
+          }
+        },
+        {
+          "id": "appealRoute",
+          "label": {
+            "ja": "不服申立て・審判",
+            "en": "Appeal or review route"
+          }
+        }
+      ]
+    },
+    {
+      "id": "publicationRegistration",
+      "title": {
+        "ja": "公開・異議・登録",
+        "en": "Publication, opposition and registration"
+      },
+      "fields": [
+        {
+          "id": "publicDatabase",
+          "label": {
+            "ja": "公開データベース",
+            "en": "Public database"
+          },
+          "type": "link"
+        },
+        {
+          "id": "publicationStage",
+          "label": {
+            "ja": "公告・公開の時期",
+            "en": "Publication stage"
+          }
+        },
+        {
+          "id": "oppositionPeriod",
+          "label": {
+            "ja": "異議申立期間",
+            "en": "Opposition period"
+          }
+        },
+        {
+          "id": "oppositionExtension",
+          "label": {
+            "ja": "異議期間延長の可否",
+            "en": "Extension of opposition period"
+          }
+        },
+        {
+          "id": "averagePendency",
+          "label": {
+            "ja": "出願から登録までの平均期間",
+            "en": "Average time from filing to registration"
+          }
+        }
+      ]
+    },
+    {
+      "id": "termRenewal",
+      "title": {
+        "ja": "存続期間・更新",
+        "en": "Term and renewal"
+      },
+      "fields": [
+        {
+          "id": "term",
+          "label": {
+            "ja": "存続期間",
+            "en": "Term of registration"
+          }
+        },
+        {
+          "id": "termStart",
+          "label": {
+            "ja": "存続期間の起算日",
+            "en": "Commencement of term"
+          }
+        },
+        {
+          "id": "renewalWindow",
+          "label": {
+            "ja": "更新申請期間",
+            "en": "Renewal window"
+          }
+        },
+        {
+          "id": "gracePeriod",
+          "label": {
+            "ja": "更新のグレースピリオド",
+            "en": "Renewal grace period"
+          }
+        },
+        {
+          "id": "renewalEvidence",
+          "label": {
+            "ja": "更新時の使用証拠等",
+            "en": "Use evidence or other renewal requirements"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cancellation",
+      "title": {
+        "ja": "取消し・無効",
+        "en": "Cancellation and invalidation"
+      },
+      "fields": [
+        {
+          "id": "nonUseCancellation",
+          "label": {
+            "ja": "不使用取消制度",
+            "en": "Non-use cancellation"
+          }
+        },
+        {
+          "id": "nonUsePeriod",
+          "label": {
+            "ja": "不使用期間",
+            "en": "Required period of non-use"
+          }
+        },
+        {
+          "id": "nonUseDefenses",
+          "label": {
+            "ja": "不使用の正当理由・抗弁",
+            "en": "Defenses or proper reasons for non-use"
+          }
+        },
+        {
+          "id": "otherCancellation",
+          "label": {
+            "ja": "不使用以外の取消制度",
+            "en": "Cancellation on grounds other than non-use"
+          }
+        },
+        {
+          "id": "invalidation",
+          "label": {
+            "ja": "無効制度",
+            "en": "Invalidation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "civil",
+      "title": {
+        "ja": "権利行使―民事救済",
+        "en": "Enforcement — civil remedies"
+      },
+      "fields": [
+        {
+          "id": "civilInjunction",
+          "label": {
+            "ja": "差止命令",
+            "en": "Injunction"
+          }
+        },
+        {
+          "id": "civilDamages",
+          "label": {
+            "ja": "損害賠償",
+            "en": "Damages"
+          }
+        },
+        {
+          "id": "civilEvidencePreservation",
+          "label": {
+            "ja": "証拠保全・開示",
+            "en": "Evidence preservation or disclosure"
+          }
+        },
+        {
+          "id": "civilOther",
+          "label": {
+            "ja": "その他の民事救済",
+            "en": "Other civil remedies"
+          }
+        }
+      ]
+    },
+    {
+      "id": "administrative",
+      "title": {
+        "ja": "権利行使―行政・水際救済",
+        "en": "Enforcement — administrative and border remedies"
+      },
+      "fields": [
+        {
+          "id": "borderMeasures",
+          "label": {
+            "ja": "水際措置",
+            "en": "Border measures"
+          }
+        },
+        {
+          "id": "administrativeRaid",
+          "label": {
+            "ja": "行政摘発・押収",
+            "en": "Administrative raid or seizure"
+          }
+        },
+        {
+          "id": "administrativeOther",
+          "label": {
+            "ja": "その他の行政救済",
+            "en": "Other administrative remedies"
+          }
+        }
+      ]
+    },
+    {
+      "id": "criminal",
+      "title": {
+        "ja": "権利行使―刑事救済",
+        "en": "Enforcement — criminal remedies"
+      },
+      "fields": [
+        {
+          "id": "criminalAvailability",
+          "label": {
+            "ja": "刑事救済の可否",
+            "en": "Availability of criminal remedies"
+          }
+        },
+        {
+          "id": "criminalFine",
+          "label": {
+            "ja": "罰金",
+            "en": "Fine"
+          }
+        },
+        {
+          "id": "criminalImprisonment",
+          "label": {
+            "ja": "拘禁・禁錮等",
+            "en": "Imprisonment or custodial penalty"
+          }
+        },
+        {
+          "id": "criminalOther",
+          "label": {
+            "ja": "その他の刑事救済",
+            "en": "Other criminal remedies"
+          }
+        }
+      ]
+    }
+  ]
+}
