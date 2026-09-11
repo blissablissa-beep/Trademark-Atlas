@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, viewport-fit=cover"
+  >
+  <meta name="theme-color" content="#0b1f33">
+  <meta
+    name="description"
+    content="各国・地域の商標実務を多言語で確認する個人用ガイド"
+  >
+
+  <title>Trademark Atlas</title>
+
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="stylesheet" href="./styles.css">
+
+  <link
+    rel="icon"
+    type="image/svg+xml"
+    href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230b1f33'/%3E%3Cpath d='M14 20h36M32 20v29M20 49h24' stroke='%23d6b464' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E"
+  >
+</head>
+
+<body>
+  <header class="app-header">
+    <div class="brand">
+      <div class="brand-mark" aria-hidden="true">TM</div>
+
+      <div>
+        <h1>Trademark Atlas</h1>
+        <p id="brandSubtitle">商標実務の法域別ガイド</p>
+      </div>
+    </div>
+
+    <div
+      class="language-switch"
+      role="group"
+      aria-label="表示言語"
+    >
+      <button
+        class="lang-button active"
+        data-mode="ja"
+        type="button"
+      >
+        日本語
+      </button>
+
+      <button
+        class="lang-button"
+        data-mode="en"
+        type="button"
+      >
+        English
+      </button>
+
+      <button
+        class="lang-button"
+        data-mode="bilingual"
+        type="button"
+      >
+        日英
+      </button>
+    </div>
+  </header>
+
+  <main>
+    <section
+      class="toolbar"
+      aria-label="検索と絞り込み"
+    >
+      <label class="search-box">
+        <span aria-hidden="true">⌕</span>
+
+        <input
+          id="searchInput"
+          type="search"
+          placeholder="法域・制度・判例・FAQを検索"
+          autocomplete="off"
+        >
+      </label>
+
+      <div
+        id="regionFilters"
+        class="filter-row"
+        role="group"
+        aria-label="地域"
+      ></div>
+    </section>
+
+    <section class="workspace">
+      <aside
+        class="jurisdiction-rail"
+        aria-label="法域一覧"
+      >
+        <div class="rail-heading">
+          <span id="jurisdictionCount">
+            0 jurisdictions
+          </span>
+
+          <button
+            id="favoritesOnly"
+            class="icon-button"
+            type="button"
+            aria-pressed="false"
+            title="お気に入りのみ"
+          >
+            ☆
+          </button>
+        </div>
+
+        <div
+          id="jurisdictionList"
+          class="jurisdiction-list"
+        ></div>
+      </aside>
+
+      <article
+        id="detailPanel"
+        class="detail-panel"
+        aria-live="polite"
+      >
+        <div class="empty-state">
+          法域を選択してください。
+        </div>
+      </article>
+    </section>
+  </main>
+
+  <template id="jurisdictionItemTemplate">
+    <button
+      class="jurisdiction-item"
+      type="button"
+    >
+      <span class="flag"></span>
+
+      <span class="item-copy">
+        <strong class="item-name"></strong>
+        <small class="item-meta"></small>
+      </span>
+
+      <span
+        class="freshness-dot"
+        title="更新状態"
+      ></span>
+    </button>
+  </template>
+
+  <script src="./app.js" defer></script>
+</body>
+</html>
