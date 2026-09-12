@@ -1,0 +1,591 @@
+{
+  "id": "gb",
+  "type": "country",
+  "flag": "🇬🇧",
+  "region": "europe",
+  "names": {
+    "ja": "イギリス",
+    "en": "United Kingdom"
+  },
+  "office": {
+    "ja": "英国知的財産庁（UKIPO）",
+    "en": "UK Intellectual Property Office (UKIPO)"
+  },
+  "availableLanguages": [],
+  "createdAt": "2026-09-12",
+  "updatedAt": "2026-09-12",
+  "status": "review",
+  "facts": {
+    "authority": {
+      "ja": "英国知的財産庁（UKIPO）",
+      "en": "UK Intellectual Property Office (UKIPO)"
+    },
+    "protectionScope": {
+      "ja": "英国で効力を有する商品・役務の個別商標、団体商標、証明商標および保護された国際登録等。英国登録商標は原則として英国およびマン島を対象とし、ジャージー・ガーンジー等の取扱いは別途確認する。",
+      "en": "Individual marks for goods and services, collective marks, certification marks, and protected international registrations effective in the UK. A UK registration generally covers the United Kingdom and Isle of Man; treatment of Jersey, Guernsey, and other territories should be checked separately."
+    },
+    "markTypes": {
+      "ja": "文字、図形、文字・図形結合、立体的形状、色彩、音、位置、模様、動き、マルチメディア、ホログラムその他。保護対象を明確かつ正確に特定できる態様で表示する必要がある。",
+      "en": "Word, figurative, combined word and figurative, three-dimensional, colour, sound, position, pattern, motion, multimedia, hologram, and other signs, provided the subject matter can be represented clearly and precisely."
+    },
+    "madridAccessionDate": {
+      "ja": "1995年12月1日（マドリッド協定議定書発効）",
+      "en": "1 December 1995 (entry into force of the Madrid Protocol)"
+    },
+    "niceClassification": {
+      "ja": "採用。商品34類・役務11類の計45類。",
+      "en": "Adopted: 34 classes of goods and 11 classes of services, 45 in total."
+    },
+    "classHeadingPractice": {
+      "ja": "商品・役務を明確かつ正確に特定する。類見出しを使用できる場合でも、その文言が明確であることが必要で、類内の全商品・役務を当然に包含するものではない。全項目を求める場合は対象用語を個別に列挙する。",
+      "en": "Goods and services must be identified clearly and precisely. Class headings may be used where sufficiently clear, but they do not automatically cover every item in the class. Relevant terms should be listed individually where comprehensive coverage is intended."
+    },
+    "retailServices": {
+      "ja": "可。原則として第35類で、小売の対象商品または商品分野を明示する。自己商品の単なる販売と第三者商品の取り揃えによる小売役務を区別する。",
+      "en": "Available, generally in Class 35, with the goods or product fields specified. Distinguish the mere sale of one’s own goods from a retail service involving the bringing together of third-party goods."
+    },
+    "multiClassApplication": {
+      "ja": "可",
+      "en": "Available"
+    },
+    "applicationForm": {
+      "ja": "オンラインまたは書面のForm TM3。標章、権利者の名称・住所、商品・役務および区分、使用中または真正な使用意思がある旨の宣言、料金その他の所定事項が必要。",
+      "en": "File online or on paper using Form TM3. The mark, owner’s name and address, goods and services and classes, a declaration of current use or bona fide intention to use, fees, and other prescribed information are required."
+    },
+    "powerOfAttorney": {
+      "ja": "通常、出願時に署名済み委任状の提出は要求されない。代理人の選任・変更はForm TM33等で記録する。特別な行為や権限に疑義がある場合は追加確認があり得る。",
+      "en": "A signed power of attorney is not generally filed with an ordinary application. Appointment or change of representative may be recorded using Form TM33. Further authority may be required for particular acts or where authority is in doubt."
+    },
+    "priorityDocuments": {
+      "ja": "パリ条約優先権は原則として最初の出願から6か月以内に主張する。基礎出願の国・日付・番号、同一商標および対応する商品役務を確認し、UKIPOが求める場合に証明書・翻訳を提出する。",
+      "en": "Paris Convention priority is generally claimed within six months of the first filing. Confirm the country, date and number, identity of the mark, and corresponding goods or services, and provide a certified copy or translation if required by UKIPO."
+    },
+    "homeRegistrationCertificate": {
+      "ja": "通常の英国国内出願では本国登録証明書は不要。マドプロ出願では国際登録および基礎標章に関するWIPO手続が適用される。",
+      "en": "A home-country registration certificate is not ordinarily required for a UK national application. Madrid filings are governed by the WIPO requirements concerning the international registration and basic mark."
+    },
+    "useEvidenceAtFiling": {
+      "ja": "使用見本の提出は通常不要。ただし、出願人は指定した全商品・役務について商標を使用しているか、真正な使用意思がある旨を宣言する。使用による識別力を主張する場合は別途証拠が必要。",
+      "en": "A specimen is not normally required. However, the applicant must declare that the mark is being used, or that there is a bona fide intention to use it, for all claimed goods and services. Separate evidence is needed when acquired distinctiveness is relied upon."
+    },
+    "notarizationCertification": {
+      "ja": "通常の出願では、公証・領事認証または公証済み印章は一般に不要。宣誓供述書・証人陳述書等が必要となる争訟手続は別途確認。",
+      "en": "Notarisation, consular legalisation, or a notarised applicant seal is not generally required for an ordinary filing. Separate evidential formalities may apply to affidavits, witness statements, or contested proceedings."
+    },
+    "otherDocuments": {
+      "ja": "団体商標・証明商標では使用規則を提出する。シリーズ商標、非伝統的商標、優先権、使用による識別力その他の事情に応じて追加資料が必要となり得る。",
+      "en": "Regulations governing use are required for collective and certification marks. Additional material may be needed for series marks, non-traditional marks, priority, acquired distinctiveness, or other special circumstances."
+    },
+    "absoluteGroundsExamination": {
+      "ja": "あり",
+      "en": "Yes"
+    },
+    "distinctivenessGrounds": {
+      "ja": "商標の定義を満たさない標章、識別力を欠く標章、商品・役務の種類、品質、数量、用途、価値、地理的原産地その他の特徴を示す記述的表示、普通名称・慣用表示等は拒絶対象となる。一定の拒絶理由は、出願前の使用により識別力を獲得したことを立証すれば克服できる場合がある。",
+      "en": "Signs failing the statutory definition, marks devoid of distinctive character, descriptive indications concerning kind, quality, quantity, intended purpose, value, geographical origin or other characteristics, and customary or generic indications are subject to refusal. Certain grounds may be overcome by proving acquired distinctiveness through use before the filing date."
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "商品の性質に由来する・技術的結果に必要な・商品に本質的価値を与える形状その他の特徴、公序または一般に受け入れられた道徳原則に反する標章、欺瞞的表示、法令により使用が禁止される標章、保護された旗章・紋章、王室標章、悪意出願等が拒絶理由となり得る。SkyKick判決後は、商業的根拠のない過度に広い商品役務指定について悪意の検討が重要。",
+      "en": "Other grounds include shapes or characteristics resulting from the nature of the goods, necessary to obtain a technical result, or giving substantial value; marks contrary to public policy or accepted principles of morality; deceptive marks; signs whose use is prohibited by law; protected flags, emblems, and royal insignia; and bad-faith applications. Following SkyKick, bad faith is particularly relevant to unduly broad specifications lacking a commercial rationale."
+    },
+    "relativeGroundsExamination": {
+      "ja": "限定的。UKIPOは先行する同一・類似商標を検索して出願人へ通知し、一定の場合は先行権利者にも通知するが、先行商標の存在だけで職権拒絶しない。拒絶には先行権利者による異議申立てが原則として必要。",
+      "en": "Limited. UKIPO searches for earlier identical or similar marks and notifies the applicant and, in appropriate cases, the earlier proprietor, but does not refuse ex officio merely because an earlier mark exists. Refusal normally requires opposition by the earlier-right owner."
+    },
+    "disclaimer": {
+      "ja": "あり。出願人・権利者は標章の特定要素について排他的権利を主張しない旨のディスクレーム、または登録の効力の限定を記録できる。ただし一般的・必須の審査慣行ではなく、戦略的影響を確認する。",
+      "en": "Available. An applicant or proprietor may disclaim exclusive rights in a specified element or agree to a limitation of the registration. It is not a routine mandatory examination practice, and its strategic effect should be assessed."
+    },
+    "consent": {
+      "ja": "UKIPOが先行商標のみを理由に職権拒絶しないため、同意書は通常審査の拒絶解消手段として中心的ではない。異議の取下げ、共存契約、侵害リスクの調整には利用可能。",
+      "en": "Because UKIPO does not refuse ex officio solely on earlier-mark grounds, consent is not central to overcoming ordinary examination. It may support withdrawal of an opposition, coexistence arrangements, and management of infringement risk."
+    },
+    "acceleratedExamination": {
+      "ja": "一般出願の初回審査は通常2～3週間と案内され、2026年度サービス基準は審査可能となってから10営業日以内。Right Startは料金を二段階で支払う予備確認型で、早期審査制度そのものではない。特別な迅速化の可否は緊急性に応じて確認する。",
+      "en": "The first examination report is generally issued within two to three weeks, and the 2026–27 service standard is within ten working days after the case is ready for examination. Right Start is a staged-fee preliminary-check route, not acceleration itself. Confirm any exceptional expedition based on urgency."
+    },
+    "thirdPartyObservation": {
+      "ja": "あり。出願公告後・登録前に、何人も絶対的拒絶理由について書面による第三者情報提供を無料で行える。正式な当事者手続ではなく、UKIPOは採用義務を負わない。先行権利に基づく主張は原則として異議で行う。2026年7月にTPOフォームが追加された。",
+      "en": "Available. After publication and before registration, any person may submit written observations free of charge on absolute grounds. This is not a formal inter partes action, and UKIPO is not bound to act. Earlier-right objections should normally be raised by opposition. Form TPO was added in July 2026."
+    },
+    "directExaminationPeriod": {
+      "ja": "初回審査報告は通常2～3週間。2026年6月実績では国内商標の90％が審査可能となってから8営業日以内に初回報告。拒絶・異議がなければ出願から登録まで通常約3～4か月。",
+      "en": "The first examination report is generally issued within two to three weeks. In June 2026, 90% of domestic trade mark first reports were completed within eight working days after becoming ready for examination. Unopposed and unobjectionable applications usually register in about three to four months from filing."
+    },
+    "madridExaminationPeriod": {
+      "ja": "2026年6月実績では国際商標の90％が審査可能となってから9営業日以内に初回報告。英国は暫定拒絶通報期間を18か月に延長し、異議に基づく拒絶は18か月経過後にも通報され得る旨を宣言している。",
+      "en": "In June 2026, 90% of international trade mark first reports were completed within nine working days after becoming ready for examination. The UK has declared an 18-month provisional-refusal period and permits opposition-based refusals to be notified after that period."
+    },
+    "colourPriorityIdentity": {
+      "ja": "優先権には原則として同一の商標が必要。白黒・グレースケール版と色彩版は、色彩差が標章の同一性に影響しないほど軽微かを厳格に検討する。旧CP4共通実務も参考になるが、Brexit後の現行英国法・判例を個別に確認する。",
+      "en": "Priority generally requires the same mark. A black-and-white or greyscale version and a colour version require careful assessment of whether colour differences are insignificant for identity. The former CP4 practice remains informative, but current post-Brexit UK law and case law should be checked."
+    },
+    "colourRelativeGrounds": {
+      "ja": "「同一」と「類似・混同のおそれ」を区別する。白黒版と色彩版が同一でない場合でも、外観を含む標章全体の類似性、色彩の識別性、商品役務および平均的需要者を踏まえて混同のおそれが成立し得る。",
+      "en": "Distinguish identity from similarity and likelihood of confusion. Even if black-and-white and colour versions are not identical, confusion may arise based on overall visual similarity, distinctiveness of colour, goods and services, and the average consumer."
+    },
+    "colourGenuineUse": {
+      "ja": "登録形態と異なる色彩での使用でも、登録商標の識別力を変えない相違であれば真正な使用となり得る。色彩自体が識別要素か、文字・図形要素と明暗の対比が維持されるか、実際の商業的印象が変わるかを検討する。",
+      "en": "Use in a different colour may qualify as genuine use where the difference does not alter the distinctive character of the registered mark. Consider whether colour itself is distinctive, whether word and figurative elements and tonal contrast are preserved, and whether the commercial impression changes."
+    },
+    "colourInfringementScope": {
+      "ja": "侵害では登録表示だけでなく、使用標章の全体的印象、色彩の識別性、商品役務、標章の評判および混同のおそれを事案ごとに判断する。白黒登録が当然に全色彩を包括するとは限らず、色を変えれば常に非侵害となるわけでもない。",
+      "en": "Infringement is assessed case by case from the registered representation, overall impression of the sign used, distinctiveness of colour, goods and services, reputation, and likelihood of confusion. A black-and-white registration does not necessarily cover every colour, nor does changing colour necessarily avoid infringement."
+    },
+    "colourFilingStrategy": {
+      "ja": "色彩が重要なら色彩版を正確に出願し、色彩非限定の保護も必要なら白黒版、文字商標またはシリーズ出願を別途検討する。複数版の差異が商標の本質に影響しない場合、最大6版のシリーズ出願を利用できる可能性がある。",
+      "en": "If colour is important, file the colour version accurately. If colour-independent protection is also needed, consider a separate black-and-white mark, word mark, or series application. A series application may cover up to six versions where differences do not substantially affect identity."
+    },
+    "responsePeriod": {
+      "ja": "審査報告の拒絶・指摘への応答は通常2か月。国際登録の絶対的拒絶に対する暫定拒絶通知も通常2か月の応答期間を付す。通知書記載の期限を必ず確認する。",
+      "en": "The usual period to resolve objections in an examination report is two months. A provisional refusal of an international registration on absolute grounds also usually carries a two-month response period. Always confirm the deadline in the notice."
+    },
+    "extensionAvailable": {
+      "ja": "可能な場合あり。官庁指定期間はForm TM9等により延長を求められることがあるが、法定期間、延長回数、遡及的延長の裁量要件は手続ごとに異なる。",
+      "en": "Available in appropriate cases. An extension of an Office-set period may be requested, including by Form TM9 where applicable, but statutory periods, number of extensions, and discretionary retrospective extension requirements vary by procedure."
+    },
+    "extensionLength": {
+      "ja": "通常は手続・通知ごとに決定。異議申立期間は、当初2か月以内に無料のTM7Aを提出することで1か月延長できる。",
+      "en": "Depends on the procedure and notice. The opposition period may be extended by one month by filing the free Form TM7A within the initial two months."
+    },
+    "extensionRequirements": {
+      "ja": "期限内申請、理由、料金または相手方の意見が必要となる場合がある。異議期間の1か月延長は当初2か月以内のオンラインTM7A提出が必要。期限徒過後の延長は裁量的で、十分な説明を要する。",
+      "en": "A timely request, reasons, fee, or the other party’s comments may be required. The one-month opposition extension requires online Form TM7A within the initial two months. A retrospective extension is discretionary and requires a sufficient explanation."
+    },
+    "refusalResponseRoute": {
+      "ja": "審査報告に対し、書面意見、商品役務の限定、識別力獲得の証拠その他で応答する。維持された拒絶については審問を求め、理由書（Form TM5）取得後、Appointed Personまたは裁判所への不服申立てを検討できる。審査報告から直接不服申立てを選べる場合もある。",
+      "en": "Respond to the examination report by argument, restriction of goods or services, acquired-distinctiveness evidence, or other appropriate action. If refusal is maintained, request a hearing and, after obtaining a statement of grounds on Form TM5, consider appeal to the Appointed Person or court. A direct appeal from the examination report may sometimes be available."
+    },
+    "refusalAppealPeriod": {
+      "ja": "査定系審問報告は原則として審問後10営業日以内というサービス基準。Appointed Personへの不服申立ては通常、審問官決定から28日以内。Appointed Personによる不服審理全体の最新平均期間は公表資料上明確でないため個別確認。",
+      "en": "The service standard for an ex parte hearing report is generally ten working days after the hearing. An appeal to the Appointed Person is normally due within 28 days of the hearing officer’s decision. A current overall average duration for Appointed Person appeals is not clearly stated in the reviewed materials and should be confirmed case by case."
+    },
+    "appealRoute": {
+      "ja": "UKIPO審問官の決定から、Appointed PersonまたはHigh Court（スコットランドでは適切な裁判所）へ原則28日以内に不服申立て。Appointed Personは比較的低コストだがその決定は終局的。裁判所ルートは上級審への可能性があるが費用リスクが大きい。",
+      "en": "A hearing officer’s decision may generally be appealed within 28 days to the Appointed Person or the High Court (or the appropriate court in Scotland). The Appointed Person is a relatively low-cost route but gives a final decision; the court route may permit further appeal but carries greater cost risk."
+    },
+    "publicDatabase": {
+      "ja": "UKIPO Search for a trade mark",
+      "en": "UKIPO Search for a trade mark",
+      "url": "https://trademarks.ipo.gov.uk/ipo-tmtext"
+    },
+    "publicationStage": {
+      "ja": "審査上の問題が解消するとオンライン商標公報に公告される。公告後、原則2か月の異議期間を経て、異議がなければ通常約2週間後に登録される。",
+      "en": "Once examination issues are resolved, the application is published in the online Trade Marks Journal. After the normal two-month opposition period, an unopposed mark is generally registered about two weeks later."
+    },
+    "oppositionPeriod": {
+      "ja": "公告直後から2か月。期間内にForm TM7Aを提出すれば3か月まで延長可能。",
+      "en": "Two months beginning immediately after publication, extendable to three months by timely filing Form TM7A."
+    },
+    "oppositionExtension": {
+      "ja": "あり。当初2か月以内に無料のオンラインForm TM7A（Notice of threatened opposition）を提出すると1か月延長。",
+      "en": "Available. Filing the free online Form TM7A (Notice of threatened opposition) within the initial two months extends the period by one month."
+    },
+    "averagePendency": {
+      "ja": "拒絶・異議がなければ、出願から登録まで通常約3～4か月。異議事件は大幅に長期化しており、2026年公表の目安では請求から書面決定まで約20か月、審問後の決定まで約37か月。",
+      "en": "An unobjectionable and unopposed application usually registers in about three to four months. Opposition cases are substantially longer; published 2026 estimates indicate about 20 months from claim to a decision on the papers and about 37 months to a decision following a hearing."
+    },
+    "term": {
+      "ja": "10年。10年ごとに繰り返し更新可能。",
+      "en": "Ten years, renewable repeatedly for further ten-year periods."
+    },
+    "termStart": {
+      "ja": "出願日から。更新日は原則として当初出願日を基準に計算される。",
+      "en": "From the filing date. The renewal date is generally calculated from the original filing date."
+    },
+    "renewalWindow": {
+      "ja": "満了前6か月から更新可能。",
+      "en": "Renewal is available during the six months before expiry."
+    },
+    "gracePeriod": {
+      "ja": "満了後6か月。遅延更新料が必要。さらにその後6か月以内は、理由を説明して回復・更新を申請できる場合がある。",
+      "en": "Six months after expiry, subject to a late-renewal fee. During the following six months, restoration and renewal may be requested with a full explanation in appropriate cases."
+    },
+    "renewalEvidence": {
+      "ja": "通常、更新時に使用証拠は不要。登録区分を減らすことは可能。更新とは別に5年間の不使用による取消リスクがある。",
+      "en": "Evidence of use is not generally required at renewal. The number of classes may be reduced. Non-use revocation exposure after five years remains separate from renewal."
+    },
+    "nonUseCancellation": {
+      "ja": "あり。UKIPO商標審判部または裁判所で請求可能。何人も請求できる。",
+      "en": "Available before the UKIPO Trade Marks Tribunal or the court. Any person may apply."
+    },
+    "nonUsePeriod": {
+      "ja": "登録手続完了後の5年間に真正な使用がない場合、またはその後連続5年間使用が中断した場合。取消日は原則として該当期間満了日の翌日以降。",
+      "en": "Where there is no genuine use during the five years following completion of registration, or where use is later suspended for an uninterrupted five-year period. Revocation may generally take effect from the day after the relevant period expires."
+    },
+    "nonUseDefenses": {
+      "ja": "商標権者側が真正な使用または不使用の正当理由を立証する。登録形態と識別力を変えない形態での使用、権利者の同意による使用、英国領域との商業的関連、期間・数量・商品役務との対応を確認する。",
+      "en": "The proprietor must prove genuine use or proper reasons for non-use. Assess use in a form not altering distinctive character, authorised use, commercial connection with the UK territory, period, volume, and links to the registered goods or services."
+    },
+    "otherCancellation": {
+      "ja": "商標が普通名称化した場合、権利者による使用の結果として商品役務の性質・品質・地理的原産地について公衆を誤認させるおそれが生じた場合等に取消しがあり得る。",
+      "en": "Revocation may be available where the mark has become the common name in trade or, through the proprietor’s use, has become liable to mislead the public as to the nature, quality, or geographical origin of the goods or services."
+    },
+    "invalidation": {
+      "ja": "あり。絶対的拒絶理由、悪意または先行商標・未登録商標のpassing off・著作権その他の先行権利に基づき、登録全部または一部の無効を請求できる。",
+      "en": "Available. A registration may be invalidated wholly or partly based on absolute grounds, bad faith, or earlier marks and rights including passing off, copyright, and other qualifying rights."
+    },
+    "civilInjunction": {
+      "ja": "あり。仮差止め・終局的差止め。イングランドおよびウェールズではHigh CourtまたはIPEC等、スコットランド・北アイルランドでは各管轄裁判所を検討。",
+      "en": "Available, including interim and final injunctions. In England and Wales, consider the High Court or IPEC; the appropriate courts apply in Scotland and Northern Ireland."
+    },
+    "civilDamages": {
+      "ja": "あり。損害賠償または侵害者利益の計算を選択し得る。故意・認識、追加損害、費用および利息は事案・手続により異なる。",
+      "en": "Available. The claimant may seek damages or an account of the infringer’s profits. Knowledge, additional damages, costs, and interest depend on the case and procedure."
+    },
+    "civilEvidencePreservation": {
+      "ja": "仮差止め、search order、freezing injunction、開示、情報提供その他の強力な証拠・資産保全手段が利用可能な場合がある。必要性、相当性、完全かつ率直な開示および担保を確認。",
+      "en": "Interim injunctions, search orders, freezing injunctions, disclosure, information orders, and other evidence or asset-preservation measures may be available. Necessity, proportionality, full and frank disclosure, and cross-undertakings should be assessed."
+    },
+    "civilOther": {
+      "ja": "侵害品・材料の引渡しまたは廃棄、差止め、宣言、判決公表、費用償還等があり得る。IPECには損害額・費用の上限を含む特則がある。",
+      "en": "Delivery up or destruction of infringing goods and materials, declarations, publicity orders, and recovery of costs may be available. IPEC applies special rules including caps on damages and recoverable costs."
+    },
+    "borderMeasures": {
+      "ja": "あり。HMRCへのApplication for ActionによりBorder Forceへ輸出入品の留置を求める。申請は原則1年間有効で、権利者は真贋判定、廃棄同意または訴訟開始を短期間で行う必要がある。",
+      "en": "Available. An Application for Action to HMRC may request Border Force detention of imports or exports. It is generally valid for one year, and the right holder must assess authenticity, agree to destruction, or commence proceedings within short deadlines."
+    },
+    "administrativeRaid": {
+      "ja": "Trading Standards、警察、Police Intellectual Property Crime Unit等による執行があり得る。UKIPO自体による一般的な行政摘発制度ではなく、地方・刑事当局との連携が中心。",
+      "en": "Enforcement may involve Trading Standards, police, and the Police Intellectual Property Crime Unit. This is not a general administrative raid system operated by UKIPO; coordination with local and criminal authorities is central."
+    },
+    "administrativeOther": {
+      "ja": "Border Forceによる留置・廃棄、Trading Standardsによる調査、オンラインプラットフォームへの削除申立て、ドメイン紛争手続等を事案に応じて併用する。",
+      "en": "Border Force detention and destruction, Trading Standards investigations, online platform takedowns, domain-name proceedings, and other measures may be combined as appropriate."
+    },
+    "criminalAvailability": {
+      "ja": "あり。登録商標と同一の標章等を商品・包装へ無権限で付す、販売・保有する等の行為について、Trade Marks Act 1994第92条等に基づく刑事責任があり得る。",
+      "en": "Available. Unauthorised application of an identical sign to goods or packaging, sale or possession, and related conduct may incur criminal liability under section 92 of the Trade Marks Act 1994 and related provisions."
+    },
+    "criminalFine": {
+      "ja": "あり。略式・正式起訴および適用条項により上限が異なり、正式起訴では罰金が科され得る。",
+      "en": "Available. Limits depend on summary or indictment proceedings and the provision applied; a fine may be imposed on conviction on indictment."
+    },
+    "criminalImprisonment": {
+      "ja": "あり得る。Trade Marks Act 1994第92条の正式起訴による有罪判決では、最長10年の拘禁刑が問題となり得る。最新の量刑法制を個別確認。",
+      "en": "Potentially available. Conviction on indictment under section 92 of the Trade Marks Act 1994 may carry imprisonment for up to ten years. Current sentencing legislation should be checked."
+    },
+    "criminalOther": {
+      "ja": "侵害品・材料・製造用具の没収・廃棄、捜索・押収、犯罪収益の剝奪その他があり得る。",
+      "en": "Forfeiture or destruction of infringing goods, materials, and equipment, search and seizure, confiscation of criminal proceeds, and other measures may be available."
+    }
+  },
+  "notablePoints": [
+    {
+      "id": "earlier-right-search-and-notification",
+      "category": "examination",
+      "importance": "high",
+      "title": {
+        "ja": "先行商標を検索・通知するが職権拒絶はしない",
+        "en": "UKIPO searches and notifies earlier marks but does not refuse ex officio"
+      },
+      "summary": {
+        "ja": "UKIPOは審査時に先行する同一・類似商標を検索し、出願人へ通知し、必要に応じて先行権利者にも連絡する。しかし先行商標の存在だけでは出願を拒絶せず、先行権利者が公告後に異議を申し立てる必要がある。",
+        "en": "UKIPO searches for earlier identical or similar marks, informs the applicant, and may contact earlier proprietors. It does not refuse merely because the earlier mark exists; the earlier-right owner must oppose after publication."
+      },
+      "practicalImpact": {
+        "ja": "審査報告に先行商標が記載されても直ちに拒絶対応は不要な場合があるが、公告後に権利者へ通知され、異議や警告を受けるリスクが高まる。",
+        "en": "An earlier mark in the examination report may not require overcoming a refusal, but notification to its owner increases the risk of opposition or a warning after publication."
+      },
+      "recommendedAction": {
+        "ja": "出願前にUKIPO、Madrid Monitorおよび必要に応じて商号・passing off上の使用標章を調査し、通知対象となる先行権利への交渉方針を準備する。",
+        "en": "Before filing, search UKIPO and Madrid Monitor and, where relevant, trade names and unregistered signs protected by passing off, and prepare a strategy for notified earlier rights."
+      },
+      "agentQuestion": {
+        "ja": "審査報告に挙げられた各先行商標について、権利者への通知可能性、異議リスクおよび事前接触の要否を評価してください。",
+        "en": "For each earlier mark cited in the report, please assess proprietor notification, opposition risk, and whether pre-publication contact is advisable."
+      },
+      "sourceUrl": "https://www.gov.uk/government/publications/trade-marks-earlier-rights/earlier-rights-fact-sheet--2",
+      "checkedAt": "2026-09-12",
+      "status": "verified"
+    },
+    {
+      "id": "skykick-bad-faith-broad-specifications",
+      "category": "filing",
+      "importance": "high",
+      "title": {
+        "ja": "SkyKick判決後の過度に広い商品役務指定と悪意",
+        "en": "Bad faith and overbroad specifications after SkyKick"
+      },
+      "summary": {
+        "ja": "英国最高裁は2024年11月、出願人が使用意思を有しない、または商業的根拠を説明できないほど広範な商品役務について、出願が部分的に悪意となり得ることを示した。UKIPOは2025年6月のPAN 1/25で、広い指定の商業的根拠を審査で質問する方針を明確化した。",
+        "en": "In November 2024, the UK Supreme Court confirmed that an application may be partly in bad faith for goods or services the applicant never intended to use or for specifications so broad that no commercial rationale exists. UKIPO’s PAN 1/25 of June 2025 explains that examiners may require a commercial rationale for broad claims."
+      },
+      "practicalImpact": {
+        "ja": "類見出しや非常に広い用語を防御的に列挙すると、審査拒絶だけでなく、登録後の部分無効や侵害訴訟上の不利益につながり得る。",
+        "en": "Defensive use of class headings or very broad terms may lead not only to examination objections but also partial invalidity and disadvantages in later enforcement."
+      },
+      "recommendedAction": {
+        "ja": "各商品役務について現在の使用または現実的な5年以内の事業計画を文書化し、広い用語には具体的な商業的根拠を残す。",
+        "en": "Document current use or a realistic five-year business plan for every claimed item and retain a concrete commercial rationale for broad terms."
+      },
+      "agentQuestion": {
+        "ja": "この指定はSkyKickおよびPAN 1/25に照らして広すぎますか。各用語について十分な商業的根拠を説明できますか。",
+        "en": "Is this specification overbroad under SkyKick and PAN 1/25, and can we explain a sufficient commercial rationale for every term?"
+      },
+      "sourceUrl": "https://www.gov.uk/government/publications/practice-amendment-notice-125/pan-125-required-behaviour-and-the-impact-on-examination-practice-following-the-supreme-courts-judgment-in-skykick-uk-ltd-and-another-v-sky-ltd-a",
+      "checkedAt": "2026-09-12",
+      "status": "verified"
+    },
+    {
+      "id": "brexit-comparable-uk-rights",
+      "category": "territorial-scope",
+      "importance": "high",
+      "title": {
+        "ja": "Brexit後、EU商標は英国をカバーしない",
+        "en": "EU trade marks no longer cover the UK after Brexit"
+      },
+      "summary": {
+        "ja": "2021年1月1日以降、EU商標は英国で新たな保護を与えない。同日時点の登録EU商標等からは独立したcomparable UK trade markが作成されたため、現在はEU権と英国権を別々に更新・移転・使用立証・執行する必要がある。",
+        "en": "Since 1 January 2021, an EU trade mark no longer provides new UK protection. Existing registered EUTMs generated separate comparable UK trade marks, so EU and UK rights must now be renewed, transferred, supported by use, and enforced separately."
+      },
+      "practicalImpact": {
+        "ja": "EUIPO出願だけでは英国市場を保護できない。比較対象権には元のEU権の日付等が引き継がれる一方、更新日、送達先、使用地域および取引記録を独立管理する必要がある。",
+        "en": "An EUIPO filing alone does not protect the UK market. Although comparable rights retain relevant EU dates, renewal, address for service, use territory, and transactions require separate management."
+      },
+      "recommendedAction": {
+        "ja": "英国を重要市場とする場合は英国国内出願または英国を指定するマドプロ出願を行い、既存ポートフォリオのUK009・UK008等の比較対象権も監査する。",
+        "en": "For an important UK market, file nationally or designate the UK through Madrid, and audit existing comparable rights such as UK009 and UK008 registrations."
+      },
+      "agentQuestion": {
+        "ja": "当社の旧EU商標から生成された比較対象英国商標と、別途英国出願すべき不足範囲を確認してください。",
+        "en": "Please identify our comparable UK rights derived from former EU rights and any protection gaps requiring a separate UK filing."
+      },
+      "sourceUrl": "https://www.gov.uk/guidance/eu-trade-mark-protection-and-comparable-uk-trade-marks",
+      "checkedAt": "2026-09-12",
+      "status": "verified"
+    },
+    {
+      "id": "uk-address-for-service",
+      "category": "procedure",
+      "importance": "high",
+      "title": {
+        "ja": "英国・ジブラルタル・チャネル諸島の送達先が必要",
+        "en": "A UK, Gibraltar, or Channel Islands address for service is required"
+      },
+      "summary": {
+        "ja": "2021年以降、新規出願および新たな争訟手続では、原則として英国、ジブラルタルまたはチャネル諸島の有効な送達先が必要。マドプロ指定は問題なく進む間は外国住所が受理される場合があるが、拒絶応答や異議等では現地送達先が必要となる。",
+        "en": "Since 2021, new applications and newly initiated contentious proceedings generally require a valid address for service in the UK, Gibraltar, or the Channel Islands. A Madrid designation may proceed with a foreign address while unobjectionable, but a local address is required for responses or opposition and other contested steps."
+      },
+      "practicalImpact": {
+        "ja": "日本企業は少なくとも拒絶・異議が生じた段階で英国側の送達体制を整える必要があり、期限直前の代理人選任は危険。",
+        "en": "A Japanese company must establish a UK service arrangement at least when an objection or opposition arises; appointing counsel immediately before a deadline is risky."
+      },
+      "recommendedAction": {
+        "ja": "直接出願時から英国商標弁理士等を選任し、UKIPO・WIPO・日本側代理人間の通知経路と期限管理責任を明確にする。",
+        "en": "Appoint a UK trade mark attorney from the direct-filing stage and define communication and deadline responsibility among UKIPO, WIPO, UK counsel, and Japanese counsel."
+      },
+      "agentQuestion": {
+        "ja": "本件に有効な英国送達先を提供できますか。マドプロ暫定拒絶前から代理人を記録すべきでしょうか。",
+        "en": "Can you provide a valid UK address for service, and should you be recorded before any Madrid provisional refusal arises?"
+      },
+      "sourceUrl": "https://www.gov.uk/guidance/address-for-service-for-intellectual-property-rights",
+      "checkedAt": "2026-09-12",
+      "status": "verified"
+    }
+  ],
+  "statistics": {
+    "coverage": "2016–2025",
+    "status": "pending",
+    "series": []
+  },
+  "news": [
+    {
+      "id": "ukipo-third-party-observation-form-2026",
+      "type": "practice",
+      "date": "2026-07-23",
+      "title": {
+        "ja": "UKIPOが商標の第三者情報提供用TPOフォームを追加",
+        "en": "UKIPO adds Form TPO for trade mark third-party observations"
+      },
+      "summary": {
+        "ja": "登録前の商標について無料で第三者情報提供を行うTPOフォームが、2026年7月に商標フォーム一覧へ追加された。情報提供は絶対的拒絶理由に適し、正式な異議手続ではない。",
+        "en": "In July 2026, UKIPO added free Form TPO for third-party observations before registration. Observations are suited to absolute grounds and do not constitute formal opposition proceedings."
+      },
+      "sourceUrl": "https://www.gov.uk/government/publications/trade-mark-forms-and-fees/trade-mark-forms-and-fees"
+    },
+    {
+      "id": "madrid-jersey-extension-2026",
+      "type": "law",
+      "date": "2026-08-01",
+      "title": {
+        "ja": "英国のマドプロ適用がジャージーへ拡張",
+        "en": "The UK extends Madrid Protocol protection to Jersey"
+      },
+      "summary": {
+        "ja": "英国によるマドリッド協定議定書の批准は、2026年8月1日からジャージー代官管轄区にも拡張された。指定時期・既存国際登録への適用および個別料金を確認する。",
+        "en": "The UK’s Madrid Protocol ratification was extended to the Bailiwick of Jersey with effect from 1 August 2026. Check designation timing, treatment of existing registrations, and individual fees."
+      },
+      "sourceUrl": "https://www.wipo.int/wipolex/en/treaties/notifications/details/treaty_madridp-gp_242"
+    },
+    {
+      "id": "ukipo-pan-1-25-skykick",
+      "type": "case-practice",
+      "date": "2025-06-27",
+      "title": {
+        "ja": "SkyKick最高裁判決を受けUKIPOがPAN 1/25を公表",
+        "en": "UKIPO publishes PAN 1/25 following the Supreme Court’s SkyKick judgment"
+      },
+      "summary": {
+        "ja": "広範な商品役務指定に商業的根拠がない場合の悪意について、UKIPOが審査方針を更新した。審査官は説明または適切な指定の限定を求め、通常2か月の応答期間を付す。",
+        "en": "UKIPO updated examination practice on bad faith where broad specifications lack a commercial rationale. Examiners may request an explanation or appropriate restriction and generally allow two months to respond."
+      },
+      "sourceUrl": "https://www.gov.uk/government/publications/practice-amendment-notice-125/pan-125-required-behaviour-and-the-impact-on-examination-practice-following-the-supreme-courts-judgment-in-skykick-uk-ltd-and-another-v-sky-ltd-a"
+    }
+  ],
+  "faqs": [
+    {
+      "tag": "Filing",
+      "question": {
+        "ja": "この商品役務指定はSkyKick判決後の悪意審査に照らして広すぎませんか。",
+        "en": "Is this specification too broad in light of the post-SkyKick bad-faith examination practice?"
+      },
+      "followUp": {
+        "ja": "各用語について真正な使用意思と商業的根拠をどの資料で残すべきか教えてください。",
+        "en": "What documents should we retain to support bona fide intention to use and commercial rationale for each term?"
+      }
+    },
+    {
+      "tag": "Earlier rights",
+      "question": {
+        "ja": "審査報告に挙げられた先行商標の権利者へUKIPOから通知されますか。",
+        "en": "Will UKIPO notify the owners of the earlier marks cited in the examination report?"
+      },
+      "followUp": {
+        "ja": "公告前の交渉、指定の限定または異議への備えのうち、どれを推奨しますか。",
+        "en": "Would you recommend pre-publication negotiations, restriction of the specification, or preparation for opposition?"
+      }
+    },
+    {
+      "tag": "Brexit",
+      "question": {
+        "ja": "当社のEU商標から生成された比較対象英国商標は現在も有効ですか。",
+        "en": "Are the comparable UK trade marks derived from our EU trade marks still valid?"
+      },
+      "followUp": {
+        "ja": "更新日、送達先、使用証拠および所有者情報に不一致がないか監査してください。",
+        "en": "Please audit their renewal dates, addresses for service, use evidence, and ownership details."
+      }
+    },
+    {
+      "tag": "Colour",
+      "question": {
+        "ja": "白黒版と色彩版を別々に出願すべきですか、それともシリーズ出願が適切ですか。",
+        "en": "Should we file black-and-white and colour versions separately, or would a series application be appropriate?"
+      },
+      "followUp": {
+        "ja": "優先権、異議、真正な使用および侵害範囲への影響も比較してください。",
+        "en": "Please compare the effects on priority, opposition, genuine use, and infringement scope."
+      }
+    },
+    {
+      "tag": "Refusal",
+      "question": {
+        "ja": "この拒絶には書面応答、審問、Appointed Personへの不服申立てのどの経路が適切ですか。",
+        "en": "Should this refusal be addressed by written response, a hearing, or appeal to the Appointed Person?"
+      },
+      "followUp": {
+        "ja": "各経路の期限、費用、追加証拠、想定期間およびHigh Courtルートとの違いを教えてください。",
+        "en": "Please compare deadlines, costs, additional evidence, expected duration, and the alternative High Court route."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "GOV.UK — Register a trade mark",
+      "url": "https://www.gov.uk/how-to-register-a-trade-mark",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "UKIPO — Trade marks timeline",
+      "url": "https://www.gov.uk/government/publications/process-for-applying-to-register-for-a-trade-mark/trade-marks-timeline",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "UKIPO — Manual of trade marks practice",
+      "url": "https://www.gov.uk/guidance/trade-marks-manual",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "UKIPO — Examination guide",
+      "url": "https://www.gov.uk/guidance/trade-marks-manual/the-examination-guide",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "UKIPO — Earlier rights fact sheet",
+      "url": "https://www.gov.uk/government/publications/trade-marks-earlier-rights/earlier-rights-fact-sheet--2",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "UKIPO — Objecting to trade marks and legal costs",
+      "url": "https://www.gov.uk/guidance/objecting-to-other-peoples-trade-marks-and-the-legal-costs",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "UKIPO — Revocation for non-use",
+      "url": "https://www.gov.uk/government/publications/trade-marks-revocation/revocation-non-use-proceedings",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "UKIPO — Address for service",
+      "url": "https://www.gov.uk/guidance/address-for-service-for-intellectual-property-rights",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "UKIPO — Customer service standards",
+      "url": "https://www.gov.uk/government/publications/ipo-customer-service-standards",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Trade Marks Act 1994",
+      "url": "https://www.legislation.gov.uk/ukpga/1994/26",
+      "type": "legislation",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "UK Supreme Court — SkyKick v Sky",
+      "url": "https://www.supremecourt.uk/cases/uksc-2021-0181",
+      "type": "case-law",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "UKIPO — PAN 1/25 following SkyKick",
+      "url": "https://www.gov.uk/government/publications/practice-amendment-notice-125/pan-125-required-behaviour-and-the-impact-on-examination-practice-following-the-supreme-courts-judgment-in-skykick-uk-ltd-and-another-v-sky-ltd-a",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "GOV.UK — Comparable UK trade marks",
+      "url": "https://www.gov.uk/guidance/eu-trade-mark-protection-and-comparable-uk-trade-marks",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "HMRC — Application for Action",
+      "url": "https://www.gov.uk/guidance/apply-for-action-to-protect-your-intellectual-property-rights",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "WIPO Lex — Madrid Protocol, United Kingdom",
+      "url": "https://www.wipo.int/wipolex/en/treaties/parties/remarks/GB/8",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "WIPO — Madrid extension to Jersey",
+      "url": "https://www.wipo.int/wipolex/en/treaties/notifications/details/treaty_madridp-gp_242",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    }
+  ]
+}
