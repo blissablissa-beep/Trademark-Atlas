@@ -7,7 +7,7 @@
   "office": { "ja": "米国特許商標庁（USPTO）", "en": "United States Patent and Trademark Office (USPTO)" },
   "availableLanguages": [],
   "createdAt": "2026-09-11",
-  "updatedAt": "2026-09-11",
+  "updatedAt": "2026-09-12",
   "status": "review",
   "facts": {
     "authority": { "ja": "米国特許商標庁（USPTO）", "en": "United States Patent and Trademark Office (USPTO)" },
@@ -26,6 +26,8 @@
     "notarizationCertification": { "ja": "通常、公証済みの出願人印章は不要。個別手続では要確認。", "en": "A notarized applicant seal is generally not required; confirm for the particular procedure." },
     "otherDocuments": { "ja": "法人形態・本拠地、翻訳、標章の説明その他、出願内容に応じた情報。", "en": "Entity type and domicile, translations, description of the mark and other information depending on the application." },
     "absoluteGroundsExamination": { "ja": "あり", "en": "Yes" },
+    "distinctivenessGrounds": { "ja": "普通名称は登録できない。単なる記述的表示、主として地理的に記述する表示、主として姓からなる標章等は、原則として主登録簿への登録を拒絶され得る。ただし、使用による識別力（acquired distinctiveness／secondary meaning）を立証して第2条(f)により克服できる場合があり、案件によっては補助登録簿も検討する。標章が商品・役務の出所表示として機能しているかも独立して審査される。", "en": "Generic matter cannot be registered. Merely descriptive, primarily geographically descriptive, and primarily merely a surname matter may be refused registration on the Principal Register. A refusal may sometimes be overcome by proving acquired distinctiveness under Section 2(f), and the Supplemental Register may be considered where applicable. The USPTO also separately considers whether the matter functions as a source identifier for the goods or services." },
+    "otherAbsoluteGrounds": { "ja": "欺瞞的表示、欺瞞的な地理的表示、人・団体・信条または国家的象徴との虚偽の関連を示唆する表示、米国・州・自治体・外国の旗章・紋章等、本人の書面同意のない存命者の氏名・肖像・署名、機能的事項、単なる装飾や広く用いられるメッセージなど商標として機能しない表示が主な論点となる。違法な使用を基礎とする拒絶その他も案件別に確認する。旧来の「immoral or scandalous」条項は連邦最高裁判例後、そのまま現行の拒絶根拠として扱わない。", "en": "Principal issues include deceptive matter; primarily geographically deceptively misdescriptive matter; matter falsely suggesting a connection with persons, institutions, beliefs, or national symbols; specified flags, coats of arms, and insignia; a living individual’s name, portrait, or signature without written consent; functional matter; and matter that fails to function as a trademark, such as mere ornamentation or a widely used message. Unlawful-use issues and other grounds should be checked case by case. The former ‘immoral or scandalous’ bar is not treated here as a current standalone refusal ground following U.S. Supreme Court decisions." },
     "relativeGroundsExamination": { "ja": "あり", "en": "Yes" },
     "disclaimer": { "ja": "あり", "en": "Available" },
     "consent": { "ja": "あり。ただし、同意書のみで混同のおそれに関する拒絶が必ず解消されるわけではない。", "en": "Available, but a letter of consent alone does not necessarily overcome a likelihood-of-confusion refusal." },
@@ -72,6 +74,47 @@
     "criminalImprisonment": { "ja": "あり得る。犯罪類型その他の事情により異なる。", "en": "Potentially available, depending on the offense and other circumstances." },
     "criminalOther": { "ja": "没収、廃棄その他の措置。", "en": "Forfeiture, destruction and other measures." }
   },
+  "notablePoints": [
+    {
+      "id": "post-registration-audit-program",
+      "category": "use-evidence",
+      "importance": "high",
+      "title": { "ja": "登録後使用証拠の監査（Post Registration Audit Program）", "en": "Post Registration Audit Program for proof of use" },
+      "summary": { "ja": "第8条または第71条の使用宣誓を提出した登録は監査対象となり得る。USPTOは2024年10月以降、無作為抽出中心から、記録や維持手続に通常の商取引上の使用を疑わせる特徴がある登録を対象とする指向型監査へ選定方法を変更した。監査では追加の商品・役務について使用証拠を求められ、最初の応答が不十分な場合は監査対象類の全商品・役務の証拠を要求され得る。", "en": "A registration supported by a Section 8 or Section 71 declaration may be audited. Since October 2024, the USPTO has moved from principally random selection to directed audits of registrations whose records or maintenance filings contain characteristics that call ordinary-course use into question. The owner may be required to provide proof for additional goods or services and, if the first response is insufficient, for every good or service in the audited classes." },
+      "practicalImpact": { "ja": "裏付けのない商品・役務は削除し、該当する削除料金を納付する必要が生じ得る。適切に応答しない場合、監査対象類または登録全体が取り消されるリスクがあるため、維持手続前の使用実態確認が重要。", "en": "Unsupported goods or services may need to be deleted and applicable deletion fees paid. An inadequate response can put audited classes or the registration at risk, so actual use should be reviewed before every maintenance filing." },
+      "recommendedAction": { "ja": "第8条・第71条・更新手続の前に、商品・役務ごとに現在の米国内使用と日付入りの証拠を整理し、登録簿から削除すべき表示を現地代理人と確認する。", "en": "Before a Section 8, Section 71, or renewal filing, inventory current U.S. use and dated evidence for each good or service and confirm with U.S. counsel which identifications should be deleted." },
+      "agentQuestion": { "ja": "今回の維持手続は監査選定のリスクが高い特徴を含みますか。また、各商品・役務について監査に耐える証拠は揃っていますか。", "en": "Does this maintenance filing contain characteristics that increase the risk of audit selection, and do we have audit-ready proof for every listed good and service?" },
+      "sourceUrl": "https://www.uspto.gov/trademarks/maintain/post-registration-audit-program",
+      "checkedAt": "2026-09-12",
+      "status": "verified"
+    },
+    {
+      "id": "mandatory-us-counsel",
+      "category": "representation",
+      "importance": "high",
+      "title": { "ja": "外国居住者には米国弁護士の代理が必須", "en": "Mandatory U.S.-licensed counsel for foreign-domiciled parties" },
+      "summary": { "ja": "米国外に住所を有する出願人・登録権者・TTAB手続の当事者は、USPTOにおいて米国の州または準州で資格を有する弁護士の代理を受けなければならない。日本企業による直接出願だけでなく、登録後の提出やTTAB手続にも影響する。", "en": "A foreign-domiciled applicant, registrant, or party to a TTAB proceeding must be represented before the USPTO by an attorney licensed in a U.S. state or territory. This affects not only direct filings by Japanese companies but also post-registration submissions and TTAB proceedings." },
+      "practicalImpact": { "ja": "外国弁理士のみではUSPTOへの代理提出を完結できない。住所情報も代理要件の判断に利用されるため、形式的な米国住所の記載は避ける。", "en": "A foreign trademark practitioner alone cannot complete representation before the USPTO. Domicile information is used to determine the representation requirement, so a nominal U.S. address should not be used." },
+      "recommendedAction": { "ja": "出願前に米国弁護士を選任し、日本側代理人との役割分担、連絡経路、応答・維持期限の管理方法を決める。", "en": "Engage U.S.-licensed counsel before filing and agree on roles, communications, and responsibility for prosecution and maintenance deadlines." },
+      "agentQuestion": { "ja": "当社の本拠地情報では米国弁護士選任義務が生じますか。また、マドプロ経由の暫定拒絶応答にも同じ代理要件が適用されますか。", "en": "Does our domicile information trigger the U.S.-counsel requirement, and does the same requirement apply when responding to a Madrid provisional refusal?" },
+      "sourceUrl": "https://www.uspto.gov/trademarks/basics/do-i-need-attorney",
+      "checkedAt": "2026-09-12",
+      "status": "verified"
+    },
+    {
+      "id": "filing-basis-and-use",
+      "category": "filing",
+      "importance": "high",
+      "title": { "ja": "出願根拠ごとに使用証拠と手続時期が異なる", "en": "Filing basis determines use evidence and procedural timing" },
+      "summary": { "ja": "米国出願では、現実の使用に基づく第1条(a)、使用意思に基づく第1条(b)、外国出願・登録に基づく第44条、マドプロ経由の第66条(a)などの出願根拠を区別する。第1条(a)では出願時の使用日・使用見本等が必要で、第1条(b)では登録前に使用主張と使用見本の提出が必要となる。第44条・第66条(a)では登録前の米国内使用証拠が不要となる場合があるが、登録維持段階の使用要件は別途生じる。", "en": "U.S. applications distinguish among Section 1(a) actual use, Section 1(b) intent to use, Section 44 foreign-application or foreign-registration bases, and Section 66(a) Madrid filings. Section 1(a) requires applicable use dates and a specimen at filing; Section 1(b) requires an allegation of use and specimen before registration. Sections 44 and 66(a) may avoid pre-registration proof of U.S. use, but post-registration use and maintenance requirements still apply." },
+      "practicalImpact": { "ja": "根拠選択を誤ると、補正不能、登録遅延、追加費用または出願放棄につながり得る。基礎出願・登録の所有者、標章、商品役務の整合も重要。", "en": "An incorrect basis can cause an unavailable amendment, delay, added cost, or abandonment. Consistency of the owner, mark, and goods or services with the foreign basis is also important." },
+      "recommendedAction": { "ja": "出願時に米国内使用の有無、使用見本の品質、外国基礎、マドプロ利用の利点・制約を比較し、複数根拠を併記する場合の維持・削除方針も決める。", "en": "At filing, compare U.S. use, specimen quality, the foreign basis, and the benefits and constraints of Madrid, and decide how multiple bases will be maintained or deleted if pleaded." },
+      "agentQuestion": { "ja": "本件では第1条(a)、第1条(b)、第44条または第66条(a)のどれが最適で、登録前後にどの使用証拠と期限が発生しますか。", "en": "Which of Sections 1(a), 1(b), 44, or 66(a) is optimal here, and what use evidence and deadlines will arise before and after registration?" },
+      "sourceUrl": "https://www.uspto.gov/trademarks/apply/basis",
+      "checkedAt": "2026-09-12",
+      "status": "verified"
+    }
+  ],
   "statistics": { "coverage": "2016–2025", "status": "pending", "series": [] },
   "news": [
     {
@@ -89,6 +132,14 @@
       "title": { "ja": "2025年商標料金改定：単一の基本出願料金と追加料金", "en": "2025 trademark fee rule introduces a single base application fee and surcharges" },
       "summary": { "ja": "TEAS Plus／Standardに代わり、基本出願料金と、情報不足・自由記載の商品役務・長文記載等に対する追加料金が導入された。", "en": "TEAS Plus and Standard were replaced by a base application fee with surcharges for insufficient information, free-form identifications and excess characters, among other items." },
       "sourceUrl": "https://www.uspto.gov/dashboard/trademarks/"
+    },
+    {
+      "id": "directed-post-registration-audits-2024",
+      "type": "practice",
+      "date": "2024-10-28",
+      "title": { "ja": "USPTOが登録後監査を指向型選定へ変更", "en": "USPTO changes post-registration audit selection to a directed model" },
+      "summary": { "ja": "第8条・第71条の使用宣誓からの無作為抽出中心の方式に代え、記録や維持書類に通常の商取引上の使用を疑わせる特徴がある登録を監査対象として選ぶ方式が導入された。", "en": "The USPTO replaced principally random selection from Section 8 and Section 71 filings with directed selection of registrations whose records or maintenance filings contain characteristics that call ordinary-course use into question." },
+      "sourceUrl": "https://www.uspto.gov/subscription-center/2024/changes-how-uspto-selects-registrations-audit"
     }
   ],
   "faqs": [
@@ -115,6 +166,11 @@
     { "label": "USPTO Drawing of your trademark", "url": "https://www.uspto.gov/trademarks/basics/mark-drawings-trademarks", "type": "official", "checkedAt": "2026-09-11" },
     { "label": "TMEP May 2026 highlights", "url": "https://www.uspto.gov/sites/default/files/documents/tmep_may2026_highlights.pdf", "type": "official", "checkedAt": "2026-09-11" },
     { "label": "USPTO TTAB initiating a new proceeding", "url": "https://www.uspto.gov/trademarks/ttab/initiating-new-proceeding", "type": "official", "checkedAt": "2026-09-11" },
-    { "label": "USPTO TTAB performance measures", "url": "https://www.uspto.gov/trademarks/ttab/ttab-incoming-filings-and-performance", "type": "official", "checkedAt": "2026-09-11" }
+    { "label": "USPTO TTAB performance measures", "url": "https://www.uspto.gov/trademarks/ttab/ttab-incoming-filings-and-performance", "type": "official", "checkedAt": "2026-09-11" },
+    { "label": "USPTO Possible grounds for refusal", "url": "https://www.uspto.gov/trademarks/search/possible-grounds-refusal-mark", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "USPTO Post Registration Audit Program", "url": "https://www.uspto.gov/trademarks/maintain/post-registration-audit-program", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "USPTO Do I need an attorney?", "url": "https://www.uspto.gov/trademarks/basics/do-i-need-attorney", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "USPTO Application filing basis", "url": "https://www.uspto.gov/trademarks/apply/basis", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "USPTO Changes to post-registration audit selection", "url": "https://www.uspto.gov/subscription-center/2024/changes-how-uspto-selects-registrations-audit", "type": "official", "checkedAt": "2026-09-12" }
   ]
 }
