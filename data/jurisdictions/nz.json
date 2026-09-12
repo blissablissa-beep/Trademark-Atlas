@@ -1,0 +1,660 @@
+{
+  "id": "nz",
+  "type": "country",
+  "flag": "🇳🇿",
+  "region": "asia",
+  "names": {
+    "ja": "ニュージーランド",
+    "en": "New Zealand"
+  },
+  "office": {
+    "ja": "ニュージーランド知的財産庁（IPONZ）",
+    "en": "Intellectual Property Office of New Zealand (IPONZ)"
+  },
+  "availableLanguages": [],
+  "createdAt": "2026-09-12",
+  "updatedAt": "2026-09-12",
+  "status": "review",
+  "facts": {
+    "authority": {
+      "ja": "ニュージーランド知的財産庁（IPONZ）。Business, Innovation and Employment省（MBIE）の一部門。",
+      "en": "The Intellectual Property Office of New Zealand (IPONZ), a unit within the Ministry of Business, Innovation and Employment (MBIE)."
+    },
+    "protectionScope": {
+      "ja": "商品・役務商標、団体商標、証明商標、シリーズ商標等を保護可能。未登録標章についてはpassing offやFair Trading Actによる保護の可能性も別途検討する。",
+      "en": "Goods and service marks, collective marks, certification marks and series marks may be protected. Passing off and the Fair Trading Act may separately assist owners of unregistered signs."
+    },
+    "markTypes": {
+      "ja": "文字、名称、ロゴ、図形、形状、色彩、音、匂い、動きその他の標識またはその組合せ。標章を明確に表示できることが必要。",
+      "en": "Words, names, logos, devices, shapes, colours, sounds, smells, movement and other signs or combinations, provided the mark can be represented clearly."
+    },
+    "madridAccessionDate": {
+      "ja": "2012年12月10日（マドリッド協定議定書の効力発生日）",
+      "en": "10 December 2012 (entry into force of the Madrid Protocol)"
+    },
+    "niceClassification": {
+      "ja": "採用。2026年1月1日以後の対象出願・指定にはニース分類第13版を適用。",
+      "en": "Adopted. The 13th edition of the Nice Classification applies to relevant filings and designations from 1 January 2026."
+    },
+    "classHeadingPractice": {
+      "ja": "出願時にクラスのみを記載して該当クラス全体を対象とする扱いはあり得るが、受理までに商品・役務表示の明確性と範囲が審査される。実務上は具体的で受理可能な表示を用いる。",
+      "en": "A class-only filing may initially be treated as covering all goods or services in that class, but clarity and breadth are examined before acceptance. Specific acceptable terms should be used in practice."
+    },
+    "retailServices": {
+      "ja": "可。第35類で、小売・卸売サービスの対象商品を明確に記載する。",
+      "en": "Available in class 35; the goods to which retail or wholesale services relate should be identified clearly."
+    },
+    "multiClassApplication": {
+      "ja": "可。1出願に複数クラスを含めることができ、料金はクラスごと。",
+      "en": "Available. One application may cover multiple classes, with fees payable per class."
+    },
+    "applicationForm": {
+      "ja": "IPONZオンライン出願。出願人の名称・住所、代理人がいる場合は代理人名、標章の明確な表示、指定商品・役務、各クラスその他の情報を入力する。",
+      "en": "An online IPONZ application stating the applicant's name and address, agent name if any, a clear representation of the mark, goods and services, classes and other required particulars."
+    },
+    "powerOfAttorney": {
+      "ja": "通常の直接出願で包括的な委任状の提出は通常要求されない。ただし、マドプロ指定案件で現地代理人を登録して応答する場合、代理関係を示す書簡または出願人・権利者署名の授権書を求められることがある。",
+      "en": "A general power of attorney is not ordinarily filed for a routine direct application. For a Madrid designation, adding a local agent to respond may require an agency letter or authority signed by the applicant or holder."
+    },
+    "priorityDocuments": {
+      "ja": "パリ条約優先権は原則として先の出願から6か月以内に主張する。IPONZから求められた場合、優先権書類および英語・マオリ語以外の書類の翻訳を提出する。",
+      "en": "Paris Convention priority is generally claimed within six months of the earlier filing. Priority documents and translations of documents not in English or Māori may be required by IPONZ."
+    },
+    "homeRegistrationCertificate": {
+      "ja": "通常の直接出願について本国登録証明書は不要。条約上または個別案件上の根拠として求められる場合は別途確認する。",
+      "en": "A home-registration certificate is not normally required for an ordinary direct filing. Any treaty-based or case-specific requirement should be checked separately."
+    },
+    "useEvidenceAtFiling": {
+      "ja": "通常、使用見本の提出は不要。ただし受理までに、出願人自身またはその同意の下でニュージーランドにおいて使用中または使用予定である旨の積極的な申述が必要。識別力等の拒絶を克服する場合は使用証拠を提出し得る。",
+      "en": "Specimens are not normally filed, but before acceptance there must be a positive statement that the mark is used or proposed to be used in New Zealand by the applicant or with its consent. Use evidence may be submitted to overcome objections such as lack of distinctiveness."
+    },
+    "notarizationCertification": {
+      "ja": "通常の出願書類・委任について公証は原則不要。異議・取消等で宣誓供述書または法定宣言を提出する場合は、適格者の面前での宣誓・認証要件を確認する。",
+      "en": "Notarisation is generally unnecessary for routine filing or authorisation documents. Affidavits or statutory declarations in contentious proceedings must satisfy the applicable witnessing requirements."
+    },
+    "otherDocuments": {
+      "ja": "色彩・形状・音・動き等の非伝統的商標では表示および説明が追加で必要。証明商標では使用規則、団体商標・シリーズ商標では各制度固有の情報が必要。住所はニュージーランドまたはオーストラリアの送達住所を用意する。",
+      "en": "Non-traditional marks such as colour, shape, sound or movement marks require suitable representations and descriptions. Certification, collective and series marks have additional requirements. An address for service in New Zealand or Australia is required."
+    },
+    "absoluteGroundsExamination": {
+      "ja": "あり。IPONZが職権で審査する。",
+      "en": "Yes. IPONZ examines absolute grounds ex officio."
+    },
+    "distinctivenessGrounds": {
+      "ja": "標識が商標として機能しないもの、識別力を欠くもの、記述的・普通名称的なもの等は拒絶され得る。出願日前の使用により識別力を獲得したことを証明して克服できる場合がある。色彩単独商標は通常、強い使用証拠を要する。",
+      "en": "Signs incapable of functioning as trade marks, non-distinctive, descriptive or customary matter may be refused. Acquired distinctiveness through pre-filing use may overcome an objection. Colour-per-se marks commonly require substantial use evidence."
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "使用が法律に反するもの、裁判所で保護されないもの、公衆を欺き若しくは混同させるおそれがあるもの、scandalousまたは特定の者・集団（マオリを含む）を害するおそれがあるもの、悪意の出願、保護GI・化学一般名等が主な論点。マオリ語・図像に由来する標章はMTACへ付託され得る。",
+      "en": "Grounds include unlawful or otherwise unprotectable use, deception or confusion, scandalous matter or matter likely to offend a significant section of the community including Māori, bad-faith applications, protected GIs and certain common chemical names. Māori-derived matter may be referred to the Māori Trade Marks Advisory Committee."
+    },
+    "relativeGroundsExamination": {
+      "ja": "あり。IPONZは先行する同一・類似商標と同一・類似の商品・役務との抵触を第25条に基づき職権審査する。",
+      "en": "Yes. IPONZ examines conflicts with earlier identical or similar marks for identical or similar goods or services under section 25."
+    },
+    "disclaimer": {
+      "ja": "あり。権利者による任意のディスクレームのほか、取消を回避する条件または公益上のディスクレームがあり得る。",
+      "en": "Available. The Act provides for voluntary disclaimers and disclaimers imposed as a condition of avoiding revocation or for public-interest reasons."
+    },
+    "consent": {
+      "ja": "あり。第25条の引用は先行権利者の適切な同意書により克服できる場合がある。honest concurrent use、先使用その他の第26条上の例外も検討する。",
+      "en": "Available. A section 25 citation may be overcome by valid consent from the earlier owner. Honest concurrent use, prior use and other section 26 exceptions may also be considered."
+    },
+    "acceleratedExamination": {
+      "ja": "あり。出願番号と具体的理由を記載してIPONZへ電子メールで申請し、genuine and compelling reasonsがある場合に個別判断される。",
+      "en": "Available by emailing IPONZ with the application number and specific reasons. Expedition is granted case by case only for genuine and compelling reasons."
+    },
+    "thirdPartyObservation": {
+      "ja": "一般的な第三者情報提供制度は公式案内上明確でない。受理公告後は誰でも3か月以内に異議申立て可能。公告前の情報提出を検討する場合はIPONZまたは現地代理人に可否・取扱いを確認する。",
+      "en": "No general formal third-party-observation procedure is clearly identified in the public guidance. Any person may oppose within three months after advertisement. Check with IPONZ or local counsel before attempting a pre-acceptance submission."
+    },
+    "directExaminationPeriod": {
+      "ja": "IPONZの現行timeframesページでは、国内直接出願の初回応答目安は出願から70営業日。通常目標15営業日から一時的に延びた数値であり、随時更新を確認する。",
+      "en": "IPONZ's current timeframes page states an initial response target of 70 working days from filing for national applications. This is an increased timeframe from the normal 15-working-day target and should be rechecked."
+    },
+    "madridExaminationPeriod": {
+      "ja": "IPONZの現行timeframesページでは、ニュージーランド指定（NZD）の初回応答目安はWIPOから指定を受領後75営業日。条約上の拒絶通報期限も案件ごとに確認する。",
+      "en": "IPONZ's current timeframes page states an initial response target of 75 working days after receipt of a New Zealand designation from WIPO. The applicable treaty refusal-notification deadline should also be checked."
+    },
+    "colourPriorityIdentity": {
+      "ja": "優先権主張では、先の出願とニュージーランド出願の標章が実質的に同一である必要がある。色彩の追加・削除または色指定の相違が標章の同一性に影響し得るため、基礎出願の表示・色記載を厳密に照合する。",
+      "en": "A priority claim requires the New Zealand mark to correspond materially with the earlier-filed mark. Adding, removing or changing colour limitations may affect identity, so the representations and colour descriptions should be compared carefully."
+    },
+    "colourRelativeGrounds": {
+      "ja": "第25条の同一・類似判断では標章を全体として比較し、色彩は視覚的印象・識別力に応じて一要素となる。色彩以外の支配的要素が同じ場合、配色差だけで引用を回避できるとは限らない。",
+      "en": "Under section 25, marks are compared as wholes and colour is one factor according to its visual and distinctive significance. A colour change alone may not avoid a citation where dominant non-colour elements remain the same."
+    },
+    "colourGenuineUse": {
+      "ja": "不使用取消への防御では原則として登録された標章の真正な使用を示す。第7条により、登録標章の識別性を変更しない要素差を伴う使用も使用に含まれ得るが、色彩の変更が識別性を変えるかは個別判断。",
+      "en": "A non-use defence generally requires genuine use of the mark as registered. Section 7 includes use in a form differing in elements that do not alter distinctive character, but whether a colour variation crosses that line is fact-specific."
+    },
+    "colourInfringementScope": {
+      "ja": "侵害は登録表示・登録条件と被疑標識の同一性または欺瞞的類似性を商品・役務との関係で判断する。登録が特定色に限定される場合はその限定が範囲に影響し、非限定の効果は個別確認を要する。",
+      "en": "Infringement turns on the registered representation and conditions, and whether the challenged sign is identical or deceptively similar in relation to the goods or services. An express colour limitation affects scope; the effect of an unqualified registration requires case-specific analysis."
+    },
+    "colourFilingStrategy": {
+      "ja": "重要なロゴは、色彩に依存しない版と主要配色版の双方を検討する。色彩そのものの商標では、出願時に明確な色見本またはPantone等の標準による記載が必要で、受理前に使用態様を含む説明も整える。",
+      "en": "For important logos, consider both a version not dependent on colour and registrations for key colourways. A colour-per-se filing needs a clear sample or recognised standard such as Pantone at filing and an acceptable use description before acceptance."
+    },
+    "refusalResponseRoute": {
+      "ja": "拒絶理由がある場合、まずcompliance reportが発行され、意見書、補正、同意書、使用証拠等で応答する。解消できない場合、出願人は拒絶通知を求めてCommissionerの聴聞に進むことができ、その後はHigh Courtへの上訴を検討する。",
+      "en": "IPONZ first issues a compliance report. The applicant may respond with submissions, amendments, consent or evidence. If unresolved, the applicant may request rejection so the matter can proceed to a hearing before the Commissioner, followed where appropriate by an appeal to the High Court."
+    },
+    "responsePeriod": {
+      "ja": "compliance report記載の期限までに応答する。出願を受理可能な状態にする全体期限は原則としてニュージーランド出願日から12か月であり、個々の通知とオンライン記録を必ず確認する。",
+      "en": "Respond by the deadline stated in the compliance report. The general period for putting the application in order for acceptance is 12 months from the New Zealand filing date; each notice and online record must be checked."
+    },
+    "extensionAvailable": {
+      "ja": "可能。ただしCommissionerの裁量であり、自動的ではない。関連手続が係属する場合はabeyanceが適切なこともある。",
+      "en": "Available at the Commissioner's discretion and not automatic. Abeyance may be more appropriate where a related proceeding is pending."
+    },
+    "extensionLength": {
+      "ja": "申請内容・理由および適用規則による。必要期間を具体的に申請し、最新のIPONZ実務を確認する。",
+      "en": "Depends on the request, reasons and applicable regulation. Request the period genuinely required and check current IPONZ practice."
+    },
+    "extensionRequirements": {
+      "ja": "期限前に延長申請を行い、同意交渉、使用証拠収集その他の具体的かつ説得的理由を示す。拒否予定通知に対する聴聞請求には短い期限があるため注意する。",
+      "en": "Apply before the deadline and provide specific persuasive reasons, such as ongoing consent negotiations or collection of use evidence. A proposed refusal of an extension carries a short hearing-request deadline."
+    },
+    "appealRoute": {
+      "ja": "審査拒絶についてCommissionerの聴聞を求めることができる。Assistant Commissionerの決定はHigh Courtへ上訴可能で、その先は通常の上級審経路による。",
+      "en": "An examination rejection may be taken to a hearing before the Commissioner. An Assistant Commissioner's decision may be appealed to the High Court, with further appeals through the ordinary appellate route."
+    },
+    "refusalAppealPeriod": {
+      "ja": "Assistant Commissionerの決定からHigh Courtへの上訴は原則20営業日。拒絶査定不服の平均審理期間は公表された一律統計を確認できない。IPONZは通常、聴聞日から60営業日以内の決定を目安としているが、聴聞設定までの期間を含まない。",
+      "en": "An appeal from an Assistant Commissioner's decision to the High Court is generally due within 20 working days. No uniform published average for refusal appeals was identified. IPONZ generally targets a decision within 60 working days after the hearing, excluding the time required to obtain a hearing date."
+    },
+    "publicDatabase": {
+      "ja": "IPONZ Trade Mark CheckおよびTrade Mark Case Search",
+      "en": "IPONZ Trade Mark Check and Trade Mark Case Search",
+      "url": "https://www.iponz.govt.nz/get-ip/trade-marks/search/"
+    },
+    "publicationStage": {
+      "ja": "受理された出願はIPONZ Journalに公告され、異議期間満了後、かつ原則として出願日から6か月以上経過後に登録される。",
+      "en": "Accepted applications are advertised in the IPONZ Journal and are registered after the opposition period and, generally, not less than six months from filing."
+    },
+    "oppositionPeriod": {
+      "ja": "受理公告日から3か月。国内出願およびニュージーランド指定の双方に適用。",
+      "en": "Three months from advertisement of acceptance, for both national applications and New Zealand designations."
+    },
+    "oppositionExtension": {
+      "ja": "可能な場合がある。異議申立期間の延長は規則75に基づく申請であり、期限・理由・相手方への影響を含む要件を最新実務で確認する。",
+      "en": "Potentially available. An extension of the opposition deadline is requested under regulation 75; current timing, reasons and procedural requirements should be checked."
+    },
+    "averagePendency": {
+      "ja": "最短でも登録まで6か月。異議がなく拒絶理由が少ない案件でも法定待機期間があり、compliance report、マオリ諮問、証拠提出または異議がある場合は長期化する。",
+      "en": "Registration takes at least six months. Even straightforward unopposed cases are subject to the statutory waiting period, while compliance reports, Māori consultation, evidence or opposition extend pendency."
+    },
+    "term": {
+      "ja": "10年。10年ごとに更新可能。",
+      "en": "10 years, renewable for successive ten-year periods."
+    },
+    "termStart": {
+      "ja": "原則として出願日、または条約優先日がある場合はそれに対応する日を基準に更新期限を算定する。",
+      "en": "The renewal due date generally corresponds to the filing-date anniversary or, where applicable, the Convention-priority-date anniversary, whichever is earlier."
+    },
+    "renewalWindow": {
+      "ja": "更新期限前1年間。クラス単位の部分更新も可能。",
+      "en": "The one-year period before the renewal due date. Partial renewal by class is available."
+    },
+    "gracePeriod": {
+      "ja": "あり。更新期限後6か月以内であれば更新により登録簿へ復活できる。6か月を超えると復活できず、新規出願が必要。",
+      "en": "Yes. Renewal within six months after the due date restores the registration. After that non-extendible period, a new application is required."
+    },
+    "renewalEvidence": {
+      "ja": "更新時の使用証拠提出は通常不要。更新料金および必要情報を提出するが、未使用の登録は別途不使用取消の対象となり得る。",
+      "en": "Evidence of use is not normally filed at renewal. The renewal fee and required particulars are submitted, but an unused registration remains vulnerable to non-use revocation."
+    },
+    "nonUseCancellation": {
+      "ja": "あり。IPONZのCommissionerまたはHigh Courtに全部または一部のrevocationを申し立てることができる。",
+      "en": "Available. Full or partial revocation may be sought before the Commissioner through IPONZ or, where applicable, the High Court."
+    },
+    "nonUsePeriod": {
+      "ja": "登録後に開始し、取消申立日の少なくとも1か月前に終了する継続3年以上の期間に、ニュージーランドで真正な使用がない場合。",
+      "en": "A continuous period of three years or more beginning after actual registration and ending at least one month before the revocation application, during which there was no genuine use in New Zealand."
+    },
+    "nonUseDefenses": {
+      "ja": "登録権利者側が、登録どおりの真正な使用、識別性を変えない変更形態での使用、許諾使用、輸出向け使用、または支配外の特別事情を立証する。名目的使用や国外のみの使用は通常不十分。",
+      "en": "The owner bears the burden of proving genuine use as registered, use in a form not altering distinctive character, authorised or export use, or special circumstances beyond its control. Token use or use solely abroad is generally insufficient."
+    },
+    "otherCancellation": {
+      "ja": "あり。登録条件違反、証明商標・団体商標固有の事由、使用により公衆を欺き若しくは混同させるおそれが生じた場合、普通名称化等に基づく取消・変更があり得る。",
+      "en": "Available for breach of a registered condition, certification- or collective-mark grounds, misleading use, genericide and other statutory grounds."
+    },
+    "invalidation": {
+      "ja": "あり。登録時に拒絶されるべきであったこと等を理由として、aggrieved personがIPONZまたはHigh Courtへ無効宣言を申し立て得る。",
+      "en": "Available. An aggrieved person may seek a declaration of invalidity before IPONZ or the High Court, including where the mark should not have been registered."
+    },
+    "civilInjunction": {
+      "ja": "あり。仮差止めおよび終局的差止めを含む。",
+      "en": "Available, including interim and final injunctions."
+    },
+    "civilDamages": {
+      "ja": "あり。損害賠償または侵害者利益の計算・返還を請求可能。事案により追加的損害賠償も検討する。",
+      "en": "Available. Damages or an account of profits may be sought, with additional damages potentially available depending on the case."
+    },
+    "civilEvidencePreservation": {
+      "ja": "裁判所手続上、証拠保全のためのsearch order、文書開示、仮処分その他の措置を検討できる。緊急性・相当性・undertaking as to damages等に注意する。",
+      "en": "Search orders, discovery, interim relief and other court measures may preserve evidence. Urgency, proportionality and any undertaking as to damages require attention."
+    },
+    "civilOther": {
+      "ja": "侵害標識の消去、侵害品・材料・製造器具の引渡しおよび処分命令、訴訟費用等。未登録標章ではpassing offおよびFair Trading Actも検討する。",
+      "en": "Erasure of the offending sign, delivery up and disposal of infringing goods, material or objects, and costs may be available. Passing off and Fair Trading Act claims should be considered for unregistered signs."
+    },
+    "borderMeasures": {
+      "ja": "あり。権利者はNew Zealand CustomsへNotice of infringing signを提出でき、税関は疑義貨物を拘留・差押えし得る。",
+      "en": "Available. A rights holder may lodge a Notice of infringing sign with New Zealand Customs, which may detain or seize suspected goods."
+    },
+    "administrativeRaid": {
+      "ja": "Trade Marks Act上のenforcement officerおよび警察には、一定の場合の立入、検査、令状に基づく捜索・差押え等の権限がある。通常の侵害案件での実際の利用可能性は当局・現地代理人に確認する。",
+      "en": "Enforcement officers and Police have statutory powers including entry, examination and warrant-based search and seizure in qualifying cases. Practical availability in an ordinary infringement matter should be checked with authorities and local counsel."
+    },
+    "administrativeOther": {
+      "ja": "税関による拘留、権利者への通知、同意による没収、裁判所命令を経た処分等。権利者には保証、情報提供、期限内の訴訟提起等が必要となり得る。",
+      "en": "Customs detention, notification, forfeiture by consent and court-ordered disposal are available. The rights holder may need to provide security and information and commence proceedings within prescribed periods."
+    },
+    "criminalAvailability": {
+      "ja": "あり。登録商標の偽造、虚偽表示、複製用器具の製造・所持、偽造商標品の輸入・販売等が犯罪となり得る。",
+      "en": "Available for counterfeiting a registered mark, false application, making or possessing copying devices, and importing or selling falsely marked goods."
+    },
+    "criminalFine": {
+      "ja": "あり。現行の上限額は犯罪類型、自然人・法人の別および法改正により確認する。IPONZは重大な商標犯罪について最大NZ$150,000の罰金を案内している。",
+      "en": "Available. Current maxima depend on the offence and whether the defendant is an individual or body corporate. IPONZ identifies fines of up to NZ$150,000 for serious trade mark offences."
+    },
+    "criminalImprisonment": {
+      "ja": "あり得る。IPONZ案内では一定の偽造関連犯罪につき最長5年の禁錮が示されている。適用条文・改正時点を必ず確認する。",
+      "en": "Potentially available. IPONZ guidance identifies imprisonment of up to five years for certain counterfeiting-related offences; the current statutory provision must be checked."
+    },
+    "criminalOther": {
+      "ja": "刑事手続での侵害品・器具の引渡し、没収・処分、法人役員の責任等があり得る。",
+      "en": "Criminal delivery-up, forfeiture or disposal orders and potential liability of corporate officers may apply."
+    }
+  },
+  "notablePoints": [
+    {
+      "id": "maori-advisory-review",
+      "category": "examination",
+      "importance": "high",
+      "status": "verified",
+      "title": {
+        "ja": "マオリ語・図像を含む商標の文化的審査",
+        "en": "Cultural review of marks containing Māori words or imagery"
+      },
+      "summary": {
+        "ja": "マオリ語・図像を含む、またはそれらに由来すると見られる出願はMāori Trade Marks Advisory Committee（MTAC）に付託され、マオリに不快感を与えるおそれについて助言を受ける。",
+        "en": "Applications containing or apparently derived from Māori words or imagery are referred to the Māori Trade Marks Advisory Committee for advice on potential offensiveness to Māori."
+      },
+      "practicalImpact": {
+        "ja": "通常より審査期間が延びる可能性があり、語義だけでなくtapu/noa、人物・atua、伝統的図像と商品・役務との関係が問題となる。",
+        "en": "Examination may take longer, and the relationship between the mark, tapu/noa concepts, ancestors or atua, traditional imagery, and the goods or services may be material."
+      },
+      "recommendedAction": {
+        "ja": "出願前に文化的意味と使用態様を調査し、必要に応じてマオリ文化の専門家および現地代理人に確認する。",
+        "en": "Investigate cultural meaning and intended use before filing and consult Māori cultural expertise and local counsel where appropriate."
+      },
+      "agentQuestion": {
+        "ja": "本件標章はMTACへ付託される可能性があり、商品・役務との関係で不快または不適切と判断されるリスクがありますか。",
+        "en": "Is this mark likely to be referred to MTAC, and is there a risk that its use for the specified goods or services will be considered offensive or inappropriate?"
+      },
+      "sourceUrl": "https://www.iponz.govt.nz/get-ip/trade-marks/practice-guidelines/current/maori-advisory-committee-and-maori-trade-marks/",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "id": "use-intention-statement",
+      "category": "filing",
+      "importance": "high",
+      "status": "verified",
+      "title": {
+        "ja": "使用中または使用予定の積極的申述",
+        "en": "Positive statement of use or proposed use"
+      },
+      "summary": {
+        "ja": "使用見本は通常不要だが、受理前に出願人またはその同意の下でニュージーランドにおいて使用中または使用予定である旨の積極的申述が必要。",
+        "en": "Although specimens are not normally required, acceptance requires a positive statement that the mark is used or proposed to be used in New Zealand by the applicant or with its consent."
+      },
+      "practicalImpact": {
+        "ja": "単なる防衛的保有を意図する出願や、真の権利者でない名義人による出願は、異議・無効・不使用取消上のリスクを伴う。",
+        "en": "Purely defensive filings or filings by a nominee lacking a genuine ownership claim can create opposition, invalidity and non-use risk."
+      },
+      "recommendedAction": {
+        "ja": "出願人名義、使用予定、ライセンス・グループ会社関係を出願前に確認する。",
+        "en": "Confirm ownership, intended use and any licence or group-company arrangements before filing."
+      },
+      "agentQuestion": {
+        "ja": "本件の出願人は所有者要件と使用予定の申述を安全に満たし、グループ会社による使用はauthorized useになりますか。",
+        "en": "Does the applicant safely satisfy ownership and proposed-use requirements, and will use by the relevant group company qualify as authorised use?"
+      },
+      "sourceUrl": "https://www.iponz.govt.nz/get-ip/trade-marks/practice-guidelines/current/examination-of-trade-mark-applications/",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "id": "colour-mark-representation",
+      "category": "colour",
+      "importance": "high",
+      "status": "verified",
+      "title": {
+        "ja": "色彩そのものの商標には出願時の明確な色表示が必要",
+        "en": "Colour-per-se marks require a clear colour representation at filing"
+      },
+      "summary": {
+        "ja": "色彩または色彩の組合せ自体を登録する場合、出願時に明確な色見本またはPantone等の標準による説明がなければ出願日が付与されない。受理前には色彩の使用態様を含む説明も必要。",
+        "en": "For a colour or colour combination as the mark itself, a clear sample or recognised colour-standard description must be present at filing or no filing date is allocated. A use description is also needed before acceptance."
+      },
+      "practicalImpact": {
+        "ja": "後から色指定を整えるだけでは元の出願日を確保できない可能性がある。通常のカラー図形商標と色彩そのものの商標を区別する必要がある。",
+        "en": "A later colour clarification may not preserve the original filing date. A colour-per-se mark must be distinguished from an ordinary device mark that merely contains colour."
+      },
+      "recommendedAction": {
+        "ja": "出願時に色標準、配置、対象表面および使用態様を一貫して定義する。",
+        "en": "Define the colour standard, placement, relevant surface and manner of use consistently at filing."
+      },
+      "agentQuestion": {
+        "ja": "本件は色彩そのものの商標ですか、それとも色彩を含む図形商標ですか。出願日に必要な表示・説明は十分ですか。",
+        "en": "Is this a colour-per-se mark or a device mark containing colour, and is the representation and description sufficient to secure the filing date?"
+      },
+      "sourceUrl": "https://www.iponz.govt.nz/get-ip/trade-marks/practice-guidelines/current/filing-trade-mark-applications/",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "id": "non-use-owner-burden",
+      "category": "cancellation",
+      "importance": "high",
+      "status": "verified",
+      "title": {
+        "ja": "不使用取消では登録権利者が使用を立証",
+        "en": "The registered owner bears the burden of proving use"
+      },
+      "summary": {
+        "ja": "継続3年以上の不使用が主張された場合、登録権利者がニュージーランドでの真正な使用または支配外の特別事情を立証する。",
+        "en": "Where continuous non-use of three years or more is alleged, the owner bears the burden of proving genuine use in New Zealand or qualifying special circumstances beyond its control."
+      },
+      "practicalImpact": {
+        "ja": "売上資料、請求書、広告、ウェブ利用、流通、許諾関係および使用標章の形態を平時から保存する必要がある。",
+        "en": "Sales records, invoices, advertising, online use, distribution, authorisation and the form of the mark used should be retained proactively."
+      },
+      "recommendedAction": {
+        "ja": "3年を超える空白を避け、登録標章・指定商品役務と対応するニュージーランド国内の証拠を年度別に整理する。",
+        "en": "Avoid gaps exceeding three years and organise annual New Zealand evidence matching the registered mark and covered goods or services."
+      },
+      "agentQuestion": {
+        "ja": "現状の証拠で、関連期間・商品役務・使用主体・使用標章の各要件を満たせますか。",
+        "en": "Does the available evidence establish the relevant period, goods or services, authorised user and form of the mark used?"
+      },
+      "sourceUrl": "https://www.iponz.govt.nz/get-ip/trade-marks/hearings/current-hearings/revocation/",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "id": "nz-australia-address-for-service",
+      "category": "procedure",
+      "importance": "medium",
+      "status": "verified",
+      "title": {
+        "ja": "送達住所はニュージーランドまたはオーストラリア",
+        "en": "Address for service may be in New Zealand or Australia"
+      },
+      "summary": {
+        "ja": "ニュージーランドの商標手続では、ニュージーランドまたはオーストラリアの送達住所を用意する。マドプロ指定への応答では現地代理人登録が必要になる。",
+        "en": "New Zealand trade mark matters require an address for service in New Zealand or Australia. A local agent must be recorded to respond through IPONZ in a Madrid designation."
+      },
+      "practicalImpact": {
+        "ja": "日本企業が単独でオンライン出願できても、拒絶対応や争訟では早期に適切な現地連絡先・代理人を確保する必要がある。",
+        "en": "Even if a Japanese applicant files online directly, an appropriate local contact or agent should be secured promptly for objections or contentious work."
+      },
+      "recommendedAction": {
+        "ja": "出願前に送達住所と代理権書類の要否を確認する。",
+        "en": "Confirm the address for service and any authority document before filing or responding."
+      },
+      "agentQuestion": {
+        "ja": "本件で利用可能な送達住所、代理人登録および授権書の形式を確認してください。",
+        "en": "Please confirm the acceptable address for service, agent-recordal steps and form of authority for this matter."
+      },
+      "sourceUrl": "https://www.iponz.govt.nz/get-ip/trade-marks/international/international-registrations-designating-new-zealand/",
+      "checkedAt": "2026-09-12"
+    }
+  ],
+  "statistics": {
+    "coverage": "2016–2025",
+    "status": "pending",
+    "series": []
+  },
+  "news": [
+    {
+      "id": "nice-13-conflicting-list-2026",
+      "type": "practice",
+      "date": "2026-01-28",
+      "title": {
+        "ja": "ニース分類第13版に対応して抵触商品・役務リストを更新",
+        "en": "Conflicting Goods and Services List updated for Nice Classification, 13th edition"
+      },
+      "summary": {
+        "ja": "IPONZは、2026年1月1日発効のニース分類第13版に合わせ、同一・類似商標審査で用いるConflicting Goods and Services ListおよびConflicting Class Tableを更新した。",
+        "en": "IPONZ updated its Conflicting Goods and Services List and Conflicting Class Table to reflect the 13th edition of the Nice Classification effective from 1 January 2026."
+      },
+      "sourceUrl": "https://www.iponz.govt.nz/news/update-to-trade-mark-practice-guidelines-3/"
+    },
+    {
+      "id": "offensive-marks-inn-guidance-2026",
+      "type": "practice",
+      "date": "2026-03-11",
+      "title": {
+        "ja": "不快な商標および医薬品一般名に関する審査指針を改訂",
+        "en": "Guidelines updated for offensive marks and international non-proprietary names"
+      },
+      "summary": {
+        "ja": "IPONZはInternational Non-Proprietary Names（INNs）、INN stemsおよびoffensive trade marksに関するガイドラインを更新した。マオリ文化に関係する標章を含め、第17条審査の最新指針を確認する必要がある。",
+        "en": "IPONZ updated guidance concerning International Non-Proprietary Names, INN stems and offensive trade marks. Current section 17 practice should be checked, including for marks engaging Māori cultural considerations."
+      },
+      "sourceUrl": "https://www.iponz.govt.nz/news/update-to-trade-mark-practice-guidelines-4/"
+    },
+    {
+      "id": "conflicting-goods-services-update-2025",
+      "type": "practice",
+      "date": "2025-05-29",
+      "title": {
+        "ja": "抵触商品・役務リストを更新",
+        "en": "Conflicting Goods and Services List updated"
+      },
+      "summary": {
+        "ja": "IPONZは、商品・役務が同一または類似するかの審査実務に用いるConflicting Goods and Services Listを更新した。クラス番号のみでは類似関係を判断できないため、最新リストと個別の商品・役務表示を確認する。",
+        "en": "IPONZ updated the Conflicting Goods and Services List used in examining whether goods or services are identical or similar. Class numbers alone do not determine similarity, so the current list and particular terms should be checked."
+      },
+      "sourceUrl": "https://www.iponz.govt.nz/news/update-to-trade-mark-practice-guidelines-14/"
+    }
+  ],
+  "faqs": [
+    {
+      "tag": "Filing",
+      "question": {
+        "ja": "出願人の名義とニュージーランドでの使用予定は、所有者要件を満たしていますか。",
+        "en": "Do the applicant identity and intended New Zealand use satisfy the ownership requirement?"
+      },
+      "followUp": {
+        "ja": "関連会社または販売代理店による使用をauthorized useとして立証するために、どの契約・管理資料を残すべきですか。",
+        "en": "What agreements and control records should be retained to establish authorised use by an affiliate or distributor?"
+      }
+    },
+    {
+      "tag": "Māori",
+      "question": {
+        "ja": "この標章にマオリ語・図像またはマオリ文化に由来すると見られる要素がありますか。",
+        "en": "Does this mark contain Māori words, imagery or matter likely to be regarded as Māori-derived?"
+      },
+      "followUp": {
+        "ja": "MTAC付託の可能性と、指定商品・役務との関係で問題となる文化的意味を説明してください。",
+        "en": "Please explain the likelihood of MTAC referral and any cultural concern arising from the specified goods or services."
+      }
+    },
+    {
+      "tag": "Colour",
+      "question": {
+        "ja": "無彩色版とカラー版を別々に出願する価値がありますか。",
+        "en": "Would separate filings for a non-colour-dependent version and the principal colour version add value?"
+      },
+      "followUp": {
+        "ja": "優先権、類似判断、不使用取消および侵害の各段階で、現在の色指定はどのように影響しますか。",
+        "en": "How will the present colour limitation affect priority, similarity, non-use and infringement analysis?"
+      }
+    },
+    {
+      "tag": "Examination",
+      "question": {
+        "ja": "この引用は同意書、先使用またはhonest concurrent useのどの方法で克服するのが現実的ですか。",
+        "en": "Is consent, prior use or honest concurrent use the most realistic way to overcome this citation?"
+      },
+      "followUp": {
+        "ja": "12か月の受理期限と現在の再審査期間を踏まえた証拠・交渉スケジュールを示してください。",
+        "en": "Please propose an evidence and negotiation timetable accounting for the 12-month acceptance period and current re-examination times."
+      }
+    },
+    {
+      "tag": "Non-use",
+      "question": {
+        "ja": "取消対象となる3年間について、権利者側にどの程度のニュージーランド国内使用証拠がありますか。",
+        "en": "What New Zealand use evidence does the owner have for the relevant three-year period?"
+      },
+      "followUp": {
+        "ja": "使用された色彩・ロゴの差異は、登録標章の識別性を変更しない範囲に収まりますか。",
+        "en": "Do differences in the colours or logo used remain within a form that does not alter the registered mark's distinctive character?"
+      }
+    },
+    {
+      "tag": "Enforcement",
+      "question": {
+        "ja": "本件ではHigh Courtの仮差止めとCustomsへのNoticeのどちらを先行すべきですか。",
+        "en": "Should we prioritise a High Court interim injunction or a Customs Notice in this matter?"
+      },
+      "followUp": {
+        "ja": "税関措置に必要な保証、貨物情報、通知期間および訴訟提起期限を教えてください。",
+        "en": "Please identify the security, shipment information, notice duration and litigation deadline required for border action."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "IPONZ — Trade marks",
+      "url": "https://www.iponz.govt.nz/get-ip/trade-marks/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "New Zealand Legislation — Trade Marks Act 2002",
+      "url": "https://www.legislation.govt.nz/act/public/2002/49/en/latest/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "New Zealand Legislation — Trade Marks Regulations 2003",
+      "url": "https://www.legislation.govt.nz/regulation/public/2003/0187/latest/whole.html",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IPONZ — Filing trade mark applications",
+      "url": "https://www.iponz.govt.nz/get-ip/trade-marks/practice-guidelines/current/filing-trade-mark-applications/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IPONZ — Examination process",
+      "url": "https://www.iponz.govt.nz/get-ip/trade-marks/process/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IPONZ — Respond to compliance report",
+      "url": "https://www.iponz.govt.nz/get-ip/trade-marks/process/respond-to-compliance-report/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IPONZ — Current timeframes",
+      "url": "https://www.iponz.govt.nz/support/timeframes/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IPONZ — Classification and specification",
+      "url": "https://www.iponz.govt.nz/get-ip/trade-marks/practice-guidelines/current/classification-and-specification/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IPONZ — Absolute grounds: general",
+      "url": "https://www.iponz.govt.nz/get-ip/trade-marks/practice-guidelines/current/absolute-grounds-general/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IPONZ — Māori advisory committee and Māori trade marks",
+      "url": "https://www.iponz.govt.nz/get-ip/trade-marks/practice-guidelines/current/maori-advisory-committee-and-maori-trade-marks/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IPONZ — Relative grounds: identical or similar trade marks",
+      "url": "https://www.iponz.govt.nz/get-ip/trade-marks/practice-guidelines/current/relative-grounds-identical-or-similar-trade-marks/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IPONZ — Overcoming a citation",
+      "url": "https://www.iponz.govt.nz/get-ip/trade-marks/practice-guidelines/current/overcoming-a-citation/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IPONZ — Opposing registration",
+      "url": "https://www.iponz.govt.nz/get-ip/trade-marks/process/opposing-registration/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IPONZ — Renew a trade mark",
+      "url": "https://www.iponz.govt.nz/get-ip/trade-marks/renew/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IPONZ — Revocation of registration",
+      "url": "https://www.iponz.govt.nz/get-ip/trade-marks/hearings/current-hearings/revocation/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IPONZ — Invalidity of registration",
+      "url": "https://www.iponz.govt.nz/get-ip/trade-marks/hearings/current-hearings/invalidity/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IPONZ — International registrations designating New Zealand",
+      "url": "https://www.iponz.govt.nz/get-ip/trade-marks/international/international-registrations-designating-new-zealand/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "New Zealand Customs — Copyright, trade marks and geographical indications",
+      "url": "https://www.customs.govt.nz/business/import/import-prohibited-and-restricted-imports/copyright-trade-marks-and-geographical-indication",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IPONZ — Enforcing trade marks",
+      "url": "https://www.iponz.govt.nz/get-ip/trade-marks/enforcing/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "WIPO — Accession by New Zealand to the Madrid Protocol",
+      "url": "https://www.wipo.int/wipolex/en/treaties/notifications/details/treaty_madridp-gp_197",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IPONZ — Facts and figures",
+      "url": "https://www.iponz.govt.nz/about-iponz/facts-and-figures/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    }
+  ]
+}
