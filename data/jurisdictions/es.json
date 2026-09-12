@@ -1,0 +1,482 @@
+{
+  "id": "es",
+  "type": "country",
+  "flag": "🇪🇸",
+  "region": "europe",
+  "names": { "ja": "スペイン", "en": "Spain", "es": "España" },
+  "office": {
+    "ja": "スペイン特許商標庁（OEPM）",
+    "en": "Spanish Patent and Trademark Office (OEPM)",
+    "es": "Oficina Española de Patentes y Marcas (OEPM)"
+  },
+  "availableLanguages": ["es"],
+  "createdAt": "2026-09-12",
+  "updatedAt": "2026-09-12",
+  "status": "review",
+  "facts": {
+    "authority": {
+      "ja": "スペイン特許商標庁（OEPM）が国内商標・商号の出願、登録、異議、行政上の無効・取消等を扱う。侵害訴訟および一定の商標訴訟は裁判所が扱う。EU商標およびスペインを指定する国際登録もスペインで効力を持ち得る。",
+      "en": "The Spanish Patent and Trademark Office (OEPM) handles national trademark and trade-name applications, registration, opposition, and administrative invalidity and revocation. Courts hear infringement and certain trademark actions. EUTMs and international registrations designating Spain may also have effect in Spain.",
+      "es": "La Oficina Española de Patentes y Marcas (OEPM) tramita solicitudes, registros, oposiciones, nulidades y caducidades administrativas de marcas y nombres comerciales. Los tribunales conocen de la infracción y de determinadas acciones marcarias. Las MUE y los registros internacionales que designan España también pueden producir efectos en España."
+    },
+    "protectionScope": {
+      "ja": "登録商標は、指定商品・役務についてスペイン領域内の排他的権利を与える。著名・評判商標には非類似商品・役務にも及び得る保護があり、商号その他の先行標識も一定の場合に保護される。",
+      "en": "Registration grants exclusive rights in Spain for the designated goods and services. Marks with a reputation may receive protection extending to dissimilar goods or services, and trade names and other earlier signs may be protected in appropriate cases.",
+      "es": "El registro confiere derechos exclusivos en España para los productos y servicios designados. Las marcas renombradas pueden obtener protección frente a productos o servicios no similares, y los nombres comerciales u otros signos anteriores pueden estar protegidos en determinados casos."
+    },
+    "markTypes": {
+      "ja": "文字、図形、立体、位置、模様、色彩、音、動き、マルチメディア、ホログラムその他、明確かつ正確に表示できる標識。団体商標および保証商標もある。",
+      "en": "Word, figurative, three-dimensional, position, pattern, colour, sound, motion, multimedia, hologram and other signs capable of clear and precise representation. Collective and guarantee marks are also available.",
+      "es": "Marcas denominativas, figurativas, tridimensionales, de posición, patrón, color, sonoras, de movimiento, multimedia, hologramas y otros signos representables de forma clara y precisa. También existen marcas colectivas y de garantía."
+    },
+    "madridAccessionDate": {
+      "ja": "1995年12月1日（スペインについてのマドリッド協定議定書の発効日）",
+      "en": "1 December 1995 (entry into force of the Madrid Protocol for Spain)",
+      "es": "1 de diciembre de 1995 (entrada en vigor del Protocolo de Madrid para España)"
+    },
+    "niceClassification": {
+      "ja": "採用。商品・役務はニース国際分類に従って区分する。",
+      "en": "Adopted. Goods and services are classified under the Nice Classification.",
+      "es": "Adoptada. Los productos y servicios se clasifican conforme a la Clasificación de Niza."
+    },
+    "classHeadingPractice": {
+      "ja": "類見出しの文言は、その通常の意味で明確かつ正確に特定される商品・役務のみを対象とし、当該類の全商品・役務を自動的に包含しない。TMclass等で受理可能な表示を確認する。",
+      "en": "Class-heading wording covers only goods and services clearly and precisely identified by its ordinary meaning; it does not automatically cover every item in the class. Check acceptable terms through TMclass or OEPM guidance.",
+      "es": "Los términos de los títulos de clase cubren únicamente los productos y servicios identificados de forma clara y precisa según su sentido literal; no abarcan automáticamente toda la clase. Deben comprobarse los términos aceptables en TMclass o en las directrices de la OEPM."
+    },
+    "retailServices": {
+      "ja": "可。第35類で小売・オンライン小売等の役務と対象商品を具体的に記載する。単なる商品の販売それ自体は役務ではない。",
+      "en": "Available in class 35. Specify the retail, online-retail or related services and the goods concerned; the mere sale of goods is not itself a service.",
+      "es": "Admitidos en la clase 35. Deben especificarse los servicios de venta minorista, en línea o relacionados y los productos correspondientes; la mera venta de productos no constituye por sí misma un servicio."
+    },
+    "multiClassApplication": {
+      "ja": "可。1出願で複数区分を指定でき、区分数に応じた料金が生じる。",
+      "en": "Available. A single application may cover multiple classes, with fees depending on the number of classes.",
+      "es": "Admitida. Una solicitud puede incluir varias clases, con tasas según el número de clases."
+    },
+    "applicationForm": {
+      "ja": "OEPM電子庁を通じたオンライン出願が中心。出願人、標章の表示、商品・役務、区分、商標種類、優先権その他の必要事項を入力し、料金を納付する。所定様式4101も参照する。",
+      "en": "Filing is principally made through the OEPM electronic office. Identify the applicant, representation of the mark, goods and services, classes, mark type, priority and other required particulars, and pay the fee. Form 4101 is also relevant.",
+      "es": "El depósito se realiza principalmente a través de la sede electrónica de la OEPM. Deben indicarse el solicitante, la representación de la marca, los productos y servicios, las clases, el tipo de marca, la prioridad y los demás datos exigidos, y abonarse la tasa. También es relevante el formulario 4101."
+    },
+    "powerOfAttorney": {
+      "ja": "代理人を選任する場合は権限を示す必要があり得る。EEA域外の出願人等にはスペインで行為できる適格代理人が必要となる場合がある。個別委任状の提出方法・例外は最新要件を確認する。",
+      "en": "Where a representative is appointed, authority may need to be established. Applicants outside the EEA may need an eligible representative able to act in Spain. Confirm current rules on filing a power and applicable exceptions.",
+      "es": "Cuando se designe representante puede ser necesario acreditar la representación. Los solicitantes establecidos fuera del EEE pueden necesitar un representante habilitado para actuar en España. Deben verificarse las reglas vigentes sobre poder y excepciones."
+    },
+    "priorityDocuments": {
+      "ja": "通常、先の出願から6か月以内に優先権を主張し、国、日付、番号を示す。OEPMの要求に応じて先願の証明書類および必要なスペイン語訳を提出する。",
+      "en": "Priority is normally claimed within six months of the earlier filing, identifying its country, date and number. Submit a certified copy and any required Spanish translation if requested by OEPM.",
+      "es": "La prioridad se reivindica normalmente dentro de los seis meses desde el primer depósito, indicando país, fecha y número. Debe aportarse copia certificada y, en su caso, traducción al español cuando lo requiera la OEPM."
+    },
+    "homeRegistrationCertificate": {
+      "ja": "通常不要。スペイン直接出願は本国登録を基礎とする必要がない。パリ条約6条の5に基づく特別な主張では本国登録証明が問題となり得る。",
+      "en": "Generally not required; a direct Spanish application need not be based on a home registration. A home-registration certificate may be relevant to a special claim under Article 6quinquies of the Paris Convention.",
+      "es": "Por regla general no se exige; una solicitud española directa no necesita basarse en un registro de origen. Un certificado del país de origen puede ser pertinente para una reivindicación especial conforme al artículo 6quinquies del Convenio de París."
+    },
+    "useEvidenceAtFiling": {
+      "ja": "不要。出願時の使用宣誓・使用見本は登録要件ではない。ただし悪意出願は無効理由となり、登録後は5年間の真正な使用要件に注意する。",
+      "en": "Not required. A declaration or specimen of use is not a filing condition. Bad-faith filing may nevertheless be invalid, and the five-year genuine-use requirement must be monitored after registration.",
+      "es": "No se exige. La declaración o muestra de uso no es requisito de depósito. No obstante, la mala fe puede causar nulidad y debe vigilarse la exigencia de uso efectivo durante cinco años tras el registro."
+    },
+    "notarizationCertification": {
+      "ja": "通常の出願書類に公証、領事認証または出願人印章は通常不要。譲渡、証拠、代理権その他の個別手続は別途確認する。",
+      "en": "Notarization, legalization or an applicant seal is normally unnecessary for an ordinary filing. Check separate requirements for assignments, evidence, authority and other specific procedures.",
+      "es": "Normalmente no se requiere notarización, legalización ni sello del solicitante para un depósito ordinario. Deben comprobarse los requisitos específicos para cesiones, pruebas, representación u otros trámites."
+    },
+    "otherDocuments": {
+      "ja": "非伝統的商標の表示・説明、団体・保証商標の使用規則、外国文字の翻訳・音訳、色彩コード、優先権資料その他を案件に応じて提出する。",
+      "en": "Depending on the case, provide representations and descriptions for non-traditional marks, regulations for collective or guarantee marks, translations or transliterations of foreign characters, colour codes, priority material and other documents.",
+      "es": "Según el caso, deben aportarse representaciones y descripciones de marcas no tradicionales, reglamentos de marcas colectivas o de garantía, traducciones o transliteraciones de caracteres extranjeros, códigos de color, documentos de prioridad y otros elementos."
+    },
+    "absoluteGroundsExamination": {
+      "ja": "あり。OEPMが識別力、記述性、欺瞞性、公序良俗、法令上保護された表示その他の絶対的拒絶理由を職権審査する。",
+      "en": "Yes. OEPM examines distinctiveness, descriptiveness, deceptiveness, public policy, legally protected designations and other absolute grounds ex officio.",
+      "es": "Sí. La OEPM examina de oficio el carácter distintivo o descriptivo, el engaño, el orden público, las designaciones legalmente protegidas y los demás motivos absolutos."
+    },
+    "distinctivenessGrounds": {
+      "ja": "識別力を欠く標識、普通名称・取引上慣用の表示、品質・数量・用途・価値・地理的出所等を示す記述的標識、商品の性質・技術的結果・実質的価値に由来する一定の形状・特徴等は拒絶される。使用による識別力獲得が考慮される場合がある。",
+      "en": "Non-distinctive, generic, customary or descriptive signs, including indications of quality, quantity, purpose, value or geographical origin, and certain shapes or characteristics resulting from the nature of goods, a technical result or substantial value, are refused. Acquired distinctiveness through use may be relevant.",
+      "es": "Se deniegan los signos carentes de carácter distintivo, genéricos, usuales o descriptivos —incluidas indicaciones de calidad, cantidad, destino, valor u origen geográfico— y determinadas formas o características impuestas por la naturaleza del producto, un resultado técnico o un valor sustancial. Puede ser relevante la distintividad adquirida por el uso."
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "公序良俗に反する標識、需要者を欺く標識、国家・国際機関の紋章等、保護原産地名称・地理的表示・伝統的用語・植物品種名称と抵触する標識、法令で禁止された標識、悪意による出願等。",
+      "en": "Grounds include signs contrary to public policy or morality; deceptive signs; protected state or international-organization emblems; conflicts with protected designations of origin, geographical indications, traditional terms or plant-variety denominations; statutory prohibitions; and bad-faith applications.",
+      "es": "Los motivos incluyen signos contrarios al orden público o a las buenas costumbres; signos engañosos; emblemas estatales o de organizaciones internacionales protegidos; conflictos con denominaciones de origen, indicaciones geográficas, términos tradicionales o denominaciones de variedades vegetales; prohibiciones legales; y solicitudes de mala fe."
+    },
+    "relativeGroundsExamination": {
+      "ja": "原則として先行権との抵触を職権で拒絶する方式ではない。OEPMは検索で把握した一定の先行権者へ公告を通知し得るが、権利者が2か月以内に異議を申し立てることが重要。登録後は無効手続も利用できる。",
+      "en": "OEPM does not generally refuse ex officio merely because of earlier rights. It may notify certain earlier-right holders identified through its search, but the owner must normally file opposition within two months. Administrative invalidity remains available after registration.",
+      "es": "La OEPM no deniega por regla general de oficio por la mera existencia de derechos anteriores. Puede avisar a determinados titulares detectados en su búsqueda, pero el titular normalmente debe formular oposición en dos meses. Tras el registro cabe solicitar nulidad administrativa."
+    },
+    "disclaimer": {
+      "ja": "権利不要求の表示を記録できる場合があるが、標章全体の識別力欠如を当然に治癒するものではない。非識別的要素単独の保護範囲は限定され、標章全体で評価される。",
+      "en": "A non-exclusive claim concerning an element may be recordable in appropriate cases, but it does not automatically cure lack of distinctiveness of the mark as a whole. Non-distinctive elements receive limited independent weight and the mark is assessed globally.",
+      "es": "Puede hacerse constar, en su caso, que no se reivindica un derecho exclusivo sobre un elemento, pero ello no subsana automáticamente la falta de distintividad del conjunto. Los elementos no distintivos tienen alcance autónomo limitado y la marca se aprecia globalmente."
+    },
+    "consent": {
+      "ja": "同意・共存契約は異議の取下げや紛争解決に有用だが、絶対的拒絶理由を解消せず、第三者や裁判所を当然には拘束しない。契約範囲、競争法、実際の混同リスクを個別確認する。",
+      "en": "Consent or coexistence agreements can facilitate withdrawal or settlement of an opposition but do not cure absolute grounds or automatically bind third parties or courts. Review contractual scope, competition law and actual confusion risk case by case.",
+      "es": "El consentimiento o acuerdo de coexistencia puede facilitar la retirada o solución de una oposición, pero no elimina motivos absolutos ni vincula automáticamente a terceros o tribunales. Deben analizarse el alcance contractual, la competencia y el riesgo real de confusión."
+    },
+    "acceleratedExamination": {
+      "ja": "通常の国内商標について一般的な早期審査制度は確認できない。電子出願は可能だが、公告・異議期間は省略できない。緊急案件では現地代理人に個別の促進可能性を確認する。",
+      "en": "No general accelerated-examination program has been identified for ordinary national trademark applications. Electronic filing is available, but publication and opposition cannot simply be bypassed. Ask local counsel about case-specific urgency options.",
+      "es": "No se ha identificado un programa general de examen acelerado para solicitudes nacionales ordinarias. Existe depósito electrónico, pero no puede omitirse sin más la publicación ni la oposición. Debe consultarse al agente local sobre opciones específicas de urgencia."
+    },
+    "thirdPartyObservation": {
+      "ja": "あり。第三者は絶対的拒絶理由等について意見を提出できる。先行権を主張する場合は、通常、法定期間内の異議申立てを選ぶ。",
+      "en": "Available. Third parties may submit observations concerning absolute grounds and related registrability matters. A person relying on an earlier right should normally use the statutory opposition procedure.",
+      "es": "Previstas. Los terceros pueden formular observaciones sobre motivos absolutos y otras cuestiones de registrabilidad. Quien invoque un derecho anterior debe utilizar normalmente la oposición dentro del plazo legal."
+    },
+    "directExaminationPeriod": {
+      "ja": "OEPM案内では、出願は通常、異議・不備等がない場合は約8か月、ある場合は約14か月で解決される。法定の最大処理期間として、停止・異議がない場合12か月、ある場合20か月との案内もある。個別事件の平均初回通知時期とは区別する。",
+      "en": "OEPM guidance states that applications are normally resolved in about eight months without objections or irregularities and about fourteen months where they arise. It also states statutory maximum decision periods of twelve months without suspension or opposition and twenty months otherwise. These are not the same as an average first-action time.",
+      "es": "Según la OEPM, las solicitudes suelen resolverse en unos ocho meses si no hay suspensos ni oposiciones y en unos catorce meses si los hay. También se indican plazos máximos legales de doce meses sin suspenso u oposición y veinte meses en caso contrario. No equivalen al promedio de primera acción."
+    },
+    "madridExaminationPeriod": {
+      "ja": "公表された一律の平均値は確認できない。スペイン指定はOEPMが国内基準で審査する。スペインはマドプロ5条(2)(b)の18か月宣言国一覧に含まれないため、原則としてWIPO通報日から12か月の拒絶通報枠を管理し、Madrid Monitorと各通知で確認する。",
+      "en": "No uniform official average has been identified. OEPM examines a designation of Spain under national standards. Spain is not listed among members making the 18-month declaration under Article 5(2)(b), so docket the ordinary 12-month refusal-notification framework from WIPO notification and verify Madrid Monitor and every notice.",
+      "es": "No se ha identificado una media oficial uniforme. La OEPM examina la designación de España conforme al derecho nacional. España no figura entre los miembros que han formulado la declaración de dieciocho meses del artículo 5.2.b), por lo que debe controlarse el plazo ordinario de doce meses desde la notificación de la OMPI y comprobar Madrid Monitor y cada comunicación."
+    },
+    "colourPriorityIdentity": {
+      "ja": "優先権には先願と後願の標章の同一性が必要であり、色の追加・削除が重要な相違となれば同一性を失い得る。白黒先願から色彩版へ優先権を及ぼす場合は、EU共通実務も踏まえ個別確認する。",
+      "en": "Priority requires identity between the earlier and later marks. Adding or removing colour may destroy identity where the difference is significant. A priority claim from a monochrome filing to a colour version should be checked case by case in light of EU convergence practice.",
+      "es": "La prioridad exige identidad entre la marca anterior y la posterior. Añadir o eliminar color puede romper la identidad si la diferencia es significativa. La prioridad de una solicitud en blanco y negro respecto de una versión en color debe analizarse caso por caso conforme a la práctica convergente de la UE."
+    },
+    "colourRelativeGrounds": {
+      "ja": "類否・混同のおそれは、標章全体の視覚・称呼・観念、識別力、商品・役務等を総合評価する。色彩は構成・識別力に応じて考慮されるが、白黒登録がすべての配色を自動的に支配するわけではない。",
+      "en": "Likelihood of confusion is assessed globally through visual, aural and conceptual similarity, distinctiveness and the goods or services. Colour is weighed according to its role and distinctiveness; a monochrome registration does not automatically control every colourway.",
+      "es": "El riesgo de confusión se aprecia globalmente atendiendo a la similitud visual, fonética y conceptual, al carácter distintivo y a los productos o servicios. El color se valora según su función y distintividad; un registro en blanco y negro no domina automáticamente todas las combinaciones cromáticas."
+    },
+    "colourGenuineUse": {
+      "ja": "登録態様と異なる色での使用も、相違が商標の識別力を変更しなければ真正な使用として認められ得る。色自体が主要な識別要素である場合や配色変更が全体印象を変える場合はリスクが高い。",
+      "en": "Use in colours differing from the registration may count as genuine use if the variation does not alter the mark's distinctive character. Risk increases where colour is a principal distinctive element or the change alters the overall impression.",
+      "es": "El uso en colores distintos de los registrados puede constituir uso efectivo si la variación no altera el carácter distintivo. El riesgo aumenta cuando el color es un elemento distintivo principal o el cambio modifica la impresión de conjunto."
+    },
+    "colourInfringementScope": {
+      "ja": "侵害範囲は登録表示、識別力、使用態様および混同のおそれ等から判断される。色彩を明示的に限定した登録はその限定が重要となり、色彩単独商標の保護は獲得識別力と使用証拠に強く依存する。",
+      "en": "Infringement scope depends on the registered representation, distinctiveness, manner of use and likelihood of confusion. An express colour limitation matters, and the scope of colour-per-se marks depends heavily on acquired distinctiveness and use evidence.",
+      "es": "El alcance de la infracción depende de la representación registrada, la distintividad, la forma de uso y el riesgo de confusión. Una limitación expresa de color es relevante, y la protección de un color per se depende en gran medida de la distintividad adquirida y de la prueba de uso."
+    },
+    "colourFilingStrategy": {
+      "ja": "複数配色を使用する場合、白黒版だけに依存せず、主要な色彩版または色彩単独・組合せについて別出願を検討する。色彩コード、配置、長期的な使用予定と優先権資料を一致させる。",
+      "en": "If multiple colourways will be used, do not rely automatically on a monochrome filing; consider separate filings for key colour versions or colour-per-se/combination marks. Align colour codes, arrangement, long-term use plans and priority material.",
+      "es": "Si se utilizarán varias combinaciones de color, no debe confiarse automáticamente en un depósito en blanco y negro; conviene valorar solicitudes separadas para los colores principales o para un color/combinación. Deben alinearse códigos, disposición, uso previsto y documentos de prioridad."
+    },
+    "refusalResponseRoute": {
+      "ja": "方式・絶対的理由または異議に基づくsuspensoには、OEPMへ意見書・補正等を提出する。異議に基づく場合、要件を満たせば先行商標の使用証明を明示的かつ別書面で請求できる。最終拒絶決定にはrecurso de alzada（行政上訴）を行い、その後は行政訴訟による司法審査があり得る。",
+      "en": "Respond to a formal, absolute-ground or opposition-based suspenso by filing arguments and, where permitted, amendments with OEPM. For an opposition-based objection, an admissible request for proof of use of the earlier mark must be express and separate. A final refusal may be challenged by recurso de alzada, followed where appropriate by contentious-administrative judicial review.",
+      "es": "El suspenso formal, por motivos absolutos o basado en oposición se contesta ante la OEPM con alegaciones y, cuando proceda, limitaciones. Si deriva de oposición, la petición admisible de prueba de uso de la marca anterior debe ser expresa y separada. La denegación final puede recurrirse en alzada y, en su caso, ante la jurisdicción contencioso-administrativa."
+    },
+    "responsePeriod": {
+      "ja": "通常、BOPIでsuspensoが公表された日から1か月。通知・手続の種類により異なり得るため、各通知の期限を確認する。異議に対する使用証明請求も通常この応答期間内に行う。",
+      "en": "Normally one month from publication of the suspenso in BOPI. The period may vary with the notice or procedure, so docket the date stated or legally triggered in each case. A request for proof of use against an opposition is normally made within this response period.",
+      "es": "Normalmente un mes desde la publicación del suspenso en el BOPI. El plazo puede variar según la comunicación o el procedimiento, por lo que debe controlarse cada caso. La petición de prueba de uso frente a una oposición se formula normalmente dentro de este plazo de contestación."
+    },
+    "extensionAvailable": {
+      "ja": "通常のsuspenso応答期限について一般的な当然延長は期待しない。法定期限の延長・回復は手続と厳格な要件に依存するため、通知期限内の提出を前提とする。",
+      "en": "Do not assume an ordinary automatic extension of the suspenso response period. Extension or restoration depends on the particular statutory period and strict conditions; plan to file within the original deadline.",
+      "es": "No debe presumirse una prórroga ordinaria automática del plazo para contestar un suspenso. La ampliación o restitución depende del plazo legal concreto y de requisitos estrictos; debe presentarse dentro del plazo original."
+    },
+    "extensionLength": {
+      "ja": "一律の延長期間なし。利用可能性および期間は対象手続・根拠により異なる。",
+      "en": "No uniform extension period. Availability and length depend on the procedure and legal basis.",
+      "es": "No existe un período uniforme de prórroga. Su disponibilidad y duración dependen del trámite y fundamento jurídico."
+    },
+    "extensionRequirements": {
+      "ja": "適用される場合、期限前の申請、理由、証拠、料金等が必要となり得る。不可抗力・権利回復等の例外的制度は厳格であり、異議期間等には適用除外があり得る。",
+      "en": "Where available, a timely request, reasons, evidence and a fee may be required. Force-majeure or restoration mechanisms are strict and certain periods, including opposition-related periods, may be excluded.",
+      "es": "Cuando proceda, pueden exigirse solicitud en plazo, motivos, pruebas y tasa. La fuerza mayor o restitución está sujeta a requisitos estrictos y ciertos plazos, incluidos algunos de oposición, pueden quedar excluidos."
+    },
+    "appealRoute": {
+      "ja": "OEPMの最終決定に対しrecurso de alzadaを提起し、行政段階終了後は管轄裁判所へ行政訴訟を提起し得る。無効・取消等では決定の種類に応じた専用経路を確認する。",
+      "en": "A final OEPM decision may be challenged by recurso de alzada. Once the administrative route is exhausted, contentious-administrative judicial review may be available. Confirm the specific route for invalidity, revocation and other decision types.",
+      "es": "La resolución final de la OEPM puede impugnarse mediante recurso de alzada. Agotada la vía administrativa, puede acudirse a la jurisdicción contencioso-administrativa. Debe verificarse la vía específica para nulidad, caducidad y otras resoluciones."
+    },
+    "refusalAppealPeriod": {
+      "ja": "通常、拒絶決定のBOPI公告日から1か月以内にrecurso de alzada。決定本文、公告日、電子通知および休日計算を個別確認する。",
+      "en": "Normally one month from publication of the refusal decision in BOPI to file recurso de alzada. Verify the decision, publication date, electronic notification and calendar calculation in each matter.",
+      "es": "Normalmente un mes desde la publicación de la denegación en el BOPI para interponer recurso de alzada. Deben comprobarse la resolución, la fecha de publicación, la notificación electrónica y el cómputo de días."
+    },
+    "publicDatabase": {
+      "ja": "OEPM商標ロケーター。スペイン国内商標、スペインを指定する国際登録に加え、EU商標も別途確認する。",
+      "en": "OEPM Trademark Locator. Search Spanish national marks and international registrations designating Spain, and separately check EUTMs.",
+      "es": "Localizador de Marcas de la OEPM. Deben buscarse marcas nacionales, registros internacionales con efectos en España y, separadamente, marcas de la Unión.",
+      "url": "https://consultas2.oepm.es/LocalizadorWeb/"
+    },
+    "publicationStage": {
+      "ja": "方式・最低限の審査後、出願が産業財産公報（BOPI）に公告され、第三者の異議期間が開始する。異議・職権上の問題への応答後に登録または拒絶が決定される。",
+      "en": "After formal and initial examination, the application is published in the Industrial Property Gazette (BOPI), opening the opposition period. Registration or refusal follows after handling oppositions and ex officio objections.",
+      "es": "Tras el examen formal e inicial, la solicitud se publica en el Boletín Oficial de la Propiedad Industrial (BOPI), abriéndose el plazo de oposición. La concesión o denegación se decide después de tramitar oposiciones y reparos de oficio."
+    },
+    "oppositionPeriod": {
+      "ja": "BOPIでの出願公告日から2か月。",
+      "en": "Two months from publication of the application in BOPI.",
+      "es": "Dos meses desde la publicación de la solicitud en el BOPI."
+    },
+    "oppositionExtension": {
+      "ja": "通常の延長なし。法定2か月内の提出を前提とし、期限回復の適用除外・厳格要件にも注意する。",
+      "en": "No ordinary extension. File within the statutory two months and note that restoration may be excluded or subject to strict conditions.",
+      "es": "No hay prórroga ordinaria. Debe presentarse dentro de los dos meses legales, teniendo en cuenta que la restitución puede estar excluida o sometida a requisitos estrictos."
+    },
+    "averagePendency": {
+      "ja": "OEPM案内上、問題のない案件は約8か月、問題・異議がある案件は約14か月が目安。法定最大期間は条件により12か月または20か月。案件別にBOPI・CEOの進行を確認する。",
+      "en": "OEPM guidance gives approximately eight months for straightforward matters and fourteen months where objections or oppositions arise. Statutory maximum periods are stated as twelve or twenty months depending on the case. Track each file through BOPI and the OEPM case system.",
+      "es": "La OEPM indica unos ocho meses para expedientes sin incidencias y unos catorce meses cuando hay suspensos u oposiciones. Los plazos máximos legales son de doce o veinte meses según el caso. Debe seguirse cada expediente en el BOPI y en la consulta de expedientes."
+    },
+    "term": {
+      "ja": "10年。10年ごとに更新可能。",
+      "en": "Ten years, renewable for successive ten-year periods.",
+      "es": "Diez años, renovables por períodos sucesivos de diez años."
+    },
+    "termStart": {
+      "ja": "出願日から。",
+      "en": "From the filing date.",
+      "es": "Desde la fecha de solicitud."
+    },
+    "renewalWindow": {
+      "ja": "原則として満了前6か月以内に更新を申請・納付する。OEPMの記録上の満了日と最新料金を確認する。",
+      "en": "As a rule, request renewal and pay the fee during the six months before expiry. Verify the recorded expiry date and current fees with OEPM.",
+      "es": "Como regla, la renovación y el pago se realizan durante los seis meses anteriores al vencimiento. Deben comprobarse la fecha registral de vencimiento y las tasas vigentes."
+    },
+    "gracePeriod": {
+      "ja": "あり。満了後6か月以内に割増料金を伴う更新が可能。割増率は遅延段階により異なる。",
+      "en": "Available. Late renewal is possible during the six months after expiry with surcharges that vary by the stage of delay.",
+      "es": "Existe. Puede renovarse durante los seis meses posteriores al vencimiento con recargos que varían según el momento del retraso."
+    },
+    "renewalEvidence": {
+      "ja": "更新時の使用証拠提出は通常不要。更新申請、料金、名義・代理情報等を整える。ただし不使用取消への備えとして使用証拠は別途保存する。",
+      "en": "Evidence of use is not ordinarily filed on renewal. Submit the renewal request, fee and correct ownership or representation particulars. Preserve use evidence separately against revocation risk.",
+      "es": "Normalmente no se presenta prueba de uso al renovar. Deben aportarse la solicitud, tasa y datos correctos de titularidad o representación. La prueba de uso debe conservarse separadamente frente al riesgo de caducidad."
+    },
+    "nonUseCancellation": {
+      "ja": "あり。OEPMへの行政上の取消（caducidad）申請が可能で、訴訟の反訴等で裁判所が扱う場合もある。",
+      "en": "Available. Administrative revocation for non-use may be requested from OEPM, and courts may address validity in circumstances such as a counterclaim.",
+      "es": "Prevista. Puede solicitarse la caducidad administrativa por falta de uso ante la OEPM, y los tribunales pueden conocer de la validez, por ejemplo mediante reconvención."
+    },
+    "nonUsePeriod": {
+      "ja": "登録手続完了後、正当な理由なく継続5年間真正な使用がない場合。使用が一部の商品・役務に限られると部分取消となり得る。",
+      "en": "Five continuous years without genuine use after completion of registration, absent proper reasons. Use limited to some goods or services may result in partial revocation.",
+      "es": "Cinco años ininterrumpidos sin uso efectivo tras completarse el registro, salvo causa justificativa. El uso limitado a parte de los productos o servicios puede provocar caducidad parcial."
+    },
+    "nonUseDefenses": {
+      "ja": "商標権者が関連期間の真正な使用または不使用の正当理由を立証する。登録態様と異なる使用は識別力を変更しない範囲で認められ得る。輸出向け使用および権利者の同意による使用も考慮され得る。",
+      "en": "The owner must prove genuine use during the relevant period or proper reasons for non-use. Use in a differing form may count if distinctive character is not altered; export use and use with the owner's consent may also qualify.",
+      "es": "El titular debe probar el uso efectivo durante el período pertinente o causas justificativas de falta de uso. El uso en forma diferente puede valer si no altera el carácter distintivo; también pueden computar el uso para exportación y el uso consentido por el titular."
+    },
+    "otherCancellation": {
+      "ja": "あり。普通名称化、商標権者の行為・不作為により誤認を招くようになった場合その他、法定の後発的取消事由がある。",
+      "en": "Available. Statutory grounds include a mark becoming generic or becoming misleading through the proprietor's acts or inactivity, among other supervening causes.",
+      "es": "Prevista. Entre las causas legales están la vulgarización de la marca o que llegue a inducir a error por actos o inactividad del titular, además de otros motivos sobrevenidos."
+    },
+    "invalidation": {
+      "ja": "あり。絶対的理由、悪意、先行権等に基づく無効をOEPMへ行政申請でき、一定の場合は裁判所でも争われる。相対的無効では黙認による制限や先行商標の使用証明に注意する。",
+      "en": "Available. Administrative invalidity may be sought from OEPM on absolute grounds, bad faith, earlier rights and other statutory bases; courts may also address validity in specified circumstances. Relative invalidity is subject to issues such as acquiescence and proof of use of an earlier mark.",
+      "es": "Prevista. Puede solicitarse nulidad administrativa ante la OEPM por motivos absolutos, mala fe, derechos anteriores y otras causas legales; los tribunales también pueden conocer en determinados supuestos. En nulidad relativa deben considerarse la tolerancia y la prueba de uso de la marca anterior."
+    },
+    "civilInjunction": {
+      "ja": "あり。侵害の停止・差止め、仮処分その他の措置を請求できる。緊急性、被侵害権利、比例性、担保等を個別確認する。",
+      "en": "Available. Cessation, injunctions and interim measures may be sought. Urgency, the asserted right, proportionality, security and other conditions require case-specific analysis.",
+      "es": "Prevista. Pueden solicitarse cesación, prohibición y medidas cautelares. Deben analizarse la urgencia, el derecho invocado, la proporcionalidad, la caución y demás requisitos."
+    },
+    "civilDamages": {
+      "ja": "あり。損失・逸失利益、侵害者利益、合理的ロイヤルティ等の法定選択肢および精神的損害等が問題となり得る。故意・過失、通知、期間、証拠を確認する。",
+      "en": "Available. Statutory approaches may include loss and lost profits, infringer's profits or a reasonable royalty, with moral damage potentially relevant. Check fault, notice, limitation periods and evidence.",
+      "es": "Prevista. Los criterios legales pueden incluir pérdidas y lucro cesante, beneficios del infractor o regalía hipotética, y puede ser relevante el daño moral. Deben comprobarse culpa, requerimiento, prescripción y prueba."
+    },
+    "civilEvidencePreservation": {
+      "ja": "訴訟前・訴訟中の証拠保全、予備的手続、書類・物品の提出命令、専門家証拠等を利用し得る。営業秘密・個人情報・担保および本案提訴期限を確認する。",
+      "en": "Pre-action or in-action evidence preservation, preliminary enquiries, orders concerning documents or goods and expert evidence may be available. Address trade secrets, personal data, security and any deadline for commencing the merits action.",
+      "es": "Pueden utilizarse diligencias preliminares, aseguramiento de prueba, exhibición de documentos o mercancías y prueba pericial antes o durante el proceso. Deben atenderse secretos empresariales, datos personales, caución y plazo para la acción principal."
+    },
+    "civilOther": {
+      "ja": "侵害品・材料の回収、除去・廃棄、判決公表、費用その他の救済があり得る。商標訴訟の管轄、EUTM事件の専属管轄および時効を確認する。",
+      "en": "Recall, removal or destruction of infringing goods and materials, publication of judgment, costs and other remedies may be available. Confirm venue, specialized jurisdiction for EUTM matters and limitation periods.",
+      "es": "Pueden acordarse retirada, remoción o destrucción de mercancías y materiales, publicación de sentencia, costas y otros remedios. Deben comprobarse competencia territorial, jurisdicción especializada para MUE y prescripción."
+    },
+    "borderMeasures": {
+      "ja": "あり。EU税関規則に基づき、スペイン税関へ知的財産権の介入申請を行い、疑義貨物の留置・簡易廃棄等を求め得る。権利・真正品情報と連絡体制を最新化する。",
+      "en": "Available. Under the EU customs regime, an application for action may be filed with Spanish Customs to detain suspected goods and use simplified destruction where applicable. Keep rights, genuine-product intelligence and contacts current.",
+      "es": "Previstas. Conforme al régimen aduanero de la UE puede presentarse una solicitud de intervención ante la Aduana española para retener mercancías sospechosas y aplicar, cuando proceda, la destrucción simplificada. Deben mantenerse actualizados derechos, datos de producto auténtico y contactos."
+    },
+    "administrativeRaid": {
+      "ja": "OEPM自体は侵害者の摘発機関ではない。警察・税関・所管行政当局が模倣品事案で行動し得るが、根拠、管轄および刑事告訴との連携を個別確認する。",
+      "en": "OEPM itself does not raid or prosecute alleged infringers. Police, Customs and competent administrative authorities may act against counterfeit goods, subject to case-specific legal basis, jurisdiction and coordination with criminal complaints.",
+      "es": "La OEPM no realiza redadas ni persigue de oficio a presuntos infractores. La policía, Aduanas y autoridades administrativas competentes pueden actuar contra falsificaciones, según la base legal, competencia y coordinación con la denuncia penal."
+    },
+    "administrativeOther": {
+      "ja": "税関留置、市場監視、消費者保護上の措置、オンラインプラットフォーム手続等が事案により併用される。OEPMの無効・取消は権利の有効性に関する行政手続であり、侵害摘発とは区別する。",
+      "en": "Customs detention, market-surveillance or consumer measures and platform procedures may be combined depending on the case. OEPM invalidity and revocation concern the validity of rights and are distinct from infringement raids.",
+      "es": "Según el caso pueden combinarse retención aduanera, vigilancia de mercado, medidas de consumo y procedimientos de plataformas. La nulidad y caducidad ante la OEPM se refieren a la validez del derecho y son distintas de la persecución de infracciones."
+    },
+    "criminalAvailability": {
+      "ja": "あり。スペイン刑法274条等は、故意に商業・産業目的で登録商標権を侵害する一定の製造、輸入、流通、販売等を犯罪とする。構成要件と登録の有効性を確認する。",
+      "en": "Available. Article 274 and related provisions of the Spanish Criminal Code criminalize specified intentional manufacture, importation, distribution, sale and other commercial or industrial conduct infringing registered trademark rights. Confirm the elements and validity of the registration.",
+      "es": "Prevista. El artículo 274 y disposiciones conexas del Código Penal sancionan determinadas conductas intencionales de fabricación, importación, distribución, venta u otra actividad comercial o industrial que infrinja derechos de marca registrados. Deben comprobarse los elementos y la validez del registro."
+    },
+    "criminalFine": {
+      "ja": "あり。行為類型、流通段階、重大性その他に応じて月数で定める罰金等が科され得る。最新の刑法274条と量刑事情を確認する。",
+      "en": "Available. Fines calculated by months and other financial penalties may apply depending on the conduct, distribution level, seriousness and other factors. Check the current Article 274 and sentencing circumstances.",
+      "es": "Prevista. Pueden imponerse multas por meses y otras consecuencias económicas según la conducta, nivel de distribución, gravedad y demás circunstancias. Debe consultarse el artículo 274 vigente y las reglas de individualización."
+    },
+    "criminalImprisonment": {
+      "ja": "あり得る。刑法274条は行為類型に応じて拘禁刑を定め、卸売・組織的行為等と小売行為で枠が異なり得る。現行条文を事件時点で確認する。",
+      "en": "Potentially available. Article 274 provides imprisonment ranges that vary with the type and level of conduct, including distinctions involving wholesale or organized activity and retail conduct. Check the provision in force at the relevant date.",
+      "es": "Puede imponerse. El artículo 274 establece penas de prisión variables según el tipo y nivel de conducta, incluidas diferencias entre actividad mayorista u organizada y venta minorista. Debe verificarse el texto vigente en la fecha pertinente."
+    },
+    "criminalOther": {
+      "ja": "侵害品・設備の押収・没収・廃棄、営業所閉鎖、職業上の欠格、判決公表等が事案により問題となり得る。刑事手続と民事請求の併合可能性を確認する。",
+      "en": "Seizure, forfeiture or destruction of goods and equipment, closure, occupational disqualification, publication of judgment and other measures may arise. Consider whether civil claims should be joined to the criminal proceeding.",
+      "es": "Pueden proceder aprehensión, decomiso o destrucción de mercancías y equipos, clausura, inhabilitación, publicación de sentencia y otras medidas. Debe valorarse el ejercicio de la acción civil dentro del proceso penal."
+    }
+  },
+  "notablePoints": [
+    {
+      "id": "national-eutm-madrid-layering",
+      "category": "strategy",
+      "importance": "high",
+      "title": { "ja": "国内商標・EU商標・マドプロ指定の三層構造", "en": "Three-layer national, EUTM and Madrid strategy", "es": "Estrategia de tres niveles: nacional, MUE y Madrid" },
+      "summary": { "ja": "スペインではOEPMの国内商標に加え、EU商標およびスペイン指定の国際登録が効力を持つ。クリアランスでは三系統すべてを確認する。", "en": "Spain is covered by OEPM national marks, EUTMs and international registrations designating Spain. Clearance must cover all three channels.", "es": "En España producen efectos las marcas nacionales de la OEPM, las MUE y los registros internacionales que designan España. La búsqueda debe abarcar las tres vías." },
+      "practicalImpact": { "ja": "国内検索だけではEU商標や国際登録を見落とす。出願戦略も、地域、先行権、使用計画、単一性リスクで変わる。", "en": "A national-only search misses EUTMs and international registrations. Filing strategy changes with territory, earlier rights, use plans and unitary-risk exposure.", "es": "Una búsqueda solo nacional omite MUE y registros internacionales. La estrategia depende del territorio, derechos anteriores, uso previsto y riesgo unitario." },
+      "recommendedAction": { "ja": "OEPMロケーター、TMview／EUIPO、Madrid Monitorを横断検索し、国内・EU・国際指定の費用とリスクを比較する。", "en": "Search the OEPM Locator, TMview/EUIPO and Madrid Monitor, then compare cost and risk across national, EU and international routes.", "es": "Buscar en el Localizador OEPM, TMview/EUIPO y Madrid Monitor, y comparar costes y riesgos de las vías nacional, de la UE e internacional." },
+      "agentQuestion": { "ja": "本件はスペイン国内、EU商標、マドプロ指定または併願のどれが最適ですか。", "en": "Should this matter use a Spanish national filing, an EUTM, a Madrid designation or parallel filings?", "es": "¿Conviene una solicitud nacional española, una MUE, una designación Madrid o depósitos paralelos?" },
+      "sourceUrl": "https://consultas2.oepm.es/LocalizadorWeb/",
+      "checkedAt": "2026-09-12",
+      "status": "verified"
+    },
+    {
+      "id": "earlier-right-notice-not-refusal",
+      "category": "examination",
+      "importance": "high",
+      "title": { "ja": "先行権者への通知と職権拒絶を区別", "en": "Distinguish notice to earlier owners from ex officio refusal", "es": "Distinguir el aviso a titulares anteriores de la denegación de oficio" },
+      "summary": { "ja": "OEPMは検索で把握した一定の先行権者へ公告を通知し得るが、先行権との抵触を当然に職権拒絶する制度ではない。権利者による期限内の異議が重要。", "en": "OEPM may alert certain earlier owners identified through its search, but this is not automatic ex officio refusal based on earlier rights. Timely opposition by the owner remains critical.", "es": "La OEPM puede avisar a determinados titulares anteriores detectados en su búsqueda, pero ello no supone denegación automática de oficio. La oposición en plazo sigue siendo esencial." },
+      "practicalImpact": { "ja": "通知を受ける保証はなく、ウォッチングを省略できない。出願人側も登録前調査を行わなければ異議・無効リスクを負う。", "en": "Notice is not guaranteed and does not replace watching. Applicants also face opposition or invalidity risk if they skip clearance.", "es": "El aviso no está garantizado ni sustituye la vigilancia. El solicitante se expone a oposición o nulidad si omite la búsqueda previa." },
+      "recommendedAction": { "ja": "BOPI・主要データベースの監視を設定し、公告日から2か月の異議期限を管理する。", "en": "Set up BOPI and database watching and docket the two-month opposition deadline from publication.", "es": "Establecer vigilancia del BOPI y bases de datos y controlar el plazo de oposición de dos meses desde la publicación." },
+      "agentQuestion": { "ja": "OEPM通知に頼らず、どの範囲・頻度でスペインの商標監視を行うべきですか。", "en": "Without relying on OEPM notice, what scope and frequency of Spanish trademark watching do you recommend?", "es": "Sin depender del aviso de la OEPM, ¿qué alcance y frecuencia recomienda para la vigilancia en España?" },
+      "sourceUrl": "https://www.oepm.es/es/marcas-y-nombres-comerciales/como-proteger-las-marcas-y-nombres-comerciales/tramitacion-de-la-solicitud/",
+      "checkedAt": "2026-09-12",
+      "status": "verified"
+    },
+    {
+      "id": "proof-of-use-request-formality",
+      "category": "opposition",
+      "importance": "high",
+      "title": { "ja": "異議での使用証明請求は形式・期限が厳格", "en": "Proof-of-use requests in opposition are formal and time-sensitive", "es": "La petición de prueba de uso en oposición es formal y sujeta a plazo" },
+      "summary": { "ja": "異議に基づくsuspensoへの応答時、適格な先行商標について使用証明を請求できるが、明示的・無条件かつ別書面で通常1か月内に行う必要がある。", "en": "When responding to an opposition-based suspenso, proof of use may be requested for an eligible earlier mark, but the request must be express, unconditional, separate and normally made within one month.", "es": "Al contestar un suspenso basado en oposición puede pedirse prueba de uso de una marca anterior sujeta a dicha obligación, pero la petición debe ser expresa, incondicional, separada y normalmente formularse en un mes." },
+      "practicalImpact": { "ja": "一般的な反論文に埋め込むだけでは不受理となり得る。請求しない場合、相手方の登録指定全体を前提に異議が判断されるリスクがある。", "en": "Embedding the request casually in general arguments may make it inadmissible. Failure to request it can leave the opposition assessed against the earlier registration as filed.", "es": "Incluirla de manera informal en alegaciones generales puede hacerla inadmisible. Si no se solicita, la oposición puede valorarse sobre el registro anterior tal como está inscrito." },
+      "recommendedAction": { "ja": "suspenso受領日に先行商標の登録期間を確認し、使用証明請求書と本案反論を別建てで期限管理する。", "en": "On receipt of the suspenso, check the age of each earlier registration and separately docket the proof-of-use request and merits response.", "es": "Al recibir el suspenso, comprobar la antigüedad de cada registro anterior y controlar separadamente la petición de prueba de uso y la contestación de fondo." },
+      "agentQuestion": { "ja": "各引用商標に使用証明義務がありますか。所定の別書面と正確な期限は何ですか。", "en": "Is each cited mark subject to proof of use, and what separate filing and exact deadline apply?", "es": "¿Está cada marca invocada sujeta a prueba de uso y qué escrito separado y plazo exacto corresponden?" },
+      "sourceUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6345",
+      "checkedAt": "2026-09-12",
+      "status": "verified"
+    },
+    {
+      "id": "administrative-invalidity-revocation",
+      "category": "validity",
+      "importance": "high",
+      "title": { "ja": "OEPMの行政上の無効・取消手続", "en": "Administrative invalidity and revocation before OEPM", "es": "Nulidad y caducidad administrativas ante la OEPM" },
+      "summary": { "ja": "2023年1月14日以降、OEPMは国内商標、商号およびスペインで効力を持つ国際登録について行政上の無効・取消申請を扱う。裁判所との係属調整もある。", "en": "Since 14 January 2023, OEPM has handled administrative invalidity and revocation requests concerning national marks, trade names and international registrations effective in Spain, with coordination rules for parallel court proceedings.", "es": "Desde el 14 de enero de 2023, la OEPM conoce de solicitudes administrativas de nulidad y caducidad de marcas nacionales, nombres comerciales y registros internacionales con efectos en España, con reglas de coordinación con procesos judiciales." },
+      "practicalImpact": { "ja": "不使用取消等を裁判だけでなく行政手続で追行できる一方、先行する訴訟、反訴、証拠、停止の関係を設計する必要がある。", "en": "Non-use and other validity challenges can proceed administratively rather than only through court, but pending litigation, counterclaims, evidence and stays must be coordinated.", "es": "La falta de uso y otras impugnaciones pueden tramitarse administrativamente, pero deben coordinarse litigios pendientes, reconvenciones, pruebas y suspensiones." },
+      "recommendedAction": { "ja": "目的、費用、期間、証拠収集、侵害訴訟との関係を比較してOEPM申請か裁判上の主張かを選択する。", "en": "Choose between an OEPM application and a court-based challenge after comparing objective, cost, timing, evidence and interaction with infringement litigation.", "es": "Elegir entre solicitud ante la OEPM y vía judicial comparando objetivo, coste, duración, prueba e interacción con litigios por infracción." },
+      "agentQuestion": { "ja": "本件はOEPMの無効・取消申請と裁判上の反訴のどちらが有利ですか。", "en": "Would an OEPM invalidity/revocation request or a court counterclaim be preferable here?", "es": "¿Conviene más una solicitud de nulidad/caducidad ante la OEPM o una reconvención judicial?" },
+      "sourceUrl": "https://www.oepm.es/export/sites/portal/comun/documentos_relacionados/Publicaciones/Folletos/Manual_Nulidad_y_Caducidad_Administrativa.pdf",
+      "checkedAt": "2026-09-12",
+      "status": "verified"
+    },
+    {
+      "id": "colour-use-evidence",
+      "category": "colour",
+      "importance": "medium",
+      "title": { "ja": "色彩変更は優先権・使用証明で別々に評価", "en": "Colour changes are assessed differently for priority and use", "es": "Los cambios de color se valoran de forma distinta en prioridad y uso" },
+      "summary": { "ja": "優先権では先後願の同一性が厳格に求められる一方、使用証明では相違が識別力を変更しなければ異なる色での使用が認められ得る。", "en": "Priority requires strict identity between filings, while genuine-use analysis may accept a different colour where the variation does not alter distinctive character.", "es": "La prioridad exige identidad estricta entre solicitudes, mientras que para el uso efectivo puede aceptarse un color diferente si la variación no altera el carácter distintivo." },
+      "practicalImpact": { "ja": "白黒出願から色彩版への優先権が認められても、使用証明・侵害範囲が同じ結論になるとは限らず、その逆も同様。", "en": "A conclusion on monochrome-to-colour priority does not automatically determine genuine use or infringement scope, and vice versa.", "es": "La conclusión sobre prioridad entre blanco y negro y color no determina automáticamente el uso efectivo ni el alcance de infracción, ni viceversa." },
+      "recommendedAction": { "ja": "主要配色ごとの出願・使用資料を整理し、優先権、登録可能性、使用維持、侵害を別々に評価する。", "en": "Organize filings and use evidence by key colourway and assess priority, registrability, maintenance through use and infringement separately.", "es": "Organizar solicitudes y pruebas por combinaciones principales y analizar por separado prioridad, registrabilidad, conservación por uso e infracción." },
+      "agentQuestion": { "ja": "当社の色変更は優先権上の同一性と使用上の識別力不変更をそれぞれ満たしますか。", "en": "Do our colour variations satisfy both priority identity and the no-alteration test for genuine use?", "es": "¿Cumplen nuestras variaciones cromáticas tanto la identidad para prioridad como la prueba de no alteración para uso efectivo?" },
+      "sourceUrl": "https://www.oepm.es/export/sites/oepm/comun/documentos_relacionados/Publicaciones/Folletos/Manual_de_Prueba_de_Uso.pdf",
+      "checkedAt": "2026-09-12",
+      "status": "review"
+    }
+  ],
+  "statistics": { "coverage": "2016–2025", "status": "pending", "series": [] },
+  "news": [
+    {
+      "id": "oepm-invalidity-manual-update-2026",
+      "type": "practice",
+      "date": "2026-02-24",
+      "title": { "ja": "OEPMが行政上の無効・取消マニュアルを更新", "en": "OEPM updates its administrative invalidity and revocation manual", "es": "La OEPM actualiza el manual de nulidad y caducidad administrativa" },
+      "summary": { "ja": "OEPMは、判例上の新たな解釈、運用で生じた論点、文言の明確化および電子庁の新手続を反映してマニュアルを更新した。実際の申請では最新版を確認する。", "en": "OEPM updated the manual to reflect new judicial interpretations, issues arising in practice, clarifications and a new electronic-office procedure. Use the latest version for live matters.", "es": "La OEPM actualizó el manual para incorporar nuevas interpretaciones jurisprudenciales, cuestiones detectadas en la práctica, aclaraciones y un nuevo trámite electrónico. Debe consultarse la versión vigente." },
+      "sourceUrl": "https://oepm.es/es/detalle-noticia/Actualizacion-del-manual-informativo-sobre-nulidad-y-caducidad-administrativa/"
+    },
+    {
+      "id": "oepm-record-trademark-filings-2025",
+      "type": "statistics",
+      "date": "2026-05-22",
+      "title": { "ja": "2025年のスペイン国内商標出願が直近10年で最多", "en": "Spanish national trademark filings reach a ten-year high in 2025", "es": "Las solicitudes de marcas nacionales alcanzan en 2025 el máximo de la década" },
+      "summary": { "ja": "OEPMによれば、2025年の国内商標出願は57,158件で、2024年比11.5%増となり、直近10年で最多となった。", "en": "OEPM reported 57,158 national trademark applications in 2025, an 11.5% increase over 2024 and the strongest result of the decade.", "es": "La OEPM informó de 57.158 solicitudes de marcas nacionales en 2025, un 11,5 % más que en 2024 y el mejor dato de la década." },
+      "sourceUrl": "https://www.oepm.es/es/detalle-noticia/La-OEPM-en-cifras-2025-un-ano-de-record-para-la-innovacion-espanola/"
+    },
+    {
+      "id": "oepm-electronic-validity-improvements-2025",
+      "type": "practice",
+      "date": "2025-01-21",
+      "title": { "ja": "OEPMが無効・取消の電子手続を改善", "en": "OEPM improves electronic invalidity and revocation procedures", "es": "La OEPM mejora los trámites electrónicos de nulidad y caducidad" },
+      "summary": { "ja": "OEPMは無効・取消手続について、案件状態の検証や既入力情報の再利用を可能にする電子手続の改善を本番導入した。提出時は現行画面・様式を確認する。", "en": "OEPM deployed improvements to electronic invalidity and revocation filings, including validation of case status and reuse of previously supplied information. Check the current interface and forms when filing.", "es": "La OEPM implantó mejoras en los trámites electrónicos de nulidad y caducidad, incluidas validaciones del estado del expediente y recuperación de información ya facilitada. Debe comprobarse la interfaz y formularios vigentes." },
+      "sourceUrl": "https://www.oepm.es/eu/sobre-OEPM/noticias-y-eventos/noticias/noticiap/Actualizacion-tramites-de-nulidad-y-caducidad/"
+    }
+  ],
+  "faqs": [
+    {
+      "tag": "Filing",
+      "question": { "ja": "スペイン国内商標、EU商標、マドプロでのスペイン指定のどれが本件に適しますか。", "en": "Should this matter use a Spanish national mark, an EUTM, or a Madrid designation of Spain?", "es": "¿Conviene una marca nacional española, una MUE o una designación de España por Madrid?" },
+      "followUp": { "ja": "先行権、使用地域、費用、単一性リスクおよび将来の権利行使を比較した推奨案を教えてください。", "en": "Please recommend an option after comparing earlier rights, use territory, cost, unitary risk and future enforcement.", "es": "Recomiende una opción comparando derechos anteriores, territorio de uso, costes, riesgo unitario y futura observancia." }
+    },
+    {
+      "tag": "Clearance",
+      "question": { "ja": "国内商標、国際登録、EU商標、商号その他の先行権をどこまで調査すべきですか。", "en": "How broadly should we search national marks, international registrations, EUTMs, trade names and other earlier rights?", "es": "¿Qué alcance debe tener la búsqueda de marcas nacionales, registros internacionales, MUE, nombres comerciales y otros derechos anteriores?" },
+      "followUp": { "ja": "OEPMの先行権者通知に頼らず、異議リスクとウォッチング計画を示してください。", "en": "Without relying on OEPM notice, please assess opposition risk and propose a watching plan.", "es": "Sin depender del aviso de la OEPM, evalúe el riesgo de oposición y proponga un plan de vigilancia." }
+    },
+    {
+      "tag": "Examination",
+      "question": { "ja": "識別力または公益的な絶対的拒絶理由が予想されますか。どの補正・証拠が有効ですか。", "en": "Do you expect a distinctiveness or public-interest absolute-ground objection, and what amendment or evidence would help?", "es": "¿Prevé objeciones por falta de distintividad o por motivos absolutos de interés público, y qué limitación o prueba sería útil?" },
+      "followUp": { "ja": "suspensoへの正確な1か月期限、延長可否およびスペイン語での推奨応答を確認してください。", "en": "Please confirm the exact one-month suspenso deadline, extension availability and recommended Spanish-language response.", "es": "Confirme el plazo exacto de un mes para el suspenso, la posibilidad de prórroga y la respuesta recomendada en español." }
+    },
+    {
+      "tag": "Opposition",
+      "question": { "ja": "異議人の先行商標について使用証明を請求できますか。", "en": "Can we request proof of use of the opponent's earlier mark?", "es": "¿Podemos solicitar prueba de uso de la marca anterior del oponente?" },
+      "followUp": { "ja": "適格性、別書面の形式、1か月期限、必要な反論・指定限定を確認してください。", "en": "Please confirm eligibility, the separate filing format, the one-month deadline, and necessary arguments or specification limitation.", "es": "Confirme la procedencia, el escrito separado, el plazo de un mes y las alegaciones o limitaciones necesarias." }
+    },
+    {
+      "tag": "Colour",
+      "question": { "ja": "白黒版と色彩版のどちらを出願すべきで、優先権・類否・使用証明にどう影響しますか。", "en": "Should we file the monochrome or colour version, and how will that affect priority, similarity and genuine-use proof?", "es": "¿Debemos presentar la versión en blanco y negro o en color, y cómo afectará a la prioridad, similitud y prueba de uso?" },
+      "followUp": { "ja": "主要配色ごとの別出願と、色彩コード・配置の記載を推奨しますか。", "en": "Do you recommend separate filings for principal colourways and express colour-code or arrangement details?", "es": "¿Recomienda solicitudes separadas para los colores principales e indicar expresamente códigos o disposición?" }
+    },
+    {
+      "tag": "Validity / Enforcement",
+      "question": { "ja": "不使用取消・無効はOEPM行政手続と裁判上の反訴のどちらを選ぶべきですか。", "en": "Should non-use revocation or invalidity be pursued before OEPM or by court counterclaim?", "es": "¿Debe plantearse la caducidad por falta de uso o nulidad ante la OEPM o mediante reconvención judicial?" },
+      "followUp": { "ja": "立証責任、期間、費用、侵害訴訟との停止・係属関係、仮処分・税関措置を比較してください。", "en": "Please compare burden of proof, timing, cost, stays or parallel infringement proceedings, interim relief and customs measures.", "es": "Compare carga de la prueba, duración, coste, suspensión o procedimientos paralelos, medidas cautelares y aduaneras." }
+    }
+  ],
+  "sources": [
+    { "label": "OEPM — Marcas y nombres comerciales", "url": "https://www.oepm.es/es/marcas-y-nombres-comerciales", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "OEPM — Tramitación de la solicitud", "url": "https://www.oepm.es/es/marcas-y-nombres-comerciales/como-proteger-las-marcas-y-nombres-comerciales/tramitacion-de-la-solicitud/", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "OEPM — Sede electrónica, solicitud de marca", "url": "https://sede.oepm.gob.es/eSede/es/marcas/marca-nacional/solicitud-de-marcas-y-nombres-comerciales.html", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "OEPM — Formularios de marcas y nombres comerciales", "url": "https://www.oepm.es/es/herramientas/Formularios/formularios-de-marcas-y-nombres-comerciales/", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "OEPM — Localizador de Marcas", "url": "https://consultas2.oepm.es/LocalizadorWeb/", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "OEPM — OEPMESTAD", "url": "https://consultas2.oepm.es/ipstat/faces/IpsBusqueda.xhtml", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "OEPM — La OEPM en cifras", "url": "https://www.oepm.es/es/sobre-OEPM/estadisticas/estadisticas-de-propiedad-industrial/la-oepm-en-cifras/", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "OEPM — Manual de prueba de uso", "url": "https://www.oepm.es/export/sites/oepm/comun/documentos_relacionados/Publicaciones/Folletos/Manual_de_Prueba_de_Uso.pdf", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "OEPM — Manual de nulidad y caducidad administrativa", "url": "https://www.oepm.es/export/sites/portal/comun/documentos_relacionados/Publicaciones/Folletos/Manual_Nulidad_y_Caducidad_Administrativa.pdf", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "OEPM — Actualización del manual de nulidad y caducidad (2026)", "url": "https://oepm.es/es/detalle-noticia/Actualizacion-del-manual-informativo-sobre-nulidad-y-caducidad-administrativa/", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "OEPM — La OEPM en cifras 2025", "url": "https://www.oepm.es/es/detalle-noticia/La-OEPM-en-cifras-2025-un-ano-de-record-para-la-innovacion-espanola/", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "BOE — Ley 17/2001, de Marcas (consolidated)", "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-23093", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "BOE — Reglamento de la Ley de Marcas, Real Decreto 687/2002", "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-13981", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "BOE — Real Decreto 306/2019", "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6345", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "BOE — Código Penal (consolidated)", "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "Spanish Tax Agency — Protección de la propiedad intelectual", "url": "https://sede.agenciatributaria.gob.es/Sede/aduanas/proteccion-propiedad-intelectual.html", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "Spanish Tax Agency — Solicitud de intervención de marcas", "url": "https://sede.agenciatributaria.gob.es/Sede/procedimientoini/DB07.shtml", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "WIPO — Madrid System members", "url": "https://www.wipo.int/en/web/madrid-system/members/index", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "WIPO — Madrid System member declarations", "url": "https://www.wipo.int/en/web/madrid-system/members/declarations", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "EUIPO — TMview", "url": "https://www.tmdn.org/tmview/", "type": "official", "checkedAt": "2026-09-12" }
+  ]
+}
