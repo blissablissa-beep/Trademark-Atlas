@@ -4,6 +4,10 @@
     "path": "./data/jurisdictions/us.json"
   },
   {
+    "id": "ca",
+    "path": "./data/jurisdictions/ca.json"
+  },
+  {
     "id": "euipo",
     "path": "./data/jurisdictions/euipo.json"
   },
