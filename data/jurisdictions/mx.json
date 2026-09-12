@@ -1,0 +1,484 @@
+{
+  "id": "mx",
+  "type": "country",
+  "flag": "🇲🇽",
+  "region": "americas",
+  "names": { "ja": "メキシコ", "en": "Mexico", "es": "México" },
+  "office": {
+    "ja": "メキシコ産業財産庁（IMPI）",
+    "en": "Mexican Institute of Industrial Property (IMPI)",
+    "es": "Instituto Mexicano de la Propiedad Industrial (IMPI)"
+  },
+  "availableLanguages": ["es"],
+  "createdAt": "2026-09-12",
+  "updatedAt": "2026-09-12",
+  "status": "review",
+  "facts": {
+    "authority": {
+      "ja": "メキシコ産業財産庁（IMPI）が商標、商号、広告標語等の出願・登録、異議、無効・取消、行政侵害手続および暫定措置を扱う。司法審査・民刑事事件は管轄裁判所等が扱う。",
+      "en": "The Mexican Institute of Industrial Property (IMPI) handles trademark, trade-name and advertising-slogan filings, registration, opposition, invalidity, revocation, administrative infringement proceedings and provisional measures. Judicial review and civil or criminal matters are handled by the competent authorities and courts.",
+      "es": "El Instituto Mexicano de la Propiedad Industrial (IMPI) tramita solicitudes y registros de marcas, nombres y avisos comerciales, oposiciones, nulidad, caducidad, infracciones administrativas y medidas provisionales. La revisión judicial y los asuntos civiles o penales corresponden a las autoridades y tribunales competentes."
+    },
+    "protectionScope": {
+      "ja": "登録により、指定商品・役務についてメキシコ国内で商標を排他的に使用する権利を得る。著名・周知商標、商号、トレードドレス、広告標語等にも法定保護がある。",
+      "en": "Registration grants the exclusive right to use the mark in Mexico for the designated goods or services. Statutory protection also exists for well-known and famous marks, trade names, trade dress and advertising slogans.",
+      "es": "El registro confiere el derecho exclusivo de uso en México para los productos o servicios designados. También existe protección legal para marcas notoriamente conocidas o famosas, nombres comerciales, imagen comercial y avisos comerciales."
+    },
+    "markTypes": {
+      "ja": "文字、図形、立体、ホログラム、音、香り、色彩の組合せ、トレードドレスに加え、2026年改正で位置、動き、マルチメディアおよびこれらの組合せが明文化された。団体商標・証明商標もある。",
+      "en": "Word, figurative, three-dimensional, hologram, sound, scent, colour-combination and trade-dress marks are available. The 2026 reform expressly added position, motion, multimedia and combinations of listed sign types. Collective and certification marks are also available.",
+      "es": "Se admiten marcas denominativas, figurativas, tridimensionales, holográficas, sonoras, olfativas, combinaciones de colores e imagen comercial. La reforma de 2026 añadió expresamente marcas de posición, movimiento, multimedia y combinaciones de los signos enumerados. También existen marcas colectivas y de certificación."
+    },
+    "madridAccessionDate": {
+      "ja": "2013年2月19日（マドリッド協定議定書の発効日）",
+      "en": "19 February 2013 (entry into force of the Madrid Protocol for Mexico)",
+      "es": "19 de febrero de 2013 (entrada en vigor del Protocolo de Madrid para México)"
+    },
+    "niceClassification": {
+      "ja": "採用。商品・役務はニース国際分類の45区分に従う。IMPIのCLASNizaで受理表示を確認できる。",
+      "en": "Adopted. Goods and services follow the 45 classes of the Nice Classification. Acceptable terms can be checked through IMPI's CLASNiza.",
+      "es": "Adoptada. Los productos y servicios se clasifican en las 45 clases de Niza. Los términos aceptables pueden consultarse en CLASNiza del IMPI."
+    },
+    "classHeadingPractice": {
+      "ja": "類見出しだけで当該類の全商品・役務を当然に包含しない。保護を求める商品・役務を明確かつ具体的に記載し、CLASNizaの受理語または適切な限定を用いる。",
+      "en": "A class heading does not automatically cover every good or service in the class. Identify the intended goods or services clearly and specifically, using CLASNiza accepted terms or suitable limitations.",
+      "es": "El título de una clase no cubre automáticamente todos sus productos o servicios. Deben identificarse de forma clara y específica, utilizando términos aceptados por CLASNiza o limitaciones adecuadas."
+    },
+    "retailServices": {
+      "ja": "可。第35類で、第三者のために商品を取り揃えて購入を可能にする小売・卸売・オンライン販売関連役務を、対象商品とともに具体化する。商品の販売それ自体は役務ではない。",
+      "en": "Available in class 35. Specify retail, wholesale or online-sales services involving the bringing together of goods for others, together with the goods concerned. Mere sale of one's own goods is not itself a service.",
+      "es": "Admitidos en la clase 35. Deben especificarse los servicios de venta minorista, mayorista o en línea consistentes en reunir productos para terceros, junto con los productos correspondientes. La mera venta de productos propios no es un servicio."
+    },
+    "multiClassApplication": {
+      "ja": "国内直接出願は原則として1出願1区分。複数区分を保護するには区分ごとに別出願・料金が必要。マドプロ国際登録は複数区分を含み得る。",
+      "en": "A direct national application is generally single-class. Separate applications and fees are required for multiple classes. A Madrid international registration may contain multiple classes.",
+      "es": "La solicitud nacional directa es, por regla general, monoclase. Para varias clases se requieren solicitudes y tasas separadas. Un registro internacional de Madrid puede contener varias clases."
+    },
+    "applicationForm": {
+      "ja": "Marca en Línea／Tu Cuenta PASEまたは所定様式で提出する。出願人、代理人、標章、商品・役務、区分、最初の使用日（ある場合）、非保護要素、優先権等を記載し、料金を納付する。2026年改正後は欺瞞・悪意がない旨の宣誓的表明にも注意する。",
+      "en": "File through Marca en Línea/Tu Cuenta PASE or the prescribed form, stating the applicant, representative, sign, goods or services, class, first-use date if any, unclaimed elements, priority and other particulars, with the fee. After the 2026 reform, also address the sworn statement concerning absence of deception or bad faith.",
+      "es": "La solicitud se presenta mediante Marca en Línea/Tu Cuenta PASE o el formato oficial, indicando solicitante, representante, signo, productos o servicios, clase, fecha de primer uso si existe, elementos no reservados, prioridad y demás datos, con la tasa. Tras la reforma de 2026 debe atenderse también a la declaración bajo protesta sobre ausencia de engaño o mala fe."
+    },
+    "powerOfAttorney": {
+      "ja": "代理人が手続する場合、代理権を示す書類が必要となり得る。通常の委任状は公証・領事認証を要しない場合が多いが、署名・証人・法人代表権およびメキシコ国内通知先の最新要件を確認する。",
+      "en": "Where an agent acts, authority may need to be established. An ordinary power is often accepted without notarization or legalization, but confirm current signature, witness, corporate-authority and Mexican service-address requirements.",
+      "es": "Cuando actúe un mandatario puede ser necesario acreditar la personalidad. El poder ordinario suele admitirse sin notarización ni legalización, pero deben verificarse los requisitos vigentes de firma, testigos, facultades corporativas y domicilio para notificaciones en México."
+    },
+    "priorityDocuments": {
+      "ja": "通常、先願から6か月以内に優先権を主張し、国、日付、番号を記載する。優先権証明書、スペイン語訳および提出期限は現行法・規則とIMPI要求に従う。",
+      "en": "Priority is normally claimed within six months of the first filing, identifying country, date and number. The priority document, Spanish translation and filing deadline must comply with current law, regulations and any IMPI requirement.",
+      "es": "La prioridad se reivindica normalmente dentro de los seis meses del primer depósito, indicando país, fecha y número. El documento de prioridad, su traducción al español y el plazo de presentación deben cumplir la ley, el reglamento y los requerimientos del IMPI."
+    },
+    "homeRegistrationCertificate": {
+      "ja": "通常不要。メキシコ直接出願は本国登録を基礎とする必要がない。条約上の特殊な主張または国際登録手続では別途確認する。",
+      "en": "Generally not required. A direct Mexican application need not be based on a home registration. Check separately for special treaty claims or international-registration procedures.",
+      "es": "Por regla general no se exige. Una solicitud mexicana directa no necesita basarse en un registro del país de origen. Deben revisarse por separado reivindicaciones especiales de tratados o trámites de registro internacional."
+    },
+    "useEvidenceAtFiling": {
+      "ja": "通常、使用証拠の提出は不要。メキシコで既に使用している場合は最初の使用日を宣誓的に記載し得るため、裏付け資料を保存する。未使用ならその旨を扱う。登録後3年の使用宣言とは別制度。",
+      "en": "Evidence of use is not ordinarily filed with the application. If the mark has already been used in Mexico, a first-use date may be stated under oath, so retain supporting records; otherwise treat it as unused. This is separate from the post-registration third-year declaration of use.",
+      "es": "Normalmente no se presenta prueba de uso con la solicitud. Si la marca ya se usa en México puede declararse bajo protesta una fecha de primer uso, por lo que deben conservarse soportes; de lo contrario se indicará que no se ha usado. Es distinto de la declaración de uso del tercer año."
+    },
+    "notarizationCertification": {
+      "ja": "通常の願書に公証済み印章は不要。委任状も通常は公証・領事認証不要とされることが多いが、譲渡、法人書類、証拠または特定代理形態では個別確認する。",
+      "en": "A notarized applicant seal is not required for an ordinary application. Powers are also commonly accepted without notarization or legalization, but assignments, corporate documents, evidence or particular representation arrangements require case-specific checking.",
+      "es": "No se exige sello notariado para una solicitud ordinaria. Los poderes suelen admitirse sin notarización o legalización, pero deben revisarse las cesiones, documentos societarios, pruebas o formas especiales de representación."
+    },
+    "otherDocuments": {
+      "ja": "非伝統的商標の表示・説明、共同出願人間の使用等に関する規則、団体・証明商標規則、外国文字の翻訳・音訳、優先権資料、同意書、色彩・位置等の説明を案件に応じて提出する。",
+      "en": "Depending on the case, provide representations and descriptions for non-traditional marks, co-ownership rules, collective or certification-mark regulations, translations or transliterations, priority material, consents and descriptions of colour, position or other features.",
+      "es": "Según el caso, deben aportarse representaciones y descripciones de marcas no tradicionales, reglas de cotitularidad, reglamentos de marcas colectivas o de certificación, traducciones o transliteraciones, documentos de prioridad, consentimientos y descripciones de color, posición u otras características."
+    },
+    "absoluteGroundsExamination": {
+      "ja": "あり。IMPIが識別力、記述性、欺瞞性、公序・法令上の禁止、文化遺産等を含む登録障害を職権審査する。",
+      "en": "Yes. IMPI examines ex officio registrability impediments including distinctiveness, descriptiveness, deceptiveness, public-policy or statutory prohibitions and protected cultural heritage.",
+      "es": "Sí. El IMPI examina de oficio los impedimentos de registro, incluidos distintividad, descriptividad, engaño, prohibiciones de orden público o legales y patrimonio cultural protegido."
+    },
+    "distinctivenessGrounds": {
+      "ja": "普通名称、慣用・一般的表示、識別力を欠く語句・音・図形、商品・役務の品質・数量・用途・原産地等を記述する表示、技術的・機能的要素等は登録障害となる。使用による獲得識別力が主張できる類型もある。",
+      "en": "Generic or customary matter, words, sounds or devices lacking distinctiveness, indications descriptive of quality, quantity, purpose, origin or other characteristics, and technical or functional features may be barred. Acquired distinctiveness may be invoked for eligible matter.",
+      "es": "Pueden impedir el registro los nombres genéricos o usuales, palabras, sonidos o elementos figurativos sin distintividad, indicaciones descriptivas de calidad, cantidad, destino, origen u otras características y elementos técnicos o funcionales. En casos admisibles puede invocarse distintividad adquirida."
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "公序・善良な慣習に反する標識、需要者を欺く標識、国旗・紋章・公的標章、原産地名称・地理的表示、植物品種・動物品種、著作物・人物・団体名等との抵触、悪意、ならびに2026年追加の先住民・アフロメキシコ系共同体の文化遺産・伝統的知識等との抵触。",
+      "en": "Grounds include signs contrary to public order or accepted morals; deceptive signs; flags, emblems and official signs; protected geographical indications; plant varieties or animal breeds; conflicts involving works, persons or group names; bad faith; and, following the 2026 reform, conflicts with cultural heritage, traditional knowledge and expressions of Indigenous and Afro-Mexican communities.",
+      "es": "Los impedimentos incluyen signos contrarios al orden público o buenas costumbres; engañosos; banderas, escudos y signos oficiales; indicaciones geográficas; variedades vegetales o razas animales; conflictos con obras, personas o grupos; mala fe; y, desde 2026, elementos del patrimonio cultural, conocimientos y expresiones tradicionales de pueblos y comunidades indígenas y afromexicanas."
+    },
+    "relativeGroundsExamination": {
+      "ja": "あり。IMPIは先願・先登録商標、商号、周知・著名商標その他の相対的障害を職権審査する。第三者の異議も審査資料となるが、異議だけで自動的に拒絶されるものではない。",
+      "en": "Yes. IMPI examines earlier applications and registrations, trade names, well-known or famous marks and other relative impediments ex officio. Third-party opposition is considered in examination but does not itself produce automatic refusal.",
+      "es": "Sí. El IMPI examina de oficio solicitudes y registros anteriores, nombres comerciales, marcas notorias o famosas y otros impedimentos relativos. La oposición de terceros se considera en el examen, pero no produce por sí sola una denegación automática."
+    },
+    "disclaimer": {
+      "ja": "あり。出願上、保護を求めない文字・図形等の要素を明示できる。ディスクレームは標章全体の識別力欠如を当然に治癒せず、非保護要素の独占権を生じさせない。",
+      "en": "Available. The application may identify wording, devices or other elements over which exclusive rights are not claimed. A disclaimer does not automatically cure lack of distinctiveness of the mark as a whole or create exclusivity in the disclaimed matter.",
+      "es": "Previsto. La solicitud puede señalar palabras, elementos gráficos u otros componentes sobre los que no se reserva derecho exclusivo. La exclusión no subsana automáticamente la falta de distintividad del conjunto ni crea exclusividad sobre el elemento no reservado."
+    },
+    "consent": {
+      "ja": "あり。法定の一定の相対的障害は先行権者の書面同意により克服できる場合がある。対象条項、署名権限、商品・役務、共存条件および第三者への影響を確認する。",
+      "en": "Available. Certain statutory relative impediments may be overcome by the earlier owner's written consent. Confirm the applicable provision, signatory authority, goods or services, coexistence terms and effect on third parties.",
+      "es": "Previsto. Determinados impedimentos relativos pueden superarse mediante consentimiento escrito del titular anterior. Deben comprobarse la disposición aplicable, facultades del firmante, productos o servicios, condiciones de coexistencia y efectos frente a terceros."
+    },
+    "acceleratedExamination": {
+      "ja": "通常の商標出願について一般的な早期審査制度は確認できない。もっとも2026年改正で、問題・異議のない出願を含む商標手続に最大5か月の決定枠が導入された。緊急案件はIMPI・現地代理人へ個別確認する。",
+      "en": "No general accelerated-examination program has been identified for ordinary trademark filings. The 2026 reform nevertheless introduced a maximum five-month decision framework for trademark proceedings, including straightforward applications. Ask IMPI or local counsel about case-specific urgency.",
+      "es": "No se ha identificado un programa general de examen acelerado para marcas ordinarias. No obstante, la reforma de 2026 introdujo un plazo máximo de cinco meses para resolver trámites marcarios, incluidas solicitudes sin incidencias. Debe consultarse al IMPI o al agente local en casos urgentes."
+    },
+    "thirdPartyObservation": {
+      "ja": "異議制度あり。出願は受理後原則10日以内に官報へ公告され、利害を有する者は公告の効力発生日から延長不可の1か月以内に異議を提出できる。出願人には通常2か月の応答機会が与えられる。",
+      "en": "Opposition is available. The application is generally published within ten days of receipt, and an interested person may oppose during a non-extendible one-month period from the effective date of publication. The applicant is normally given two months to respond.",
+      "es": "Existe oposición. La solicitud se publica normalmente dentro de los diez días siguientes a su recepción y cualquier persona interesada puede oponerse dentro del plazo improrrogable de un mes desde que surta efectos la publicación. La persona solicitante dispone normalmente de dos meses para contestar."
+    },
+    "directExaminationPeriod": {
+      "ja": "2026年改正後、問題・異議のない商標出願は出願日から最大5か月で決定する法定枠。要求・異議がある場合も、応答・証拠等の段階後に最大5か月の決定枠があるが、停止等により総期間は長くなり得る。",
+      "en": "Following the 2026 reform, a trademark application without requirements or opposition is subject to a statutory maximum decision period of five months from filing. Where requirements or opposition arise, a five-month decision framework applies after the response and evidentiary stage, although stays and other events can lengthen total pendency.",
+      "es": "Tras la reforma de 2026, una solicitud sin requerimientos ni oposición debe resolverse en un máximo legal de cinco meses desde su presentación. Si existen requerimientos u oposición, opera un marco de cinco meses después de la fase de contestación y prueba, aunque suspensiones u otras incidencias pueden ampliar la duración total."
+    },
+    "madridExaminationPeriod": {
+      "ja": "公表された一律の平均値は確認できない。メキシコはマドプロ5条(2)(b)により拒絶通報期限をWIPO通報日から18か月へ延長している。暫定拒絶後の国内応答は通常2か月＋料金を伴う追加2か月を管理する。",
+      "en": "No uniform official average has been identified. Mexico has declared the 18-month refusal-notification period under Article 5(2)(b) of the Madrid Protocol. After a provisional refusal, docket the national response period, normally two months plus an additional two months with the applicable fee.",
+      "es": "No se ha identificado una media oficial uniforme. México declaró el plazo de dieciocho meses para notificar denegaciones conforme al artículo 5.2.b) del Protocolo de Madrid. Tras una denegación provisional debe controlarse el plazo nacional, normalmente dos meses más dos meses adicionales con la tasa correspondiente."
+    },
+    "colourPriorityIdentity": {
+      "ja": "優先権には先願と後願の対象の同一性が必要。白黒から特定配色への変更、色彩の追加・削除が保護対象を変える場合は同一性が争われ得るため、優先権資料と出願表示を一致させる。",
+      "en": "Priority requires identity of subject matter between the earlier and later filings. A change from monochrome to a particular colourway, or the addition or removal of colour, may jeopardize identity where it changes the protected matter. Align the priority document and filed representation.",
+      "es": "La prioridad exige identidad de objeto entre el primer depósito y el posterior. El cambio de blanco y negro a una combinación concreta, o añadir o eliminar color, puede comprometer la identidad si modifica el objeto protegido. Deben coincidir el documento de prioridad y la representación solicitada."
+    },
+    "colourRelativeGrounds": {
+      "ja": "類似・混同のおそれは標章全体の外観、称呼、観念、識別力および商品・役務等を考慮する。色彩は全体印象の一要素であり、白黒登録がすべての色彩版に当然同一の範囲を与えるとは限らない。",
+      "en": "Similarity and likelihood of confusion are assessed through the overall visual, aural and conceptual impression, distinctiveness and goods or services. Colour is one element of the overall impression; a monochrome registration does not necessarily receive identical scope against every colour version.",
+      "es": "La similitud y el riesgo de confusión se valoran por la impresión visual, fonética y conceptual de conjunto, la distintividad y los productos o servicios. El color es un elemento de la impresión global; un registro en blanco y negro no tiene necesariamente idéntico alcance frente a toda versión cromática."
+    },
+    "colourGenuineUse": {
+      "ja": "登録態様と異なる色での使用も、変更が商標の識別力を変えなければ使用として認められ得る。色彩が主要な識別要素の場合、登録表示とのずれは3年目使用宣言・更新・不使用取消でリスクとなる。",
+      "en": "Use in a different colour may qualify where the modification does not alter the mark's distinctive character. Where colour is a principal distinctive element, divergence from the registration creates risk for the third-year declaration, renewal and non-use proceedings.",
+      "es": "El uso en un color distinto puede valer si la modificación no altera el carácter distintivo. Cuando el color es un elemento distintivo principal, la diferencia respecto del registro genera riesgo en la declaración del tercer año, la renovación y la caducidad por falta de uso."
+    },
+    "colourInfringementScope": {
+      "ja": "侵害範囲は登録表示、非保護要素、獲得識別力、実際の使用態様および混同のおそれ等から判断される。色彩の組合せ・トレードドレスは構成、配置、色コードと市場証拠が重要。",
+      "en": "Infringement scope depends on the registered representation, unclaimed matter, acquired distinctiveness, actual use and likelihood of confusion. For colour combinations and trade dress, composition, arrangement, colour coding and market evidence are important.",
+      "es": "El alcance de infracción depende de la representación registrada, elementos no reservados, distintividad adquirida, uso real y riesgo de confusión. En combinaciones de colores e imagen comercial son importantes la composición, disposición, códigos y prueba de mercado."
+    },
+    "colourFilingStrategy": {
+      "ja": "主要配色がブランドの核なら、白黒版だけでなく主要色彩版、色彩の組合せまたはトレードドレスの別出願を検討する。優先権、使用宣言、更新時に主張する商品・役務と実使用を一致させる。",
+      "en": "If key colours are central to the brand, consider separate filings for principal colour versions, colour combinations or trade dress rather than relying only on monochrome. Align priority, declarations of use, renewal goods or services and actual use.",
+      "es": "Si los colores principales son esenciales para la marca, conviene valorar solicitudes separadas para versiones cromáticas, combinaciones o imagen comercial, en lugar de depender solo del blanco y negro. Deben alinearse prioridad, declaraciones de uso, productos o servicios renovados y uso real."
+    },
+    "refusalResponseRoute": {
+      "ja": "方式・先行権・法的障害または異議を通知するoficioに対し、IMPIへ意見、証拠、適法な限定等を提出する。最終拒絶には、通常、連邦行政手続法上のrecurso de revisión、TFJAでの行政訴訟、さらにamparo等の経路を案件に応じて検討する。",
+      "en": "Respond to an IMPI oficio raising formal requirements, earlier rights, statutory impediments or opposition with arguments, evidence and permissible limitations. A final refusal may be challenged, depending on strategy, through administrative review, proceedings before the Federal Court of Administrative Justice (TFJA), and potentially amparo.",
+      "es": "El oficio del IMPI sobre requisitos formales, anterioridades, impedimentos u oposición se contesta con alegaciones, pruebas y limitaciones permitidas. La negativa final puede impugnarse, según la estrategia, mediante recurso de revisión, juicio ante el Tribunal Federal de Justicia Administrativa y eventualmente amparo."
+    },
+    "responsePeriod": {
+      "ja": "通常2か月。出願人は申請不要で追加2か月を利用できるが、履行する月に応じた料金の納付が必要。最終期限、通知効力日、休日および対象手続を個別確認する。",
+      "en": "Normally two months. An additional two months is available without a separate extension request, subject to payment of the fee corresponding to the month of compliance. Verify the effective notice date, final deadline, holidays and procedure.",
+      "es": "Normalmente dos meses. Se dispone de dos meses adicionales sin solicitud separada, pagando la tarifa correspondiente al mes en que se cumpla. Deben comprobarse la fecha de efectos de la notificación, el vencimiento final, días inhábiles y trámite aplicable."
+    },
+    "extensionAvailable": {
+      "ja": "あり。通常の商標出願の要求等には法定の追加2か月があり、別途の延長申請は不要だが料金が必要。異議提出の1か月は延長不可。",
+      "en": "Available. Ordinary trademark-application requirements benefit from a statutory additional two months without a separate request, but with a fee. The one-month opposition filing period is non-extendible.",
+      "es": "Prevista. Los requerimientos ordinarios de una solicitud de marca tienen dos meses adicionales legales sin petición separada, pero con tasa. El mes para formular oposición es improrrogable."
+    },
+    "extensionLength": {
+      "ja": "追加2か月。料金は追加期間のどの月に履行するかに応じる。",
+      "en": "Two additional months, with the fee linked to the month in which compliance occurs.",
+      "es": "Dos meses adicionales, con tarifa según el mes en que se dé cumplimiento."
+    },
+    "extensionRequirements": {
+      "ja": "通常は申請不要。追加期間内に完全な応答と該当月の料金証明を提出する。料金不足・応答不備・最終期限徒過で出願放棄となり得る。",
+      "en": "No separate request is normally required. File the complete response and proof of the applicable monthly fee during the additional period. An incomplete response, deficient fee or missed final deadline may result in abandonment.",
+      "es": "Normalmente no se requiere petición separada. Durante el plazo adicional deben presentarse la contestación completa y el comprobante de la tarifa del mes correspondiente. La insuficiencia de respuesta o tasa, o el vencimiento final, puede causar abandono."
+    },
+    "appealRoute": {
+      "ja": "最終拒絶等に対し、通知後15日以内のrecurso de revisiónを検討できる。これに代えて、または行政審査後にTFJAでの行政訴訟、さらに憲法上のamparoが問題となり得る。選択関係・管轄・期限は現地代理人に確認する。",
+      "en": "A recurso de revisión may generally be considered within fifteen days after notice of a final decision. A nullity action before the TFJA, either as an alternative or following administrative review, and constitutional amparo may also arise. Confirm election of remedies, jurisdiction and deadlines with local counsel.",
+      "es": "Puede considerarse recurso de revisión, generalmente dentro de quince días desde la notificación de la resolución final. También puede proceder juicio de nulidad ante el TFJA, como alternativa o tras la revisión, y amparo. Deben confirmarse elección de vías, competencia y plazos con el agente local."
+    },
+    "refusalAppealPeriod": {
+      "ja": "拒絶に対する行政・司法上の不服申立ての公表された一律の平均審理期間は確認できない。経路、争点、証拠および上級審により大きく異なるため、案件時点のTFJA／IMPI実績を現地代理人に確認する。",
+      "en": "No uniform official average duration has been identified for administrative or judicial challenges to refusal. Timing varies materially by route, issues, evidence and further appeals; obtain a current IMPI/TFJA estimate from local counsel.",
+      "es": "No se ha identificado una duración media oficial uniforme para impugnaciones administrativas o judiciales de una negativa. Varía sustancialmente según la vía, cuestiones, pruebas y recursos posteriores; debe solicitarse al agente una estimación actual del IMPI/TFJA."
+    },
+    "publicDatabase": {
+      "ja": "IMPIのMARCia。文字・画像による商標検索および案件情報の確認に利用する。Marcanet／Acervo、官報およびMadrid Monitorも補完的に確認する。",
+      "en": "IMPI's MARCia database provides word and image trademark searching and file information. Supplement it with Marcanet/Acervo, the Gazette and Madrid Monitor.",
+      "es": "MARCia del IMPI permite búsquedas denominativas y figurativas e información de expedientes. Debe complementarse con Marcanet/Acervo, la Gaceta y Madrid Monitor.",
+      "url": "https://marcia.impi.gob.mx/marcas/search/quick"
+    },
+    "publicationStage": {
+      "ja": "IMPIは出願受理後原則10日以内に産業財産官報へ公告し、1か月の異議期間を開始する。その後、方式審査・実体審査を行い、異議・障害があれば出願人へ通知して応答機会を与える。",
+      "en": "IMPI generally publishes the application in the Industrial Property Gazette within ten days of receipt, opening the one-month opposition period. Formal and substantive examination follow, with an opportunity to respond to opposition or impediments.",
+      "es": "El IMPI publica normalmente la solicitud en la Gaceta de la Propiedad Industrial dentro de los diez días siguientes a su recepción, abriendo el mes de oposición. Después realiza los exámenes de forma y fondo y da oportunidad de contestar oposiciones o impedimentos."
+    },
+    "oppositionPeriod": {
+      "ja": "公告の効力発生日から延長不可の1か月。",
+      "en": "One non-extendible month from the effective date of publication.",
+      "es": "Un mes improrrogable desde la fecha en que surta efectos la publicación."
+    },
+    "oppositionExtension": {
+      "ja": "なし。法定1か月は延長不可。代理権または料金の不備について、IMPIが1回限り5日の補正機会を与える場合はあるが、異議自体の期限延長ではない。",
+      "en": "None. The statutory one-month period is non-extendible. IMPI may allow a one-time five-day cure for defects in authority or payment, but this is not an extension of the opposition filing deadline.",
+      "es": "No existe. El mes legal es improrrogable. El IMPI puede conceder una única prevención de cinco días para subsanar personalidad o pago, pero no es una prórroga para presentar la oposición."
+    },
+    "averagePendency": {
+      "ja": "2026年改正後、問題・異議のない出願の法定最大処理期間は5か月。要求・異議・停止・追加証拠・不服申立てがあれば総期間は延びる。これは平均値ではなく上限枠である点に注意。",
+      "en": "After the 2026 reform, the statutory maximum for an application without requirements or opposition is five months. Requirements, opposition, stays, additional evidence or review can extend overall pendency. This is a maximum framework, not an empirical average.",
+      "es": "Tras la reforma de 2026, el máximo legal para una solicitud sin requerimientos ni oposición es de cinco meses. Requerimientos, oposición, suspensión, prueba adicional o impugnación pueden ampliar la duración total. Es un plazo máximo, no una media empírica."
+    },
+    "term": {
+      "ja": "10年。10年ごとに更新可能。",
+      "en": "Ten years, renewable for successive ten-year periods.",
+      "es": "Diez años, renovables por períodos sucesivos de diez años."
+    },
+    "termStart": {
+      "ja": "登録付与日から。更新後の期間計算は登録記録上の満了日を確認する。",
+      "en": "From the grant date. Confirm the recorded expiry date for renewal calculations.",
+      "es": "Desde la fecha de otorgamiento. Debe comprobarse la fecha registral de vencimiento para calcular renovaciones."
+    },
+    "renewalWindow": {
+      "ja": "満了前6か月以内。2026年改正後、IMPIの更新決定は原則として申請または最終補正等から最大3か月の枠がある。更新時に真正な使用宣言が必要。",
+      "en": "During the six months before expiry. Following the 2026 reform, IMPI generally has a maximum three-month decision framework from filing or cure of the final requirement. A declaration of real and effective use is required on renewal.",
+      "es": "Durante los seis meses anteriores al vencimiento. Tras la reforma de 2026, el IMPI dispone generalmente de un máximo de tres meses desde la solicitud o subsanación final para resolver. En la renovación se exige declaración de uso real y efectivo."
+    },
+    "gracePeriod": {
+      "ja": "あり。満了後6か月以内に更新申請を受理する。料金および第三者との関係を確認し、可能なら通常期間内に更新する。",
+      "en": "Available. IMPI will process a renewal filed during the six months after expiry. Confirm fees and third-party effects and renew during the ordinary window where possible.",
+      "es": "Existe. El IMPI tramita renovaciones presentadas durante los seis meses posteriores al vencimiento. Deben comprobarse tasas y efectos frente a terceros y, cuando sea posible, renovar en el período ordinario."
+    },
+    "renewalEvidence": {
+      "ja": "更新時に、商標が実際に適用される具体的な商品・役務について真正な使用を宣言し、料金を納付する。通常は宣言時に全証拠を提出しないが、裏付け資料を保存し、未使用の商品・役務を安易に宣言しない。",
+      "en": "On renewal, declare real and effective use for the specific goods or services to which the mark is actually applied and pay the fee. Full evidence is not ordinarily filed with the declaration, but retain support and do not declare unused goods or services casually.",
+      "es": "Al renovar debe declararse el uso real y efectivo respecto de los productos o servicios específicos a los que se aplica la marca y pagarse la tasa. Normalmente no se presenta toda la prueba con la declaración, pero debe conservarse soporte y no declarar productos o servicios sin uso."
+    },
+    "nonUseCancellation": {
+      "ja": "あり。利害関係人はIMPIへ行政上の不使用取消を請求できる。さらに3年目使用宣言または更新時使用宣言をしない場合、登録はIMPIの宣言を要せず法律上失効し得る。",
+      "en": "Available. An interested party may request administrative revocation for non-use before IMPI. Separately, failure to file the third-year or renewal declaration of use can cause lapse by operation of law without a separate IMPI declaration.",
+      "es": "Prevista. La persona interesada puede solicitar ante el IMPI la caducidad administrativa por falta de uso. Además, la omisión de la declaración del tercer año o de renovación puede causar caducidad de pleno derecho sin declaración separada del IMPI."
+    },
+    "nonUsePeriod": {
+      "ja": "継続3年。取消請求直前の連続3年間に真正な使用がなく、正当理由もない場合、全部または一部取消となり得る。",
+      "en": "Three consecutive years. Total or partial revocation may follow where there was no genuine use during the three consecutive years immediately preceding the revocation request and no proper reason.",
+      "es": "Tres años consecutivos. Puede declararse caducidad total o parcial si no hubo uso efectivo durante los tres años consecutivos inmediatamente anteriores a la solicitud y no existe causa justificada."
+    },
+    "nonUseDefenses": {
+      "ja": "商標権者またはライセンシーによる関連期間のメキシコでの使用、または輸入制限・政府要件等、権利者の意思と独立した障害を立証する。登録態様との差異は識別力を変更しない範囲で許容され得る。",
+      "en": "Prove use in Mexico by the owner or licensee during the relevant period, or obstacles independent of the owner's will, such as import restrictions or governmental requirements. Variations may qualify if they do not alter distinctive character.",
+      "es": "Debe probarse uso en México por el titular o licenciatario durante el período pertinente, o impedimentos ajenos a la voluntad del titular, como restricciones a la importación o requisitos gubernamentales. Las variaciones pueden admitirse si no alteran el carácter distintivo."
+    },
+    "otherCancellation": {
+      "ja": "あり。普通名称化、権利者による任意取消、登録後の法定事由、3年目・更新時使用宣言の不履行その他が問題となり得る。取消・失効・無効の法的効果を区別する。",
+      "en": "Available. Genericide, voluntary cancellation, statutory post-registration grounds, failure to file required use declarations and other events may apply. Distinguish cancellation, lapse and invalidity and their respective effects.",
+      "es": "Prevista. Pueden operar vulgarización, cancelación voluntaria, causas legales posteriores al registro, omisión de declaraciones de uso y otros supuestos. Deben distinguirse cancelación, caducidad y nulidad y sus efectos."
+    },
+    "invalidation": {
+      "ja": "あり。先行使用・先行権、虚偽の使用日、無権利出願、悪意、法定登録障害、手続違反等に基づく行政上の無効請求をIMPIへ提起できる。理由ごとに除斥期間または期間制限が異なる。",
+      "en": "Available. Administrative invalidity may be sought before IMPI on grounds such as earlier use or rights, a false first-use date, unauthorized or bad-faith filing, statutory impediments or procedural defects. Limitation periods differ by ground.",
+      "es": "Prevista. Puede solicitarse nulidad administrativa ante el IMPI por uso o derechos anteriores, fecha falsa de primer uso, solicitud no autorizada o de mala fe, impedimentos legales o defectos procedimentales. Los plazos varían según la causa."
+    },
+    "civilInjunction": {
+      "ja": "あり。連邦裁判所での救済に加え、IMPIの行政侵害手続で停止・差止め、オンラインコンテンツの遮断・削除、流通回収等の暫定・確定措置を求め得る。担保・反担保に注意する。",
+      "en": "Available. In addition to federal-court relief, IMPI administrative infringement proceedings can provide provisional or final cessation orders, online blocking or removal, recall and related measures. Security and counter-security requirements matter.",
+      "es": "Prevista. Además de la vía federal judicial, en el procedimiento administrativo de infracción ante el IMPI pueden solicitarse medidas provisionales o definitivas de cese, bloqueo o remoción en línea, recuperación del mercado y otras. Son relevantes la fianza y contrafianza."
+    },
+    "civilDamages": {
+      "ja": "あり。IMPIまたは裁判所で請求し得る。現行法は法定指標に対する最低40%の枠を置き、逸失利益、侵害者利益、仮想ロイヤルティ等を評価し得るが、侵害確定、因果関係、証拠および近時判例を確認する。",
+      "en": "Available before IMPI or the courts as applicable. The statute provides a minimum forty-percent framework tied to a legitimate value indicator and permits consideration of lost profits, infringer's profits or a hypothetical royalty, but infringement, causation, evidence and current case law must be assessed.",
+      "es": "Prevista ante el IMPI o tribunales según corresponda. La ley establece un mínimo del cuarenta por ciento vinculado a un indicador de valor legítimo y permite considerar lucro cesante, utilidades del infractor o regalía hipotética, pero deben acreditarse infracción, causalidad y prueba conforme a la jurisprudencia vigente."
+    },
+    "civilEvidencePreservation": {
+      "ja": "IMPIの立入検査、写真・動画等の収集、侵害疑義品の暫定差押え、情報・書類要求および裁判上の証拠保全を利用し得る。営業秘密、担保、使用目的制限に注意する。",
+      "en": "IMPI inspection visits, photographs or video, provisional seizure of suspected goods, information or document requests and judicial preservation measures may be available. Address trade secrets, security and restrictions on use of obtained material.",
+      "es": "Pueden utilizarse visitas de inspección del IMPI, fotografías o video, aseguramiento cautelar de mercancías, requerimientos de información o documentos y medidas judiciales de conservación. Deben atenderse secretos empresariales, fianza y límites de uso del material obtenido."
+    },
+    "civilOther": {
+      "ja": "侵害品の市場回収・廃棄、オンライン措置、判決・決定の公表、費用、ライセンス料相当額等が問題となり得る。行政侵害、損害賠償、刑事手続の順序・並行関係を設計する。",
+      "en": "Recall or destruction of infringing goods, online measures, publication of decisions, costs and royalty-based compensation may arise. Plan the sequence and interaction of administrative infringement, damages and criminal proceedings.",
+      "es": "Pueden proceder recuperación o destrucción de mercancías, medidas en línea, publicación de resoluciones, costas y compensación basada en regalías. Debe planificarse la secuencia e interacción entre infracción administrativa, daños y proceso penal."
+    },
+    "borderMeasures": {
+      "ja": "あり。IMPIの措置と税関当局の協力により輸出入貨物の通関停止・留置等を求め得る。対象登録、輸入者、製品識別資料、保証、倉庫・廃棄費用および迅速な本案対応を準備する。",
+      "en": "Available. IMPI measures and customs cooperation may suspend clearance or detain import or export shipments. Prepare the relied-on registrations, importer information, product-identification material, security, storage or destruction costs and prompt merits follow-up.",
+      "es": "Previstas. Mediante medidas del IMPI y cooperación aduanera puede suspenderse el despacho o retenerse mercancía de importación o exportación. Deben prepararse registros invocados, datos del importador, identificación de producto, garantía, costes de almacenamiento o destrucción y seguimiento de fondo."
+    },
+    "administrativeRaid": {
+      "ja": "あり。IMPIは申立てまたは職権で立入検査を行い、侵害・犯罪の疑いが明白な商品を暫定的に差し押さえ得る。検査申立て、対象場所、証拠、担保および警察支援を現地代理人と準備する。",
+      "en": "Available. IMPI may conduct inspection visits and provisionally seize goods where infringement or an offense is clearly evidenced. Coordinate the inspection request, target premises, evidence, security and any law-enforcement assistance with local counsel.",
+      "es": "Prevista. El IMPI puede practicar visitas de inspección y asegurar cautelarmente mercancías cuando se acredite fehacientemente una infracción o delito. Deben coordinarse solicitud, locales, pruebas, fianza y auxilio de fuerza pública con el agente local."
+    },
+    "administrativeOther": {
+      "ja": "IMPIは行政侵害を認定し、罰金、営業所閉鎖、停止・遮断・削除、流通品回収等を命じ得るほか、確定後の付随的損害賠償手続を扱い得る。和解手続も制度化されている。",
+      "en": "IMPI may declare administrative infringement and impose fines, closure, cessation, blocking, removal, recall and related orders, and may handle an incidental damages claim after an enforceable infringement decision. Conciliation is also provided for.",
+      "es": "El IMPI puede declarar infracción administrativa e imponer multas, clausura, cese, bloqueo, remoción, recuperación y otras órdenes, y tramitar incidentalmente daños tras una resolución exigible. También se prevé conciliación."
+    },
+    "criminalAvailability": {
+      "ja": "あり。商業目的での登録商標の偽造、偽造商標を付した商品の生産・保管・輸送・輸入・流通・販売等は犯罪となり得る。単なる類似侵害と刑事上の「偽造」を区別する。",
+      "en": "Available. Commercial counterfeiting of a protected mark and production, storage, transport, importation, distribution or sale of goods bearing counterfeit marks may constitute offenses. Distinguish ordinary confusing similarity from criminal counterfeiting.",
+      "es": "Prevista. La falsificación con fines comerciales y la producción, almacenamiento, transporte, introducción al país, distribución o venta de objetos con marcas falsificadas pueden constituir delitos. Debe distinguirse la simple semejanza confundible de la falsificación penal."
+    },
+    "criminalFine": {
+      "ja": "あり。主要な偽造犯罪には1,000～300,000 UMA、最終消費者への公道等での故意販売には1,000～100,000 UMAの罰金枠が規定される。正確な犯罪類型と現行UMAを確認する。",
+      "en": "Available. Principal counterfeiting offenses carry a statutory range of 1,000 to 300,000 UMAs, while intentional street or public-place sale to final consumers carries 1,000 to 100,000 UMAs. Confirm the precise offense and current UMA value.",
+      "es": "Prevista. Los delitos principales de falsificación tienen un rango legal de 1.000 a 300.000 UMA, mientras que la venta dolosa a consumidor final en vías o lugares públicos tiene de 1.000 a 100.000 UMA. Deben comprobarse el tipo penal exacto y la UMA vigente."
+    },
+    "criminalImprisonment": {
+      "ja": "あり。主要な商標偽造犯罪および最終消費者への一定の故意販売には2～6年の拘禁刑が規定される。構成要件、故意、商業目的および告訴要件を確認する。",
+      "en": "Available. Principal trademark-counterfeiting offenses and specified intentional sales to final consumers carry two to six years' imprisonment. Confirm the elements, intent, commercial purpose and complaint or prosecution requirements.",
+      "es": "Prevista. Los principales delitos de falsificación marcaria y determinadas ventas dolosas a consumidor final se sancionan con dos a seis años de prisión. Deben comprobarse elementos, dolo, finalidad comercial y requisitos de querella o persecución."
+    },
+    "criminalOther": {
+      "ja": "押収・没収・廃棄、営業所閉鎖、損害・被害回復その他が問題となり得る。IMPIによる技術的判断・行政手続と検察の刑事手続の連携を確認する。",
+      "en": "Seizure, forfeiture, destruction, closure, reparation and other consequences may arise. Coordinate IMPI technical or administrative action with the prosecutorial criminal process.",
+      "es": "Pueden proceder aseguramiento, decomiso, destrucción, clausura, reparación del daño y otras consecuencias. Deben coordinarse la actuación técnica o administrativa del IMPI y el proceso penal del Ministerio Público."
+    }
+  },
+  "notablePoints": [
+    {
+      "id": "third-year-use-declaration",
+      "category": "maintenance",
+      "importance": "critical",
+      "title": { "ja": "登録3周年後3か月以内の使用宣言", "en": "Mandatory use declaration within three months after the third anniversary", "es": "Declaración obligatoria de uso dentro de los tres meses posteriores al tercer aniversario" },
+      "summary": { "ja": "登録付与から3年を迎えた後の3か月間に、実際に使用する具体的商品・役務について真正な使用をIMPIへ宣言し、料金を納付する。未提出なら登録は法律上失効する。", "en": "During the three months after the third anniversary of grant, the owner must declare real and effective use for the specific goods or services actually used and pay the fee. Failure causes lapse by operation of law.", "es": "Durante los tres meses posteriores al tercer aniversario del otorgamiento, el titular debe declarar el uso real y efectivo para los productos o servicios concretos utilizados y pagar la tasa. La omisión causa caducidad de pleno derecho." },
+      "practicalImpact": { "ja": "通常の10年更新だけを管理すると権利を失う。過大な商品・役務を宣言すると将来の取消・虚偽申告リスクが生じる。", "en": "Docketing only the ten-year renewal can lose the right. Overclaiming goods or services creates future revocation and false-declaration risk.", "es": "Controlar solo la renovación decenal puede hacer perder el derecho. Declarar productos o servicios excesivos genera riesgo futuro de caducidad y declaración falsa." },
+      "recommendedAction": { "ja": "登録日と3周年後3か月の期限を登録時に記録し、区分・商品役務別のメキシコ使用証拠を毎年保存する。", "en": "At grant, docket the third anniversary and following three-month window, and retain annual Mexico-specific evidence by class, good and service.", "es": "Al otorgarse el registro, anotar el tercer aniversario y los tres meses posteriores, y conservar cada año prueba mexicana por clase, producto y servicio." },
+      "agentQuestion": { "ja": "この登録の使用宣言期限と、宣言できる具体的商品・役務は何ですか。", "en": "What is the use-declaration deadline for this registration, and which specific goods or services may safely be declared?", "es": "¿Cuál es el plazo de declaración de uso de este registro y qué productos o servicios concretos pueden declararse con seguridad?" },
+      "sourceUrl": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf",
+      "checkedAt": "2026-09-12",
+      "status": "verified"
+    },
+    {
+      "id": "renewal-use-declaration",
+      "category": "renewal",
+      "importance": "critical",
+      "title": { "ja": "更新時にも使用宣言が必要", "en": "A declaration of use is also required on renewal", "es": "La renovación también exige declaración de uso" },
+      "summary": { "ja": "10年更新時にも、真正に使用する具体的商品・役務を宣言しなければならない。未宣言ならIMPIの2か月補正要求後に法律上失効し得る。", "en": "At the ten-year renewal, the owner must again declare the specific goods or services in real and effective use. If omitted, the registration may lapse by operation of law after an uncorrected two-month IMPI requirement.", "es": "En la renovación decenal el titular debe declarar nuevamente los productos o servicios específicos en uso real y efectivo. Si se omite, el registro puede caducar de pleno derecho tras una prevención del IMPI no subsanada en dos meses." },
+      "practicalImpact": { "ja": "更新は単なる料金納付ではない。使用していない指定は維持できず、ライセンス使用の管理・証拠も重要。", "en": "Renewal is not merely payment of a fee. Unused coverage cannot safely be maintained, and licensed-use control and evidence are important.", "es": "La renovación no es un simple pago. No puede mantenerse con seguridad cobertura sin uso y son importantes el control y prueba del uso licenciado." },
+      "recommendedAction": { "ja": "更新前に商品・役務別の使用監査を行い、宣言内容、名義、ライセンスおよび証拠を一致させる。", "en": "Before renewal, audit use by good and service and align the declaration, ownership, licenses and evidence.", "es": "Antes de renovar, auditar el uso por producto y servicio y alinear declaración, titularidad, licencias y pruebas." },
+      "agentQuestion": { "ja": "更新時に維持できる指定と削除すべき指定を使用証拠に基づき確認してください。", "en": "Based on the evidence, which goods or services can be retained at renewal and which should be removed?", "es": "Con base en la prueba, ¿qué productos o servicios pueden mantenerse al renovar y cuáles deben eliminarse?" },
+      "sourceUrl": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf",
+      "checkedAt": "2026-09-12",
+      "status": "verified"
+    },
+    {
+      "id": "opposition-and-ex-officio-examination",
+      "category": "examination",
+      "importance": "high",
+      "title": { "ja": "異議があってもIMPIが職権で登録可否を判断", "en": "IMPI decides registrability ex officio even where opposition is filed", "es": "El IMPI decide la registrabilidad de oficio aunque exista oposición" },
+      "summary": { "ja": "異議期間は公告後1か月で、IMPIは異議と出願人の応答を考慮するが、異議人の主張に拘束されず、先行権・絶対的理由を含む法定障害を職権審査する。", "en": "The opposition period is one month after publication. IMPI considers the opposition and applicant's response but is not bound by the opponent's position and examines statutory impediments, including earlier rights and absolute grounds, ex officio.", "es": "La oposición se presenta en un mes desde la publicación. El IMPI considera la oposición y la contestación, pero no queda vinculado por el oponente y examina de oficio los impedimentos, incluidos derechos anteriores y motivos absolutos." },
+      "practicalImpact": { "ja": "異議の取下げ・共存同意だけではすべての障害が必ず解消するとは限らない。一方、異議をしなくても職権引用の可能性はある。", "en": "Withdrawal or consent does not necessarily cure every impediment, while an earlier right may still be cited ex officio even without opposition.", "es": "La retirada o consentimiento no elimina necesariamente todo impedimento, y un derecho anterior puede citarse de oficio incluso sin oposición." },
+      "recommendedAction": { "ja": "異議と並行して、先行権、同意可能性、指定限定、識別力その他の独立した拒絶リスクを検討する。", "en": "Alongside opposition strategy, analyze earlier rights, consent availability, narrowing, distinctiveness and other independent refusal risks.", "es": "Junto con la estrategia de oposición, analizar derechos anteriores, posible consentimiento, limitación, distintividad y otros riesgos independientes de negativa." },
+      "agentQuestion": { "ja": "異議が撤回されても残る職権拒絶リスクと、書面同意で克服できる条項は何ですか。", "en": "What ex officio refusal risks remain after withdrawal, and which provisions can be overcome by written consent?", "es": "¿Qué riesgos de denegación de oficio permanecen tras la retirada y qué disposiciones pueden superarse con consentimiento escrito?" },
+      "sourceUrl": "https://sidof.segob.gob.mx/notas/docFuente/5784017",
+      "checkedAt": "2026-09-12",
+      "status": "verified"
+    },
+    {
+      "id": "five-month-framework-2026",
+      "category": "reform",
+      "importance": "high",
+      "title": { "ja": "2026年改正で商標決定に5か月の上限枠", "en": "The 2026 reform introduces a five-month trademark decision framework", "es": "La reforma de 2026 introduce un plazo de cinco meses para marcas" },
+      "summary": { "ja": "問題・異議のない出願は出願日から最大5か月で決定され、要求・異議がある場合も所定段階後の決定に最大5か月の枠が設けられた。", "en": "A straightforward application must be decided within five months from filing, and a five-month decision framework also applies after the relevant stage where requirements or opposition arise.", "es": "Una solicitud sin incidencias debe resolverse en cinco meses desde su presentación, y también existe un marco de cinco meses tras la fase correspondiente cuando hay requerimientos u oposición." },
+      "practicalImpact": { "ja": "旧案内の期間だけでなく、2026年4月4日施行後の新しい法定計算起点と停止事由を確認する必要がある。", "en": "Users must look beyond older pendency guidance and determine the new statutory trigger and any stay after the reform took effect on 4 April 2026.", "es": "Debe superarse la información histórica y determinar el nuevo punto inicial y posibles suspensiones tras la entrada en vigor del 4 de abril de 2026." },
+      "recommendedAction": { "ja": "各案件について、出願日、異議、要求、応答、証拠・最終弁論の各日付を記録し、新法の期限計算を現地代理人と確認する。", "en": "Docket filing, opposition, requirement, response, evidence and final-submission dates and confirm the new-law calculation with local counsel.", "es": "Registrar fechas de solicitud, oposición, requerimiento, contestación, pruebas y alegatos finales y confirmar el cómputo de la nueva ley con el agente local." },
+      "agentQuestion": { "ja": "本件の5か月上限はどの日から始まり、停止・中断事由はありますか。", "en": "From which date does the five-month maximum run in this case, and are there any stays or interruptions?", "es": "¿Desde qué fecha corre el máximo de cinco meses en este caso y existen suspensiones o interrupciones?" },
+      "sourceUrl": "https://sidof.segob.gob.mx/notas/docFuente/5784017",
+      "checkedAt": "2026-09-12",
+      "status": "verified"
+    },
+    {
+      "id": "impi-administrative-enforcement",
+      "category": "enforcement",
+      "importance": "high",
+      "title": { "ja": "IMPIが侵害認定・立入検査・暫定措置を担う", "en": "IMPI combines infringement adjudication, inspections and provisional measures", "es": "El IMPI combina declaración de infracción, inspecciones y medidas provisionales" },
+      "summary": { "ja": "メキシコではIMPIの行政侵害手続が中心的で、立入検査、疑義品の暫定差押え、販売停止、オンライン遮断・削除、罰金および一定の損害手続を扱う。", "en": "Administrative infringement proceedings before IMPI are central in Mexico. IMPI may conduct inspections, provisionally seize suspected goods, order cessation or online blocking/removal, impose fines and address certain damages claims.", "es": "El procedimiento administrativo de infracción ante el IMPI es central en México. El Instituto puede inspeccionar, asegurar cautelarmente mercancías, ordenar cese o bloqueo/remoción en línea, imponer multas y conocer de ciertas reclamaciones de daños." },
+      "practicalImpact": { "ja": "民事訴訟だけを想定すると有効な行政ルートを見落とす。暫定措置には担保・反担保と迅速な証拠準備が必要。", "en": "A court-only strategy misses an important administrative route. Provisional measures require security, possible counter-security and rapid evidence preparation.", "es": "Una estrategia solo judicial omite una vía administrativa importante. Las medidas provisionales requieren fianza, posible contrafianza y preparación rápida de prueba." },
+      "recommendedAction": { "ja": "登録証、侵害対比、購入・公証資料、対象場所、オンラインURL、真正品識別情報を事前に証拠パッケージ化する。", "en": "Prepare an evidence package containing registration certificates, comparisons, purchase or authenticated material, target locations, URLs and genuine-product identifiers.", "es": "Preparar un paquete probatorio con títulos, comparativas, compras o material autenticado, domicilios objetivo, URLs e identificadores de producto auténtico." },
+      "agentQuestion": { "ja": "本件ではIMPIの立入検査・暫定措置、税関、刑事告訴のどの順序が最も効果的ですか。", "en": "What sequence of IMPI inspection/provisional measures, customs and criminal complaint is most effective here?", "es": "¿Qué secuencia de inspección/medidas provisionales del IMPI, Aduanas y querella penal es más eficaz en este caso?" },
+      "sourceUrl": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf",
+      "checkedAt": "2026-09-12",
+      "status": "verified"
+    }
+  ],
+  "statistics": { "coverage": "2016–2025", "status": "pending", "series": [] },
+  "news": [
+    {
+      "id": "lfppi-reform-2026",
+      "type": "law",
+      "date": "2026-04-03",
+      "title": { "ja": "産業財産保護法の大規模改正", "en": "Major reform of the Federal Law for the Protection of Industrial Property", "es": "Reforma amplia de la Ley Federal de Protección a la Propiedad Industrial" },
+      "summary": { "ja": "2026年改正は位置・動き・マルチメディア商標、新たな文化遺産関連障害、商標決定の5か月上限、更新決定の3か月上限、電子的権利行使等を導入・明確化した。", "en": "The 2026 reform introduced or clarified position, motion and multimedia marks, new cultural-heritage impediments, a five-month trademark decision framework, a three-month renewal framework and electronic enforcement measures.", "es": "La reforma de 2026 introdujo o aclaró marcas de posición, movimiento y multimedia, nuevos impedimentos sobre patrimonio cultural, plazos de cinco meses para marcas y tres meses para renovaciones, y medidas de observancia electrónica." },
+      "sourceUrl": "https://sidof.segob.gob.mx/notas/docFuente/5784017"
+    },
+    {
+      "id": "new-lfppi-regulation-2026",
+      "type": "law",
+      "date": "2026-04-28",
+      "title": { "ja": "新しい産業財産保護法施行規則を公布", "en": "New implementing regulation for the industrial-property law published", "es": "Se publica el nuevo Reglamento de la Ley Federal de Protección a la Propiedad Industrial" },
+      "summary": { "ja": "連邦政府は2026年4月28日、新たなLFPPI施行規則を公布した。出願、表示、証拠、手続運用では旧規則ではなく新規則とIMPIの現行電子様式を確認する。", "en": "The Federal Government published the new LFPPI Regulation on 28 April 2026. Filing, representation, evidence and procedure should be checked against the new regulation and current IMPI electronic forms rather than legacy rules.", "es": "El Gobierno Federal publicó el nuevo Reglamento de la LFPPI el 28 de abril de 2026. Depósito, representación, prueba y procedimiento deben revisarse conforme al nuevo reglamento y formularios electrónicos vigentes, no solo a las reglas anteriores." },
+      "sourceUrl": "https://www.gob.mx/impi/documentos/marco-juridico-nacional-274326"
+    },
+    {
+      "id": "scjn-renewal-grace-period-2026",
+      "type": "case",
+      "date": "2026-06-05",
+      "title": { "ja": "最高裁が商標更新の6か月グレース期間を合憲と判断", "en": "Supreme Court upholds the six-month trademark-renewal grace period", "es": "La Suprema Corte valida el plazo de gracia de seis meses para renovar marcas" },
+      "summary": { "ja": "SCJNの2026年判例は、満了後6か月以内の更新を認め、その間の第三者対抗効果を扱うLFPPI237条について、平等・法的安定性に反しないとの基準を示した。", "en": "In 2026 jurisprudence, the SCJN held that Article 237, allowing renewal within six months after expiry and addressing effects against third parties during that period, does not violate equality or legal certainty.", "es": "La jurisprudencia de la SCJN de 2026 sostuvo que el artículo 237, que permite renovar dentro de los seis meses posteriores al vencimiento y regula efectos frente a terceros, no viola igualdad ni seguridad jurídica." },
+      "sourceUrl": "https://sjfsemanal.scjn.gob.mx/detalle/tesis/2032239"
+    }
+  ],
+  "faqs": [
+    {
+      "tag": "Filing",
+      "question": { "ja": "国内直接出願とマドプロでのメキシコ指定のどちらが本件に適しますか。", "en": "Should this matter use a direct Mexican filing or a Madrid designation of Mexico?", "es": "¿Conviene una solicitud nacional mexicana o una designación de México por Madrid?" },
+      "followUp": { "ja": "1区分1出願、18か月拒絶枠、代理人費用および3年目使用宣言を含めて比較してください。", "en": "Please compare the single-class filing structure, 18-month Madrid refusal framework, agent costs and third-year declaration of use.", "es": "Compare el sistema monoclase, el plazo de dieciocho meses de Madrid, costes de agente y declaración de uso del tercer año." }
+    },
+    {
+      "tag": "Maintenance",
+      "question": { "ja": "登録3周年後の使用宣言の正確な期限と宣言対象は何ですか。", "en": "What is the exact deadline and permissible scope of the third-year declaration of use?", "es": "¿Cuál es el plazo exacto y el alcance permitido de la declaración de uso del tercer año?" },
+      "followUp": { "ja": "各商品・役務について、宣言を支えるメキシコ国内の使用証拠が十分か確認してください。", "en": "Please confirm whether Mexico-specific evidence adequately supports each good or service to be declared.", "es": "Confirme si la prueba específica de México sustenta cada producto o servicio que se declarará." }
+    },
+    {
+      "tag": "Examination",
+      "question": { "ja": "先行権・識別力・文化遺産その他、2026年法の下で想定される拒絶理由は何ですか。", "en": "What earlier-right, distinctiveness, cultural-heritage or other objections should we expect under the 2026 law?", "es": "¿Qué objeciones por derechos anteriores, distintividad, patrimonio cultural u otros motivos cabe esperar bajo la ley de 2026?" },
+      "followUp": { "ja": "書面同意、指定限定、非保護要素の表示または証拠で克服できる項目を示してください。", "en": "Please identify which issues can be addressed through written consent, narrowing, disclaimer or evidence.", "es": "Indique qué cuestiones pueden superarse mediante consentimiento escrito, limitación, elementos no reservados o prueba." }
+    },
+    {
+      "tag": "Opposition / Response",
+      "question": { "ja": "異議の1か月期限と、出願人側の2か月＋追加2か月の応答期限を正確に計算してください。", "en": "Please calculate the one-month opposition deadline and the applicant's two-month plus additional two-month response period.", "es": "Calcule el mes de oposición y los dos meses más dos adicionales para contestar." },
+      "followUp": { "ja": "追加期間の該当月料金、最終提出物および異議取下げ後も残る職権拒絶を確認してください。", "en": "Please confirm the applicable monthly fee, final filing package and any ex officio refusal remaining after withdrawal.", "es": "Confirme la tarifa mensual aplicable, el paquete final y cualquier negativa de oficio que subsista tras la retirada." }
+    },
+    {
+      "tag": "Colour",
+      "question": { "ja": "白黒版、主要色彩版、色彩の組合せまたはトレードドレスのどれを出願すべきですか。", "en": "Should we file the monochrome version, principal colour version, a colour combination or trade dress?", "es": "¿Debemos solicitar la versión en blanco y negro, el color principal, una combinación de colores o imagen comercial?" },
+      "followUp": { "ja": "優先権の同一性、3年目使用宣言、更新および不使用取消で色の差異は許容されますか。", "en": "Are the colour differences acceptable for priority identity, the third-year declaration, renewal and non-use proceedings?", "es": "¿Son aceptables las diferencias de color para prioridad, declaración del tercer año, renovación y caducidad por falta de uso?" }
+    },
+    {
+      "tag": "Enforcement",
+      "question": { "ja": "本件ではIMPIの行政侵害手続、立入検査、税関措置、民事または刑事手続をどう組み合わせるべきですか。", "en": "How should we combine IMPI administrative infringement, inspection, customs, civil and criminal measures?", "es": "¿Cómo debemos combinar infracción administrativa ante el IMPI, inspección, Aduanas y vías civil o penal?" },
+      "followUp": { "ja": "担保、侵害立証、最低40%損害枠、偽造罪の要件、期間および費用見積りを確認してください。", "en": "Please confirm security, proof of infringement, the forty-percent damages framework, counterfeiting elements, timing and estimated cost.", "es": "Confirme fianza, prueba de infracción, marco del cuarenta por ciento, elementos de falsificación, duración y coste estimado." }
+    }
+  ],
+  "sources": [
+    { "label": "Cámara de Diputados — Ley Federal de Protección a la Propiedad Industrial, texto vigente", "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "Cámara de Diputados — Reformas de la LFPPI", "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfppi.htm", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "Diario Oficial — Decreto de reforma LFPPI, 3 April 2026", "url": "https://sidof.segob.gob.mx/notas/docFuente/5784017", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "IMPI — Marco Jurídico Nacional", "url": "https://www.gob.mx/impi/documentos/marco-juridico-nacional-274326", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "IMPI — Registro de marcas", "url": "https://www.gob.mx/impi/documentos/registro-de-marcas", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "IMPI — Preguntas frecuentes de signos distintivos", "url": "https://www.gob.mx/impi/acciones-y-programas/temas-de-interes-preguntas-frecuentes-marcas", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "IMPI — Colección Guía de Usuarios", "url": "https://www.gob.mx/impi/documentos/coleccion-guia-de-usuarios", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "IMPI — Formatos", "url": "https://www.gob.mx/impi/acciones-y-programas/servicios-que-ofrece-el-impi-formatos", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "IMPI — Tarifas", "url": "https://www.gob.mx/impi/acciones-y-programas/servicios-que-ofrece-el-impi-tarifas-215115", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "IMPI — Tu Cuenta PASE", "url": "https://eservicios.impi.gob.mx/seimpi/", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "IMPI — CLASNiza", "url": "https://clasniza.impi.gob.mx/", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "IMPI — MARCia", "url": "https://marcia.impi.gob.mx/marcas/search/quick", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "IMPI — Gaceta de la Propiedad Industrial", "url": "https://www.gob.mx/impi/acciones-y-programas/gaceta-de-la-propiedad-industrial", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "IMPI — Estadísticas de Marcas", "url": "https://www.gob.mx/impi/documentos/servicios-que-ofrece-el-impi-marcas-estadisticas-de-marcas", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "IMPI — Datos abiertos de marcas", "url": "https://datosabiertos.impi.gob.mx/Paginas/Marcas_cifras.aspx", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "IMPI — Sistema de Madrid, procedimiento", "url": "https://www.gob.mx/impi/acciones-y-programas/sistema-de-madrid-procedimiento-256214", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "IMPI — Reforma LFPPI 2026", "url": "https://www.gob.mx/impi/prensa/mexico-fortalece-su-sistema-de-propiedad-industrial-con-la-reforma-a-la-ley-federal-de-proteccion-a-la-propiedad-industrial-rumbo-a-la-revision-del-t-mec", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "IMPI — Nuevo Reglamento LFPPI 2026", "url": "https://www.gob.mx/impi/prensa/se-fortalece-el-marco-juridico-en-materia-de-propiedad-industrial-con-la-publicacion-del-reglamento-de-la-lfppi-impi?idiom=es-MX", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "SCJN — Jurisprudencia 2032239, renovación de registros marcarios", "url": "https://sjfsemanal.scjn.gob.mx/detalle/tesis/2032239", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "WIPO — Mexico and the Madrid Protocol", "url": "https://www.wipo.int/pressroom/en/articles/2012/article_0024.html", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "WIPO Lex — Madrid Protocol, Mexico", "url": "https://www.wipo.int/wipolex/en/treaties/parties/remarks/MX/8", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "WIPO — Madrid System declarations", "url": "https://www.wipo.int/en/web/madrid-system/members/declarations", "type": "official", "checkedAt": "2026-09-12" }
+  ]
+}
