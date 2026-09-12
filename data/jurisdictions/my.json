@@ -1,0 +1,521 @@
+{
+  "id": "my",
+  "type": "country",
+  "flag": "🇲🇾",
+  "region": "asia",
+  "names": {
+    "ja": "マレーシア",
+    "en": "Malaysia"
+  },
+  "office": {
+    "ja": "マレーシア知的財産公社（MyIPO）",
+    "en": "Intellectual Property Corporation of Malaysia (MyIPO)"
+  },
+  "availableLanguages": [],
+  "createdAt": "2026-09-12",
+  "updatedAt": "2026-09-12",
+  "status": "review",
+  "facts": {
+    "authority": {
+      "ja": "マレーシア知的財産公社（MyIPO）",
+      "en": "Intellectual Property Corporation of Malaysia (MyIPO)"
+    },
+    "protectionScope": {
+      "ja": "商品・役務の商標、団体商標、証明商標。未登録標章は詐称通用等による保護も検討する。",
+      "en": "Trademarks for goods and services, collective marks and certification marks; unregistered marks may also rely on passing off."
+    },
+    "markTypes": {
+      "ja": "文字、名称、数字、図形、色彩、商品の形状・包装、音、香り、ホログラム、位置、動きの連続その他、明確かつ精確に表現できる標識。",
+      "en": "Words, names, numerals, devices, colors, shapes of goods or packaging, sounds, scents, holograms, positions, motion sequences and other signs capable of clear and precise representation."
+    },
+    "madridAccessionDate": {
+      "ja": "2019年12月27日発効",
+      "en": "Effective 27 December 2019"
+    },
+    "niceClassification": {
+      "ja": "採用。最新のニース分類およびMyIPO指定商品・役務データベースを確認する。",
+      "en": "Adopted; verify the current Nice edition and MyIPO goods/services database."
+    },
+    "classHeadingPractice": {
+      "ja": "類見出しのみへの依存を避け、商品・役務を明確・精確に記載する。",
+      "en": "Avoid relying solely on class headings; specify goods/services clearly and precisely."
+    },
+    "retailServices": {
+      "ja": "第35類で登録可能。対象商品・提供形態を具体的に記載する。",
+      "en": "Registrable in Class 35; specify the relevant goods and mode of retail service."
+    },
+    "multiClassApplication": {
+      "ja": "可。2019年法下で多区分出願が可能。",
+      "en": "Available under the Trademarks Act 2019."
+    },
+    "applicationForm": {
+      "ja": "MyIPOへオンライン出願。出願人、標章、区分、商品・役務、優先権、使用意思等の所定情報を記載する。",
+      "en": "File online with MyIPO, identifying the applicant, mark, classes, goods/services, priority and prescribed information."
+    },
+    "powerOfAttorney": {
+      "ja": "代理人選任届等が必要。通常、公証・領事認証は不要とされるが最新方式を確認する。",
+      "en": "Appointment of a registered agent is required where applicable; notarization/legalization is generally unnecessary, subject to current formalities."
+    },
+    "priorityDocuments": {
+      "ja": "パリ優先権は最初の出願から6か月以内。証明書・英訳の提出時期を確認する。",
+      "en": "Paris priority must be claimed within six months of the first filing; verify timing for the certified document and English translation."
+    },
+    "homeRegistrationCertificate": {
+      "ja": "通常の直接出願には不要。",
+      "en": "Not normally required for a direct national filing."
+    },
+    "useEvidenceAtFiling": {
+      "ja": "通常不要。ただし使用による識別力、誠実な使用意思等が争点となる場合は証拠が必要となり得る。",
+      "en": "Not normally required, but evidence may be needed for acquired distinctiveness, bona fide intention to use or other issues."
+    },
+    "notarizationCertification": {
+      "ja": "委任状等は通常公証不要。署名・代理人要件は最新フォームで確認する。",
+      "en": "Powers/appointments generally need no notarization; verify signature and agent requirements on current forms."
+    },
+    "otherDocuments": {
+      "ja": "標章の表示・説明、非伝統的商標の電子ファイル、法人情報、翻訳、優先権資料等。",
+      "en": "Representation and description, electronic files for non-traditional marks, entity details, translations and priority materials."
+    },
+    "absoluteGroundsExamination": {
+      "ja": "あり。MyIPOが職権審査する。",
+      "en": "Yes; examined ex officio by MyIPO."
+    },
+    "distinctivenessGrounds": {
+      "ja": "識別力欠如、普通・記述的表示、取引上慣用の標識等は拒絶され得る。出願日前の使用による識別力を主張できる場合がある。",
+      "en": "Non-distinctive, generic, descriptive or customary signs may be refused; acquired distinctiveness through pre-filing use may be available."
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "公衆を欺罔・混同させる標識、法令違反、醜悪・攻撃的事項、国家の利益・安全を害する事項、保護標章等を確認する。",
+      "en": "Check bars for deception/confusion, illegality, scandalous or offensive matter, prejudice to national interests/security and protected emblems."
+    },
+    "relativeGroundsExamination": {
+      "ja": "あり。先行商標との同一・類似、周知商標、他の先行権等を審査する。",
+      "en": "Yes; examination covers identical/similar earlier marks, well-known marks and other earlier rights."
+    },
+    "disclaimer": {
+      "ja": "任意または登録官の条件としてディスクレームが付され得る。",
+      "en": "A disclaimer may be entered voluntarily or imposed as a condition by the Registrar."
+    },
+    "consent": {
+      "ja": "先行権者の同意は一部の相対的拒絶理由・無効で有効となり得るが、絶対的拒絶理由を解消しない。",
+      "en": "Earlier-right consent may be effective for certain relative grounds or invalidity, but does not cure absolute grounds."
+    },
+    "acceleratedExamination": {
+      "ja": "早期審査制度の対象、理由、証拠、料金を最新のMyIPO指針で確認する。",
+      "en": "Confirm current MyIPO expedited-examination grounds, evidence and fees."
+    },
+    "thirdPartyObservation": {
+      "ja": "公告後2か月以内に正式な異議申立てが可能。第三者意見制度の利用可否は最新指針を確認する。",
+      "en": "A formal opposition may be filed within two months after publication; verify availability of third-party observations under current guidance."
+    },
+    "directExaminationPeriod": {
+      "ja": "公式の一律平均は確認できない。MyIPOの最新顧客憲章・統計と現地代理人の見積りを確認する。",
+      "en": "No uniform official average identified; consult current MyIPO client-charter data/statistics and local estimates."
+    },
+    "madridExaminationPeriod": {
+      "ja": "拒絶通報期間は18か月。異議に基づく拒絶は18か月後となり得る。",
+      "en": "The refusal period is 18 months; opposition-based refusals may be notified later."
+    },
+    "colourPriorityIdentity": {
+      "ja": "優先権基礎とマレーシア出願で色彩の有無・配置を一致させ、同一性を確保する。許容差は要個別確認。",
+      "en": "Align color claims and arrangement with the priority filing to preserve identity; confirm permissible differences."
+    },
+    "colourRelativeGrounds": {
+      "ja": "色彩は全体的印象の一要素であり、色の変更だけで類似性が解消するとは限らない。",
+      "en": "Color is one factor in overall impression and a color change alone may not avoid similarity."
+    },
+    "colourGenuineUse": {
+      "ja": "登録形態と使用形態の差異が識別性を変更するかを評価。白黒登録のカラー使用による維持を当然視しない。",
+      "en": "Assess whether differences from the registered form alter distinctive character; do not assume color use always maintains a black-and-white registration."
+    },
+    "colourInfringementScope": {
+      "ja": "色彩を含む外観、称呼、観念、識別力、商品・役務、取引事情を総合評価する。",
+      "en": "Assess visual, phonetic and conceptual impressions including color, distinctiveness, goods/services and market context."
+    },
+    "colourFilingStrategy": {
+      "ja": "色彩が重要ならカラー版、柔軟性が必要なら白黒版・主要変形の別出願を検討。",
+      "en": "If color matters, file in color; for flexibility consider separate black-and-white and key variants."
+    },
+    "refusalResponseRoute": {
+      "ja": "審査報告・暫定拒絶に対し、所定期間内に書面意見、補正、証拠、聴聞請求等で応答する。最終拒絶は高等裁判所への不服申立てを検討する。",
+      "en": "Respond to an examination report or provisional refusal with submissions, amendments, evidence and/or a hearing request within the prescribed time; a final refusal may be appealed to the High Court."
+    },
+    "responsePeriod": {
+      "ja": "審査報告への初回応答は通常2か月が重要。通知・規則・延長承認を案件ごとに確認する。",
+      "en": "An initial two-month response period is commonly critical; verify the notice, regulations and any approved extension."
+    },
+    "extensionAvailable": {
+      "ja": "あり得る。所定フォーム・料金による期限前申請が必要で、期限・回数に制限がある。",
+      "en": "May be available by timely prescribed request and fee, subject to limits on period and number."
+    },
+    "extensionLength": {
+      "ja": "手続ごとに異なる。審査・異議の各段階で個別確認する。",
+      "en": "Varies by procedure; verify separately for examination and opposition stages."
+    },
+    "extensionRequirements": {
+      "ja": "期限前の所定申請、料金、理由・証拠の要否を確認する。",
+      "en": "Confirm the prescribed pre-deadline request, fee and any reasons/evidence."
+    },
+    "appealRoute": {
+      "ja": "登録官の拒絶・異議決定等は、2019年法および規則に従い高等裁判所へ不服申立てできる。上級審への経路も個別確認する。",
+      "en": "Registrar decisions on refusal or opposition may be appealed to the High Court under the 2019 Act and Regulations; confirm further appeal routes."
+    },
+    "refusalAppealPeriod": {
+      "ja": "拒絶不服の公式平均期間は確認できない。高等裁判所の進行・証拠・上訴により異なるため現地見積りを取得する。",
+      "en": "No official average identified; obtain local estimates based on High Court procedure, evidence and possible further appeal."
+    },
+    "publicDatabase": {
+      "ja": "MyIPO IP Online商標検索",
+      "en": "MyIPO IP Online Trademark Search",
+      "url": "https://iponline2u.myipo.gov.my/"
+    },
+    "publicationStage": {
+      "ja": "審査で受理された出願は知的財産公報に公告され、異議期間が開始する。",
+      "en": "An accepted application is published in the Intellectual Property Official Journal, starting the opposition period."
+    },
+    "oppositionPeriod": {
+      "ja": "公告日から2か月。",
+      "en": "Two months from publication."
+    },
+    "oppositionExtension": {
+      "ja": "所定条件下で延長申請が可能。申請期限、延長幅、料金を最新規則で確認する。",
+      "en": "An extension may be requested under prescribed conditions; verify deadline, duration and fee."
+    },
+    "averagePendency": {
+      "ja": "案件、審査報告、異議、聴聞により変動。直接出願とマドプロ指定を分けて最新値を確認する。",
+      "en": "Varies with examination reports, opposition and hearings; obtain separate current estimates for direct and Madrid cases."
+    },
+    "term": {
+      "ja": "10年。10年ごとに更新可能。",
+      "en": "10 years, renewable for successive ten-year periods."
+    },
+    "termStart": {
+      "ja": "出願日から。登録日は出願日とみなされる。",
+      "en": "From the filing date; the filing date is deemed the registration date."
+    },
+    "renewalWindow": {
+      "ja": "満了日までに更新可能。満了後6か月以内は割増料金付き更新が可能。",
+      "en": "Renew by expiry; late renewal is available within six months after expiry with surcharge."
+    },
+    "gracePeriod": {
+      "ja": "あり。満了後6か月。さらに登録簿からの抹消後6か月以内に回復申請が可能な場合がある。",
+      "en": "Yes, six months after expiry; restoration may also be requested within six months after deemed removal."
+    },
+    "renewalEvidence": {
+      "ja": "使用宣誓・使用証拠は通常の更新要件ではない。更新願・料金を提出する。",
+      "en": "A declaration or evidence of use is not ordinarily required for renewal; file the request and fees."
+    },
+    "nonUseCancellation": {
+      "ja": "あり。ただし2019年法46条により利害関係人が高等裁判所へ請求する司法手続。",
+      "en": "Available, but under section 46 of the 2019 Act an aggrieved person applies to the High Court."
+    },
+    "nonUsePeriod": {
+      "ja": "登録通知後3年間、誠実な使用がない場合、または使用が連続3年間中断した場合。",
+      "en": "No bona fide use for three years following notification of registration, or uninterrupted suspension of use for three years."
+    },
+    "nonUseDefenses": {
+      "ja": "不使用について正当な理由がある場合。取消請求を予見して直前3か月内に開始・再開した使用は一定の場合に無視される。",
+      "en": "Proper reasons for non-use may defend the registration; use begun or resumed within the three months before the action may be disregarded if prompted by awareness of the threatened action."
+    },
+    "otherCancellation": {
+      "ja": "普通名称化、権利者の使用により公衆を誤認させる場合等にも取消可能。",
+      "en": "Revocation may also apply for genericide or misleading use caused by the proprietor."
+    },
+    "invalidation": {
+      "ja": "あり。絶対的・相対的拒絶理由に反して登録された場合、高等裁判所で全部・一部無効を請求できる。",
+      "en": "Available in the High Court, in whole or in part, for registration contrary to absolute or relative grounds."
+    },
+    "civilInjunction": {
+      "ja": "高等裁判所で暫定・終局的差止めを請求可能。",
+      "en": "Interim and final injunctions may be sought in the High Court."
+    },
+    "civilDamages": {
+      "ja": "損害賠償または利益返還を請求可能。悪意・善意等により救済範囲を確認する。",
+      "en": "Damages or an account of profits may be available; confirm the effect of knowledge and other circumstances."
+    },
+    "civilEvidencePreservation": {
+      "ja": "捜索・証拠保全、Anton Piller型命令、差押え等を検討できる。",
+      "en": "Search/evidence-preservation relief, including Anton Piller-type orders and seizure, may be considered."
+    },
+    "civilOther": {
+      "ja": "侵害品の引渡し・廃棄、宣言、費用等の救済があり得る。",
+      "en": "Delivery up/destruction, declarations and costs may be available."
+    },
+    "borderMeasures": {
+      "ja": "税関への申立てによる輸入差止め制度あり。登録、担保、提訴期限等を確認する。",
+      "en": "Customs import-suspension procedures are available; verify recordal, security and litigation deadlines."
+    },
+    "administrativeRaid": {
+      "ja": "MyIPO執行部、国内取引・生活費省、警察等との摘発・押収を検討する。",
+      "en": "Consider raids and seizures involving MyIPO enforcement, the Ministry of Domestic Trade and Cost of Living, police and other authorities."
+    },
+    "administrativeOther": {
+      "ja": "異議、税関措置、行政調査、調停その他を事案に応じて検討する。",
+      "en": "Consider opposition, customs measures, administrative investigation, mediation and other routes."
+    },
+    "criminalAvailability": {
+      "ja": "登録商標の虚偽適用、偽造品の輸入・販売、偽造器具の所持等に刑事責任あり。",
+      "en": "Criminal liability applies to false application of registered marks, importing/selling falsely marked goods and possessing counterfeiting articles."
+    },
+    "criminalFine": {
+      "ja": "法人・個人、商品数、再犯等に応じ高額の罰金あり。最新の法定額を確認する。",
+      "en": "Substantial fines apply depending on corporate/individual status, number of goods and recidivism; verify current amounts."
+    },
+    "criminalImprisonment": {
+      "ja": "個人について最長3年、再犯では最長5年となり得る犯罪類型がある。",
+      "en": "Some offenses carry up to three years’ imprisonment for individuals, increasing to five years for repeat offenses."
+    },
+    "criminalOther": {
+      "ja": "侵害品、包装、ラベル、製造器具等の没収・廃棄があり得る。",
+      "en": "Forfeiture and destruction of infringing goods, packaging, labels and manufacturing articles may be available."
+    }
+  },
+  "notablePoints": [
+    {
+      "id": "court-non-use-revocation",
+      "importance": "critical",
+      "title": {
+        "ja": "不使用取消は高等裁判所で提起",
+        "en": "Non-use revocation must be brought in the High Court"
+      },
+      "summary": {
+        "ja": "2019年法46条の不使用取消はMyIPOへの簡易行政請求ではなく、高等裁判所への司法申立てである。費用、証拠開示、期間、費用負担リスクを事前確認する。",
+        "en": "Section 46 non-use revocation is a judicial High Court application, not a simple administrative request to MyIPO. Assess cost, evidence, timing and adverse-cost exposure first."
+      },
+      "sourceUrl": "https://www.myipo.gov.my/wp-content/uploads/2025/02/ACT-815-TRADEMARKS-ACT-201.pdf"
+    },
+    {
+      "id": "three-year-non-use",
+      "importance": "high",
+      "title": {
+        "ja": "不使用期間は3年",
+        "en": "Three-year non-use period"
+      },
+      "summary": {
+        "ja": "登録通知後3年間の不使用または連続3年間の使用中断が対象。取消は商品・役務の一部にも及び得る。",
+        "en": "The grounds cover non-use for three years following notification of registration or a continuous three-year suspension; partial revocation is possible."
+      },
+      "sourceUrl": "https://www.myipo.gov.my/wp-content/uploads/2025/02/ACT-815-TRADEMARKS-ACT-201.pdf"
+    },
+    {
+      "id": "late-use-three-months",
+      "importance": "high",
+      "title": {
+        "ja": "取消予告後の駆け込み使用への制限",
+        "en": "Restriction on last-minute use before revocation"
+      },
+      "summary": {
+        "ja": "3年経過後、取消申立て前3か月内に開始・再開した使用は、取消を察知して始めた場合には考慮されないことがある。",
+        "en": "Use begun or resumed in the three months before filing may be disregarded if preparations started only after the proprietor became aware of a possible revocation action."
+      },
+      "sourceUrl": "https://www.myipo.gov.my/wp-content/uploads/2025/02/ACT-815-TRADEMARKS-ACT-201.pdf"
+    },
+    {
+      "id": "madrid-2019",
+      "importance": "high",
+      "title": {
+        "ja": "2019年からマドプロ加盟",
+        "en": "Madrid member since 2019"
+      },
+      "summary": {
+        "ja": "2019年12月27日発効。拒絶通報期間は18か月で、異議による拒絶は期間後となり得る。",
+        "en": "Effective 27 December 2019; the refusal period is 18 months and opposition-based refusals may issue later."
+      },
+      "sourceUrl": "https://www.wipo.int/wipolex/en/treaties/notifications/details/treaty_madridp-gp_225"
+    },
+    {
+      "id": "guidelines-2026",
+      "importance": "high",
+      "title": {
+        "ja": "MyIPO商標指針2026",
+        "en": "MyIPO Trademark Guidelines 2026"
+      },
+      "summary": {
+        "ja": "2026年版の商標指針が公表されているため、旧2019年指針ではなく最新版を基準に方式・審査実務を確認する。",
+        "en": "MyIPO has published 2026 trademark guidelines; use the latest version for current formality and examination practice."
+      },
+      "sourceUrl": "https://www.myipo.gov.my/guidelines-of-trademark-2019-va1-2026/"
+    }
+  ],
+  "statistics": {
+    "coverage": "2016–2025",
+    "status": "pending",
+    "series": []
+  },
+  "news": [
+    {
+      "id": "guidelines-va1-2026",
+      "type": "practice",
+      "date": "2026-02-03",
+      "title": {
+        "ja": "MyIPOが商標指針VA1-2026を公表",
+        "en": "MyIPO publishes Trademark Guidelines VA1-2026"
+      },
+      "summary": {
+        "ja": "2019年法に基づく審査・手続指針の2026年更新版。既存カードの期限・方式を再確認する基礎資料。",
+        "en": "The 2026 update to examination and procedural guidance under the 2019 Act; a key source for rechecking deadlines and formalities."
+      },
+      "sourceUrl": "https://www.myipo.gov.my/guidelines-of-trademark-2019-va1-2026/"
+    },
+    {
+      "id": "practice-direction-va8-2025",
+      "type": "practice",
+      "date": "2025-12-31",
+      "title": {
+        "ja": "2019年商標法プラクティス・ディレクションVA8-2025",
+        "en": "Trademarks Act 2019 Practice Direction VA8-2025"
+      },
+      "summary": {
+        "ja": "MyIPOが掲載する最新プラクティス・ディレクションを基に提出・運用変更を継続確認する。",
+        "en": "Monitor filing and operational changes under MyIPO’s latest published practice direction."
+      },
+      "sourceUrl": "https://www.myipo.gov.my/trademark-act/"
+    },
+    {
+      "id": "act-consolidation-2025",
+      "type": "law",
+      "date": "2025-02-01",
+      "title": {
+        "ja": "MyIPOが2019年商標法の統合版を掲載",
+        "en": "MyIPO publishes consolidated Trademarks Act 2019 text"
+      },
+      "summary": {
+        "ja": "不使用取消、刑事救済、更新等の現行条文を公式統合版で確認できる。",
+        "en": "The official consolidated text provides the current provisions on non-use revocation, criminal remedies, renewal and related matters."
+      },
+      "sourceUrl": "https://www.myipo.gov.my/wp-content/uploads/2025/02/ACT-815-TRADEMARKS-ACT-201.pdf"
+    }
+  ],
+  "faqs": [
+    {
+      "tag": "Non-use",
+      "question": {
+        "ja": "不使用取消は高等裁判所で提起する必要がありますか。費用と期間はどの程度ですか。",
+        "en": "Must non-use revocation be filed in the High Court, and what are the likely cost and duration?"
+      },
+      "followUp": {
+        "ja": "3年間の不使用の立証責任、必要証拠、敗訴時費用負担を確認してください。",
+        "en": "Please confirm burden of proof, required evidence and adverse-cost exposure."
+      }
+    },
+    {
+      "tag": "Filing",
+      "question": {
+        "ja": "多区分出願と区分別出願のどちらが、異議・分割・費用の観点で適切ですか。",
+        "en": "Is a multi-class or separate-class filing preferable for opposition, division and cost?"
+      },
+      "followUp": {
+        "ja": "商品・役務表示はMyIPO指針2026に適合しますか。",
+        "en": "Does the specification comply with the 2026 MyIPO Guidelines?"
+      }
+    },
+    {
+      "tag": "Examination",
+      "question": {
+        "ja": "審査報告への期限、延長回数、聴聞請求の時期を確認してください。",
+        "en": "Please confirm the examination-report deadline, available extensions and hearing-request timing."
+      },
+      "followUp": {
+        "ja": "現在の平均審査期間と早期審査の利用可能性はどうですか。",
+        "en": "What are current pendency and expedited-examination availability?"
+      }
+    },
+    {
+      "tag": "Madrid",
+      "question": {
+        "ja": "直接出願とマドプロ指定のどちらが本件に適しますか。",
+        "en": "Should this case use a direct filing or Madrid designation?"
+      },
+      "followUp": {
+        "ja": "暫定拒絶への現地代理人選任と応答期限を確認してください。",
+        "en": "Confirm local representation and response deadline for provisional refusal."
+      }
+    },
+    {
+      "tag": "Colour",
+      "question": {
+        "ja": "白黒登録とカラー使用の同一性を、優先権・類似・不使用取消・侵害でどう判断しますか。",
+        "en": "How is identity between black-and-white registration and color use assessed for priority, similarity, non-use and infringement?"
+      }
+    },
+    {
+      "tag": "Enforcement",
+      "question": {
+        "ja": "民事訴訟、刑事摘発、MyIPO・税関対応の最適な組合せは何ですか。",
+        "en": "What is the best combination of civil litigation, criminal enforcement, MyIPO and customs action?"
+      },
+      "followUp": {
+        "ja": "仮処分、証拠保全、担保、費用、期間を見積もってください。",
+        "en": "Estimate interim relief, evidence preservation, security, cost and timing."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "MyIPO",
+      "url": "https://www.myipo.gov.my/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Trademarks Act 2019—official consolidated text",
+      "url": "https://www.myipo.gov.my/wp-content/uploads/2025/02/ACT-815-TRADEMARKS-ACT-201.pdf",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "MyIPO Trademark Guidelines VA1-2026",
+      "url": "https://www.myipo.gov.my/guidelines-of-trademark-2019-va1-2026/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "MyIPO Trademark Act and Practice Directions",
+      "url": "https://www.myipo.gov.my/trademark-act/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "MyIPO Trademark Basics",
+      "url": "https://www.myipo.gov.my/trademark-basics-2/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "MyIPO Forms and Fees",
+      "url": "https://www.myipo.gov.my/trademark-forms-and-fees/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "MyIPO Search Trademark",
+      "url": "https://www.myipo.gov.my/search-trademark/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "MyIPO IP Online",
+      "url": "https://iponline2u.myipo.gov.my/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "MyIPO Managing Your Trademark",
+      "url": "https://www.myipo.gov.my/managing-your-trademark/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "WIPO—Malaysia Madrid accession",
+      "url": "https://www.wipo.int/wipolex/en/treaties/notifications/details/treaty_madridp-gp_225",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "WIPO—Malaysia Madrid declarations",
+      "url": "https://www.wipo.int/wipolex/en/treaties/parties/remarks/MY/8",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    }
+  ]
+}
