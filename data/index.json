@@ -8,6 +8,10 @@
     "path": "./data/jurisdictions/ca.json"
   },
   {
+    "id": "mx",
+    "path": "./data/jurisdictions/mx.json"
+  },
+  {
     "id": "au",
     "path": "./data/jurisdictions/au.json"
   },
