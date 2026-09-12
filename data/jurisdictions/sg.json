@@ -1,0 +1,521 @@
+{
+  "id": "sg",
+  "type": "country",
+  "flag": "🇸🇬",
+  "region": "asia",
+  "names": {
+    "ja": "シンガポール共和国",
+    "en": "Republic of Singapore"
+  },
+  "office": {
+    "ja": "シンガポール知的財産庁（IPOS）",
+    "en": "Intellectual Property Office of Singapore (IPOS)"
+  },
+  "availableLanguages": [],
+  "createdAt": "2026-09-12",
+  "updatedAt": "2026-09-12",
+  "status": "review",
+  "facts": {
+    "authority": {
+      "ja": "シンガポール知的財産庁（IPOS）",
+      "en": "Intellectual Property Office of Singapore (IPOS)"
+    },
+    "protectionScope": {
+      "ja": "商品・役務の商標、団体商標、証明商標。未登録標章には詐称通用による保護もあり得る。",
+      "en": "Trademarks for goods and services, collective marks and certification marks; unregistered marks may be protected through passing off."
+    },
+    "markTypes": {
+      "ja": "語、名称、文字、数字、図形、形状、色彩、包装その他、図示可能で商品・役務を識別できる標識。非伝統的商標の表示要件は最新実務を確認する。",
+      "en": "Words, names, letters, numerals, devices, shapes, colors, packaging and other graphically representable signs capable of distinguishing goods/services; confirm current requirements for non-traditional marks."
+    },
+    "madridAccessionDate": {
+      "ja": "2000年10月31日発効",
+      "en": "Effective 31 October 2000"
+    },
+    "niceClassification": {
+      "ja": "採用。最新ニース版およびIPOS分類データベースを確認する。",
+      "en": "Adopted; verify the current Nice edition and IPOS classification database."
+    },
+    "classHeadingPractice": {
+      "ja": "商品・役務を明確かつ精確に記載する。IPOSの事前承認データベースを利用すると料金・審査上有利となる場合がある。",
+      "en": "Specify goods/services clearly and precisely; using IPOS pre-approved descriptions may provide filing-fee and examination benefits."
+    },
+    "retailServices": {
+      "ja": "第35類で登録可能。小売対象商品・提供方法を具体的に記載する。",
+      "en": "Registrable in Class 35; specify the goods and mode of retail service."
+    },
+    "multiClassApplication": {
+      "ja": "可。多区分出願が可能。",
+      "en": "Available; multi-class applications are permitted."
+    },
+    "applicationForm": {
+      "ja": "IPOS Digital Hubから出願人、標章、区分、商品・役務、優先権等を入力して出願する。",
+      "en": "File through IPOS Digital Hub, identifying the applicant, mark, classes, goods/services and priority."
+    },
+    "powerOfAttorney": {
+      "ja": "通常、出願時に委任状提出は不要。国外出願人の送達先・代理要件を確認する。",
+      "en": "A power of attorney is not normally filed with the application; verify address-for-service and representation requirements for foreign applicants."
+    },
+    "priorityDocuments": {
+      "ja": "パリ優先権は最初の出願から6か月以内。IPOSから求められた場合の証明書・英訳期限を確認する。",
+      "en": "Paris priority must be claimed within six months; verify deadlines for certified documents and English translations if requested."
+    },
+    "homeRegistrationCertificate": {
+      "ja": "通常の直接出願には不要。",
+      "en": "Not normally required for a direct national filing."
+    },
+    "useEvidenceAtFiling": {
+      "ja": "通常不要。使用による識別力を主張する場合は法定宣誓書・売上・広告等の証拠が必要となり得る。",
+      "en": "Not normally required; statutory-declaration, sales, advertising and other evidence may be needed for acquired distinctiveness."
+    },
+    "notarizationCertification": {
+      "ja": "通常の出願書類・代理権に公証は不要。宣誓証拠は所定形式で作成する。",
+      "en": "Notarization is generally unnecessary for filing or representation; evidence by statutory declaration must follow prescribed formalities."
+    },
+    "otherDocuments": {
+      "ja": "標章表示・説明、非伝統的標章のファイル、法人情報、翻訳、優先権・使用証拠等を案件に応じ提出。",
+      "en": "Submit representation/description, files for non-traditional marks, entity details, translations, priority and use evidence as applicable."
+    },
+    "absoluteGroundsExamination": {
+      "ja": "あり。IPOSが職権審査する。",
+      "en": "Yes; examined ex officio by IPOS."
+    },
+    "distinctivenessGrounds": {
+      "ja": "識別力欠如、普通・記述的表示、取引上慣用の標識、専ら機能的な形状等は拒絶され得る。使用による識別力を主張できる場合がある。",
+      "en": "Non-distinctive, generic, descriptive or customary signs and exclusively functional shapes may be refused; acquired distinctiveness may be available."
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "公序良俗違反、欺罔的標識、法令で使用禁止の標識、国旗・公式紋章、悪意出願等を確認する。",
+      "en": "Check bars for public policy/morality, deception, signs prohibited by law, flags/official emblems and bad-faith applications."
+    },
+    "relativeGroundsExamination": {
+      "ja": "あり。先行商標との同一・類似、混同可能性、周知商標等を職権審査する。",
+      "en": "Yes; IPOS examines identical/similar earlier marks, likelihood of confusion and well-known marks."
+    },
+    "disclaimer": {
+      "ja": "任意ディスクレームまたは登録上の限定が利用される場合がある。",
+      "en": "Voluntary disclaimers or limitations may be used in appropriate cases."
+    },
+    "consent": {
+      "ja": "同意書はIPOSの拒絶対応で考慮され得る。相対的拒絶理由、対象商品・役務、公益を踏まえ個別判断。",
+      "en": "A letter of consent may be considered by IPOS, subject to the relative ground, goods/services and public interest."
+    },
+    "acceleratedExamination": {
+      "ja": "一般的早期審査またはIPOSの優先処理施策の対象・要件を最新案内で確認する。",
+      "en": "Confirm current eligibility and conditions for expedited or priority-processing initiatives at IPOS."
+    },
+    "thirdPartyObservation": {
+      "ja": "公告後2か月以内に正式異議申立て可能。公告前後の第三者意見提出についてはIPOS実務を確認する。",
+      "en": "A formal opposition may be filed within two months after publication; verify IPOS practice for third-party observations."
+    },
+    "directExaminationPeriod": {
+      "ja": "公式目標・平均は出願内容と指定表示により異なる。IPOSの最新サービス基準および現地代理人見積りを確認する。",
+      "en": "Official targets and averages vary with the application and specification; consult current IPOS service standards and local estimates."
+    },
+    "madridExaminationPeriod": {
+      "ja": "国際登録について適用される拒絶通報期間および異議による期間後通報の可否をWIPOの最新宣言で確認する。",
+      "en": "Verify the applicable refusal period and possible later opposition-based notification under Singapore’s current WIPO declarations."
+    },
+    "colourPriorityIdentity": {
+      "ja": "優先権基礎とシンガポール出願で色彩の有無・配置を一致させ、同一性を確保する。許容差は要個別確認。",
+      "en": "Align color claims and arrangement with the priority filing to preserve identity; confirm permissible differences."
+    },
+    "colourRelativeGrounds": {
+      "ja": "色彩は全体的印象の一要素であり、色の変更だけで類似性が解消するとは限らない。",
+      "en": "Color is one factor in overall impression and a color change alone may not avoid similarity."
+    },
+    "colourGenuineUse": {
+      "ja": "登録形態と使用形態の差異が識別性を変更するかを評価。白黒登録のカラー使用による維持を当然視しない。",
+      "en": "Assess whether differences from the registered form alter distinctive character; do not assume color use always maintains a black-and-white registration."
+    },
+    "colourInfringementScope": {
+      "ja": "色彩を含む外観、称呼、観念、識別力、商品・役務、取引事情を総合評価する。",
+      "en": "Assess visual, phonetic and conceptual impressions including color, distinctiveness, goods/services and market context."
+    },
+    "colourFilingStrategy": {
+      "ja": "色彩が重要ならカラー版、柔軟性が必要なら白黒版・主要変形の別出願を検討。",
+      "en": "If color matters, file in color; for flexibility consider separate black-and-white and key variants."
+    },
+    "refusalResponseRoute": {
+      "ja": "IPOSの審査報告に、書面意見、補正、同意書、使用証拠または聴聞請求で応答する。最終決定は裁判所への不服申立てを検討する。",
+      "en": "Respond to an IPOS examination report with submissions, amendments, consent, use evidence or a hearing request; consider court appeal from a final decision."
+    },
+    "responsePeriod": {
+      "ja": "審査報告への応答は通常4か月が重要。通知記載期限と延長・継続処理制度を確認する。",
+      "en": "A four-month response period is commonly critical for examination reports; check the stated deadline and extension/continued-processing options."
+    },
+    "extensionAvailable": {
+      "ja": "あり。期限延長または継続処理を所定フォーム・料金で利用できる場合がある。",
+      "en": "Available in some cases through an extension or continued-processing request with prescribed form and fee."
+    },
+    "extensionLength": {
+      "ja": "対象期限・理由により異なる。",
+      "en": "Varies according to the deadline and grounds."
+    },
+    "extensionRequirements": {
+      "ja": "期限前申請、理由、相手方同意、料金等の要否を手続別に確認する。",
+      "en": "Confirm procedure-specific requirements for timely request, reasons, other-party consent and fees."
+    },
+    "appealRoute": {
+      "ja": "登録官・聴聞官の終局決定は、法定期間内に高等法院一般部へ不服申立てできる場合がある。上級審への許可・経路を確認する。",
+      "en": "A final Registrar/hearing decision may be appealed to the General Division of the High Court within the statutory period; verify permission and further-appeal routes."
+    },
+    "refusalAppealPeriod": {
+      "ja": "公式な平均審理期間は確認できない。IPOS聴聞と裁判所段階を分け、現地代理人から見積りを取得する。",
+      "en": "No official average identified; obtain separate local estimates for IPOS hearings and court proceedings."
+    },
+    "publicDatabase": {
+      "ja": "IPOS Digital Hub商標検索",
+      "en": "IPOS Digital Hub Trademark Search",
+      "url": "https://digitalhub.ipos.gov.sg/"
+    },
+    "publicationStage": {
+      "ja": "審査受理後、電子商標公報に公告され異議期間が始まる。",
+      "en": "After acceptance, the application is published in the electronic Trade Marks Journal and the opposition period begins."
+    },
+    "oppositionPeriod": {
+      "ja": "公告日から2か月。",
+      "en": "Two months from publication."
+    },
+    "oppositionExtension": {
+      "ja": "所定期間内の申請により延長可能な場合がある。相手方への通知・理由・上限を確認する。",
+      "en": "An extension may be available on timely request; confirm notice to the other party, reasons and maximum period."
+    },
+    "averagePendency": {
+      "ja": "指定表示、拒絶、異議の有無により変動。直接出願とマドプロ指定を分けて最新値を確認する。",
+      "en": "Varies with specifications, objections and opposition; obtain separate current estimates for direct and Madrid cases."
+    },
+    "term": {
+      "ja": "10年。10年ごとに更新可能。",
+      "en": "10 years, renewable for successive ten-year periods."
+    },
+    "termStart": {
+      "ja": "出願日から。登録は出願日に遡る。",
+      "en": "From the filing date; registration takes effect from the application date."
+    },
+    "renewalWindow": {
+      "ja": "通常は満了前6か月以内。満了後6か月以内は割増料金付きの遅延更新が可能。",
+      "en": "Normally within six months before expiry; late renewal is available within six months after expiry with surcharge."
+    },
+    "gracePeriod": {
+      "ja": "あり。満了後6か月の遅延更新、その後一定期間内の回復制度がある。正確な起算日を確認する。",
+      "en": "Yes; six-month late renewal and a further restoration mechanism may apply. Verify exact dates."
+    },
+    "renewalEvidence": {
+      "ja": "使用宣誓・使用証拠は通常の更新要件ではない。更新願・区分別料金を提出する。",
+      "en": "A declaration or evidence of use is not ordinarily required; file the renewal request and class fees."
+    },
+    "nonUseCancellation": {
+      "ja": "あり。IPOSへの取消申立てまたは裁判所手続が可能。",
+      "en": "Available before IPOS and/or through court proceedings."
+    },
+    "nonUsePeriod": {
+      "ja": "登録手続完了後5年間真正使用がない場合、または使用が連続5年間中断した場合。",
+      "en": "No genuine use within five years following completion of registration, or uninterrupted suspension for five years."
+    },
+    "nonUseDefenses": {
+      "ja": "不使用について正当な理由がある場合。取消申立てを察知した後の直前使用は一定の場合に無視される。",
+      "en": "Proper reasons for non-use may defend the registration; last-minute use after awareness of threatened revocation may be disregarded."
+    },
+    "otherCancellation": {
+      "ja": "普通名称化、権利者の使用により誤認を生じる場合等の取消事由がある。",
+      "en": "Revocation may also apply for genericide or misleading use by or with the proprietor’s consent."
+    },
+    "invalidation": {
+      "ja": "あり。絶対的・相対的拒絶理由、悪意等について全部・一部無効を請求可能。",
+      "en": "Available in whole or in part for breach of absolute/relative grounds, bad faith and other grounds."
+    },
+    "civilInjunction": {
+      "ja": "高等法院で暫定・終局的差止めを請求可能。",
+      "en": "Interim and final injunctions may be sought in the High Court."
+    },
+    "civilDamages": {
+      "ja": "損害賠償または利益返還等を請求可能。一定の場合の法定損害賠償も確認する。",
+      "en": "Damages or an account of profits may be available; check statutory-damages provisions where applicable."
+    },
+    "civilEvidencePreservation": {
+      "ja": "証拠保全、捜索命令、資産凍結、文書開示等を検討できる。",
+      "en": "Evidence preservation, search orders, freezing relief and disclosure may be considered."
+    },
+    "civilOther": {
+      "ja": "侵害品の引渡し・廃棄、宣言、判決公表、費用等があり得る。",
+      "en": "Delivery up/destruction, declarations, publication and costs may be available."
+    },
+    "borderMeasures": {
+      "ja": "税関による輸入差止め・権利者通知制度あり。申請、担保、検査、提訴期限を確認する。",
+      "en": "Customs suspension and rights-holder notification mechanisms are available; verify application, security, inspection and litigation deadlines."
+    },
+    "administrativeRaid": {
+      "ja": "警察・税関等と連携した摘発、検査、押収を事案ごとに検討する。",
+      "en": "Consider raids, inspections and seizures coordinated with police and customs case by case."
+    },
+    "administrativeOther": {
+      "ja": "IPOSでの異議・取消・無効、調停、税関措置その他の行政対応。",
+      "en": "Opposition, revocation/invalidity before IPOS, mediation, customs and other administrative routes."
+    },
+    "criminalAvailability": {
+      "ja": "登録商標の偽造、虚偽適用、偽造品の輸入・販売等に刑事責任あり。",
+      "en": "Criminal liability applies to counterfeiting, false application, and importing or selling falsely marked goods."
+    },
+    "criminalFine": {
+      "ja": "重大な商標偽造罪について高額な罰金がある。商品数連動・総額上限等を最新条文で確認する。",
+      "en": "Substantial fines apply for serious counterfeiting offenses; verify per-item and aggregate maxima in current legislation."
+    },
+    "criminalImprisonment": {
+      "ja": "あり。犯罪類型により拘禁刑が科され得る。",
+      "en": "Available; imprisonment may apply depending on the offense."
+    },
+    "criminalOther": {
+      "ja": "侵害品・製造器具の没収・廃棄、捜索・押収等があり得る。",
+      "en": "Forfeiture/destruction of infringing goods and equipment, search and seizure may be available."
+    }
+  },
+  "notablePoints": [
+    {
+      "id": "administrative-non-use",
+      "importance": "critical",
+      "title": {
+        "ja": "IPOSで不使用取消を請求可能",
+        "en": "Administrative non-use revocation before IPOS"
+      },
+      "summary": {
+        "ja": "不使用取消はIPOSへ所定フォームで申し立てられる。マレーシアの高等裁判所型と異なり行政手続が利用可能だが、宣誓証拠と費用手続は厳格。",
+        "en": "Non-use revocation can be filed with IPOS using the prescribed form. Unlike Malaysia’s High Court model, an administrative route exists, but evidence and cost procedures remain formal."
+      },
+      "sourceUrl": "https://www.ipos.gov.sg/about-ip/trade-marks/managing-trade-marks/resolve-disputes-overview/revoking-or-invalidating-a-registered-trade-mark/"
+    },
+    {
+      "id": "five-year-non-use",
+      "importance": "high",
+      "title": {
+        "ja": "不使用期間は5年",
+        "en": "Five-year non-use period"
+      },
+      "summary": {
+        "ja": "登録手続完了後5年間の不使用または連続5年間の使用中断が取消事由。真正使用と正当理由を確認する。",
+        "en": "Five years of non-use after completion of registration, or a continuous five-year suspension, is a revocation ground; assess genuine use and proper reasons."
+      },
+      "sourceUrl": "https://sso.agc.gov.sg/act/tma1998?ProvIds=P12-"
+    },
+    {
+      "id": "pre-approved-descriptions",
+      "importance": "high",
+      "title": {
+        "ja": "事前承認済み商品・役務表示",
+        "en": "Pre-approved goods and services descriptions"
+      },
+      "summary": {
+        "ja": "IPOS分類データベースの事前承認表示を利用すると、方式不備を減らし、料金・審査上有利となる場合がある。",
+        "en": "Using pre-approved IPOS descriptions can reduce specification objections and may offer fee or processing benefits."
+      },
+      "sourceUrl": "https://www.ipos.gov.sg/about-ip/trade-marks/how-to-register/"
+    },
+    {
+      "id": "madrid-2000",
+      "importance": "high",
+      "title": {
+        "ja": "早期からのマドプロ加盟国",
+        "en": "Long-standing Madrid System member"
+      },
+      "summary": {
+        "ja": "2000年10月31日発効。直接出願とマドプロ指定の費用・補正範囲・代理人対応を比較する。",
+        "en": "The Protocol took effect on 31 October 2000; compare direct and Madrid routes for cost, amendment scope and local representation."
+      },
+      "sourceUrl": "https://www.wipo.int/documents/d/madrid-system/information-notices-en-2000-madrid_2000_17.doc"
+    },
+    {
+      "id": "mediation",
+      "importance": "medium",
+      "title": {
+        "ja": "異議・取消事件での調停",
+        "en": "Mediation in opposition and cancellation disputes"
+      },
+      "summary": {
+        "ja": "IPOSは争訟手続に調停を組み合わせる選択肢を案内している。費用助成・期限停止の有無を案件ごとに確認する。",
+        "en": "IPOS promotes mediation alongside contentious proceedings; confirm funding support and effects on deadlines for each case."
+      },
+      "sourceUrl": "https://www.ipos.gov.sg/about-ip/trade-marks/managing-trade-marks/resolve-disputes-overview/"
+    }
+  ],
+  "statistics": {
+    "coverage": "2016–2025",
+    "status": "pending",
+    "series": []
+  },
+  "news": [
+    {
+      "id": "legal-admin-update-2025",
+      "type": "practice",
+      "date": "2025-09-01",
+      "title": {
+        "ja": "商標の期限延長・継続処理案内を更新",
+        "en": "IPOS updates extension and continued-processing guidance"
+      },
+      "summary": {
+        "ja": "審査応答期限の延長、継続処理、宣誓書提出等の案内が更新された。",
+        "en": "Guidance on extensions, continued processing and statutory declarations was updated."
+      },
+      "sourceUrl": "https://www.ipos.gov.sg/about-ip/trade-marks/managing-trade-marks/maintain-trademarks/1-maintain-singapore-tm/legal-admin/"
+    },
+    {
+      "id": "international-opposition-update-2025",
+      "type": "practice",
+      "date": "2025-10-23",
+      "title": {
+        "ja": "マドプロ指定商標の異議手続案内を更新",
+        "en": "Guidance updated for opposing Madrid designations"
+      },
+      "summary": {
+        "ja": "シンガポール指定国際登録に対する異議のフォーム、料金、期限、調停案内が更新された。",
+        "en": "IPOS updated forms, fees, deadlines and mediation guidance for opposing international registrations designating Singapore."
+      },
+      "sourceUrl": "https://www.ipos.gov.sg/about-ip/trade-marks/managing-trade-marks/resolve-disputes-overview/opposing-an-international-trade-mark-registration-designating-singapore/"
+    },
+    {
+      "id": "forms-fees-current",
+      "type": "practice",
+      "date": "2026-09-12",
+      "title": {
+        "ja": "更新・回復・争訟手続の最新料金を確認",
+        "en": "Current renewal, restoration and contentious-procedure fees"
+      },
+      "summary": {
+        "ja": "更新、遅延更新、回復、異議・取消等は手続別料金があるため、申請時に最新表を確認する。",
+        "en": "Renewal, late renewal, restoration, opposition and revocation carry procedure-specific fees; check the current schedule when filing."
+      },
+      "sourceUrl": "https://www.ipos.gov.sg/about-ip/trade-marks/forms-and-fees/"
+    }
+  ],
+  "faqs": [
+    {
+      "tag": "Filing",
+      "question": {
+        "ja": "事前承認済みの商品・役務表示を利用できますか。多区分出願が適切ですか。",
+        "en": "Can we use pre-approved specifications, and is a multi-class filing advisable?"
+      },
+      "followUp": {
+        "ja": "直接出願の現在の料金と最初の審査報告までの期間を確認してください。",
+        "en": "Please confirm current direct-filing fees and time to first examination report."
+      }
+    },
+    {
+      "tag": "Examination",
+      "question": {
+        "ja": "この審査報告への正確な応答期限、延長、継続処理の選択肢は何ですか。",
+        "en": "What are the exact response deadline, extension and continued-processing options for this report?"
+      },
+      "followUp": {
+        "ja": "同意書、補正、使用証拠のどれが最も有効ですか。",
+        "en": "Would consent, amendment or use evidence be most effective?"
+      }
+    },
+    {
+      "tag": "Non-use",
+      "question": {
+        "ja": "5年の不使用期間の起算日と必要な真正使用証拠を確認できますか。",
+        "en": "Can you confirm the five-year start date and required genuine-use evidence?"
+      },
+      "followUp": {
+        "ja": "IPOS手続と裁判所手続の費用・期間・利点を比較してください。",
+        "en": "Please compare cost, timing and advantages of IPOS and court routes."
+      }
+    },
+    {
+      "tag": "Madrid",
+      "question": {
+        "ja": "直接出願とマドプロ指定のどちらが本件に適しますか。",
+        "en": "Should this case use a direct filing or Madrid designation?"
+      },
+      "followUp": {
+        "ja": "暫定拒絶時の応答期限と現地代理人要件を確認してください。",
+        "en": "Confirm the provisional-refusal deadline and local-representation requirements."
+      }
+    },
+    {
+      "tag": "Colour",
+      "question": {
+        "ja": "白黒登録とカラー使用の同一性を、優先権・類似・不使用取消・侵害でどう判断しますか。",
+        "en": "How is identity between black-and-white registration and color use assessed for priority, similarity, non-use and infringement?"
+      }
+    },
+    {
+      "tag": "Enforcement",
+      "question": {
+        "ja": "民事訴訟、刑事摘発、税関措置のどの組合せが最適ですか。",
+        "en": "What combination of civil litigation, criminal enforcement and customs action is best?"
+      },
+      "followUp": {
+        "ja": "仮処分、証拠保全、法定損害、費用、期間を見積もってください。",
+        "en": "Estimate interim relief, evidence preservation, statutory damages, cost and timing."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "IPOS—Trade Marks",
+      "url": "https://www.ipos.gov.sg/about-ip/trade-marks/introduction-trade-marks/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IPOS—How to Register",
+      "url": "https://www.ipos.gov.sg/about-ip/trade-marks/how-to-register/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IPOS—Forms and Fees",
+      "url": "https://www.ipos.gov.sg/about-ip/trade-marks/forms-and-fees/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IPOS Digital Hub",
+      "url": "https://digitalhub.ipos.gov.sg/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Singapore Trade Marks Act 1998",
+      "url": "https://sso.agc.gov.sg/act/tma1998",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Singapore Trade Marks Rules",
+      "url": "https://sso.agc.gov.sg/SL/TMA1998-R1",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IPOS—Opposing Singapore Applications",
+      "url": "https://www.ipos.gov.sg/about-ip/trade-marks/managing-trade-marks/resolve-disputes-overview/opposing-a-trade-mark-application-filed-in-singapore/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IPOS—Opposing International Registrations",
+      "url": "https://www.ipos.gov.sg/about-ip/trade-marks/managing-trade-marks/resolve-disputes-overview/opposing-an-international-trade-mark-registration-designating-singapore/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IPOS—Revocation and Invalidity",
+      "url": "https://www.ipos.gov.sg/about-ip/trade-marks/managing-trade-marks/resolve-disputes-overview/revoking-or-invalidating-a-registered-trade-mark/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IPOS—Legal and Administrative Requests",
+      "url": "https://www.ipos.gov.sg/about-ip/trade-marks/managing-trade-marks/maintain-trademarks/1-maintain-singapore-tm/legal-admin/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "WIPO—Singapore Madrid accession",
+      "url": "https://www.wipo.int/documents/d/madrid-system/information-notices-en-2000-madrid_2000_17.doc",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    }
+  ]
+}
