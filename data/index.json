@@ -28,6 +28,10 @@
     "path": "./data/jurisdictions/de.json"
   },
   {
+    "id": "es",
+    "path": "./data/jurisdictions/es.json"
+  },
+  {
     "id": "fr",
     "path": "./data/jurisdictions/fr.json"
   },
