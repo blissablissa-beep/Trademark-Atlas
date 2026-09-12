@@ -1,0 +1,499 @@
+{
+  "id": "id",
+  "type": "country",
+  "flag": "🇮🇩",
+  "region": "asia",
+  "names": {
+    "ja": "インドネシア共和国",
+    "en": "Republic of Indonesia"
+  },
+  "office": {
+    "ja": "知的財産総局（DJKI）",
+    "en": "Directorate General of Intellectual Property (DGIP/DJKI)"
+  },
+  "availableLanguages": [],
+  "createdAt": "2026-09-12",
+  "updatedAt": "2026-09-12",
+  "status": "review",
+  "facts": {
+    "authority": {
+      "ja": "知的財産総局（DJKI）",
+      "en": "Directorate General of Intellectual Property (DGIP/DJKI)"
+    },
+    "protectionScope": {
+      "ja": "商品・役務の商標、団体商標。地理的表示は別制度。",
+      "en": "Trademarks for goods and services and collective marks; geographical indications follow a separate regime."
+    },
+    "markTypes": {
+      "ja": "文字、図形、名称、語、文字・数字、色彩構成、二次元・三次元形状、音、ホログラムまたはこれらの組合せ。",
+      "en": "Pictures, logos, names, words, letters, numerals, color compositions, two- or three-dimensional forms, sounds, holograms and combinations thereof."
+    },
+    "madridAccessionDate": {
+      "ja": "2018年1月2日発効",
+      "en": "Effective 2 January 2018"
+    },
+    "niceClassification": {
+      "ja": "採用。DJKIの最新分類・指定商品役務実務を確認する。",
+      "en": "Adopted; verify current DJKI classification and specification practice."
+    },
+    "classHeadingPractice": {
+      "ja": "商品・役務を明確かつ具体的に記載する。類見出しのみの包括指定は避け、インドネシア語訳を確認する。",
+      "en": "Specify goods/services clearly and specifically; avoid relying solely on class headings and verify the Indonesian translation."
+    },
+    "retailServices": {
+      "ja": "第35類で登録可能。小売対象商品・提供形態を具体化する。",
+      "en": "Registrable in Class 35; specify the relevant goods and mode of retail service."
+    },
+    "multiClassApplication": {
+      "ja": "可。多区分出願が可能。",
+      "en": "Available; multi-class applications are permitted."
+    },
+    "applicationForm": {
+      "ja": "DJKI電子システムから出願人、標章、区分、商品・役務、優先権等を提出する。",
+      "en": "File electronically with DJKI, identifying applicant, mark, classes, goods/services and priority."
+    },
+    "powerOfAttorney": {
+      "ja": "外国出願人はインドネシアの知財コンサルタントを通じ、委任状を提出する。署名・認証要件を確認する。",
+      "en": "A foreign applicant files through an Indonesian IP consultant and provides a power of attorney; verify signature/authentication requirements."
+    },
+    "priorityDocuments": {
+      "ja": "パリ優先権は最初の出願から6か月以内。優先権証明書とインドネシア語訳の期限を確認する。",
+      "en": "Paris priority must be claimed within six months; verify deadlines for the priority document and Indonesian translation."
+    },
+    "homeRegistrationCertificate": {
+      "ja": "通常の直接出願には不要。",
+      "en": "Not normally required for a direct national filing."
+    },
+    "useEvidenceAtFiling": {
+      "ja": "通常不要。悪意、使用による識別力その他が争点の場合は証拠が必要となり得る。",
+      "en": "Not normally required; evidence may be needed for bad faith, acquired distinctiveness or other issues."
+    },
+    "notarizationCertification": {
+      "ja": "委任状等の公証・領事認証は通常不要とされるが、最新DJKI方式を確認する。",
+      "en": "Notarization/legalization is generally unnecessary for powers, subject to current DJKI formalities."
+    },
+    "otherDocuments": {
+      "ja": "標章見本・説明、インドネシア語訳・音訳、法人情報、優先権資料、非伝統的標章ファイル等。",
+      "en": "Representation/description, Indonesian translation/transliteration, entity details, priority documents and non-traditional-mark files."
+    },
+    "absoluteGroundsExamination": {
+      "ja": "あり。DJKIが職権審査する。",
+      "en": "Yes; examined ex officio by DJKI."
+    },
+    "distinctivenessGrounds": {
+      "ja": "識別力欠如、普通・記述的表示、公共財産となった標識等は拒絶され得る。使用による識別力は要個別確認。",
+      "en": "Non-distinctive, generic, descriptive signs and signs that have become public property may be refused; acquired distinctiveness is case-specific."
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "国家理念・法令・宗教・道徳・公序良俗違反、誤認表示、品質・効能等の虚偽、一般名称、植物品種名称、機能的形状等を確認する。",
+      "en": "Check bars involving state ideology, law, religion, morality/public order, deception, false quality/efficacy claims, generic terms, plant variety names and functional forms."
+    },
+    "relativeGroundsExamination": {
+      "ja": "あり。先行出願・登録、周知商標、地理的表示、著名人名・法人名・旗章等を審査する。",
+      "en": "Yes; examination covers earlier filings/registrations, well-known marks, geographical indications, names of famous persons/entities, flags and emblems."
+    },
+    "disclaimer": {
+      "ja": "ディスクレーム実務の可否・効果はDJKIおよび現地代理人に確認する。",
+      "en": "Confirm availability and effect of disclaimer practice with DJKI and local counsel."
+    },
+    "consent": {
+      "ja": "先行権者の同意のみで類似拒絶が当然解消するとは限らない。DJKIの公益・混同判断を確認する。",
+      "en": "Consent alone may not automatically overcome a similarity refusal; confirm DJKI’s public-interest and confusion analysis."
+    },
+    "acceleratedExamination": {
+      "ja": "一般的早期審査制度の対象・要件は最新DJKI告示を確認する。",
+      "en": "Confirm current DJKI availability and requirements for expedited examination."
+    },
+    "thirdPartyObservation": {
+      "ja": "公告期間中、第三者は理由と証拠を添えて異議を提出できる。",
+      "en": "During publication, third parties may file an opposition with reasons and supporting evidence."
+    },
+    "directExaminationPeriod": {
+      "ja": "法定処理枠と実際の所要期間は異なり得る。DJKIの最新統計と現地代理人の見積りを確認する。",
+      "en": "Statutory processing periods and actual pendency may differ; consult current DJKI data and local estimates."
+    },
+    "madridExaminationPeriod": {
+      "ja": "拒絶通報期間は18か月。国際登録簿へのライセンス記録はインドネシア国内で効果がないため国内記録を確認する。",
+      "en": "The refusal period is 18 months. Recording a license in the International Register has no effect domestically, so verify local recordal."
+    },
+    "colourPriorityIdentity": {
+      "ja": "優先権基礎とインドネシア出願で色彩の有無・配置を一致させ、同一性を確保する。許容差は要個別確認。",
+      "en": "Align color claims and arrangement with the priority filing to preserve identity; confirm permissible differences."
+    },
+    "colourRelativeGrounds": {
+      "ja": "色彩は全体的印象の一要素であり、色の変更だけで類似性が解消するとは限らない。",
+      "en": "Color is one factor in overall impression and a color change alone may not avoid similarity."
+    },
+    "colourGenuineUse": {
+      "ja": "登録形態と使用形態の差異が識別性を変更するかを評価。白黒登録のカラー使用による維持を当然視しない。",
+      "en": "Assess whether differences from the registered form alter distinctive character; do not assume color use always maintains a black-and-white registration."
+    },
+    "colourInfringementScope": {
+      "ja": "色彩を含む外観、称呼、観念、識別力、商品・役務、取引事情を総合評価する。",
+      "en": "Assess visual, phonetic and conceptual impressions including color, distinctiveness, goods/services and market context."
+    },
+    "colourFilingStrategy": {
+      "ja": "色彩が重要ならカラー版、柔軟性が必要なら白黒版・主要変形の別出願を検討。",
+      "en": "If color matters, file in color; for flexibility consider separate black-and-white and key variants."
+    },
+    "refusalResponseRoute": {
+      "ja": "実体審査上の拒絶予定通知に書面意見・補正・証拠で応答する。最終拒絶は商標不服委員会への不服申立て、その後の商事裁判所手続を検討する。",
+      "en": "Respond to a proposed refusal with written arguments, amendments and evidence; a final refusal may be appealed to the Trademark Appeal Commission, followed by Commercial Court proceedings."
+    },
+    "responsePeriod": {
+      "ja": "拒絶予定通知への応答は通知日から30営業日が重要。マドプロ暫定拒絶は通知記載期限を個別確認する。",
+      "en": "A 30-working-day response period from notification is commonly critical for a proposed refusal; verify the stated deadline for a Madrid provisional refusal."
+    },
+    "extensionAvailable": {
+      "ja": "法定期限の延長は限定的。通知ごとに可否を確認し、延長を前提としない。",
+      "en": "Extensions of statutory deadlines are limited; verify each notice and do not assume availability."
+    },
+    "extensionLength": {
+      "ja": "手続ごとに異なる。",
+      "en": "Varies by procedure."
+    },
+    "extensionRequirements": {
+      "ja": "期限前申請、理由、料金の有無を現地代理人に確認する。",
+      "en": "Confirm any timely request, reasons and fees with local counsel."
+    },
+    "appealRoute": {
+      "ja": "最終拒絶は原則として所定期間内に商標不服委員会へ不服申立てし、同委員会の棄却決定は商事裁判所、さらに最高裁へ争い得る。",
+      "en": "A final refusal is generally appealed to the Trademark Appeal Commission within the prescribed period; dismissal may be challenged before the Commercial Court and then the Supreme Court."
+    },
+    "refusalAppealPeriod": {
+      "ja": "不服委員会の法定判断枠と実際の平均期間を区別し、現地代理人に最新見積りを求める。",
+      "en": "Distinguish the Commission’s statutory decision period from actual average duration and obtain a current local estimate."
+    },
+    "publicDatabase": {
+      "ja": "DJKI PDKI知的財産データベース",
+      "en": "DJKI PDKI Intellectual Property Database",
+      "url": "https://pdki-indonesia.dgip.go.id/"
+    },
+    "publicationStage": {
+      "ja": "方式審査後、出願は商標公報で2か月間公告される。",
+      "en": "After formality examination, the application is published in the Trademark Gazette for two months."
+    },
+    "oppositionPeriod": {
+      "ja": "公告期間2か月以内。",
+      "en": "During the two-month publication period."
+    },
+    "oppositionExtension": {
+      "ja": "法定公告・異議期間は原則延長不可として管理する。",
+      "en": "Treat the statutory publication/opposition period as generally non-extendible."
+    },
+    "averagePendency": {
+      "ja": "案件、拒絶、異議、翻訳・指定表示により変動。直接出願とマドプロ指定を分けて確認する。",
+      "en": "Varies with objections, opposition, translation and specifications; obtain separate estimates for direct and Madrid cases."
+    },
+    "term": {
+      "ja": "10年。10年ごとに更新可能。",
+      "en": "10 years, renewable for successive ten-year periods."
+    },
+    "termStart": {
+      "ja": "出願日から。",
+      "en": "From the filing date."
+    },
+    "renewalWindow": {
+      "ja": "満了前6か月以内に更新。満了後6か月以内は割増料金付き更新が可能。",
+      "en": "Renew within six months before expiry; late renewal is available within six months after expiry with surcharge."
+    },
+    "gracePeriod": {
+      "ja": "あり。満了後6か月。",
+      "en": "Yes, six months after expiry."
+    },
+    "renewalEvidence": {
+      "ja": "使用宣誓・使用証拠は通常の更新要件ではない。ただし不使用取消に備えて真正使用資料を保存する。",
+      "en": "A declaration/evidence of use is not ordinarily required for renewal; retain genuine-use evidence for possible revocation."
+    },
+    "nonUseCancellation": {
+      "ja": "あり。利害関係人が商事裁判所へ取消訴訟を提起する司法手続。",
+      "en": "Available through a revocation action filed by an interested party in the Commercial Court."
+    },
+    "nonUsePeriod": {
+      "ja": "憲法裁判所判決144/PUU-XXI/2023により、連続5年間の不使用へ延長。登録日から、または直近使用日から起算する。",
+      "en": "Constitutional Court Decision 144/PUU-XXI/2023 extended the period to five consecutive years, calculated from registration or the last-use date."
+    },
+    "nonUseDefenses": {
+      "ja": "輸入禁止、権限ある当局による流通許可の禁止等、正当な理由がある場合。真正使用・ライセンス使用・不可抗力の証拠を準備する。",
+      "en": "Proper reasons include import prohibitions or competent-authority restrictions on distribution; prepare evidence of genuine/licensed use and force majeure."
+    },
+    "otherCancellation": {
+      "ja": "普通名称化、原産地誤認、登録要件欠缺、悪意等を理由とする取消・抹消があり得る。",
+      "en": "Cancellation/deletion may apply for genericide, misleading origin, lack of registrability, bad faith and other grounds."
+    },
+    "invalidation": {
+      "ja": "あり。登録抹消訴訟は商事裁判所に提起し、悪意等では期間制限の例外が問題となる。",
+      "en": "Available through a Commercial Court cancellation action; bad faith and other grounds may affect limitation rules."
+    },
+    "civilInjunction": {
+      "ja": "商事裁判所で暫定措置および終局的差止めを請求可能。",
+      "en": "Provisional measures and final injunctions may be sought in the Commercial Court."
+    },
+    "civilDamages": {
+      "ja": "損害賠償を請求可能。損害・因果関係・侵害者利益等の立証を要する。",
+      "en": "Damages may be claimed, subject to proof of loss, causation, infringer profits and related matters."
+    },
+    "civilEvidencePreservation": {
+      "ja": "暫定措置、証拠保全、侵害品の差押え等を検討できる。",
+      "en": "Provisional measures, evidence preservation and seizure of infringing goods may be considered."
+    },
+    "civilOther": {
+      "ja": "侵害品・製造手段の廃棄、販売停止、費用等を求め得る場合がある。",
+      "en": "Destruction of infringing goods/means, cessation of sales and costs may be available."
+    },
+    "borderMeasures": {
+      "ja": "税関記録・輸入差止め制度あり。対象地域、担保、保護期間、提訴期限を確認する。",
+      "en": "Customs recordal and import-suspension measures are available; verify territorial coverage, security, protection period and litigation deadlines."
+    },
+    "administrativeRaid": {
+      "ja": "DJKI捜査官、警察等による摘発・捜索・押収を検討する。",
+      "en": "Consider raids, searches and seizures by DJKI investigators, police and other authorities."
+    },
+    "administrativeOther": {
+      "ja": "異議、行政調査、税関措置、調停その他を事案に応じて組み合わせる。",
+      "en": "Combine opposition, administrative investigation, customs, mediation and other routes as appropriate."
+    },
+    "criminalAvailability": {
+      "ja": "権利なく同一・実質的類似商標を商品・役務に使用する行為等に刑事責任あり。",
+      "en": "Criminal liability applies to unauthorized use of identical or substantially similar marks on goods/services and related conduct."
+    },
+    "criminalFine": {
+      "ja": "罰金あり。健康・環境・死亡に影響する偽造品では加重され得る。",
+      "en": "Fines apply and may be aggravated where counterfeit goods affect health, the environment or cause death."
+    },
+    "criminalImprisonment": {
+      "ja": "あり。行為類型・同一性・結果により刑期が異なる。",
+      "en": "Available; imprisonment varies with the conduct, identity/similarity and resulting harm."
+    },
+    "criminalOther": {
+      "ja": "侵害品・製造器具の押収・没収・廃棄、営業停止等があり得る。",
+      "en": "Seizure, forfeiture/destruction of infringing goods and equipment, and business restrictions may be available."
+    }
+  },
+  "notablePoints": [
+    {
+      "id": "five-year-non-use-2024",
+      "importance": "critical",
+      "title": {
+        "ja": "不使用期間が3年から5年へ延長",
+        "en": "Non-use period extended from three to five years"
+      },
+      "summary": {
+        "ja": "憲法裁判所判決144/PUU-XXI/2023により、2024年7月30日から不使用取消の基準は連続5年となった。旧資料の「3年」を使用しない。",
+        "en": "Constitutional Court Decision 144/PUU-XXI/2023 changed the threshold to five consecutive years on 30 July 2024; older three-year guidance should not be used."
+      },
+      "sourceUrl": "https://en.mkri.id/news/details/2024-07-30/Court_Extends_Non-Use_Trademark_Period_from_Three_to_Five_Years"
+    },
+    {
+      "id": "commercial-court-revocation",
+      "importance": "critical",
+      "title": {
+        "ja": "不使用取消は商事裁判所で提起",
+        "en": "Non-use revocation is filed in the Commercial Court"
+      },
+      "summary": {
+        "ja": "利害関係人が商事裁判所へ訴訟提起する必要がある。行政上の簡易取消ではなく、費用・証拠・上訴を含む司法手続として評価する。",
+        "en": "An interested party must bring an action in the Commercial Court. This is judicial litigation, not a simple administrative cancellation, so assess cost, evidence and appeals."
+      },
+      "sourceUrl": "https://peraturan.bpk.go.id/Details/37595/uu-no-20-tahun-2016"
+    },
+    {
+      "id": "proof-of-non-use",
+      "importance": "high",
+      "title": {
+        "ja": "不使用の立証と実務的難易度",
+        "en": "Proof and practical difficulty of non-use"
+      },
+      "summary": {
+        "ja": "原告側には不使用という消極的事実の立証上の困難があり得る。市場調査、DJKI記録、流通・広告調査、費用負担を現地代理人に確認する。",
+        "en": "The claimant may face difficulty proving the negative fact of non-use. Confirm market investigations, DJKI records, distribution/advertising evidence and cost exposure locally."
+      },
+      "sourceUrl": "https://en.mkri.id/news/details/2024-07-30/Court_Extends_Non-Use_Trademark_Period_from_Three_to_Five_Years"
+    },
+    {
+      "id": "madrid-local-license",
+      "importance": "high",
+      "title": {
+        "ja": "マドプロのライセンス記録は国内効果なし",
+        "en": "Madrid license recordal has no domestic effect"
+      },
+      "summary": {
+        "ja": "国際登録簿へのライセンス記録だけではインドネシア国内の効力がないため、DJKIへの国内記録を検討する。",
+        "en": "Recording a license only in the International Register has no effect in Indonesia; consider separate DJKI recordal."
+      },
+      "sourceUrl": "https://www.wipo.int/en/web/madrid-system/w/news/2017/news_0020"
+    },
+    {
+      "id": "bad-faith-first-to-file",
+      "importance": "high",
+      "title": {
+        "ja": "先願主義と悪意出願対策",
+        "en": "First-to-file system and bad-faith filings"
+      },
+      "summary": {
+        "ja": "先願主義の下、販売開始前の早期出願が重要。代理店・取引先等による悪意出願には異議・拒絶対応・取消訴訟を検討する。",
+        "en": "Early filing before market entry is important under first-to-file practice; bad-faith filings by distributors or others may require opposition, refusal submissions or cancellation litigation."
+      },
+      "sourceUrl": "https://peraturan.bpk.go.id/Details/37595/uu-no-20-tahun-2016"
+    }
+  ],
+  "statistics": {
+    "coverage": "2016–2025",
+    "status": "pending",
+    "series": []
+  },
+  "news": [
+    {
+      "id": "constitutional-court-non-use-2024",
+      "type": "case",
+      "date": "2024-07-30",
+      "title": {
+        "ja": "憲法裁判所が不使用期間を5年へ延長",
+        "en": "Constitutional Court extends non-use period to five years"
+      },
+      "summary": {
+        "ja": "判決144/PUU-XXI/2023により、商標法74条の3年が連続5年とされた。",
+        "en": "Decision 144/PUU-XXI/2023 changed the Article 74 non-use period from three to five consecutive years."
+      },
+      "sourceUrl": "https://en.mkri.id/news/details/2024-07-30/Court_Extends_Non-Use_Trademark_Period_from_Three_to_Five_Years"
+    },
+    {
+      "id": "decision-144-2024",
+      "type": "case",
+      "date": "2024-07-30",
+      "title": {
+        "ja": "判決144/PUU-XXI/2023の公式判決文",
+        "en": "Official judgment 144/PUU-XXI/2023"
+      },
+      "summary": {
+        "ja": "起算点、正当理由、5年への読み替えを正式判決文で確認できる。",
+        "en": "The official judgment provides the operative five-year construction, start points and proper-reason framework."
+      },
+      "sourceUrl": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_10881_1722313562.pdf"
+    },
+    {
+      "id": "trademark-law-monitoring",
+      "type": "research",
+      "date": "2026-09-12",
+      "title": {
+        "ja": "商標法改正・施行規則の継続確認",
+        "en": "Ongoing monitoring of trademark amendments and implementing rules"
+      },
+      "summary": {
+        "ja": "2016年法、憲法裁判所判断、DJKIの最新省令・電子手続を区別して更新する。",
+        "en": "Maintain separate tracking of the 2016 Act, Constitutional Court rulings and current DJKI regulations/e-filing practice."
+      },
+      "sourceUrl": "https://www.dgip.go.id/"
+    }
+  ],
+  "faqs": [
+    {
+      "tag": "Non-use",
+      "question": {
+        "ja": "2024年憲法裁判所判決後、本件の不使用期間はどの日から5年間と計算しますか。",
+        "en": "After the 2024 Constitutional Court decision, from what date is this registration’s five-year non-use period calculated?"
+      },
+      "followUp": {
+        "ja": "不使用を立証するための市場調査、証拠、費用、敗訴時負担を教えてください。",
+        "en": "Please advise market investigation, evidence, cost and adverse-cost exposure for proving non-use."
+      }
+    },
+    {
+      "tag": "Filing",
+      "question": {
+        "ja": "インドネシア語の商品・役務表示と標章の訳・音訳は適切ですか。",
+        "en": "Are the Indonesian goods/services wording and mark translation/transliteration acceptable?"
+      },
+      "followUp": {
+        "ja": "販売開始前に悪意出願を防ぐため優先すべき区分はどれですか。",
+        "en": "Which classes should be prioritized before launch to prevent bad-faith filings?"
+      }
+    },
+    {
+      "tag": "Examination",
+      "question": {
+        "ja": "拒絶予定通知への30営業日の起算日、補正範囲、延長可否を確認してください。",
+        "en": "Please confirm the start of the 30-working-day period, amendment scope and extension availability."
+      }
+    },
+    {
+      "tag": "Madrid",
+      "question": {
+        "ja": "直接出願とマドプロ指定のどちらが本件に適しますか。",
+        "en": "Should this case use a direct filing or Madrid designation?"
+      },
+      "followUp": {
+        "ja": "ライセンスはWIPOだけでなくDJKIにも記録すべきですか。",
+        "en": "Should the license be recorded with DJKI in addition to WIPO?"
+      }
+    },
+    {
+      "tag": "Colour",
+      "question": {
+        "ja": "白黒登録とカラー使用の同一性を、優先権・類似・不使用取消・侵害でどう判断しますか。",
+        "en": "How is identity between black-and-white registration and color use assessed for priority, similarity, non-use and infringement?"
+      }
+    },
+    {
+      "tag": "Enforcement",
+      "question": {
+        "ja": "商事裁判所の民事訴訟、刑事摘発、DJKI・税関対応の最適な組合せは何ですか。",
+        "en": "What is the best combination of Commercial Court litigation, criminal enforcement, DJKI and customs action?"
+      },
+      "followUp": {
+        "ja": "暫定措置、証拠、費用、期間、上訴可能性を見積もってください。",
+        "en": "Estimate provisional measures, evidence, cost, timing and appeal prospects."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "DJKI",
+      "url": "https://www.dgip.go.id/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Law No. 20 of 2016—official legislation database",
+      "url": "https://peraturan.bpk.go.id/Details/37595/uu-no-20-tahun-2016",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "DJKI PDKI Database",
+      "url": "https://pdki-indonesia.dgip.go.id/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Constitutional Court—five-year non-use decision news",
+      "url": "https://en.mkri.id/news/details/2024-07-30/Court_Extends_Non-Use_Trademark_Period_from_Three_to_Five_Years",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Constitutional Court Decision 144/PUU-XXI/2023",
+      "url": "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_10881_1722313562.pdf",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "WIPO—Indonesia joins Madrid",
+      "url": "https://www.wipo.int/en/web/madrid-system/w/news/2017/news_0020",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "WIPO—Indonesia Madrid accession",
+      "url": "https://www.wipo.int/wipolex/en/treaties/notifications/details/treaty_madridp-gp_217",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "WIPO Madrid Notice 2017/17",
+      "url": "https://www.wipo.int/edocs/madrdocs/en/2017/madrid_2017_17.pdf",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    }
+  ]
+}
