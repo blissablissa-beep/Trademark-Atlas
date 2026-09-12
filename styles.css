@@ -15,7 +15,11 @@
   --blue-soft: #eaf1f6;
 
   --success: #287a57;
+  --success-soft: #e7f3ed;
   --warning: #b46b20;
+  --warning-soft: #fff3df;
+  --danger: #a7483c;
+  --danger-soft: #faece9;
 
   font-family:
     Inter,
@@ -46,7 +50,7 @@ button {
   color: inherit;
 }
 
-/* ヘッダー */
+/* ãƒ˜ãƒƒãƒ€ãƒ¼ */
 
 .app-header {
   min-height: 86px;
@@ -100,7 +104,7 @@ button {
   font-size: 13px;
 }
 
-/* 言語切替 */
+/* è¨€èªžåˆ‡æ›¿ */
 
 .language-switch {
   display: flex;
@@ -131,7 +135,7 @@ button {
   box-shadow: 0 1px 4px #0004;
 }
 
-/* 検索・フィルター */
+/* æ¤œç´¢ãƒ»ãƒ•ã‚£ãƒ«ã‚¿ãƒ¼ */
 
 .toolbar {
   padding: 16px clamp(18px, 4vw, 56px);
@@ -204,7 +208,7 @@ button {
   color: white;
 }
 
-/* メインレイアウト */
+/* ãƒ¡ã‚¤ãƒ³ãƒ¬ã‚¤ã‚¢ã‚¦ãƒˆ */
 
 .workspace {
   min-height: calc(100vh - 153px);
@@ -217,7 +221,7 @@ button {
     minmax(0, 1fr);
 }
 
-/* 法域一覧 */
+/* æ³•åŸŸä¸€è¦§ */
 
 .jurisdiction-rail {
   padding: 18px 12px;
@@ -320,7 +324,7 @@ button {
   background: var(--warning);
 }
 
-/* 法域詳細 */
+/* æ³•åŸŸè©³ç´° */
 
 .detail-panel {
   min-width: 0;
@@ -400,7 +404,7 @@ button {
   color: white;
 }
 
-/* 更新状態 */
+/* æ›´æ–°çŠ¶æ…‹ */
 
 .status-line {
   margin-bottom: 24px;
@@ -444,7 +448,7 @@ button {
   font-weight: 700;
 }
 
-/* 概要カード */
+/* æ¦‚è¦ã‚«ãƒ¼ãƒ‰ */
 
 .summary-grid {
   margin-bottom: 22px;
@@ -473,7 +477,7 @@ button {
   font-size: 15px;
 }
 
-/* 折りたたみセクション */
+/* æŠ˜ã‚ŠãŸãŸã¿ã‚»ã‚¯ã‚·ãƒ§ãƒ³ */
 
 .section-stack {
   display: grid;
@@ -529,7 +533,7 @@ button {
   transform: rotate(180deg);
 }
 
-/* 法律情報の行 */
+/* æ³•å¾‹æƒ…å ±ã®è¡Œ */
 
 .fact-row {
   padding: 14px 0;
@@ -579,7 +583,7 @@ button {
   font-size: 13px;
 }
 
-/* 出典・リンク */
+/* å‡ºå…¸ãƒ»ãƒªãƒ³ã‚¯ */
 
 .source-link {
   color: #205e8f;
@@ -642,7 +646,7 @@ button {
   font-size: 14px;
 }
 
-/* 最新ニュース */
+/* æœ€æ–°ãƒ‹ãƒ¥ãƒ¼ã‚¹ */
 
 .topic-card {
   margin: 15px 0;
@@ -671,7 +675,164 @@ button {
   font-size: 12px;
 }
 
-/* 統計 */
+/* ç‰¹ç­†ã™ã¹ãç‚¹ */
+
+.notable-card {
+  margin: 16px 0 0;
+  padding: 16px 17px;
+
+  background: #fbfcfd;
+  border: 1px solid var(--line);
+  border-left: 4px solid var(--gold);
+  border-radius: 8px;
+}
+
+.notable-card:last-child {
+  margin-bottom: 0;
+}
+
+.notable-card.notable-high {
+  background: #fffafa;
+  border-left-color: var(--danger);
+}
+
+.notable-card.notable-medium {
+  border-left-color: var(--gold);
+}
+
+.notable-card.notable-low {
+  border-left-color: #58758d;
+}
+
+.notable-card h4 {
+  margin: 12px 0 8px;
+
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.notable-card p.notable-summary {
+  color: var(--ink);
+}
+
+.notable-meta {
+  flex-wrap: wrap;
+  gap: 7px;
+}
+
+.notable-category,
+.notable-importance,
+.notable-status {
+  display: inline-flex;
+  align-items: center;
+
+  min-height: 25px;
+  margin: 0;
+  padding: 3px 8px;
+
+  border: 1px solid var(--line);
+  border-radius: 99px;
+
+  font-size: 11px;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+.notable-category {
+  background: var(--navy-2);
+  border-color: var(--navy-2);
+  color: white;
+
+  letter-spacing: 0.04em;
+}
+
+.notable-importance.importance-high {
+  background: var(--danger-soft);
+  border-color: #e8bbb4;
+  color: #87382f;
+}
+
+.notable-importance.importance-medium {
+  background: var(--gold-soft);
+  border-color: #dfc58c;
+  color: #76551a;
+}
+
+.notable-importance.importance-low {
+  background: var(--blue-soft);
+  border-color: #c9d9e5;
+  color: #3e617a;
+}
+
+.notable-status.status-verified,
+.notable-status.status-agent-confirmed {
+  background: var(--success-soft);
+  border-color: #b8d9c8;
+  color: #216346;
+}
+
+.notable-status.status-research-needed {
+  background: var(--warning-soft);
+  border-color: #e8c999;
+  color: #87511b;
+}
+
+.notable-status.status-historical {
+  background: #eef1f4;
+  border-color: #d3dae1;
+  color: #576575;
+}
+
+.notable-detail {
+  margin-top: 13px;
+  padding-top: 12px;
+
+  border-top: 1px solid #e5e9ed;
+
+  color: #405166;
+  font-size: 14px;
+  line-height: 1.65;
+}
+
+.notable-detail strong {
+  display: block;
+  margin-bottom: 4px;
+
+  color: var(--navy-2);
+  font-size: 12px;
+  letter-spacing: 0.03em;
+}
+
+.notable-question {
+  margin-top: 14px;
+  padding: 12px 13px;
+
+  background: var(--blue-soft);
+  border: 0;
+  border-radius: 6px;
+}
+
+.notable-question strong {
+  color: #244f70;
+}
+
+.notable-source {
+  margin-top: 13px;
+
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 8px 16px;
+
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.notable-source .source-link {
+  font-weight: 650;
+}
+
+/* çµ±è¨ˆ */
 
 .section-note {
   margin: 15px 0;
@@ -733,7 +894,7 @@ th {
   font-size: 12px;
 }
 
-/* メモ */
+/* ãƒ¡ãƒ¢ */
 
 .memo-box {
   width: 100%;
@@ -781,7 +942,7 @@ th {
   line-height: 1.6;
 }
 
-/* スマートフォン表示 */
+/* ã‚¹ãƒžãƒ¼ãƒˆãƒ•ã‚©ãƒ³è¡¨ç¤º */
 
 @media (max-width: 780px) {
   .app-header {
@@ -851,6 +1012,22 @@ th {
   .completion {
     width: 100%;
     margin-left: 0;
+  }
+
+  .notable-card {
+    padding: 14px;
+  }
+
+  .notable-category,
+  .notable-importance,
+  .notable-status {
+    white-space: normal;
+  }
+
+  .notable-source {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 7px;
   }
 
   .brand p {
