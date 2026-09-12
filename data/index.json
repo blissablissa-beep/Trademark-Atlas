@@ -20,6 +20,10 @@
     "path": "./data/jurisdictions/de.json"
   },
   {
+    "id": "fr",
+    "path": "./data/jurisdictions/fr.json"
+  },
+  {
     "id": "gb",
     "path": "./data/jurisdictions/gb.json"
   },
