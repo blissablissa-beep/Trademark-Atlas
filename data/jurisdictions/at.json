@@ -1,0 +1,625 @@
+{
+  "id": "at",
+  "type": "country",
+  "flag": "🇦🇹",
+  "region": "europe",
+  "names": {
+    "ja": "オーストリア",
+    "en": "Austria",
+    "de": "Österreich"
+  },
+  "office": {
+    "ja": "オーストリア特許庁（ÖPA）",
+    "en": "Austrian Patent Office (ÖPA)",
+    "de": "Österreichisches Patentamt (ÖPA)"
+  },
+  "availableLanguages": ["de"],
+  "createdAt": "2026-09-12",
+  "updatedAt": "2026-09-12",
+  "status": "review",
+  "facts": {
+    "authority": {
+      "ja": "オーストリア特許庁（ÖPA）",
+      "en": "Austrian Patent Office (ÖPA)",
+      "de": "Österreichisches Patentamt (ÖPA)"
+    },
+    "protectionScope": {
+      "ja": "オーストリア国内で効力を有する商品・役務の個別商標、団体商標（Verbandsmarke）および保証商標（Gewährleistungsmarke）等。",
+      "en": "Individual marks for goods and services, collective marks (Verbandsmarken), certification marks (Gewährleistungsmarken), and other eligible marks effective in Austria.",
+      "de": "Individualmarken für Waren und Dienstleistungen, Verbandsmarken, Gewährleistungsmarken und sonstige schutzfähige Marken mit Wirkung in Österreich."
+    },
+    "markTypes": {
+      "ja": "文字、図形、文字・図形結合、色彩、音、立体的形状、位置、模様、動き、マルチメディア、ホログラムその他。明確かつ一義的に保護対象を特定できる表示が必要。",
+      "en": "Word, figurative, combined word and figurative, colour, sound, three-dimensional, position, pattern, motion, multimedia, hologram, and other marks, provided the subject matter can be represented clearly and precisely.",
+      "de": "Wort-, Bild-, Wort-Bild-, Farb-, Klang-, Form-, Positions-, Muster-, Bewegungs-, Multimedia- und Hologrammmarken sowie sonstige Markenformen, sofern der Schutzgegenstand klar und eindeutig darstellbar ist."
+    },
+    "madridAccessionDate": {
+      "ja": "1999年4月13日（マドリッド協定議定書発効）",
+      "en": "13 April 1999 (entry into force of the Madrid Protocol)",
+      "de": "13. April 1999 (Inkrafttreten des Madrider Protokolls)"
+    },
+    "niceClassification": {
+      "ja": "採用。商品34類・役務11類の計45類。",
+      "en": "Adopted: 34 classes of goods and 11 classes of services, 45 in total.",
+      "de": "Angewandt: 34 Warenklassen und 11 Dienstleistungsklassen, insgesamt 45 Klassen."
+    },
+    "classHeadingPractice": {
+      "ja": "商品・役務を明確に特定する。Fast TrackではEUで調和されたTMclassデータベースの受理済み用語を使用する必要がある。類見出しだけで全商品・役務を当然に包含するものとは扱わない。",
+      "en": "Goods and services must be identified clearly. Fast Track requires accepted terms from the EU-harmonised TMclass database. A class heading should not be assumed automatically to cover every item in the class.",
+      "de": "Waren und Dienstleistungen sind klar zu bezeichnen. Für Fast Track müssen akzeptierte Begriffe der unionsweit harmonisierten TMclass-Datenbank verwendet werden. Eine Klassenüberschrift erfasst nicht automatisch sämtliche Waren oder Dienstleistungen der Klasse."
+    },
+    "retailServices": {
+      "ja": "可。小売役務の対象商品または商品分野を明確に特定する。",
+      "en": "Available. The goods or product sectors covered by the retail services should be identified clearly.",
+      "de": "Möglich. Die von den Einzelhandelsdienstleistungen erfassten Waren oder Warenbereiche sind klar zu bezeichnen."
+    },
+    "multiClassApplication": {
+      "ja": "可",
+      "en": "Available",
+      "de": "Möglich"
+    },
+    "applicationForm": {
+      "ja": "オンライン出願、所定様式MA 1の郵送、または窓口提出。出願人の名称・住所・署名、標章の表示およびニース分類による商品・役務一覧が必要。電子メール出願は不可。",
+      "en": "File online, by post using form MA 1, or in person. The applicant’s name, address and signature, a representation of the mark, and a Nice-classified list of goods and services are required. Filing by email is not permitted.",
+      "de": "Die Anmeldung erfolgt online, postalisch mit dem Formular MA 1 oder persönlich. Erforderlich sind Name, Anschrift und Unterschrift des Anmelders, die Markendarstellung sowie ein nach der Nizza-Klassifikation gegliedertes Waren- und Dienstleistungsverzeichnis. Eine Anmeldung per E-Mail ist nicht zulässig."
+    },
+    "powerOfAttorney": {
+      "ja": "職業代理人（オーストリアの弁理士・弁護士・公証人等）以外の者が代理する場合、書面による委任状が必要。日本の出願人については、国外当事者に適用される代理・送達要件を出願前に現地代理人へ確認する。",
+      "en": "A written power of attorney is required where the representative is not a professional representative such as an Austrian patent attorney, attorney-at-law, or notary. A Japanese applicant should confirm the representation and service requirements applicable to foreign parties before filing.",
+      "de": "Bei Vertretung durch andere als berufsmäßige Vertreter, etwa österreichische Patent- oder Rechtsanwaltskanzleien oder Notariate, ist eine schriftliche Vollmacht vorzulegen. Für japanische Anmelder sind die Vertretungs- und Zustellungserfordernisse vor der Anmeldung zu klären."
+    },
+    "priorityDocuments": {
+      "ja": "外国優先権を主張する場合、原則として最初の出願から6か月以内に同一商標・同一の商品役務についてオーストリア出願を行い、優先日および基礎国等を申告する。証明書・翻訳・提出期限は個別に確認。",
+      "en": "For a foreign-priority claim, the Austrian application should generally be filed within six months for the same mark and the same goods or services, stating the priority date and country. Documentary, translation, and deadline requirements should be checked case by case.",
+      "de": "Für die Inanspruchnahme einer ausländischen Priorität ist die österreichische Anmeldung grundsätzlich innerhalb von sechs Monaten für dieselbe Marke und dieselben Waren oder Dienstleistungen einzureichen; Prioritätstag und Ursprungsland sind anzugeben. Beleg-, Übersetzungs- und Fristerfordernisse sind im Einzelfall zu prüfen."
+    },
+    "homeRegistrationCertificate": {
+      "ja": "通常のオーストリア国内出願では本国登録証明書は不要。条約上の特別な根拠を用いる場合は個別確認。",
+      "en": "A home-country registration certificate is not ordinarily required for an Austrian national application. Check separately if relying on a particular treaty-based provision.",
+      "de": "Für eine österreichische nationale Markenanmeldung ist grundsätzlich keine Heimatregistrierung erforderlich. Bei besonderen staatsvertraglichen Grundlagen ist dies gesondert zu prüfen."
+    },
+    "useEvidenceAtFiling": {
+      "ja": "通常、出願時の使用証拠または使用宣誓は不要。使用による識別力を主張する場合は、関係需要者、地域、期間、売上、広告等の証拠が必要となり得る。",
+      "en": "Evidence or a declaration of use is not generally required at filing. Evidence concerning the relevant public, territory, duration, sales, and advertising may be needed when acquired distinctiveness is claimed.",
+      "de": "Bei der Anmeldung ist grundsätzlich kein Benutzungsnachweis und keine Benutzungserklärung erforderlich. Bei Verkehrsdurchsetzung können Nachweise zu Verkehrskreisen, Gebiet, Dauer, Umsatz und Werbung erforderlich sein."
+    },
+    "notarizationCertification": {
+      "ja": "通常の出願では、公証・領事認証または公証済み印章は一般に不要。",
+      "en": "Notarisation, consular legalisation, or a notarised applicant seal is not generally required for an ordinary filing.",
+      "de": "Für eine gewöhnliche Anmeldung sind grundsätzlich weder notarielle Beglaubigung noch Legalisation oder ein notariell beglaubigtes Siegel erforderlich."
+    },
+    "otherDocuments": {
+      "ja": "団体商標・保証商標では使用条件等を定める規約が必要。非伝統的商標、優先権、使用による識別力その他の事情に応じて追加資料が必要となり得る。",
+      "en": "Regulations governing use are required for collective and certification marks. Additional material may be needed for non-traditional marks, priority, acquired distinctiveness, or other special circumstances.",
+      "de": "Für Verbands- und Gewährleistungsmarken ist eine Benutzungssatzung erforderlich. Bei nicht traditionellen Marken, Priorität, Verkehrsdurchsetzung oder sonstigen Besonderheiten können weitere Unterlagen notwendig sein."
+    },
+    "absoluteGroundsExamination": {
+      "ja": "あり",
+      "en": "Yes",
+      "de": "Ja"
+    },
+    "distinctivenessGrounds": {
+      "ja": "識別力を欠く標章、商品・役務の種類、品質、数量、用途、価値、地理的原産地その他の特徴を示す記述的表示、普通名称・慣用表示等は拒絶対象となる。一定の拒絶理由は、出願前の使用による需要者への浸透を十分に立証できれば克服できる場合がある。",
+      "en": "Marks lacking distinctive character, descriptive indications concerning characteristics such as kind, quality, quantity, intended purpose, value or geographical origin, and customary or generic indications are subject to refusal. Certain grounds may be overcome by sufficient proof of acquired distinctiveness through use before the relevant date.",
+      "de": "Marken ohne Unterscheidungskraft, beschreibende Angaben etwa über Art, Beschaffenheit, Menge, Bestimmung, Wert oder geografische Herkunft sowie übliche oder gattungsmäßige Angaben sind von der Eintragung ausgeschlossen. Bestimmte Hindernisse können durch ausreichenden Nachweis der Verkehrsdurchsetzung vor dem maßgeblichen Zeitpunkt überwunden werden."
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "保護対象を明確かつ一義的に表示できない標章、商品の性質に由来する・技術的結果に必要な・商品に本質的価値を与える形状等、公序良俗違反、欺瞞的表示、国旗・紋章・公的標章、保護原産地名称・地理的表示、ワインの伝統的用語、伝統的特産品保証、植物品種名称との抵触等が問題となる。悪意出願も取消・無効上の重要論点。",
+      "en": "Other grounds include signs that cannot be represented clearly and precisely; shapes or characteristics resulting from the nature of the goods, necessary for a technical result, or giving substantial value; signs contrary to public policy or morality; deceptive signs; protected flags, emblems, and official signs; and conflicts with protected designations of origin, geographical indications, traditional wine terms, traditional specialities guaranteed, or plant-variety denominations. Bad faith is also an important invalidity issue.",
+      "de": "Weitere Hindernisse betreffen nicht klar und eindeutig darstellbare Zeichen; Formen oder Merkmale, die durch die Art der Ware bedingt, technisch erforderlich oder wertbestimmend sind; Verstöße gegen öffentliche Ordnung oder gute Sitten; Täuschungsgefahr; geschützte Flaggen, Hoheits- und amtliche Zeichen; Konflikte mit Ursprungsbezeichnungen, geografischen Angaben, traditionellen Weinbezeichnungen, garantiert traditionellen Spezialitäten oder Sortenbezeichnungen. Bösgläubigkeit ist zudem ein wichtiger Nichtigkeitsgrund."
+    },
+    "relativeGroundsExamination": {
+      "ja": "なし。オーストリア特許庁は出願審査で同一・類似の先行商標を職権調査せず、登録後の異議または取消・無効手続で争われる。",
+      "en": "No. The Austrian Patent Office does not search ex officio for identical or confusingly similar earlier marks during examination; they are raised after registration through opposition or cancellation proceedings.",
+      "de": "Nein. Das Österreichische Patentamt recherchiert im Anmeldeverfahren nicht von Amts wegen nach identischen oder verwechslungsfähigen älteren Marken; diese werden nach der Eintragung im Widerspruchs- oder Löschungsverfahren geltend gemacht."
+    },
+    "disclaimer": {
+      "ja": "米国型の一般的なディスクレーム制度は通常採られず、標章全体として登録可能性が判断される。",
+      "en": "A general disclaimer practice comparable to the U.S. system is not ordinarily used; registrability is assessed for the mark as a whole.",
+      "de": "Ein allgemeines Disclaimer-System nach US-amerikanischem Vorbild wird grundsätzlich nicht angewandt; die Schutzfähigkeit wird für die Marke als Ganzes beurteilt."
+    },
+    "consent": {
+      "ja": "先行権利を職権審査しないため、同意書は通常審査の拒絶解消制度として中心的役割を持たない。ただし、異議・取消・侵害および共存契約では重要となり得る。",
+      "en": "Because earlier rights are not examined ex officio, consent is not central to overcoming an ordinary examination refusal. It may nevertheless be important in opposition, cancellation, infringement, and coexistence arrangements.",
+      "de": "Da ältere Rechte nicht von Amts wegen geprüft werden, spielt eine Zustimmungserklärung bei der gewöhnlichen Prüfung keine zentrale Rolle. In Widerspruchs-, Löschungs- und Verletzungsverfahren sowie bei Koexistenzvereinbarungen kann sie jedoch wichtig sein."
+    },
+    "acceleratedExamination": {
+      "ja": "Fast Trackあり。オンライン出願のうち、文字・図形・文字図形結合商標で、TMclassの調和済み用語を使用し、出願時に直ちに料金を支払う等の要件を満たすものは、約10営業日で処理される。",
+      "en": "Fast Track is available. Eligible online applications for word, figurative, or combined word and figurative marks using harmonised TMclass terms and paid immediately during filing are processed in approximately ten working days.",
+      "de": "Fast Track ist verfügbar. Geeignete Online-Anmeldungen für Wort-, Bild- oder Wort-Bild-Marken mit harmonisierten TMclass-Begriffen und sofortiger Gebührenzahlung werden in etwa zehn Werktagen bearbeitet."
+    },
+    "thirdPartyObservation": {
+      "ja": "登録前の絶対的拒絶理由に関する第三者情報提供について、一般利用者向けの独立した制度として公式案内上明確でない。提出可否、形式、当事者性および法的効果を現地代理人に確認する。",
+      "en": "The official public guidance does not prominently identify a separate pre-registration third-party-observation procedure for absolute grounds. Confirm availability, form, party status, and legal effect with Austrian counsel.",
+      "de": "In den allgemeinen amtlichen Informationen ist kein eigenständiges Vorabeinwendungsverfahren Dritter zu absoluten Schutzhindernissen deutlich ausgewiesen. Zulässigkeit, Form, Parteistellung und Rechtswirkung sind mit österreichischen Vertretern zu klären."
+    },
+    "directExaminationPeriod": {
+      "ja": "通常出願の統一的な最新平均は確認した公式ページに明示されておらず、案件により異なる。Fast Trackは約10営業日で、2024年実績ではFast Track登録まで平均4日と公表された。",
+      "en": "The reviewed official pages do not state a single current average for standard applications, and timing varies. Fast Track targets approximately ten working days; the 2024 annual report stated an average of four days to registration for Fast Track cases.",
+      "de": "Für Standardanmeldungen ist auf den geprüften amtlichen Seiten kein einheitlicher aktueller Durchschnitt angegeben; die Dauer variiert. Fast Track zielt auf etwa zehn Werktage, während der Jahresbericht 2024 im Durchschnitt vier Tage bis zur Registrierung auswies."
+    },
+    "madridExaminationPeriod": {
+      "ja": "オーストリア指定のマドプロ出願について、通常の国内出願と分けた平均審査期間は確認した公式資料に明示されていない。WIPOの暫定拒絶通報期限と、オーストリアでの異議に基づく通報の可能性を個別に管理する。",
+      "en": "The reviewed official materials do not state a separate average examination time for Madrid designations of Austria. Monitor the applicable WIPO provisional-refusal period and the possibility of an opposition-based notification in Austria separately.",
+      "de": "Für internationale Registrierungen mit Benennung Österreichs ist in den geprüften amtlichen Quellen keine gesonderte durchschnittliche Prüfungsdauer angegeben. Die WIPO-Frist für Schutzverweigerungen und eine mögliche widerspruchsbedingte Mitteilung in Österreich sind gesondert zu überwachen."
+    },
+    "colourPriorityIdentity": {
+      "ja": "CP4共通実務では、白黒・グレースケール商標と同一図形の色彩商標は、色の相違が無視できるほど軽微な場合に限り、優先権上同一と扱われる。",
+      "en": "Under the CP4 Common Practice, a black-and-white or greyscale mark and the same sign in colour are identical for priority only where the colour differences are insignificant.",
+      "de": "Nach der gemeinsamen Praxis CP4 sind eine Schwarz-Weiß- oder Graustufenmarke und dasselbe Zeichen in Farbe für die Priorität nur identisch, wenn die Farbunterschiede unbedeutend sind."
+    },
+    "colourRelativeGrounds": {
+      "ja": "相対的拒絶理由における「同一」も、白黒・グレースケール版と色彩版の差が無視できるほど軽微な場合に限られる。ただし同一でなくても、全体的な類似性と混同のおそれは別途成立し得る。",
+      "en": "For identity under relative grounds, the black-and-white or greyscale version and the colour version are identical only if the colour differences are insignificant. Even where they are not identical, similarity and likelihood of confusion may still be found separately.",
+      "de": "Auch bei relativen Eintragungshindernissen liegt Identität zwischen Schwarz-Weiß- bzw. Graustufen- und Farbversion nur bei unbedeutenden Farbunterschieden vor. Ungeachtet fehlender Identität können Ähnlichkeit und Verwechslungsgefahr gesondert bejaht werden."
+    },
+    "colourGenuineUse": {
+      "ja": "登録形態と異なる色彩での使用でも、標章の識別力が変化しなければ真正な使用となり得る。文字・図形要素の一致、主要な識別要素、明暗の対比、色彩自体の識別力および色彩が全体の識別力に与える影響を確認する。",
+      "en": "Use in a different colour may constitute genuine use if the distinctive character of the registered mark is not altered. Consider coincidence of word and figurative elements, the principal distinctive elements, contrast of shades, whether colour itself is distinctive, and its contribution to overall distinctiveness.",
+      "de": "Die Benutzung in einer abweichenden Farbe kann rechtserhaltend sein, wenn die Unterscheidungskraft der eingetragenen Marke nicht beeinflusst wird. Zu prüfen sind die Übereinstimmung der Wort- und Bildelemente, die prägenden Elemente, der Kontrast, die eigene Unterscheidungskraft der Farbe und ihr Beitrag zur Gesamtunterscheidungskraft."
+    },
+    "colourInfringementScope": {
+      "ja": "CP4は侵害時の保護範囲を直接決定するものではない。侵害判断では、登録表示、色彩の識別性、標章全体の類似性、商品役務および取引事情を踏まえ、混同のおそれ等を裁判所が個別判断する。",
+      "en": "CP4 does not itself determine the scope of protection in infringement proceedings. Courts assess the registered representation, distinctiveness of colour, overall similarity, goods and services, market circumstances, and likelihood of confusion case by case.",
+      "de": "CP4 bestimmt nicht unmittelbar den Schutzumfang im Verletzungsverfahren. Gerichte beurteilen die eingetragene Darstellung, die Unterscheidungskraft der Farbe, die Gesamtähnlichkeit, Waren und Dienstleistungen, Marktumstände und Verwechslungsgefahr im Einzelfall."
+    },
+    "colourFilingStrategy": {
+      "ja": "色彩が重要な識別要素ならカラー版を正確に出願する。色彩に限定されない保護も必要なら、白黒版または文字商標を別途検討する。優先権基礎とオーストリア出願の色彩差が「軽微」といえるかを出願前に確認する。",
+      "en": "Where colour is an important source identifier, file an accurate colour version. If protection independent of colour is also needed, consider a separate black-and-white or word-mark filing. Check before filing whether any colour difference from the priority application is truly insignificant.",
+      "de": "Ist die Farbe ein wesentliches Herkunftsmerkmal, sollte die Farbversion genau angemeldet werden. Wird daneben farbunabhängiger Schutz benötigt, ist eine gesonderte Schwarz-Weiß- oder Wortmarkenanmeldung zu erwägen. Vor Anmeldung ist zu prüfen, ob Farbabweichungen gegenüber der Prioritätsanmeldung tatsächlich unbedeutend sind."
+    },
+    "responsePeriod": {
+      "ja": "審査通知の種類と特許庁が指定する期間による。通知書記載の起算日・期限を確認する。マドプロ暫定拒絶ではWIPO通報日と国内期限の関係も確認。",
+      "en": "The response period depends on the communication and the period set by the Office. Check the commencement and deadline stated in the notice. For a Madrid provisional refusal, also verify the relationship between WIPO transmission and the domestic deadline.",
+      "de": "Die Äußerungsfrist richtet sich nach der Mitteilung und der vom Patentamt gesetzten Frist. Fristbeginn und Fristende im Bescheid sind zu prüfen. Bei einer Madrider Schutzverweigerung ist auch das Verhältnis zwischen WIPO-Übermittlung und nationaler Frist zu klären."
+    },
+    "extensionAvailable": {
+      "ja": "官庁指定期間は延長できる場合がある。法定期間は原則として延長できない。異議手続では答弁期間の延長申請やCooling-offが利用可能な場合がある。",
+      "en": "Office-set periods may be extendable; statutory periods are generally not. In opposition proceedings, an extension of the defence period or a cooling-off period may be available.",
+      "de": "Behördlich gesetzte Fristen können verlängerbar sein; gesetzliche Fristen grundsätzlich nicht. Im Widerspruchsverfahren können eine Verlängerung der Äußerungsfrist oder eine Cooling-off-Frist möglich sein."
+    },
+    "extensionLength": {
+      "ja": "通知および手続により異なる。異議申立ての3か月という法定期間自体は延長不可。",
+      "en": "Depends on the notice and procedure. The statutory three-month opposition filing period itself is not extendable.",
+      "de": "Abhängig von Bescheid und Verfahren. Die gesetzliche dreimonatige Widerspruchsfrist selbst ist nicht verlängerbar."
+    },
+    "extensionRequirements": {
+      "ja": "通常、期限前の申請と相当な理由が必要となり得る。和解交渉や調停は、異議答弁期間延長の考慮理由となる場合がある。料金・相手方同意の要否を個別確認。",
+      "en": "A timely request and sufficient reasons may be required. Settlement negotiations or mediation may support an extension of the defence period in opposition. Check fees and whether the other party’s consent is required.",
+      "de": "Ein rechtzeitiger Antrag und berücksichtigungswürdige Gründe können erforderlich sein. Vergleichsverhandlungen oder Mediation können eine Verlängerung der Äußerungsfrist im Widerspruch stützen. Gebühren und Zustimmungserfordernisse sind zu prüfen."
+    },
+    "refusalResponseRoute": {
+      "ja": "審査上の指摘には、オーストリア特許庁へ意見書・補正書・証拠を提出する。拒絶決定後は対象決定に応じてウィーン高等地方裁判所へのRekurs等の司法救済を検討する。マドプロ暫定拒絶も国内代理人を通じた国内手続で応答する。",
+      "en": "Respond to examination objections before the Austrian Patent Office with submissions, permissible amendments, and evidence. After a refusal decision, consider judicial review, including a Rekurs to the Vienna Higher Regional Court, as applicable. A Madrid provisional refusal is likewise answered through the Austrian domestic procedure, normally using local counsel.",
+      "de": "Auf Beanstandungen wird beim Österreichischen Patentamt mit Stellungnahmen, zulässigen Änderungen und Beweismitteln erwidert. Nach einer Zurückweisungsentscheidung ist je nach Entscheidung insbesondere ein Rekurs an das Oberlandesgericht Wien zu prüfen. Auch auf eine Madrider Schutzverweigerung wird im österreichischen nationalen Verfahren, regelmäßig durch lokale Vertretung, reagiert."
+    },
+    "refusalAppealPeriod": {
+      "ja": "拒絶査定不服手続の平均審理期間について、確認した公式資料では商標案件に限定した最新平均を確認できない。決定の種類、審級、書面審理・口頭審理および上告の有無により異なるため、現地代理人に見積りを確認する。",
+      "en": "The reviewed official materials do not provide a current trademark-specific average duration for appeals against refusal. Timing varies with the decision, level of review, written or oral proceedings, and any further appeal; obtain a case-specific estimate from Austrian counsel.",
+      "de": "In den geprüften amtlichen Quellen ist keine aktuelle markenspezifische Durchschnittsdauer für Rechtsmittel gegen Zurückweisungen ausgewiesen. Die Dauer hängt von Entscheidung, Instanz, schriftlichem oder mündlichem Verfahren und weiteren Rechtsmitteln ab; eine Einzelfallschätzung ist einzuholen."
+    },
+    "appealRoute": {
+      "ja": "オーストリア特許庁の終局決定に対しては、原則としてウィーン高等地方裁判所への不服申立てが問題となり、その後の最高裁判所への上告は許容要件を満たす場合に限られる。正確な期限・料金・代理資格は決定書ごとに確認。",
+      "en": "Final decisions of the Austrian Patent Office are generally reviewed by the Vienna Higher Regional Court; further review by the Supreme Court is available only where the admissibility requirements are met. Confirm the exact deadline, fee, and representation requirement from the decision.",
+      "de": "Endentscheidungen des Österreichischen Patentamts werden grundsätzlich vom Oberlandesgericht Wien überprüft; ein weiterer Rechtszug zum Obersten Gerichtshof besteht nur bei Erfüllung der Zulässigkeitsvoraussetzungen. Frist, Gebühr und Vertretung sind anhand der konkreten Entscheidung zu prüfen."
+    },
+    "publicDatabase": {
+      "ja": "see.ip 商標検索",
+      "en": "see.ip trademark search",
+      "de": "see.ip Markensuche",
+      "url": "https://seeip.patentamt.at/markesuche"
+    },
+    "publicationStage": {
+      "ja": "絶対的拒絶理由等の審査に合格すると登録され、オーストリア商標公報（Österreichischer Markenanzeiger、原則毎月20日）で公表される。その後に異議期間が進行する。",
+      "en": "After successful examination, the mark is registered and published in the Austrian Trade Mark Gazette (Österreichischer Markenanzeiger, generally on the twentieth of each month). The opposition period then runs.",
+      "de": "Nach erfolgreicher Prüfung wird die Marke eingetragen und im Österreichischen Markenanzeiger, grundsätzlich jeweils am 20. eines Monats, veröffentlicht. Danach läuft die Widerspruchsfrist."
+    },
+    "oppositionPeriod": {
+      "ja": "国内登録は商標公報での公表日から3か月。オーストリアを指定する国際登録は、WIPOによる公表月の翌月1日から3か月。",
+      "en": "Three months from publication in the Trade Mark Gazette for a national registration. For an international registration designating Austria, three months from the first day of the month following WIPO publication.",
+      "de": "Drei Monate ab Veröffentlichung im Markenanzeiger bei nationalen Registrierungen. Bei internationalen Registrierungen mit Benennung Österreichs drei Monate ab dem ersten Tag des auf die WIPO-Veröffentlichung folgenden Monats."
+    },
+    "oppositionExtension": {
+      "ja": "異議申立期間自体は法定期間であり延長不可。係属後の答弁期間については延長またはCooling-offを申請できる場合がある。",
+      "en": "The opposition filing period itself is statutory and not extendable. Once proceedings are pending, an extension of the defence period or a cooling-off period may be requested where available.",
+      "de": "Die Widerspruchsfrist selbst ist gesetzlich und nicht verlängerbar. Im anhängigen Verfahren kann gegebenenfalls eine Verlängerung der Äußerungsfrist oder eine Cooling-off-Frist beantragt werden."
+    },
+    "averagePendency": {
+      "ja": "通常出願は案件により異なり、統一的な最新平均は確認した公式ページに明示されていない。Fast Trackは約10営業日、2024年実績では平均4日で登録。異議・拒絶がある案件は長期化する。",
+      "en": "Standard cases vary, and the reviewed official pages do not state one current overall average. Fast Track is processed in approximately ten working days and averaged four days to registration in 2024. Objections or opposition extend the total duration.",
+      "de": "Standardverfahren variieren; die geprüften amtlichen Seiten nennen keinen einheitlichen aktuellen Gesamtdurchschnitt. Fast Track wird in etwa zehn Werktagen bearbeitet und führte 2024 durchschnittlich nach vier Tagen zur Registrierung. Beanstandungen oder Widersprüche verlängern die Gesamtdauer."
+    },
+    "term": {
+      "ja": "10年。10年ごとに繰り返し更新可能。",
+      "en": "Ten years, renewable repeatedly for further ten-year periods.",
+      "de": "Zehn Jahre; beliebig oft um weitere zehn Jahre verlängerbar."
+    },
+    "termStart": {
+      "ja": "出願日から",
+      "en": "From the filing date",
+      "de": "Ab dem Anmeldetag"
+    },
+    "renewalWindow": {
+      "ja": "存続期間満了前1年間に更新料を納付可能。別途の更新申請は不要と案内されている。",
+      "en": "The renewal fee may be paid during the year preceding expiry. The official guidance states that no separate renewal request is required.",
+      "de": "Die Erneuerungsgebühr kann innerhalb eines Jahres vor Ablauf der Schutzdauer entrichtet werden. Ein gesonderter Verlängerungsantrag ist nach amtlicher Information nicht erforderlich."
+    },
+    "gracePeriod": {
+      "ja": "満了後6か月。20％の割増料金が必要。",
+      "en": "Six months after expiry, subject to a 20% surcharge.",
+      "de": "Sechs Monate nach Ablauf, mit einem Zuschlag von 20 %."
+    },
+    "renewalEvidence": {
+      "ja": "通常、更新時に使用証拠は不要。更新料および区分に関する最新料金を確認する。ただし不使用取消しのリスクは別途存在する。",
+      "en": "Evidence of use is not generally required at renewal. Check the current renewal and class-related fees. Non-use cancellation exposure remains separate.",
+      "de": "Bei der Verlängerung ist grundsätzlich kein Benutzungsnachweis erforderlich. Aktuelle Erneuerungs- und Klassengebühren sind zu prüfen. Das Risiko einer Löschung wegen Nichtbenutzung besteht unabhängig davon."
+    },
+    "nonUseCancellation": {
+      "ja": "あり。オーストリア特許庁の無効部（Nichtigkeitsabteilung）に取消請求。職権取消しではない。",
+      "en": "Available by application to the Nullity Division of the Austrian Patent Office; cancellation is not initiated ex officio.",
+      "de": "Möglich durch Antrag an die Nichtigkeitsabteilung des Österreichischen Patentamts; keine Löschung von Amts wegen."
+    },
+    "nonUsePeriod": {
+      "ja": "原則として5年。異議期間満了時または異議決定確定時を基準とする使用猶予期間を確認する。",
+      "en": "Generally five years. Confirm the calculation of the grace period from expiry of the opposition period or finality of an opposition decision.",
+      "de": "Grundsätzlich fünf Jahre. Der Beginn der Benutzungsschonfrist nach Ende der Widerspruchsfrist oder Rechtskraft einer Widerspruchsentscheidung ist zu prüfen."
+    },
+    "nonUseDefenses": {
+      "ja": "商標権者が使用を立証する。登録形態と識別力を変えない形態での使用、許諾使用、輸出専用商品の表示も使用となり得る。正当な不使用理由、地域、期間、数量、商品役務との対応を確認。",
+      "en": "The proprietor bears the burden of proving use. Use in a form not altering distinctive character, authorised use, and affixing the mark to goods solely for export may qualify. Assess proper reasons for non-use, territory, period, volume, and links to the registered goods or services.",
+      "de": "Der Markeninhaber hat die Benutzung nachzuweisen. Benutzung in einer die Unterscheidungskraft nicht beeinflussenden Form, mit Zustimmung des Inhabers oder durch Anbringen für den Export kann genügen. Berechtigte Nichtbenutzungsgründe, Gebiet, Zeitraum, Umfang und Zuordnung zu Waren oder Dienstleistungen sind zu prüfen."
+    },
+    "otherCancellation": {
+      "ja": "普通名称化、商標権者による使用の結果としての誤認惹起、保証商標・団体商標の規約違反その他を理由とする取消しがあり得る。",
+      "en": "Revocation may be available for genericide, misleading use attributable to the proprietor, breaches concerning certification or collective marks, and other statutory grounds.",
+      "de": "Ein Verfall kann insbesondere wegen Entwicklung zur Gattungsbezeichnung, irreführender Benutzung durch den Inhaber, Verstößen bei Gewährleistungs- oder Verbandsmarken und aus weiteren gesetzlichen Gründen eintreten."
+    },
+    "invalidation": {
+      "ja": "あり。絶対的拒絶理由、悪意、先行商標・商号・著作権その他の先行権利等に基づき、オーストリア特許庁の無効部へ請求する。",
+      "en": "Available. An application may be brought before the Nullity Division based on absolute grounds, bad faith, earlier marks, trade names, copyright, or other earlier rights, as applicable.",
+      "de": "Möglich. Ein Antrag an die Nichtigkeitsabteilung kann je nach Fall auf absolute Gründe, Bösgläubigkeit, ältere Marken, Unternehmenskennzeichen, Urheberrechte oder sonstige ältere Rechte gestützt werden."
+    },
+    "civilInjunction": {
+      "ja": "あり。仮処分および本案の差止請求を検討。商標侵害事件の主要な第一審裁判所はウィーン商事裁判所。",
+      "en": "Available, including interim and final injunctive relief. The Vienna Commercial Court is the principal first-instance court for trade mark infringement matters.",
+      "de": "Möglich, einschließlich einstweiliger und endgültiger Unterlassungsansprüche. Für Markenverletzungen ist in erster Instanz insbesondere das Handelsgericht Wien zuständig."
+    },
+    "civilDamages": {
+      "ja": "あり。相当な使用料、損害賠償、侵害者利益等が問題となり、故意・過失および請求類型により要件が異なる。",
+      "en": "Available. Reasonable royalty, damages, and surrender of the infringer’s profits may be relevant, with requirements varying according to fault and the remedy claimed.",
+      "de": "Möglich. Angemessenes Entgelt, Schadenersatz und Herausgabe des Verletzergewinns kommen in Betracht; Voraussetzungen richten sich nach Verschulden und Anspruchsart."
+    },
+    "civilEvidencePreservation": {
+      "ja": "仮処分、証拠保全、情報提供・帳簿提出等を検討できる。具体的な利用可能性と担保要件は訴訟戦略に応じて確認。",
+      "en": "Interim measures, preservation of evidence, information claims, and production of accounts may be considered. Availability and security requirements should be assessed for the litigation strategy.",
+      "de": "Einstweilige Maßnahmen, Beweissicherung, Auskunfts- und Rechnungslegungsansprüche können in Betracht kommen. Verfügbarkeit und Sicherheitsleistung sind nach Prozessstrategie zu prüfen."
+    },
+    "civilOther": {
+      "ja": "侵害品の除去・廃棄、判決公表、情報提供、計算書提出および費用償還等があり得る。",
+      "en": "Removal or destruction of infringing goods, publication of judgment, information, rendering of accounts, and recovery of costs may be available.",
+      "de": "Beseitigung oder Vernichtung verletzender Waren, Urteilsveröffentlichung, Auskunft, Rechnungslegung und Kostenersatz können verfügbar sein."
+    },
+    "borderMeasures": {
+      "ja": "あり。EU税関規則に基づく税関差止めを利用可能。EU商標・オーストリア商標等の権利、真正品、通過貨物その他の条件を個別確認。",
+      "en": "Available under the EU customs-enforcement framework. Confirm the right relied upon, genuine-goods issues, goods in transit, and other applicable conditions.",
+      "de": "Im Rahmen der unionsrechtlichen Zollmaßnahmen verfügbar. Herangezogenes Recht, Originalwaren, Durchfuhrwaren und weitere Voraussetzungen sind im Einzelfall zu prüfen."
+    },
+    "administrativeRaid": {
+      "ja": "商標庁による一般的な行政摘発は主要な執行経路ではない。税関、警察・検察および裁判所の権限を事案に応じて利用する。",
+      "en": "A general administrative raid by the trade mark office is not the principal enforcement route. Customs, police and prosecutors, and the courts may be engaged depending on the case.",
+      "de": "Eine allgemeine Verwaltungsrazzia durch das Markenamt ist kein zentraler Durchsetzungsweg. Je nach Fall sind Zoll, Polizei und Staatsanwaltschaft sowie Gerichte einzuschalten."
+    },
+    "administrativeOther": {
+      "ja": "税関留置、輸入者・荷受人情報の取得、刑事当局との連携その他。オンライン模倣品ではプラットフォーム手続も併用を検討。",
+      "en": "Customs detention, information concerning importers or consignees, coordination with criminal authorities, and other measures. Platform procedures may also be used for online counterfeits.",
+      "de": "Zollrechtliche Zurückhaltung, Informationen über Einführer oder Empfänger, Zusammenarbeit mit Strafverfolgungsbehörden und weitere Maßnahmen. Bei Online-Fälschungen kommen zusätzlich Plattformverfahren in Betracht."
+    },
+    "criminalAvailability": {
+      "ja": "あり。故意の商標侵害等について刑事手続が可能。私訴犯罪か公訴犯罪かを含め、犯罪類型と開始方法を個別確認。",
+      "en": "Available for intentional trade mark infringement and related conduct. Confirm the offence and initiation route, including whether private prosecution or public prosecution applies.",
+      "de": "Bei vorsätzlicher Markenverletzung und verwandten Handlungen möglich. Straftatbestand und Einleitungsweg, einschließlich Privat- oder Offizialanklage, sind zu prüfen."
+    },
+    "criminalFine": {
+      "ja": "あり得る。故意、営業性、規模および適用条項により異なる。",
+      "en": "Potentially available, depending on intent, commercial character, scale, and the provision applied.",
+      "de": "Möglich, abhängig von Vorsatz, Gewerbsmäßigkeit, Umfang und anwendbarer Bestimmung."
+    },
+    "criminalImprisonment": {
+      "ja": "あり得る。加重事由を含む犯罪類型により異なる。",
+      "en": "Potentially available, depending on the offence and any aggravating circumstances.",
+      "de": "Je nach Straftatbestand und erschwerenden Umständen möglich."
+    },
+    "criminalOther": {
+      "ja": "侵害品・製造用具の没収・廃棄、判決公表その他があり得る。",
+      "en": "Forfeiture or destruction of infringing goods and production tools, publication of judgment, and other measures may be available.",
+      "de": "Einziehung oder Vernichtung verletzender Waren und Herstellungswerkzeuge, Urteilsveröffentlichung und weitere Maßnahmen können möglich sein."
+    }
+  },
+  "notablePoints": [
+    {
+      "id": "fast-track-automatic-detection",
+      "category": "examination",
+      "importance": "high",
+      "title": {
+        "ja": "Fast Trackは約10営業日、2024年実績は平均4日",
+        "en": "Fast Track targets about ten working days and averaged four days in 2024",
+        "de": "Fast Track dauert etwa zehn Werktage und 2024 durchschnittlich vier Tage"
+      },
+      "summary": {
+        "ja": "オンライン出願システムが適格性を自動判定する。対象は文字・図形・文字図形結合商標で、調和済みTMclass用語の使用と出願時の即時支払い等が必要。紙出願、団体商標・保証商標、その他の非伝統的商標は通常手続となる。",
+        "en": "The online filing system automatically detects eligibility. The route is limited to word, figurative, and combined word and figurative marks using harmonised TMclass terms, with immediate payment during filing. Paper filings, collective or certification marks, and other non-traditional marks use the standard route.",
+        "de": "Das Online-System erkennt die Fast-Track-Fähigkeit automatisch. Erfasst sind Wort-, Bild- und Wort-Bild-Marken mit harmonisierten TMclass-Begriffen und sofortiger Zahlung. Papier-, Verbands- und Gewährleistungsmarkenanmeldungen sowie andere nicht traditionelle Marken durchlaufen das Standardverfahren."
+      },
+      "practicalImpact": {
+        "ja": "早期登録を優先する案件では非常に有用だが、独自の商品役務表現や特殊な商標形式を選ぶと対象外となる。登録後に3か月の異議期間がある点は別途考慮する。",
+        "en": "This is highly useful where rapid registration matters, but custom identifications or special mark formats may make the application ineligible. The post-registration three-month opposition period must still be considered.",
+        "de": "Bei dringender Registrierung ist Fast Track sehr nützlich; individuelle Verzeichnisbegriffe oder besondere Markenformen können die Teilnahme jedoch ausschließen. Die dreimonatige Widerspruchsfrist nach Eintragung bleibt zu berücksichtigen."
+      },
+      "recommendedAction": {
+        "ja": "出願前にTMclass受理済み用語だけで事業上必要な範囲を確保できるか確認し、速度と指定範囲のどちらを優先するか決める。",
+        "en": "Before filing, determine whether accepted TMclass terms adequately cover the business and decide whether speed or customised scope is more important.",
+        "de": "Vor Anmeldung prüfen, ob akzeptierte TMclass-Begriffe den benötigten Schutz abdecken, und zwischen Geschwindigkeit und individuell zugeschnittenem Verzeichnis abwägen."
+      },
+      "agentQuestion": {
+        "ja": "この商品役務一覧はFast Track適格性を維持したまま十分な保護範囲を確保できますか。",
+        "en": "Can this list of goods and services preserve Fast Track eligibility while providing adequate protection?",
+        "de": "Kann dieses Waren- und Dienstleistungsverzeichnis die Fast-Track-Fähigkeit erhalten und zugleich ausreichenden Schutz bieten?"
+      },
+      "sourceUrl": "https://www.patentamt.at/schutz-anmelden/marken-anmelden/marke-national",
+      "checkedAt": "2026-09-12",
+      "status": "verified"
+    },
+    {
+      "id": "no-ex-officio-prior-right-search",
+      "category": "clearance",
+      "importance": "high",
+      "title": {
+        "ja": "先行商標の職権調査なし、異議は登録後",
+        "en": "No ex officio prior-mark search; opposition follows registration",
+        "de": "Keine amtliche Kollisionsprüfung; Widerspruch erst nach Eintragung"
+      },
+      "summary": {
+        "ja": "オーストリア特許庁は出願審査で先行する同一・類似商標を職権調査しない。絶対的拒絶理由等を通過すると登録・公表され、先行権利者は公表後3か月以内に異議を申し立てる。",
+        "en": "The Austrian Patent Office does not search ex officio for identical or similar earlier marks. Once absolute-ground examination is passed, the mark is registered and published, after which owners of earlier rights have three months to oppose.",
+        "de": "Das Österreichische Patentamt recherchiert nicht von Amts wegen nach identischen oder ähnlichen älteren Marken. Nach erfolgreicher Prüfung wird die Marke eingetragen und veröffentlicht; Inhaber älterer Rechte können innerhalb von drei Monaten Widerspruch erheben."
+      },
+      "practicalImpact": {
+        "ja": "登録されたことはクリアランスを意味しない。オーストリア国内商標だけでなく、EU商標およびオーストリアを指定する国際登録も調査対象となる。",
+        "en": "Registration does not establish clearance. Searches should cover Austrian national marks, EU trade marks, and international registrations designating Austria.",
+        "de": "Die Eintragung bedeutet keine Kollisionsfreiheit. Recherchen sollten österreichische nationale Marken, Unionsmarken und internationale Registrierungen mit Schutz in Österreich umfassen."
+      },
+      "recommendedAction": {
+        "ja": "出願前にsee.ip、TMview、EUIPOおよびMadrid Monitorを横断調査し、登録公表後の異議期間も監視する。",
+        "en": "Before filing, search see.ip, TMview, EUIPO records, and Madrid Monitor, and monitor the opposition period after publication of registration.",
+        "de": "Vor Anmeldung see.ip, TMview, EUIPO-Daten und Madrid Monitor recherchieren und nach Veröffentlichung die Widerspruchsfrist überwachen."
+      },
+      "agentQuestion": {
+        "ja": "登録商標に加え、オーストリアで保護される商号・使用標章等を含め、どの範囲のクリアランスを推奨しますか。",
+        "en": "What clearance scope do you recommend, including Austrian trade names and signs protected through use as well as registered marks?",
+        "de": "Welchen Rechercheumfang empfehlen Sie neben eingetragenen Marken insbesondere für Unternehmenskennzeichen und durch Benutzung geschützte Zeichen in Österreich?"
+      },
+      "sourceUrl": "https://www.patentamt.at/recherche/marken",
+      "checkedAt": "2026-09-12",
+      "status": "verified"
+    },
+    {
+      "id": "non-use-proof-by-proprietor",
+      "category": "non-use",
+      "importance": "high",
+      "title": {
+        "ja": "不使用取消しでは商標権者が使用を立証",
+        "en": "The proprietor must prove use in non-use cancellation",
+        "de": "Im Löschungsverfahren muss der Markeninhaber die Benutzung nachweisen"
+      },
+      "summary": {
+        "ja": "原則5年間の不使用後、何人もオーストリア特許庁へ取消しを請求できる。MSchG第33a条第5項は使用の立証を商標権者に課しており、職権で自動取消しされる制度ではない。",
+        "en": "After the applicable five-year non-use period, any person may apply to the Austrian Patent Office for cancellation. Section 33a(5) MSchG places proof of use on the proprietor, and cancellation is not automatic or initiated ex officio.",
+        "de": "Nach Ablauf der maßgeblichen fünfjährigen Nichtbenutzungsfrist kann jedermann beim Österreichischen Patentamt die Löschung beantragen. § 33a Abs. 5 MSchG auferlegt dem Markeninhaber den Benutzungsnachweis; eine automatische Löschung von Amts wegen erfolgt nicht."
+      },
+      "practicalImpact": {
+        "ja": "権利者側は請求を受けてから資料を集めるのでは遅い場合がある。商品役務ごとに、オーストリア市場との関連が分かる日付入り証拠を継続保存する必要がある。",
+        "en": "It may be too late to begin collecting evidence only after a cancellation action is filed. Dated evidence tied to the Austrian market should be retained continuously for each good and service.",
+        "de": "Erst nach Einleitung eines Löschungsverfahrens Beweise zu sammeln, kann zu spät sein. Für jede Ware und Dienstleistung sollten datierte, dem österreichischen Markt zuordenbare Nachweise fortlaufend aufbewahrt werden."
+      },
+      "recommendedAction": {
+        "ja": "請求書、売上、広告、ウェブ表示、流通資料および許諾関係を、期間・地域・商品役務との対応が分かる形で年次保存する。",
+        "en": "Retain annually invoices, sales data, advertising, web materials, distribution records, and licence evidence showing dates, territory, and the relevant goods or services.",
+        "de": "Rechnungen, Umsätze, Werbung, Webunterlagen, Vertriebsnachweise und Lizenzbeziehungen jährlich so sichern, dass Zeitraum, Gebiet und betroffene Waren oder Dienstleistungen erkennbar sind."
+      },
+      "agentQuestion": {
+        "ja": "現在の使用資料はオーストリアにおける真正な使用を、登録商品役務ごとに立証するのに十分ですか。",
+        "en": "Is our current material sufficient to prove genuine use in Austria for each registered good and service?",
+        "de": "Reichen unsere derzeitigen Unterlagen aus, um die ernsthafte Benutzung in Österreich für jede eingetragene Ware und Dienstleistung nachzuweisen?"
+      },
+      "sourceUrl": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002180&Paragraf=33a",
+      "checkedAt": "2026-09-12",
+      "status": "verified"
+    }
+  ],
+  "statistics": {
+    "coverage": "2016–2025",
+    "status": "pending",
+    "series": []
+  },
+  "news": [
+    {
+      "id": "austrian-online-filing-modernised-2025",
+      "type": "practice",
+      "date": "2025-12-31",
+      "title": {
+        "ja": "2025年に商標オンライン出願システムを刷新",
+        "en": "Austria modernised its online trade mark filing system in 2025",
+        "de": "Österreich modernisierte 2025 die Online-Markenanmeldung"
+      },
+      "summary": {
+        "ja": "オーストリア特許庁はEUIPOと協力して商標・意匠のオンライン出願を刷新し、Fast Trackの自動判定、セキュリティ向上、レスポンシブ表示およびスクリーンリーダー対応を導入した。",
+        "en": "The Austrian Patent Office modernised online trade mark and design filing with EUIPO cooperation, introducing automatic Fast Track detection, enhanced security, responsive design, and screen-reader accessibility.",
+        "de": "Das Österreichische Patentamt modernisierte gemeinsam mit dem EUIPO die Online-Anmeldung für Marken und Designs mit automatischer Fast-Track-Erkennung, erhöhter IT-Sicherheit, responsiver Gestaltung und Screenreader-Unterstützung."
+      },
+      "sourceUrl": "https://2025.patentamt.at/"
+    },
+    {
+      "id": "austrian-fast-track-2024",
+      "type": "practice",
+      "date": "2024-12-31",
+      "title": {
+        "ja": "2024年、Fast Track商標は平均4日で登録",
+        "en": "Fast Track trade marks averaged four days to registration in 2024",
+        "de": "Fast-Track-Marken wurden 2024 durchschnittlich nach vier Tagen registriert"
+      },
+      "summary": {
+        "ja": "2024年年次報告によると、商標出願の約半数がFast Trackを利用し、出願から登録まで平均4日だった。適格要件を満たす無拒絶案件の実績であり、通常出願全体の平均ではない。",
+        "en": "According to the 2024 Annual Report, nearly half of trade mark applications used Fast Track and were registered after an average of four days. This concerns eligible, unobjectionable Fast Track cases and is not an average for all standard applications.",
+        "de": "Nach dem Jahresbericht 2024 nutzte nahezu die Hälfte der Markenanmeldungen Fast Track und wurde durchschnittlich nach vier Tagen registriert. Dies betrifft geeignete, beanstandungsfreie Fast-Track-Fälle und ist kein Durchschnitt sämtlicher Standardanmeldungen."
+      },
+      "sourceUrl": "https://2024.patentamt.at/"
+    }
+  ],
+  "faqs": [
+    {
+      "tag": "Filing",
+      "question": {
+        "ja": "本件ではオーストリア国内商標とEU商標のどちらが適切ですか。",
+        "en": "Would an Austrian national mark or an EU trade mark be more appropriate here?",
+        "de": "Wäre hier eine österreichische nationale Marke oder eine Unionsmarke zweckmäßiger?"
+      },
+      "followUp": {
+        "ja": "対象市場、先行権利リスク、費用、無効化リスクおよびマドプロ利用可能性を比較してください。",
+        "en": "Please compare the target market, earlier-right risks, cost, invalidity exposure, and Madrid options.",
+        "de": "Bitte vergleichen Sie Zielmarkt, Risiken aus älteren Rechten, Kosten, Nichtigkeitsrisiko und Madrider Möglichkeiten."
+      }
+    },
+    {
+      "tag": "Fast Track",
+      "question": {
+        "ja": "この出願はFast Trackの対象となりますか。",
+        "en": "Is this application eligible for Fast Track?",
+        "de": "Ist diese Anmeldung für Fast Track geeignet?"
+      },
+      "followUp": {
+        "ja": "TMclass用語への変更で保護範囲が狭くならないか、通常手続との期間差も教えてください。",
+        "en": "Would changing to TMclass terms narrow protection, and what timing difference should we expect from the standard route?",
+        "de": "Würde die Umstellung auf TMclass-Begriffe den Schutz verengen, und welcher Zeitunterschied zum Standardverfahren ist zu erwarten?"
+      }
+    },
+    {
+      "tag": "Opposition",
+      "question": {
+        "ja": "登録後の3か月の異議期間中、相手方への警告またはCooling-offをどう利用すべきですか。",
+        "en": "How should we use a warning letter or cooling-off during the three-month post-registration opposition period?",
+        "de": "Wie sollten wir während der dreimonatigen Widerspruchsfrist nach Eintragung mit Abmahnung oder Cooling-off umgehen?"
+      },
+      "followUp": {
+        "ja": "異議では費用償還がない点を踏まえた予算と和解戦略も示してください。",
+        "en": "Please also propose a budget and settlement strategy, taking into account that opposition does not award inter partes costs.",
+        "de": "Bitte schlagen Sie auch Budget und Vergleichsstrategie vor, da im Widerspruchsverfahren kein Kostenersatz zwischen den Parteien erfolgt."
+      }
+    },
+    {
+      "tag": "Non-use",
+      "question": {
+        "ja": "この資料でオーストリアにおける5年間の真正な使用を立証できますか。",
+        "en": "Can this material prove genuine use in Austria during the relevant five-year period?",
+        "de": "Können diese Unterlagen die ernsthafte Benutzung in Österreich im maßgeblichen Fünfjahreszeitraum nachweisen?"
+      },
+      "followUp": {
+        "ja": "色彩・ロゴ変更が登録商標の識別力を変えない使用と認められるかも確認してください。",
+        "en": "Please also confirm whether the colour or logo variation preserves the distinctive character of the registered mark.",
+        "de": "Bitte prüfen Sie auch, ob die Farb- oder Logoabweichung die Unterscheidungskraft der eingetragenen Marke unberührt lässt."
+      }
+    },
+    {
+      "tag": "Refusal",
+      "question": {
+        "ja": "この拒絶には意見書・指定商品役務の補正・使用による識別力の立証のどれで対応すべきですか。",
+        "en": "Should this refusal be addressed by argument, amendment of the goods and services, or evidence of acquired distinctiveness?",
+        "de": "Sollten wir dieser Zurückweisung mit Argumenten, einer Einschränkung des Waren- und Dienstleistungsverzeichnisses oder dem Nachweis der Verkehrsdurchsetzung begegnen?"
+      },
+      "followUp": {
+        "ja": "不服申立期限、ウィーン高等地方裁判所での平均期間、費用および追加証拠提出の可否も教えてください。",
+        "en": "Please also confirm the appeal deadline, expected duration before the Vienna Higher Regional Court, cost, and admissibility of additional evidence.",
+        "de": "Bitte bestätigen Sie außerdem Rechtsmittelfrist, voraussichtliche Dauer vor dem Oberlandesgericht Wien, Kosten und Zulässigkeit weiterer Beweismittel."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "Österreichisches Patentamt — Marke national",
+      "url": "https://www.patentamt.at/schutz-anmelden/marken-anmelden/marke-national",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Österreichisches Patentamt — Markenrecherche",
+      "url": "https://www.patentamt.at/recherche/marken",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Österreichisches Patentamt — Verfahren und Rechtsmittel",
+      "url": "https://www.patentamt.at/rechte-verwalten-wahren/marken/verfahren-rechtsmittel",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Österreichisches Patentamt — Erneuerungsgebühren",
+      "url": "https://www.patentamt.at/rechte-verwalten-wahren/marken/erneuerungsgebuehr",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Österreichisches Patentamt — Nizza-Klassifikation und Benutzungszwang",
+      "url": "https://www.patentamt.at/nizzaklassen",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Österreichisches Patentamt — Priorität",
+      "url": "https://www.patentamt.at/rechte-verwalten-wahren/marken/prioritaetsbelege-und-bestaetigungen",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "RIS — Markenschutzgesetz 1970, consolidated text",
+      "url": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002180",
+      "type": "legislation",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "RIS — Markenschutzgesetz § 33a",
+      "url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002180&Paragraf=33a",
+      "type": "legislation",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Österreichisches Patentamt — CP4 Schwarz-Weiß- und Farbmarken",
+      "url": "https://www.patentamt.at/fileadmin/root_oepa/Dateien/Marken/MA_Communication_Schutzbereich_schwarz_weiss_Marken.pdf",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "EUIPN — CP4 Scope of Protection of Black and White Marks",
+      "url": "https://euipo.europa.eu/knowledge/course/view.php?id=1791&lang=en",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "WIPO — Madrid Protocol ratification by Austria",
+      "url": "https://www.wipo.int/wipolex/en/treaties/notifications/details/treaty_madridp-gp_114",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Österreichisches Patentamt — Annual Report 2024",
+      "url": "https://2024.patentamt.at/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Österreichisches Patentamt — Annual Report 2025",
+      "url": "https://2025.patentamt.at/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    }
+  ]
+}
