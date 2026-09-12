@@ -40,6 +40,10 @@
     "path": "./data/jurisdictions/sg.json"
   },
   {
+    "id": "id",
+    "path": "./data/jurisdictions/id.json"
+  },
+  {
     "id": "euipo",
     "path": "./data/jurisdictions/euipo.json"
   },
