@@ -36,6 +36,10 @@
     "path": "./data/jurisdictions/vn.json"
   },
   {
+    "id": "kh",
+    "path": "./data/jurisdictions/kh.json"
+  },
+  {
     "id": "my",
     "path": "./data/jurisdictions/my.json"
   },
