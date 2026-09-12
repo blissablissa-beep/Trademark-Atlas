@@ -1,5 +1,5 @@
 {
-  "version": "2.1.0",
+  "version": "2.2.0",
   "sections": [
     {
       "id": "basic",
@@ -136,6 +136,20 @@
           "label": {
             "ja": "絶対的登録要件の審査",
             "en": "Examination on absolute grounds"
+          }
+        },
+        {
+          "id": "distinctivenessGrounds",
+          "label": {
+            "ja": "識別力に関する拒絶理由",
+            "en": "Refusal grounds relating to distinctiveness"
+          }
+        },
+        {
+          "id": "otherAbsoluteGrounds",
+          "label": {
+            "ja": "識別力以外の絶対的拒絶理由・公益的拒絶理由",
+            "en": "Other absolute and public-interest grounds for refusal"
           }
         },
         {
@@ -524,6 +538,167 @@
           "label": {
             "ja": "その他の刑事救済",
             "en": "Other criminal remedies"
+          }
+        }
+      ]
+    }
+  ],
+  "collections": [
+    {
+      "id": "notablePoints",
+      "title": {
+        "ja": "特筆すべき点",
+        "en": "Notable points"
+      },
+      "description": {
+        "ja": "法域固有の制度、手続、立証責任、費用リスク、運用上の注意その他の重要な実務事項。0件以上のトピックを登録できる。",
+        "en": "Important jurisdiction-specific matters concerning legal systems, procedure, burden of proof, cost exposure, local practice and other practical issues. Zero or more topics may be recorded."
+      },
+      "type": "array",
+      "itemType": "object",
+      "itemFields": [
+        {
+          "id": "id",
+          "type": "string",
+          "required": true,
+          "label": {
+            "ja": "トピックID",
+            "en": "Topic ID"
+          }
+        },
+        {
+          "id": "category",
+          "type": "enum",
+          "required": true,
+          "values": [
+            "filing",
+            "examination",
+            "use-evidence",
+            "non-use",
+            "opposition",
+            "appeal",
+            "enforcement",
+            "border-measures",
+            "procedure",
+            "cost-risk",
+            "local-practice",
+            "other"
+          ],
+          "label": {
+            "ja": "カテゴリー",
+            "en": "Category"
+          }
+        },
+        {
+          "id": "importance",
+          "type": "enum",
+          "required": true,
+          "values": [
+            "high",
+            "medium",
+            "low"
+          ],
+          "label": {
+            "ja": "重要度",
+            "en": "Importance"
+          }
+        },
+        {
+          "id": "title",
+          "type": "localizedText",
+          "required": true,
+          "requiredLanguages": [
+            "ja",
+            "en"
+          ],
+          "label": {
+            "ja": "見出し",
+            "en": "Title"
+          }
+        },
+        {
+          "id": "summary",
+          "type": "localizedText",
+          "required": true,
+          "requiredLanguages": [
+            "ja",
+            "en"
+          ],
+          "label": {
+            "ja": "制度・実務の概要",
+            "en": "Legal or practical summary"
+          }
+        },
+        {
+          "id": "practicalImpact",
+          "type": "localizedText",
+          "required": false,
+          "requiredLanguages": [
+            "ja",
+            "en"
+          ],
+          "label": {
+            "ja": "実務への影響",
+            "en": "Practical impact"
+          }
+        },
+        {
+          "id": "recommendedAction",
+          "type": "localizedText",
+          "required": false,
+          "requiredLanguages": [
+            "ja",
+            "en"
+          ],
+          "label": {
+            "ja": "推奨対応",
+            "en": "Recommended action"
+          }
+        },
+        {
+          "id": "agentQuestion",
+          "type": "localizedText",
+          "required": false,
+          "requiredLanguages": [
+            "ja",
+            "en"
+          ],
+          "label": {
+            "ja": "現地代理人への確認事項",
+            "en": "Question for local counsel"
+          }
+        },
+        {
+          "id": "sourceUrl",
+          "type": "url",
+          "required": false,
+          "label": {
+            "ja": "参考URL",
+            "en": "Source URL"
+          }
+        },
+        {
+          "id": "checkedAt",
+          "type": "date",
+          "required": false,
+          "label": {
+            "ja": "確認日",
+            "en": "Date checked"
+          }
+        },
+        {
+          "id": "status",
+          "type": "enum",
+          "required": true,
+          "values": [
+            "verified",
+            "agent-confirmed",
+            "research-needed",
+            "historical"
+          ],
+          "label": {
+            "ja": "情報の確認状態",
+            "en": "Verification status"
           }
         }
       ]
