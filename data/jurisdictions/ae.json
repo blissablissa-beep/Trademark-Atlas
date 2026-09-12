@@ -1,0 +1,504 @@
+{
+  "id": "ae",
+  "type": "country",
+  "flag": "🇦🇪",
+  "region": "asia",
+  "names": {
+    "ja": "アラブ首長国連邦",
+    "en": "United Arab Emirates"
+  },
+  "office": {
+    "ja": "アラブ首長国連邦経済・観光省 商標・著作物部門",
+    "en": "UAE Ministry of Economy and Tourism — Trademarks and Copyright Works Sector"
+  },
+  "availableLanguages": [],
+  "createdAt": "2026-09-12",
+  "updatedAt": "2026-09-12",
+  "status": "review",
+  "facts": {
+    "authority": {
+      "ja": "アラブ首長国連邦経済・観光省 商標・著作物部門",
+      "en": "UAE Ministry of Economy and Tourism — Trademarks and Copyright Works Sector"
+    },
+    "protectionScope": {
+      "ja": "商品・役務の商標、団体商標、証明・検査標章、地理的表示、周知商標等。連邦登録は7首長国すべてに効力を有する。",
+      "en": "Marks for goods/services, collective marks, certification/inspection marks, geographical indications and well-known marks. A federal registration covers all seven Emirates."
+    },
+    "markTypes": {
+      "ja": "名称、語、署名、文字、数字、図形、ロゴ、画像、包装、立体形状、色彩・色彩の組合せ、音、匂い、ホログラム等。非伝統的商標は表示・提出形式を確認する。",
+      "en": "Names, words, signatures, letters, numerals, devices, logos, images, packaging, 3D shapes, colors/combinations, sounds, scents, holograms and others; verify representation and filing formats for non-traditional marks."
+    },
+    "madridAccessionDate": {
+      "ja": "2021年12月28日発効",
+      "en": "Effective 28 December 2021"
+    },
+    "niceClassification": {
+      "ja": "採用。最新版ニース分類と省の受理可能な商品・役務表示を確認する。",
+      "en": "Adopted; verify the current Nice edition and Ministry-acceptable goods/services wording."
+    },
+    "classHeadingPractice": {
+      "ja": "類見出しのみへの依存を避け、商品・役務を明確・具体的に記載する。禁止・制限商品も確認する。",
+      "en": "Avoid relying only on class headings; specify goods/services clearly and check prohibited or restricted goods."
+    },
+    "retailServices": {
+      "ja": "第35類で可。対象商品および小売・オンライン販売役務を具体化する。",
+      "en": "Available in Class 35; specify the relevant goods and retail/online retail services."
+    },
+    "multiClassApplication": {
+      "ja": "制度上の可否と電子出願単位を最新確認する。実務上、区分ごとの別出願・別料金を前提に見積もることが多い。",
+      "en": "Verify current availability and e-filing structure; in practice, budgeting commonly proceeds on separate applications and fees per class."
+    },
+    "applicationForm": {
+      "ja": "省の電子サービスで、出願人、標章、商品・役務、区分、優先権、代理人情報等を提出する。外国書類にはアラビア語訳が必要となり得る。",
+      "en": "File through the Ministry e-service with applicant, mark, goods/services, class, priority and representative details. Arabic translations may be required for foreign documents."
+    },
+    "powerOfAttorney": {
+      "ja": "外国出願人は登録商標代理人を通じ、通常、公証・領事認証等を経た委任状を提出する。電子認証・アポスティーユを含む最新要件を確認する。",
+      "en": "A foreign applicant normally uses a registered trademark agent and files an authenticated power of attorney; verify current notarization/legalization, e-authentication and Apostille practice."
+    },
+    "priorityDocuments": {
+      "ja": "パリ優先権は最初の出願から6か月以内。認証謄本、アラビア語訳および追完期限を確認する。",
+      "en": "Paris priority must be claimed within six months; verify certified-copy, Arabic-translation and late-filing deadlines."
+    },
+    "homeRegistrationCertificate": {
+      "ja": "通常の直接出願には原則不要。ただし法人資格・本国書類を要求される手続があるため確認する。",
+      "en": "Not normally required for a direct filing, but verify whether corporate-status or home-country documents are requested in the relevant procedure."
+    },
+    "useEvidenceAtFiling": {
+      "ja": "通常不要。使用による識別力、周知性、先使用等を主張する場合は証拠が必要となり得る。",
+      "en": "Not normally required; evidence may be needed for acquired distinctiveness, well-known status or prior use."
+    },
+    "notarizationCertification": {
+      "ja": "重要。外国出願人の委任状等には公証・認証およびアラビア語翻訳が必要となることがある。UAEのアポスティーユ条約運用開始後の扱いを現地確認する。",
+      "en": "Important. Powers and other foreign documents may require notarization/authentication and Arabic translation. Confirm local practice following the UAE’s implementation of the Apostille Convention."
+    },
+    "otherDocuments": {
+      "ja": "標章見本・説明、法人登記資料、認証委任状、優先権証明、アラビア語訳、非伝統的商標の電子ファイル等。",
+      "en": "Representation/description, corporate documents, authenticated power, priority document, Arabic translations and electronic files for non-traditional marks."
+    },
+    "absoluteGroundsExamination": {
+      "ja": "あり。省が職権審査する。",
+      "en": "Yes; examined ex officio by the Ministry."
+    },
+    "distinctivenessGrounds": {
+      "ja": "識別力欠如、普通名称、記述的・慣用的表示、単純な記号等は拒絶され得る。使用による識別力の証拠提出可能性を確認する。",
+      "en": "Non-distinctive, generic, descriptive or customary matter and simple signs may be refused; assess whether acquired distinctiveness can be proven."
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "公序・善良な風俗・宗教的価値への抵触、欺瞞性、国旗・国章、公的記章、赤新月等、第三者の氏名・肖像、保護される地理的表示等を確認する。",
+      "en": "Check public order, morality and religious values, deception, state flags/emblems and official signs, Red Crescent-type symbols, third-party names/portraits and protected GIs."
+    },
+    "relativeGroundsExamination": {
+      "ja": "あり。先行UAE出願・登録、UAE指定国際登録、周知商標、商号、著作権等との抵触を職権審査する。",
+      "en": "Yes; conflicts with earlier UAE applications/registrations, international registrations designating the UAE, well-known marks, trade names and copyright are examined ex officio."
+    },
+    "disclaimer": {
+      "ja": "非識別要素について権利不要求・保護範囲限定を求められることがある。",
+      "en": "A disclaimer or limitation may be required for non-distinctive elements."
+    },
+    "consent": {
+      "ja": "先行権利者の同意が考慮される場合があるが、混同のおそれや公益上の拒絶が必ず解消するとは限らない。",
+      "en": "Earlier-owner consent may be considered, but it does not necessarily overcome confusion or public-interest objections."
+    },
+    "acceleratedExamination": {
+      "ja": "早期審査・迅速サービスの提供状況、対象、追加料金を省の最新電子サービスで確認する。",
+      "en": "Check the Ministry’s current e-services for any expedited examination route, eligibility and additional fee."
+    },
+    "thirdPartyObservation": {
+      "ja": "公告後30日以内の正式異議申立制度あり。別個の情報提供制度の有無は最新実務を確認する。",
+      "en": "Formal opposition is available within 30 days after publication; verify whether a separate observation procedure exists."
+    },
+    "directExaminationPeriod": {
+      "ja": "法令・行政サービス上の目標期間と実際の所要期間は異なり得る。方式・実体審査、補正、公告、登録料を分けて最新見積りを取得する。",
+      "en": "Statutory/service targets may differ from actual timing; obtain a current estimate separating formality/substantive examination, amendment, publication and registration-fee stages."
+    },
+    "madridExaminationPeriod": {
+      "ja": "UAE指定の暫定拒絶通報は原則18か月枠を前提に管理し、WIPO通知記載の現地応答期限を確認する。",
+      "en": "Manage a UAE designation on the basis of the applicable 18-month provisional-refusal framework and verify the local response deadline in the WIPO notice."
+    },
+    "colourPriorityIdentity": {
+      "ja": "優先権基礎とUAE出願で色彩の有無・配置を整合させる。カラー主張の変更が同一性を損なわないかを個別確認する。",
+      "en": "Align the presence and arrangement of color with the priority filing and assess whether a change in the color claim impairs identity."
+    },
+    "colourRelativeGrounds": {
+      "ja": "色彩は全体的印象の一要素。色の相違だけで類似性が解消するとは限らず、アラビア語・英語表記を含む識別的要素を総合比較する。",
+      "en": "Color is one factor in the overall impression; color differences alone may not avoid similarity. Compare distinctive elements, including Arabic and English wording, globally."
+    },
+    "colourGenuineUse": {
+      "ja": "登録形態と使用形態の色彩差が識別性を変更するかを評価する。白黒登録のカラー使用を当然に同一視しない。",
+      "en": "Assess whether color differences between registration and use alter distinctive character; do not assume color use always maintains a black-and-white registration."
+    },
+    "colourInfringementScope": {
+      "ja": "登録表示・色彩限定、外観・称呼・観念、商品・役務、需要者、混同のおそれを総合評価する。",
+      "en": "Assess the registered representation/color limitation, visual, phonetic and conceptual impressions, goods/services, consumers and likelihood of confusion."
+    },
+    "colourFilingStrategy": {
+      "ja": "色彩が重要ならカラー版を、柔軟性が必要なら白黒版・主要カラー版を区分別費用も踏まえて検討する。アラビア語版も別途検討する。",
+      "en": "If color matters, file in color; for flexibility consider black-and-white and key color versions in light of per-class costs. Consider an Arabic-language version separately."
+    },
+    "refusalResponseRoute": {
+      "ja": "審査拒絶・条件付受理に対し、所定期間内に省へ意見書、補正、限定、同意書、証拠を提出する。最終決定には商標苦情委員会、次いで裁判所への不服申立てを検討する。",
+      "en": "Respond to refusal or conditional acceptance with submissions, amendment, limitation, consent or evidence within the prescribed period; challenge a final decision before the Trademarks Grievances Committee and then the courts as applicable."
+    },
+    "responsePeriod": {
+      "ja": "拒絶通知ごとの期限を確認する。新法下の短い不服期限を考慮し、通知受領後直ちに現地代理人へ回付する。",
+      "en": "Verify the deadline in each refusal notice. In view of short review periods under the new law, forward the notice to local counsel immediately."
+    },
+    "extensionAvailable": {
+      "ja": "手続により延長・追完の余地が異なる。期限前申請の可否を個別確認する。",
+      "en": "Extension or late completion varies by procedure; verify whether a pre-expiry request is permitted."
+    },
+    "extensionLength": {
+      "ja": "一律ではない。通知、連邦法、施行規則および電子サービス条件を確認する。",
+      "en": "Not uniform; check the notice, Federal Decree-Law, Executive Regulations and e-service conditions."
+    },
+    "extensionRequirements": {
+      "ja": "期限前の電子申請、理由、所定料金の要否を現地代理人に確認する。",
+      "en": "Confirm whether a timely e-request, reasons and prescribed fee are required."
+    },
+    "appealRoute": {
+      "ja": "省の最終決定に対し商標苦情委員会へ不服申立てを行い、その決定を管轄連邦裁判所へ争う経路がある。前置要件を確認する。",
+      "en": "A final Ministry decision may be challenged before the Trademarks Grievances Committee and its decision before the competent federal court; verify mandatory exhaustion."
+    },
+    "refusalAppealPeriod": {
+      "ja": "委員会への不服申立ては決定通知から30日が重要。平均審理期間は公的に一律でないため、委員会と裁判所を分けて見積りを取得する。",
+      "en": "A 30-day period from notification for grievance to the Committee is critical. No uniform official average is identified; estimate Committee and court stages separately."
+    },
+    "publicDatabase": {
+      "ja": "UAE経済・観光省 商標照会・電子サービス",
+      "en": "UAE Ministry of Economy and Tourism — Trademark Inquiry / eServices",
+      "url": "https://www.moet.gov.ae/en/trademark-inquiry"
+    },
+    "publicationStage": {
+      "ja": "審査受理後、出願は省の電子商標公報に公告され、30日間の異議期間に入る。",
+      "en": "After acceptance, the application is published in the Ministry’s electronic trademark bulletin and enters a 30-day opposition period."
+    },
+    "oppositionPeriod": {
+      "ja": "商標公報の公告日から30日。",
+      "en": "30 days from publication in the trademark bulletin."
+    },
+    "oppositionExtension": {
+      "ja": "法定30日の異議期間は延長を当然視せず、期間内提出を前提に管理する。",
+      "en": "Do not assume the statutory 30-day opposition window is extendible; docket filing within it."
+    },
+    "averagePendency": {
+      "ja": "無拒絶・無異議でも審査、公告30日、登録料納付を要する。最新の省サービス水準と現地代理人実績を確認する。",
+      "en": "Even an unobjectionable, unopposed case requires examination, 30-day publication and registration-fee payment; verify current Ministry service levels and local-agent experience."
+    },
+    "term": {
+      "ja": "出願日から10年。10年ごとに更新可能。",
+      "en": "10 years from the filing date, renewable for successive ten-year periods."
+    },
+    "termStart": {
+      "ja": "出願日から。登録後の権利発生・遡及効を個別確認する。",
+      "en": "From the filing date; verify the commencement and any retrospective effect of rights following registration."
+    },
+    "renewalWindow": {
+      "ja": "満了前の所定期間内に更新する。実務上の事前更新可能時期と電子手続を最新確認する。",
+      "en": "Renew within the prescribed pre-expiry period; verify the current advance-renewal window and e-procedure."
+    },
+    "gracePeriod": {
+      "ja": "あり。通常、満了後6か月以内に割増料金付きで更新可能。",
+      "en": "Yes; late renewal is generally available within six months after expiry with surcharge."
+    },
+    "renewalEvidence": {
+      "ja": "通常の更新に使用宣誓・使用証拠は不要。ただし5年不使用取消に備え、UAEでの使用証拠を保存する。",
+      "en": "Use declarations/evidence are not ordinarily required on renewal; retain UAE use evidence against five-year non-use cancellation."
+    },
+    "nonUseCancellation": {
+      "ja": "あり。利害関係人は5年不使用を理由に取消を求め得る。新法下の省・委員会・裁判所の管轄と手続を最新確認する。",
+      "en": "Available at the request of an interested party after five years’ non-use; verify the current Ministry/Committee/court forum and procedure under the new law."
+    },
+    "nonUsePeriod": {
+      "ja": "正当理由なく継続5年間使用されていない場合。全部または一部取消の可否と起算点を確認する。",
+      "en": "Five continuous years of non-use without proper reasons; verify the commencement point and partial revocation."
+    },
+    "nonUseDefenses": {
+      "ja": "UAEにおける商標権者または許諾を受けた者の真正使用、輸入・広告・オンライン取引、および正当な不使用理由を証拠化する。立証責任を確認する。",
+      "en": "Document genuine use in the UAE by the owner or authorized party, imports, advertising, online trade and proper reasons for non-use; verify the burden of proof."
+    },
+    "otherCancellation": {
+      "ja": "普通名称化、誤認的使用、登録条件違反、団体・証明標章の管理違反等による取消可能性を確認する。",
+      "en": "Check revocation for genericide, misleading use, breach of registration conditions and failures concerning collective/certification marks."
+    },
+    "invalidation": {
+      "ja": "あり。絶対的・相対的理由、悪意、先行権利等に基づく全部・一部無効を請求可能。善意登録の期間制限等を確認する。",
+      "en": "Available in whole or in part on absolute/relative grounds, bad faith, earlier rights and other bases; verify time limits affecting good-faith registrations."
+    },
+    "civilInjunction": {
+      "ja": "管轄裁判所で仮処分・終局的差止めを請求可能。新法上の迅速な予防措置、担保、提訴期限を確認する。",
+      "en": "Interim and final injunctions may be sought before the competent court; verify expedited preventive measures, security and merits-action deadlines under the new law."
+    },
+    "civilDamages": {
+      "ja": "損害賠償を請求可能。実損、逸失利益、侵害者利益、評判毀損等の立証を個別検討する。",
+      "en": "Damages may be claimed; assess proof of actual loss, lost profits, infringer’s gains and reputational harm."
+    },
+    "civilEvidencePreservation": {
+      "ja": "侵害品・証拠の記述、差押え、保全、輸入停止等の予防措置を検討できる。",
+      "en": "Preventive measures may include description, seizure and preservation of infringing goods/evidence and suspension of imports."
+    },
+    "civilOther": {
+      "ja": "侵害品・包装・製造手段の廃棄、判決公表、費用等があり得る。",
+      "en": "Destruction of infringing goods, packaging and means, publication of judgment and costs may be available."
+    },
+    "borderMeasures": {
+      "ja": "税関への商標登録・通関停止制度あり。首長国ごとの税関登録、申請、担保、期間を確認する。",
+      "en": "Customs recordal and border suspension are available; verify recordal with relevant Emirate customs, application, security and duration."
+    },
+    "administrativeRaid": {
+      "ja": "経済当局、警察、税関等による市場摘発・押収が実務上重要。首長国ごとの所管・必要書類を確認する。",
+      "en": "Market raids and seizures by economic authorities, police and customs are practically important; verify authority and documents for each Emirate."
+    },
+    "administrativeOther": {
+      "ja": "行政罰、営業停止、在庫押収・廃棄、電子サイト・広告への対応等があり得る。",
+      "en": "Administrative fines, business closure, seizure/destruction of stock and action against websites or advertising may be available."
+    },
+    "criminalAvailability": {
+      "ja": "故意の商標偽造、偽造標章の使用、偽造品の販売・輸入・所持等に刑事責任あり。法人・管理者責任も確認する。",
+      "en": "Criminal liability applies to intentional counterfeiting, use of counterfeit marks and sale, import or possession of counterfeit goods; verify corporate and manager liability."
+    },
+    "criminalFine": {
+      "ja": "あり。新法は犯罪類型に応じ高額の罰金を定める。最新のAED建て上限・下限を確認する。",
+      "en": "Available; the new law provides substantial fines depending on the offense. Verify current AED minima and maxima."
+    },
+    "criminalImprisonment": {
+      "ja": "あり得る。偽造・反復等の犯罪類型と最新の刑期を確認する。",
+      "en": "Potentially available; verify offense type, repetition and current imprisonment term."
+    },
+    "criminalOther": {
+      "ja": "侵害品・器具の没収・廃棄、営業所閉鎖、判決公表、再犯加重等があり得る。",
+      "en": "Confiscation/destruction, closure of premises, publication of judgment and enhanced repeat-offender penalties may be available."
+    }
+  },
+  "notablePoints": [
+    {
+      "title": {
+        "ja": "連邦登録で7首長国を保護",
+        "en": "One federal registration covers seven Emirates"
+      },
+      "detail": {
+        "ja": "UAE商標登録は各首長国への個別出願ではなく連邦全域に効力を有する。ただし税関登録・行政摘発は首長国別対応が必要となり得る。",
+        "en": "A UAE trademark registration has federal effect rather than requiring seven filings, although customs recordals and administrative enforcement may require Emirate-specific action."
+      }
+    },
+    {
+      "title": {
+        "ja": "2021年新商標法",
+        "en": "2021 trademark law"
+      },
+      "detail": {
+        "ja": "Federal Decree-Law No. 36 of 2021と施行規則が制度の中心。非伝統的商標、地理的表示、救済・不服手続を拡充した。",
+        "en": "Federal Decree-Law No. 36 of 2021 and its Executive Regulations form the current framework and expanded non-traditional marks, GIs, remedies and review procedures."
+      }
+    },
+    {
+      "title": {
+        "ja": "委任状の認証とアラビア語訳",
+        "en": "Authenticated power and Arabic translation"
+      },
+      "detail": {
+        "ja": "外国出願では委任状等の公証・認証・翻訳が日程を左右する。アポスティーユ運用を含む最新形式を出願前に確認する。",
+        "en": "For foreign filings, authentication and Arabic translation of powers can drive timing. Confirm current form, including Apostille practice, before filing."
+      }
+    },
+    {
+      "title": {
+        "ja": "異議・不服期限が短い",
+        "en": "Short opposition and grievance deadlines"
+      },
+      "detail": {
+        "ja": "異議は公告から30日、最終決定への委員会不服も30日が重要。通知受領・公報監視を現地代理人と即時共有する。",
+        "en": "Opposition runs 30 days from publication and a 30-day Committee grievance deadline is critical. Coordinate notices and watching immediately with local counsel."
+      }
+    },
+    {
+      "title": {
+        "ja": "行政摘発と税関の実務的重要性",
+        "en": "Practical importance of raids and customs"
+      },
+      "detail": {
+        "ja": "民事訴訟に加え、首長国の経済当局、警察、税関を通じた偽造品対応が有力。権利者登録と認証書類を事前整備する。",
+        "en": "Alongside civil litigation, anti-counterfeiting through Emirate economic authorities, police and customs is significant. Prepare recordals and authenticated documents in advance."
+      }
+    }
+  ],
+  "statistics": {
+    "coverage": "2016–2025",
+    "status": "pending",
+    "series": []
+  },
+  "news": [
+    {
+      "id": "new-trademark-law-2022",
+      "type": "law",
+      "date": "2022-01-02",
+      "title": {
+        "ja": "新商標法の施行",
+        "en": "New trademark law entered into force"
+      },
+      "summary": {
+        "ja": "Federal Decree-Law No. 36 of 2021が旧法を置き換え、非伝統的商標、地理的表示、異議・不服、エンフォースメント等を再編した。",
+        "en": "Federal Decree-Law No. 36 of 2021 replaced the former law and restructured non-traditional marks, GIs, opposition/review and enforcement."
+      },
+      "sourceUrl": "https://www.moet.gov.ae/en/laws-regulations"
+    },
+    {
+      "id": "madrid-accession-2021",
+      "type": "law",
+      "date": "2021-12-28",
+      "title": {
+        "ja": "マドリッド協定議定書がUAEについて発効",
+        "en": "Madrid Protocol entered into force for the UAE"
+      },
+      "summary": {
+        "ja": "UAEを国際登録の指定国とすること、およびUAE出願人による国際出願が可能となった。",
+        "en": "The UAE became available as a Madrid designation and UAE applicants gained access to international filing through Madrid."
+      },
+      "sourceUrl": "https://www.wipo.int/madrid/en/members/"
+    },
+    {
+      "id": "apostille-2024",
+      "type": "practice",
+      "date": "2024-11-07",
+      "title": {
+        "ja": "外国書類認証のアポスティーユ対応を確認",
+        "en": "Check Apostille treatment for foreign documents"
+      },
+      "summary": {
+        "ja": "UAEのハーグ・アポスティーユ条約加入に伴い、委任状・法人資料の認証経路が変化し得る。商標実務での受理形式と開始時期を現地確認する。",
+        "en": "Following the UAE’s accession to the Hague Apostille Convention, authentication routes for powers and corporate documents may change; confirm accepted trademark-office practice and effective timing locally."
+      },
+      "sourceUrl": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=41"
+    }
+  ],
+  "faqs": [
+    {
+      "tag": "Filing",
+      "question": {
+        "ja": "区分ごとの別出願が必要ですか。それとも現在は多区分出願が利用できますか。",
+        "en": "Must we file separately per class, or is a multi-class application currently available?"
+      },
+      "followUp": {
+        "ja": "直接出願とマドプロ指定の費用・審査期間・拒絶対応を比較してください。",
+        "en": "Please compare direct filing and Madrid designation on cost, timing and refusal handling."
+      }
+    },
+    {
+      "tag": "Documents",
+      "question": {
+        "ja": "委任状は公証、アポスティーユ、UAE領事認証のどこまで必要ですか。",
+        "en": "Does the power require notarization, Apostille or UAE consular legalization?"
+      },
+      "followUp": {
+        "ja": "原本・アラビア語法定翻訳の追完期限と、電子署名の可否は。",
+        "en": "What are the deadlines for the original/certified Arabic translation, and is e-signature accepted?"
+      }
+    },
+    {
+      "tag": "Examination",
+      "question": {
+        "ja": "先行商標拒絶に同意書は有効ですか。限定、譲渡、取消との比較は。",
+        "en": "Is consent effective against an earlier-mark refusal, compared with limitation, assignment or cancellation?"
+      },
+      "followUp": {
+        "ja": "拒絶通知の応答期限、延長、商標苦情委員会への30日期限を確認してください。",
+        "en": "Please confirm the refusal-response deadline, extension and 30-day Committee grievance deadline."
+      }
+    },
+    {
+      "tag": "Opposition",
+      "question": {
+        "ja": "30日の異議期間の起算日は、電子公報のどの公告日ですか。",
+        "en": "Which electronic-bulletin publication date triggers the 30-day opposition period?"
+      },
+      "followUp": {
+        "ja": "異議答弁、証拠、聴聞、委員会・裁判所への不服期限と費用は。",
+        "en": "What are the deadlines and costs for defense, evidence, hearing and Committee/court review?"
+      }
+    },
+    {
+      "tag": "Non-use",
+      "question": {
+        "ja": "不使用取消の申立先、5年の起算点、立証責任はどうなっていますか。",
+        "en": "What are the forum, five-year commencement point and burden of proof for non-use cancellation?"
+      },
+      "followUp": {
+        "ja": "UAE向けオンライン販売、輸入、フリーゾーンでの使用は真正使用として十分ですか。",
+        "en": "Are UAE-directed online sales, imports or free-zone use sufficient genuine use?"
+      }
+    },
+    {
+      "tag": "Enforcement",
+      "question": {
+        "ja": "どの首長国で税関登録・行政摘発を行うべきですか。",
+        "en": "In which Emirates should customs recordals and administrative raids be pursued?"
+      },
+      "followUp": {
+        "ja": "仮処分の担保・本案提訴期限、刑事告訴の証拠要件と費用を教えてください。",
+        "en": "What are the security/merits deadlines for interim relief and evidence/cost requirements for criminal complaints?"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "UAE Ministry of Economy and Tourism — Trademarks",
+      "url": "https://www.moet.gov.ae/en/trademarks",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "UAE Ministry — Trademark Inquiry",
+      "url": "https://www.moet.gov.ae/en/trademark-inquiry",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "UAE Legislation — Federal Decree-Law No. 36 of 2021 on Trademarks",
+      "url": "https://uaelegislation.gov.ae/en/legislations/1542",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "UAE Ministry — Laws and Regulations",
+      "url": "https://www.moet.gov.ae/en/laws-regulations",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "WIPO Lex — UAE Legislation Profile",
+      "url": "https://www.wipo.int/wipolex/en/legislation/profile/AE",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "WIPO — Madrid Members",
+      "url": "https://www.wipo.int/madrid/en/members/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "WIPO Madrid Member Profile — United Arab Emirates",
+      "url": "https://www.wipo.int/madrid/memberprofiles/#/result?countries=AE",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "WIPO Global Brand Database",
+      "url": "https://branddb.wipo.int/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "WIPO Nice Classification",
+      "url": "https://www.wipo.int/classifications/nice/en/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "HCCH — Apostille Convention Status Table",
+      "url": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=41",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    }
+  ]
+}
