@@ -17,7 +17,7 @@
     "de"
   ],
   "createdAt": "2026-09-11",
-  "updatedAt": "2026-09-11",
+  "updatedAt": "2026-09-12",
   "status": "review",
   "facts": {
     "authority": {
@@ -99,6 +99,16 @@
       "ja": "あり",
       "en": "Yes",
       "de": "Ja"
+    },
+    "distinctivenessGrounds": {
+      "ja": "識別力を欠く標章、商品・役務の種類、品質、数量、用途、価値、原産地、製造・提供時期その他の特徴を示す記述的表示、普通名称・慣用表示等は登録できない（MarkenG第8条第2項第1号～第3号）。ただし、原則として出願前の使用による需要者への浸透（Verkehrsdurchsetzung）が立証されれば、これらの拒絶理由を克服できる場合がある。",
+      "en": "Marks lacking distinctive character, descriptive indications concerning characteristics such as kind, quality, quantity, intended purpose, value, geographical origin or time of production or supply, and customary signs or indications are excluded under section 8(2), nos. 1–3 MarkenG. These grounds may in principle be overcome by proving acquired distinctiveness among the relevant public through use before the applicable date.",
+      "de": "Von der Eintragung ausgeschlossen sind insbesondere Marken ohne Unterscheidungskraft, beschreibende Angaben über Art, Beschaffenheit, Menge, Bestimmung, Wert, geografische Herkunft, Zeit der Herstellung oder Erbringung oder sonstige Merkmale sowie übliche Zeichen oder Angaben (§ 8 Absatz 2 Nummern 1 bis 3 MarkenG). Diese Schutzhindernisse können grundsätzlich durch den Nachweis der Verkehrsdurchsetzung infolge Benutzung vor dem maßgeblichen Zeitpunkt überwunden werden."
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "保護対象を明確かつ一義的に特定できる態様で表示できない標章、商品の性質に由来する形状等、技術的結果を得るために必要な形状等、商品に本質的価値を与える形状等、公序または善良な風俗に反する標章、需要者を欺くおそれのある標章、国旗・紋章・公的標章、法令上保護される原産地名称・地理的表示、ワインの伝統的用語、伝統的特産品保証および植物品種名称との抵触、悪意による出願等が拒絶理由となり得る（MarkenG第8条）。",
+      "en": "Other grounds under section 8 MarkenG include signs that cannot be represented so that the subject matter of protection is clear and precise; shapes or other characteristics resulting from the nature of the goods, necessary to obtain a technical result or giving substantial value to the goods; signs contrary to public policy or accepted principles of morality; deceptive signs; protected flags, emblems and official signs; conflicts with protected designations of origin, geographical indications, traditional terms for wine, traditional specialities guaranteed or plant variety denominations; and applications filed in bad faith.",
+      "de": "Weitere Schutzhindernisse nach § 8 MarkenG betreffen Zeichen, die nicht so dargestellt werden können, dass der Schutzgegenstand klar und eindeutig bestimmbar ist; Formen oder andere Merkmale, die durch die Art der Ware bedingt, zur Erreichung einer technischen Wirkung erforderlich sind oder der Ware einen wesentlichen Wert verleihen; Verstöße gegen die öffentliche Ordnung oder die guten Sitten; Täuschungsgefahr; geschützte Flaggen, Hoheitszeichen und amtliche Zeichen; Konflikte mit geschützten Ursprungsbezeichnungen, geografischen Angaben, traditionellen Weinbezeichnungen, garantiert traditionellen Spezialitäten oder Sortenbezeichnungen sowie bösgläubige Anmeldungen."
     },
     "relativeGroundsExamination": {
       "ja": "なし。先行商標その他の先行権利との抵触は原則として職権審査されず、登録後の異議申立て等で争われる。",
@@ -327,6 +337,107 @@
       "de": "Ein aktueller amtlicher Durchschnitt für alle zurückweisungsbezogenen Erinnerungs- oder Markenbeschwerdeverfahren vor dem Bundespatentgericht ist nicht feststellbar. Die Dauer hängt von Komplexität, mündlicher Verhandlung, Beweisen und Vorfragen ab. Ist über eine Erinnerung binnen sechs Monaten nicht entschieden und ergeht auch binnen weiterer zwei Monate nach einem Antrag auf Entscheidung keine Entscheidung, kann unter den gesetzlichen Voraussetzungen unmittelbar Beschwerde gegen den ursprünglichen Beschluss erhoben werden. Dies ist ein Rechtsbehelf bei Verzögerung und keine durchschnittliche Verfahrensdauer."
     }
   },
+  "notablePoints": [
+    {
+      "id": "registration-before-opposition",
+      "category": "opposition",
+      "importance": "high",
+      "title": {
+        "ja": "先行権利を職権審査せず、登録後に異議申立て",
+        "en": "No ex officio earlier-right examination; opposition follows registration",
+        "de": "Keine amtliche Prüfung älterer Rechte; Widerspruch erst nach Eintragung"
+      },
+      "summary": {
+        "ja": "DPMAは出願審査で絶対的拒絶理由を審査するが、原則として先行商標等との抵触を職権では審査しない。審査を通過した標章はいったん登録・公表され、その公表から3か月以内に先行権利者が異議を申し立てる。したがって、登録されたという事実だけでは先行権利との抵触がないことを意味しない。",
+        "en": "The DPMA examines absolute grounds but generally does not examine conflicts with earlier marks or rights ex officio. A mark that passes examination is registered and published, and owners of earlier rights then have three months from publication to oppose. Registration therefore does not itself establish freedom from earlier-right conflicts.",
+        "de": "Das DPMA prüft absolute Schutzhindernisse, grundsätzlich aber nicht von Amts wegen Kollisionen mit älteren Marken oder Rechten. Nach erfolgreicher Prüfung wird die Marke eingetragen und veröffentlicht; Inhaber älterer Rechte können innerhalb von drei Monaten ab Veröffentlichung Widerspruch erheben. Die Eintragung besagt daher nicht, dass keine älteren Rechte entgegenstehen."
+      },
+      "practicalImpact": {
+        "ja": "出願前の先行商標調査は出願人側で行う必要があり、登録後も3か月の異議期間中は権利の安定性を慎重に評価する必要がある。",
+        "en": "The applicant must arrange its own clearance search, and the registration should be treated cautiously during the three-month opposition period.",
+        "de": "Der Anmelder muss selbst eine Kollisionsrecherche veranlassen; während der dreimonatigen Widerspruchsfrist ist die Bestandskraft der Eintragung vorsichtig zu beurteilen."
+      },
+      "recommendedAction": {
+        "ja": "DPMAregister、EUIPOおよび必要に応じて企業標識等を調査し、登録公表後は異議期限を監視する。",
+        "en": "Search DPMAregister, EUIPO records and, where relevant, company names or other signs, and monitor the opposition deadline after publication of registration.",
+        "de": "DPMAregister, EUIPO-Daten und gegebenenfalls Unternehmenskennzeichen oder sonstige Rechte recherchieren und nach Veröffentlichung der Eintragung die Widerspruchsfrist überwachen."
+      },
+      "agentQuestion": {
+        "ja": "先行商標だけでなく、ドイツで保護され得る商号・企業標識・使用商標を含め、どの範囲の調査を推奨しますか。",
+        "en": "What scope of clearance do you recommend, including German company names, business identifiers and unregistered marks protected through use as well as registered marks?",
+        "de": "Welchen Umfang der Kollisionsrecherche empfehlen Sie, einschließlich Unternehmenskennzeichen, Benutzungsmarken und eingetragener Marken in Deutschland?"
+      },
+      "sourceUrl": "https://www.dpma.de/marken/pruefung_eintragung_verlaengerung/",
+      "checkedAt": "2026-09-12",
+      "status": "verified"
+    },
+    {
+      "id": "administrative-or-court-cancellation-route",
+      "category": "non-use",
+      "importance": "high",
+      "title": {
+        "ja": "取消し・無効についてDPMA手続と裁判手続を選択可能",
+        "en": "Choice between DPMA and court routes for revocation or invalidity",
+        "de": "Wahl zwischen DPMA- und Gerichtsverfahren bei Verfall oder Nichtigkeit"
+      },
+      "summary": {
+        "ja": "2020年5月1日以降、不使用等を理由とする取消し（Verfall）および先行権利を理由とする無効について、通常裁判所だけでなくDPMAでも実体判断まで求めることができる。相手方が所定期間内に争わない場合の取扱いと、争った場合の継続手続・料金は区別して確認する必要がある。",
+        "en": "Since 1 May 2020, revocation proceedings, including non-use cases, and invalidity proceedings based on earlier rights may be pursued to a substantive decision before the DPMA as well as before the ordinary courts. The consequences of no defence and the continuation requirements and fees where the proprietor contests the application must be distinguished.",
+        "de": "Seit dem 1. Mai 2020 können Verfallsverfahren, insbesondere wegen Nichtbenutzung, sowie Nichtigkeitsverfahren aufgrund älterer Rechte nicht nur vor den ordentlichen Gerichten, sondern auch beim DPMA bis zu einer Sachentscheidung geführt werden. Zu unterscheiden sind die Folgen eines fehlenden Widerspruchs des Markeninhabers und die Voraussetzungen einschließlich Gebühren für die Fortführung des streitigen Verfahrens."
+      },
+      "practicalImpact": {
+        "ja": "官庁ルートと訴訟ルートでは、費用、手続速度、証拠調べ、口頭審理、並行する侵害訴訟への影響が異なり得るため、目的に応じた選択が必要となる。",
+        "en": "The administrative and judicial routes may differ in cost, timing, taking of evidence, hearings and interaction with parallel infringement litigation, so the forum should be selected strategically.",
+        "de": "Amts- und Gerichtsverfahren können sich bei Kosten, Dauer, Beweisaufnahme, mündlicher Verhandlung und Auswirkungen auf parallele Verletzungsverfahren unterscheiden; die Verfahrenswahl ist strategisch zu treffen."
+      },
+      "recommendedAction": {
+        "ja": "取消し・無効を提起する前に、DPMAと通常裁判所の費用・証拠・期間・上訴経路を比較する。",
+        "en": "Before seeking revocation or invalidity, compare cost, evidence, expected duration and appeal routes before the DPMA and the ordinary courts.",
+        "de": "Vor einem Verfalls- oder Nichtigkeitsantrag Kosten, Beweismöglichkeiten, voraussichtliche Dauer und Rechtsmittelwege beim DPMA und vor den ordentlichen Gerichten vergleichen."
+      },
+      "agentQuestion": {
+        "ja": "本件の不使用取消しまたは無効について、DPMAと通常裁判所のどちらが適切で、費用および立証上の主な違いは何ですか。",
+        "en": "For this revocation or invalidity matter, should we proceed before the DPMA or an ordinary court, and what are the principal differences in cost and evidence?",
+        "de": "Sollte dieses Verfalls- oder Nichtigkeitsverfahren beim DPMA oder vor einem ordentlichen Gericht geführt werden, und worin liegen die wichtigsten Kosten- und Beweisunterschiede?"
+      },
+      "sourceUrl": "https://www.dpma.de/service/presse/pressemitteilungen/20200429.html",
+      "checkedAt": "2026-09-12",
+      "status": "verified"
+    },
+    {
+      "id": "mandatory-domestic-representative",
+      "category": "procedure",
+      "importance": "high",
+      "title": {
+        "ja": "ドイツ国内に拠点がない当事者の国内代理人義務",
+        "en": "Mandatory domestic representative for parties without a German establishment",
+        "de": "Pflicht zum Inlandsvertreter ohne Wohn-, Geschäfts- oder Niederlassungssitz in Deutschland"
+      },
+      "summary": {
+        "ja": "ドイツ国内に住所、事業所または営業所を有しない者は、国籍を問わず、DPMAにおける産業財産権手続のため国内代理人（Inlandsvertreter）を選任しなければならない。日本企業による直接出願・マドプロ指定後の応答では、代理資格と送達体制を早期に確認する必要がある。",
+        "en": "A party with no domicile, place of business or establishment in Germany must appoint a domestic representative for industrial-property proceedings before the DPMA, irrespective of nationality. For a Japanese applicant pursuing a direct filing or responding after a Madrid designation, entitlement to act and service arrangements should be confirmed early.",
+        "de": "Wer in Deutschland weder Wohn- noch Geschäftssitz oder Niederlassung hat, muss unabhängig von der Staatsangehörigkeit für Schutzrechtsverfahren vor dem DPMA einen Inlandsvertreter bestellen. Bei japanischen Anmeldern sind sowohl bei Direktanmeldungen als auch bei Erwiderungen nach einer Madrider Benennung Vertretungsbefugnis und Zustellung frühzeitig zu klären."
+      },
+      "practicalImpact": {
+        "ja": "外国代理人のみを記録していても足りない場合があり、拒絶通知や争訟手続の期限前にドイツで資格を有する代理人への委任が必要となる。",
+        "en": "Recording only a foreign representative may be insufficient, and a qualified representative in Germany may need to be appointed before an office-action or contentious-proceeding deadline.",
+        "de": "Die Eintragung nur eines ausländischen Vertreters kann unzureichend sein; vor Ablauf einer Amts- oder Verfahrensfrist kann die Bestellung eines in Deutschland befugten Vertreters erforderlich werden."
+      },
+      "recommendedAction": {
+        "ja": "出願時に国内代理人を指定し、DPMAからの電子・書面通知の受領者と期限管理責任を明確にする。",
+        "en": "Appoint the domestic representative at filing and clearly allocate responsibility for receiving DPMA communications and controlling deadlines.",
+        "de": "Den Inlandsvertreter bereits bei Anmeldung bestellen und Zuständigkeit für den Empfang von DPMA-Mitteilungen und die Fristenkontrolle eindeutig festlegen."
+      },
+      "agentQuestion": {
+        "ja": "貴所はMarkenG第96条上の国内代理人として行為でき、DPMAおよび連邦特許裁判所の双方で一貫して代理できますか。",
+        "en": "Can your firm act as our domestic representative under section 96 MarkenG and represent us consistently before both the DPMA and the Federal Patent Court?",
+        "de": "Kann Ihre Kanzlei als Inlandsvertreter nach § 96 MarkenG tätig werden und uns sowohl vor dem DPMA als auch vor dem Bundespatentgericht durchgängig vertreten?"
+      },
+      "sourceUrl": "https://www.dpma.de/dpma/recht_und_gesetz/vertretungvordemdpma/index.html",
+      "checkedAt": "2026-09-12",
+      "status": "verified"
+    }
+  ],
   "statistics": {
     "coverage": "2016–2025",
     "status": "pending",
@@ -511,6 +622,18 @@
       "url": "https://www.bundespatentgericht.de/",
       "type": "official",
       "checkedAt": "2026-09-11"
+    },
+    {
+      "label": "DPMA — Vertretung vor dem DPMA",
+      "url": "https://www.dpma.de/dpma/recht_und_gesetz/vertretungvordemdpma/index.html",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "DPMA — Neue Verfalls- und Nichtigkeitsverfahren ab 1. Mai 2020",
+      "url": "https://www.dpma.de/service/presse/pressemitteilungen/20200429.html",
+      "type": "official",
+      "checkedAt": "2026-09-12"
     }
   ]
 }
