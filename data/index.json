@@ -89,6 +89,6 @@
   },
   {
     "id": "za",
-    "path": "./data:jurisdictions/za.json"
+    "path": "./data/jurisdictions/za.json"
   }
 ]
