@@ -1,0 +1,504 @@
+{
+  "id": "ie",
+  "type": "country",
+  "flag": "🇮🇪",
+  "region": "europe",
+  "names": {
+    "ja": "アイルランド",
+    "en": "Ireland"
+  },
+  "office": {
+    "ja": "アイルランド知的財産庁（IPOI）",
+    "en": "Intellectual Property Office of Ireland (IPOI)"
+  },
+  "availableLanguages": [],
+  "createdAt": "2026-09-12",
+  "updatedAt": "2026-09-12",
+  "status": "review",
+  "facts": {
+    "authority": {
+      "ja": "アイルランド知的財産庁（IPOI）",
+      "en": "Intellectual Property Office of Ireland (IPOI)"
+    },
+    "protectionScope": {
+      "ja": "商品・役務の商標、団体商標、証明商標。アイルランド国内登録とは別に、欧州連合商標（EUTM）もアイルランドで効力を有する。",
+      "en": "Marks for goods/services, collective marks and certification marks. Separately, European Union trade marks (EUTMs) also have effect in Ireland."
+    },
+    "markTypes": {
+      "ja": "文字、図形、文字・数字、色彩、形状、音、動き、位置、模様、ホログラム、マルチメディア等。明確かつ正確に保護対象を特定できる表示が必要。",
+      "en": "Word, figurative, letter/number, color, shape, sound, motion, position, pattern, hologram and multimedia marks, provided the representation clearly and precisely identifies the subject matter."
+    },
+    "madridAccessionDate": {
+      "ja": "2001年10月19日発効",
+      "en": "Effective 19 October 2001"
+    },
+    "niceClassification": {
+      "ja": "採用。出願時点の最新版およびIPOIの受理可能な商品・役務表示を確認する。",
+      "en": "Adopted; check the edition current at filing and IPOI-acceptable goods/services wording."
+    },
+    "classHeadingPractice": {
+      "ja": "類見出しのみで全商品・役務を当然に包含しない。明確かつ具体的な表示を用いる。",
+      "en": "Class headings do not automatically cover all goods/services in a class; use clear and specific wording."
+    },
+    "retailServices": {
+      "ja": "第35類で可。対象商品または役務内容を具体化する。",
+      "en": "Available in Class 35; identify the relevant goods or nature of the services."
+    },
+    "multiClassApplication": {
+      "ja": "可。追加区分には区分ごとの料金が生じる。",
+      "en": "Available, with per-class fees for additional classes."
+    },
+    "applicationForm": {
+      "ja": "IPOIへオンラインまたは所定様式で、出願人、標章、商品・役務、区分、優先権等を提出する。",
+      "en": "File online or on the prescribed form with IPOI, identifying the applicant, mark, goods/services, classes and priority."
+    },
+    "powerOfAttorney": {
+      "ja": "通常の出願で委任状は一般に要求されないが、代理人選任、署名権限、住所要件を個別確認する。",
+      "en": "A power is not generally required for an ordinary filing; verify appointment, signature authority and address requirements."
+    },
+    "priorityDocuments": {
+      "ja": "パリ優先権は最初の出願から6か月以内。認証謄本はアイルランド出願日から3か月以内にIPOIへ提出する。翻訳要否も確認する。",
+      "en": "Paris priority must be claimed within six months; a certified copy must reach IPOI within three months of the Irish filing date. Check translation requirements."
+    },
+    "homeRegistrationCertificate": {
+      "ja": "通常の国内出願には不要。",
+      "en": "Not normally required for a national filing."
+    },
+    "useEvidenceAtFiling": {
+      "ja": "通常不要。ただし願書には使用または善意の使用意思に関する宣言が含まれる。使用による識別力等を主張する場合は証拠が必要。",
+      "en": "Evidence is not normally required, although the application includes a declaration concerning use or a bona fide intention to use. Evidence is needed for acquired distinctiveness and similar claims."
+    },
+    "notarizationCertification": {
+      "ja": "通常、公証・領事認証は不要。優先権証明その他の認証謄本要件は手続別に確認する。",
+      "en": "Notarization/legalization is not normally required; procedure-specific certified-copy requirements should be checked."
+    },
+    "otherDocuments": {
+      "ja": "標章の明確な表示、非伝統的商標の電子ファイル・説明、優先権資料、翻訳、使用による識別力の証拠等。",
+      "en": "A clear representation, electronic file/description for non-traditional marks, priority material, translations and acquired-distinctiveness evidence as applicable."
+    },
+    "absoluteGroundsExamination": {
+      "ja": "あり。IPOIが職権審査する。",
+      "en": "Yes; examined ex officio by IPOI."
+    },
+    "distinctivenessGrounds": {
+      "ja": "識別力欠如、記述的・普通名称・取引上慣用の表示等。出願前の使用による識別力を証拠で立証できる場合がある。",
+      "en": "Lack of distinctiveness, descriptiveness, generic or customary indications; acquired distinctiveness before filing may be established by evidence."
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "公序・善良な風俗、欺瞞性、保護された紋章・記章、技術的機能等に由来する形状・特徴、地理的表示等との抵触、悪意等を確認する。",
+      "en": "Check public policy/morality, deception, protected emblems, shapes or characteristics resulting from technical functions, conflicts with protected GIs and bad faith."
+    },
+    "relativeGroundsExamination": {
+      "ja": "あり。IPOIは先行するアイルランド商標、EUTMおよびアイルランド指定国際登録等を調査し、絶対的・相対的理由の双方について審査報告を発し得る。",
+      "en": "Yes. IPOI searches earlier Irish marks, EUTMs and international registrations designating Ireland and may issue an examination report on absolute or relative grounds."
+    },
+    "disclaimer": {
+      "ja": "あり。登録の一部要素について排他的権利を主張しない旨を記録できる。",
+      "en": "Available; exclusive rights in an element of the registration may be disclaimed."
+    },
+    "consent": {
+      "ja": "先行権利者の同意が考慮され得るが、同意のみで拒絶が必ず解消されるとは限らない。混同のおそれと公益を個別評価する。",
+      "en": "Earlier-owner consent may be considered but does not necessarily overcome a refusal; likelihood of confusion and public interest remain fact-specific."
+    },
+    "acceleratedExamination": {
+      "ja": "一般的な保証付き早期審査制度は確認できない。緊急性がある場合の取扱いをIPOIまたは現地代理人に照会する。",
+      "en": "No generally guaranteed fast-track route identified; ask IPOI or local counsel about handling in urgent circumstances."
+    },
+    "thirdPartyObservation": {
+      "ja": "公告から3か月以内に絶対的理由に関する情報提供（observations）が可能。相対的理由は正式な異議申立てで主張する。",
+      "en": "Observations on absolute grounds may be filed within three months of publication; relative grounds are raised by formal opposition."
+    },
+    "directExaminationPeriod": {
+      "ja": "IPOIは一律の最新平均審査期間を保証していない。指定商品・役務、拒絶、証拠、異議の有無を前提に現地見積りを取得する。",
+      "en": "IPOI does not guarantee a single current average examination period; obtain a local estimate accounting for specification, objections, evidence and opposition."
+    },
+    "madridExaminationPeriod": {
+      "ja": "アイルランド指定の暫定拒絶通報は原則18か月枠を前提に管理し、WIPO通知に記載された現地応答期限を必ず確認する。",
+      "en": "Manage an Ireland designation on the basis of the applicable 18-month provisional-refusal framework and always verify the local response deadline in the WIPO notice."
+    },
+    "colourPriorityIdentity": {
+      "ja": "優先権基礎とアイルランド出願で色彩の有無・配置を整合させる。白黒とカラーの相違が同一性を損なうかは、色彩が標章の識別性に与える影響を踏まえ個別判断する。",
+      "en": "Align the presence and arrangement of color with the priority filing. Whether black-and-white and color versions are identical depends on color’s effect on the mark’s distinctive character."
+    },
+    "colourRelativeGrounds": {
+      "ja": "色彩は全体的印象の一要素。色の違いだけで類似性が否定されるとは限らず、標章の識別的・支配的要素を総合比較する。",
+      "en": "Color is one element of the overall impression; color differences alone may not avoid similarity, and distinctive/dominant elements are assessed globally."
+    },
+    "colourGenuineUse": {
+      "ja": "登録形態と使用形態の色彩差が識別性を変更しないかを評価する。色彩自体が主要な識別要素なら、異なる色での使用は真正使用として不十分となり得る。",
+      "en": "Assess whether color differences between registration and use alter distinctive character. Where color is itself a key distinctive element, use in another color may be insufficient."
+    },
+    "colourInfringementScope": {
+      "ja": "登録表示、色彩限定、標章全体の視覚・称呼・観念、商品・役務および混同のおそれを総合評価する。",
+      "en": "Assess the registered representation, color limitation, overall visual/aural/conceptual impression, goods/services and likelihood of confusion."
+    },
+    "colourFilingStrategy": {
+      "ja": "色彩がブランドの核心ならカラー版を、使用態様の柔軟性が重要なら白黒版と主要カラー版の併願を検討する。EUTMとのポートフォリオ重複も整理する。",
+      "en": "If color is core to the brand, file the color version; for flexibility consider separate black-and-white and key color filings, coordinated with the EUTM portfolio."
+    },
+    "refusalResponseRoute": {
+      "ja": "IPOIの審査報告に書面意見、商品・役務の限定、標章の許容可能な補正、同意・使用証拠等で応答する。拒絶決定にはControllerへの聴聞・上訴経路を確認する。",
+      "en": "Respond to an IPOI examination report with submissions, limitation of goods/services, permissible amendment, consent or use evidence. For a refusal decision, consider a hearing before the Controller and the applicable appeal route."
+    },
+    "responsePeriod": {
+      "ja": "審査報告への応答は通常3か月。通知記載期限を優先する。",
+      "en": "Normally three months for an examination-report response; the deadline stated in the notice controls."
+    },
+    "extensionAvailable": {
+      "ja": "手続・事情により延長申請の余地あり。期限前にIPOIへ申請する。",
+      "en": "An extension may be requested depending on the procedure and circumstances; apply before expiry."
+    },
+    "extensionLength": {
+      "ja": "一律ではない。通知、規則およびIPOIが認める期間を個別確認する。",
+      "en": "Not uniform; check the notice, Rules and period allowed by IPOI."
+    },
+    "extensionRequirements": {
+      "ja": "期限前の書面申請、理由および所定料金の有無を確認する。放置による失効を避けるため現地代理人管理を推奨。",
+      "en": "Check the need for a timely written request, reasons and prescribed fee. Local docketing is recommended to avoid abandonment."
+    },
+    "appealRoute": {
+      "ja": "Controllerの決定についてHigh Court（高等法院）への上訴が可能。決定の種類により聴聞、上訴期限、費用リスクを確認する。",
+      "en": "A decision of the Controller may be appealed to the High Court; verify hearing steps, appeal deadline and costs risk for the decision concerned."
+    },
+    "refusalAppealPeriod": {
+      "ja": "公式な一律の平均審理期間は確認できない。IPOIでの聴聞とHigh Court上訴を分けて現地見積りを取得する。",
+      "en": "No single official average identified; obtain separate local estimates for an IPOI hearing and a High Court appeal."
+    },
+    "publicDatabase": {
+      "ja": "IPOI Trade Mark Search",
+      "en": "IPOI Trade Mark Search",
+      "url": "https://eregister.ipoi.gov.ie/query/TMQuery.aspx"
+    },
+    "publicationStage": {
+      "ja": "審査受理後、IPOI Official Journalに公告され、情報提供・異議申立て期間に入る。",
+      "en": "After acceptance, the application is published in the IPOI Official Journal and enters the observations/opposition period."
+    },
+    "oppositionPeriod": {
+      "ja": "IPOI Official Journalでの公告日から3か月。",
+      "en": "Three months from publication in the IPOI Official Journal."
+    },
+    "oppositionExtension": {
+      "ja": "法定3か月の異議申立期間は延長を当然視せず、期限内提出を前提に管理する。手続中の合意猶予等は別途確認する。",
+      "en": "Do not assume the statutory three-month opposition window is extendible; docket filing within it. Check separately for agreed procedural stays after commencement."
+    },
+    "averagePendency": {
+      "ja": "無異議・無拒絶でも審査、公告3か月、登録料納付を要する。公式な最新平均がない場合はIPOI年報と現地見積りを用いる。",
+      "en": "Even an unopposed, unobjectionable case requires examination, the three-month publication window and registration-fee payment; use IPOI reports and local estimates where no current official average is stated."
+    },
+    "term": {
+      "ja": "出願日から10年。10年ごとに更新可能。",
+      "en": "10 years from the filing date, renewable for successive ten-year periods."
+    },
+    "termStart": {
+      "ja": "出願日から。登録後の権利行使・遡及効は個別確認する。",
+      "en": "From the filing date; verify post-registration enforceability and any retrospective effect."
+    },
+    "renewalWindow": {
+      "ja": "通常、満了前6か月以内に更新。満了後6か月以内は追加料金付き更新の可否を確認する。",
+      "en": "Normally renew within six months before expiry; check late renewal within six months after expiry with additional fees."
+    },
+    "gracePeriod": {
+      "ja": "あり。通常満了後6か月。追加料金および除去後の回復手続を区別する。",
+      "en": "Yes, normally six months after expiry; distinguish surcharge renewal from restoration after removal."
+    },
+    "renewalEvidence": {
+      "ja": "通常の更新に使用宣誓・使用証拠は不要。ただし5年不使用取消に備え、請求書、広告、ウェブ販売等の証拠を保存する。",
+      "en": "Use declarations/evidence are not ordinarily required on renewal; retain invoices, advertising and online-sales evidence against five-year non-use revocation."
+    },
+    "nonUseCancellation": {
+      "ja": "あり。IPOI（Controller）または裁判所への取消請求が可能。手続選択と費用を確認する。",
+      "en": "Available by revocation application to IPOI (the Controller) or the court; verify forum choice and costs."
+    },
+    "nonUsePeriod": {
+      "ja": "登録手続完了後、正当理由なく継続5年間真正使用がない場合。全部または一部取消となり得る。",
+      "en": "Five continuous years without genuine use following completion of registration, absent proper reasons; revocation may be total or partial."
+    },
+    "nonUseDefenses": {
+      "ja": "アイルランドにおける真正使用、商標権者の同意を得た使用、正当な不使用理由を立証する。取消請求を予期した直前3か月の使用開始・再開には制限がある。",
+      "en": "Prove genuine use in Ireland, use with the proprietor’s consent or proper reasons for non-use. Commencement/resumption in the three months before a contemplated action may be disregarded."
+    },
+    "otherCancellation": {
+      "ja": "普通名称化、誤認を生じる使用等による取消があり得る。権利放棄・更新失効とも区別する。",
+      "en": "Revocation may arise from genericide or misleading use; distinguish surrender and expiry for non-renewal."
+    },
+    "invalidation": {
+      "ja": "あり。絶対的・相対的拒絶理由、悪意等を根拠に全部または一部無効を請求可能。後発的同意・黙認等も検討する。",
+      "en": "Available in whole or in part on absolute/relative grounds, bad faith and other bases; consider consent and acquiescence."
+    },
+    "civilInjunction": {
+      "ja": "Circuit CourtまたはHigh Court等で仮処分・終局的差止めを請求可能。管轄・緊急性・undertaking in damagesを確認する。",
+      "en": "Interim and final injunctions may be sought in the Circuit Court or High Court as appropriate; verify jurisdiction, urgency and undertaking in damages."
+    },
+    "civilDamages": {
+      "ja": "損害賠償または利益計算等を請求可能。善意侵害、追加的損害、費用を個別検討する。",
+      "en": "Damages or an account of profits may be sought; assess innocent infringement, additional damages and costs."
+    },
+    "civilEvidencePreservation": {
+      "ja": "開示、証拠保全命令、捜索・押収型の緊急命令等を事案に応じ検討する。",
+      "en": "Consider discovery, preservation orders and urgent search/seizure-type relief where appropriate."
+    },
+    "civilOther": {
+      "ja": "侵害品・材料の引渡し、廃棄、判決公表、費用回収等があり得る。",
+      "en": "Delivery up/destruction of infringing goods or materials, publication and costs may be available."
+    },
+    "borderMeasures": {
+      "ja": "EU税関エンフォースメント制度に基づく税関申立て・留置が利用可能。アイルランド税関およびEU申請の範囲を確認する。",
+      "en": "Customs applications and detention are available under the EU customs-enforcement regime; verify Irish customs and Union-application coverage."
+    },
+    "administrativeRaid": {
+      "ja": "一般的なIPOI主導の行政摘発制度ではない。An Garda Síochána、税関その他の執行機関による刑事・水際対応を検討する。",
+      "en": "There is no general IPOI-led administrative raid system; consider criminal/border action by An Garda Síochána, customs and other enforcement bodies."
+    },
+    "administrativeOther": {
+      "ja": "税関留置、市場監視、関連規制当局への申告等。民事・刑事手続との組合せを検討する。",
+      "en": "Customs detention, market surveillance and referrals to relevant regulators; consider coordination with civil and criminal action."
+    },
+    "criminalAvailability": {
+      "ja": "登録商標の不正付加、偽造標章商品の取引・所持等について刑事責任があり得る。故意・事業過程・法人責任を確認する。",
+      "en": "Criminal liability may arise for unauthorized application of a registered mark and dealing in or possessing counterfeit-mark goods; verify intent, course-of-business and corporate-liability elements."
+    },
+    "criminalFine": {
+      "ja": "あり。略式・正式起訴、自然人・法人、犯罪類型により上限が異なるため最新法令を確認する。",
+      "en": "Available; current maxima depend on summary/indictable procedure, person/company and offense."
+    },
+    "criminalImprisonment": {
+      "ja": "あり得る。正式起訴を含む犯罪類型および最新の上限を確認する。",
+      "en": "Potentially available; verify the offense, mode of trial and current maximum."
+    },
+    "criminalOther": {
+      "ja": "侵害品・標章作成器具の没収・廃棄、捜索・押収等があり得る。",
+      "en": "Forfeiture/destruction of infringing goods or mark-making equipment and search/seizure may be available."
+    }
+  },
+  "notablePoints": [
+    {
+      "title": {
+        "ja": "国内商標とEUTMの二層構造",
+        "en": "National and EUTM dual layer"
+      },
+      "detail": {
+        "ja": "IPOIの国内商標に加えEUTMもアイルランドで効力を持つ。先行調査、異議、使用立証、Brexit後の英国権利を別々に整理する。",
+        "en": "IPOI national marks coexist with EUTMs. Separate clearance, opposition, use evidence and post-Brexit UK rights."
+      }
+    },
+    {
+      "title": {
+        "ja": "相対的理由も審査対象",
+        "en": "Relative grounds examined"
+      },
+      "detail": {
+        "ja": "IPOIは先行する国内商標、EUTM、アイルランド指定国際登録等を調査し、相対的理由の審査報告を発し得る。EUIPO直接出願との重要な違い。",
+        "en": "IPOI may search earlier national marks, EUTMs and Ireland-designated international registrations and raise relative-ground objections—a key difference from direct EUIPO filing."
+      }
+    },
+    {
+      "title": {
+        "ja": "使用意思の宣言",
+        "en": "Declaration of intention to use"
+      },
+      "detail": {
+        "ja": "願書には使用または善意の使用意思に関する宣言が含まれる。出願時の使用証拠提出とは区別する。",
+        "en": "The application includes a declaration concerning use or bona fide intention to use; this is distinct from filing evidence of use."
+      }
+    },
+    {
+      "title": {
+        "ja": "不使用取消の立証設計",
+        "en": "Non-use evidence design"
+      },
+      "detail": {
+        "ja": "5年経過後は全部・一部取消の対象。アイルランド向け販売、広告、請求書、ウェブ取引の地理的結び付きを継続保存する。",
+        "en": "After five years, total or partial revocation is possible. Preserve Ireland-linked sales, ads, invoices and geographic evidence of online trade."
+      }
+    },
+    {
+      "title": {
+        "ja": "2024年マドプロ規則改正",
+        "en": "2024 Madrid rules amendment"
+      },
+      "detail": {
+        "ja": "2024年10月15日から、国際登録による国内登録の置換について商品・役務の一部置換が可能となった。",
+        "en": "From 15 October 2024, an international registration may partially replace a national registration for only some goods/services."
+      }
+    }
+  ],
+  "statistics": {
+    "coverage": "2016–2025",
+    "status": "pending",
+    "series": []
+  },
+  "news": [
+    {
+      "id": "madrid-partial-replacement-2024",
+      "type": "law",
+      "date": "2024-10-15",
+      "title": {
+        "ja": "マドプロ規則改正：一部置換に対応",
+        "en": "Madrid rules amended for partial replacement"
+      },
+      "summary": {
+        "ja": "S.I. No. 558/2024が同日施行され、国内登録の全商品・役務だけでなく一部について国際登録による置換を記録できるようになった。",
+        "en": "S.I. No. 558/2024 took effect, allowing replacement of a national registration by an international registration for only some goods/services."
+      },
+      "sourceUrl": "https://www.ipoi.gov.ie/en/news-events/news-categories/announcements/trade-marks-madrid-protocol-amendment-regulations-2024/"
+    },
+    {
+      "id": "cp15-2025",
+      "type": "practice",
+      "date": "2025-03-12",
+      "title": {
+        "ja": "CP15：商品・役務比較の共通実務",
+        "en": "CP15 common practice on comparing goods and services"
+      },
+      "summary": {
+        "ja": "IPOIの実務資料に、商品・役務比較に関するCP15共通コミュニケーションが掲載された。類似判断・指定商品設計の参照資料として確認する。",
+        "en": "IPOI published the CP15 Common Communication on comparison of goods and services, relevant to similarity analysis and specification drafting."
+      },
+      "sourceUrl": "https://www.ipoi.gov.ie/en/law-practice/legislation/trade-marks/trade-marks-practice-and-procedures/"
+    },
+    {
+      "id": "official-journal-digital-practice",
+      "type": "practice",
+      "date": "2026-09-12",
+      "title": {
+        "ja": "隔週Official Journalとオンライン監視",
+        "en": "Fortnightly Official Journal and online watching"
+      },
+      "summary": {
+        "ja": "IPOI Journalは隔週発行。3か月の異議期限を逃さないため、IPOI、EUIPO、国際登録を横断した監視が重要。",
+        "en": "The IPOI Journal is issued fortnightly. Watching across IPOI, EUIPO and international registrations is important to protect the three-month opposition deadline."
+      },
+      "sourceUrl": "https://www.ipoi.gov.ie/en/ip-search-tools/"
+    }
+  ],
+  "faqs": [
+    {
+      "tag": "Filing strategy",
+      "question": {
+        "ja": "国内出願、EUTM、マドプロ指定のどれがこの案件に最適ですか。",
+        "en": "Which route—national filing, EUTM or Madrid designation—is best for this matter?"
+      },
+      "followUp": {
+        "ja": "英国も必要な場合、Brexit後の英国出願をどのように組み合わせますか。",
+        "en": "If UK protection is also needed, how should the post-Brexit UK filing be coordinated?"
+      }
+    },
+    {
+      "tag": "Clearance",
+      "question": {
+        "ja": "IPOIの相対的理由審査で引用されそうな国内商標、EUTM、国際登録はありますか。",
+        "en": "Are there Irish marks, EUTMs or international registrations likely to be cited in IPOI relative-ground examination?"
+      },
+      "followUp": {
+        "ja": "同意、指定商品限定、譲渡・共存契約のどれが実務上有効ですか。",
+        "en": "Would consent, specification limitation, assignment or coexistence be most effective?"
+      }
+    },
+    {
+      "tag": "Examination",
+      "question": {
+        "ja": "審査報告への3か月期限について延長は可能で、必要な理由・料金は何ですか。",
+        "en": "Can the three-month examination-report deadline be extended, and what reasons or fees apply?"
+      },
+      "followUp": {
+        "ja": "聴聞を請求する時点と、High Court上訴までの費用・期間の目安は。",
+        "en": "When should a hearing be requested, and what are the likely cost and timing through a High Court appeal?"
+      }
+    },
+    {
+      "tag": "Opposition",
+      "question": {
+        "ja": "3か月の異議期間中に、情報提供と正式異議をどう使い分けますか。",
+        "en": "How should observations and formal opposition be distinguished during the three-month window?"
+      },
+      "followUp": {
+        "ja": "和解交渉中に手続を止める方法と費用リスクはありますか。",
+        "en": "Can proceedings be stayed for settlement talks, and what is the costs risk?"
+      }
+    },
+    {
+      "tag": "Use",
+      "question": {
+        "ja": "アイルランドでの真正使用を示す最低限の売上・広告・ウェブ証拠は何ですか。",
+        "en": "What minimum sales, advertising and web evidence establishes genuine use in Ireland?"
+      },
+      "followUp": {
+        "ja": "EUTMの使用または北アイルランド・英国での使用は、この登録の維持にどこまで役立ちますか。",
+        "en": "To what extent can EUTM use or use in Northern Ireland/the UK support this registration?"
+      }
+    },
+    {
+      "tag": "Enforcement",
+      "question": {
+        "ja": "仮処分、税関申立て、刑事告訴のうち、偽造品案件ではどれを優先すべきですか。",
+        "en": "For a counterfeiting matter, should we prioritize interim relief, customs action or a criminal complaint?"
+      },
+      "followUp": {
+        "ja": "担保、証拠保全、敗訴者費用負担の実務的リスクは。",
+        "en": "What are the practical risks concerning security, evidence preservation and adverse costs?"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "IPOI — Trade Marks",
+      "url": "https://www.ipoi.gov.ie/en/types-of-ip/trade-marks/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IPOI — Examination Process",
+      "url": "https://www.ipoi.gov.ie/en/types-of-ip/trade-marks/after-you-apply/examination-process/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IPOI — Opposition",
+      "url": "https://www.ipoi.gov.ie/en/types-of-ip/trade-marks/after-you-apply/opposition/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IPOI — Guide to Completing the Application Form",
+      "url": "https://www.ipoi.gov.ie/en/types-of-ip/trade-marks/the-application-process/guide-to-completing-the-application-form/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IPOI — Priority",
+      "url": "https://www.ipoi.gov.ie/en/types-of-ip/trade-marks/the-application-process/priority/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IPOI — Managing Trade Marks",
+      "url": "https://www.ipoi.gov.ie/en/types-of-ip/trade-marks/managing-trade-marks/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IPOI — Trade Mark Search Tools",
+      "url": "https://www.ipoi.gov.ie/en/types-of-ip/trade-marks/using-the-trade-mark-search-tools/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IPOI — Rules and Regulations",
+      "url": "https://www.ipoi.gov.ie/en/law-practice/legislation/trade-marks/rules-regulations/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IPOI — Madrid Protocol Amendment Regulations 2024",
+      "url": "https://www.ipoi.gov.ie/en/news-events/news-categories/announcements/trade-marks-madrid-protocol-amendment-regulations-2024/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "WIPO — Ratification by Ireland (Madrid Protocol)",
+      "url": "https://www.wipo.int/wipolex/en/treaties/notifications/details/treaty_madridp-gp_135",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    }
+  ]
+}
