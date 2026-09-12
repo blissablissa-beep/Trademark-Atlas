@@ -1,0 +1,514 @@
+{
+  "id": "vn",
+  "type": "country",
+  "flag": "🇻🇳",
+  "region": "asia",
+  "names": {
+    "ja": "ベトナム社会主義共和国",
+    "en": "Socialist Republic of Viet Nam"
+  },
+  "office": {
+    "ja": "ベトナム知的財産庁（IP VIET NAM）",
+    "en": "Intellectual Property Office of Viet Nam (IP VIET NAM)"
+  },
+  "availableLanguages": [],
+  "createdAt": "2026-09-12",
+  "updatedAt": "2026-09-12",
+  "status": "review",
+  "facts": {
+    "authority": {
+      "ja": "ベトナム知的財産庁（IP VIET NAM）",
+      "en": "Intellectual Property Office of Viet Nam (IP VIET NAM)"
+    },
+    "protectionScope": {
+      "ja": "商品・役務の商標、団体商標、証明商標、周知商標。地理的表示は別制度。",
+      "en": "Marks for goods/services, collective marks, certification marks and well-known marks; geographical indications follow a separate regime."
+    },
+    "markTypes": {
+      "ja": "文字、語、図形、画像、ホログラム、これらの組合せおよび色彩表示、ならびに音商標。視覚的標識または図形表示可能な音であること等が必要。",
+      "en": "Letters, words, devices, images, holograms, combinations and colors, as well as sound marks; applicable visual or graphical-representation requirements must be met."
+    },
+    "madridAccessionDate": {
+      "ja": "マドリッド協定：1949年3月8日、マドリッド協定議定書：2006年7月11日発効",
+      "en": "Madrid Agreement: 8 March 1949; Madrid Protocol effective 11 July 2006"
+    },
+    "niceClassification": {
+      "ja": "採用。最新ニース分類とベトナム語の商品・役務表示を確認する。",
+      "en": "Adopted; verify the current Nice edition and Vietnamese goods/services wording."
+    },
+    "classHeadingPractice": {
+      "ja": "類見出しだけに依存せず、商品・役務を明確・具体的にベトナム語で記載する。",
+      "en": "Do not rely solely on class headings; state goods/services clearly and specifically in Vietnamese."
+    },
+    "retailServices": {
+      "ja": "第35類で登録可能。対象商品および小売役務の内容を具体化する。",
+      "en": "Registrable in Class 35; specify the relevant goods and nature of retail services."
+    },
+    "multiClassApplication": {
+      "ja": "可。多区分出願が可能で、区分・商品数に応じた料金が課される。",
+      "en": "Available; multi-class applications are permitted with fees based on classes and item counts."
+    },
+    "applicationForm": {
+      "ja": "IP VIET NAMへ紙またはオンラインで出願人、標章、区分、商品・役務、優先権等を提出する。",
+      "en": "File on paper or online with IP VIET NAM, identifying applicant, mark, classes, goods/services and priority."
+    },
+    "powerOfAttorney": {
+      "ja": "外国出願人はベトナムの工業所有権代理人を通じ、委任状を提出する。原本・追完期限を確認する。",
+      "en": "A foreign applicant files through a Vietnamese industrial-property representative and provides a power; verify original and late-filing deadlines."
+    },
+    "priorityDocuments": {
+      "ja": "パリ優先権は最初の出願から6か月以内。証明書とベトナム語訳の期限を確認する。",
+      "en": "Paris priority must be claimed within six months; verify deadlines for the certified document and Vietnamese translation."
+    },
+    "homeRegistrationCertificate": {
+      "ja": "通常の直接出願には不要。",
+      "en": "Not normally required for a direct national filing."
+    },
+    "useEvidenceAtFiling": {
+      "ja": "通常不要。使用による識別力、周知性、先使用等を主張する場合は証拠が必要となり得る。",
+      "en": "Not normally required; evidence may be needed for acquired distinctiveness, well-known status or prior use."
+    },
+    "notarizationCertification": {
+      "ja": "委任状は通常公証・領事認証不要とされるが、署名・原本要件を最新実務で確認する。",
+      "en": "A power generally requires no notarization/legalization, subject to current signature and original-document requirements."
+    },
+    "otherDocuments": {
+      "ja": "標章見本・説明、音声ファイル・楽譜等、ベトナム語訳、法人情報、優先権・使用証拠。",
+      "en": "Representation/description, sound file or musical notation, Vietnamese translations, entity details, priority and use evidence."
+    },
+    "absoluteGroundsExamination": {
+      "ja": "あり。IP VIET NAMが職権審査する。",
+      "en": "Yes; examined ex officio by IP VIET NAM."
+    },
+    "distinctivenessGrounds": {
+      "ja": "単純な図形・数字、普通・記述的表示、地理的名称、商品の形状、取引上慣用の標識等は拒絶され得る。使用による識別力を検討可能。",
+      "en": "Simple devices/numerals, generic or descriptive matter, geographical names, product shapes and customary signs may be refused; acquired distinctiveness may be considered."
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "国家・国際機関の旗章、指導者・英雄の名称肖像、公序良俗、誤認的表示、植物品種、著作権対象等を確認する。",
+      "en": "Check bars involving state/international emblems, names or portraits of leaders/heroes, public order/morality, deception, plant varieties and copyrighted matter."
+    },
+    "relativeGroundsExamination": {
+      "ja": "あり。先行出願・登録、周知商標、商号、地理的表示、著作権等との抵触を職権審査する。",
+      "en": "Yes; IP VIET NAM examines conflicts with earlier applications/registrations, well-known marks, trade names, GIs and copyright."
+    },
+    "disclaimer": {
+      "ja": "非識別要素について権利不要求または保護範囲の限定が付される実務がある。",
+      "en": "Non-distinctive elements may be disclaimed or excluded from the scope of protection."
+    },
+    "consent": {
+      "ja": "同意書のみで同一・類似の先行商標拒絶が当然解消するとは限らない。関連性・譲渡等の選択肢を確認する。",
+      "en": "Consent alone may not automatically overcome an earlier-mark refusal; consider relationship, assignment and other options."
+    },
+    "acceleratedExamination": {
+      "ja": "一般的早期審査制度の有無・要件は最新のIP VIET NAM運用を確認する。",
+      "en": "Confirm current availability and requirements of any general expedited examination route."
+    },
+    "thirdPartyObservation": {
+      "ja": "出願公告後、第三者意見を提出可能。2022年改正後は、所定期間内の正式異議申立ても別制度として利用できる。",
+      "en": "Third-party observations may be submitted after publication; following the 2022 amendments, a separate formal opposition is also available within the prescribed period."
+    },
+    "directExaminationPeriod": {
+      "ja": "法定上、方式審査1か月、適法受理後2か月以内に公告、公告から実体審査9か月。ただし実際は遅延し得る。",
+      "en": "Statutory stages are one month for formality examination, publication within two months after acceptance, and nine months for substantive examination from publication; actual delays may occur."
+    },
+    "madridExaminationPeriod": {
+      "ja": "マドプロ指定の拒絶通報期間は原則12か月。暫定拒絶記載の現地応答期限を確認する。",
+      "en": "The Madrid refusal-notification period is generally 12 months; verify the local response deadline stated in the provisional refusal."
+    },
+    "colourPriorityIdentity": {
+      "ja": "優先権基礎とベトナム出願で色彩の有無・配置を一致させ、同一性を確保する。許容差は要個別確認。",
+      "en": "Align color claims and arrangement with the priority filing to preserve identity; confirm permissible differences."
+    },
+    "colourRelativeGrounds": {
+      "ja": "色彩は全体的印象の一要素であり、色の変更だけで類似性が解消するとは限らない。",
+      "en": "Color is one factor in overall impression and a color change alone may not avoid similarity."
+    },
+    "colourGenuineUse": {
+      "ja": "登録形態と使用形態の差異が識別性を変更するかを評価。白黒登録のカラー使用による維持を当然視しない。",
+      "en": "Assess whether differences from the registered form alter distinctive character; do not assume color use always maintains a black-and-white registration."
+    },
+    "colourInfringementScope": {
+      "ja": "色彩を含む外観、称呼、観念、識別力、商品・役務、取引事情を総合評価する。",
+      "en": "Assess visual, phonetic and conceptual impressions including color, distinctiveness, goods/services and market context."
+    },
+    "colourFilingStrategy": {
+      "ja": "色彩が重要ならカラー版、柔軟性が必要なら白黒版・主要変形の別出願を検討。",
+      "en": "If color matters, file in color; for flexibility consider separate black-and-white and key variants."
+    },
+    "refusalResponseRoute": {
+      "ja": "審査結果通知・拒絶予定通知に、ベトナム語の書面意見、補正、証拠で応答する。最終拒絶には庁内不服申立て、行政訴訟等を検討する。",
+      "en": "Respond to examination results or intended refusal with Vietnamese submissions, amendments and evidence; a final refusal may be challenged administratively and/or in administrative court."
+    },
+    "responsePeriod": {
+      "ja": "拒絶予定通知への応答は通常3か月が重要。通知ごとの期限、延長、追加料金を確認する。",
+      "en": "A three-month response period is commonly critical for intended refusals; verify the notice, extension and fee."
+    },
+    "extensionAvailable": {
+      "ja": "手続により一回の延長が可能な場合がある。期限前申請・料金を確認する。",
+      "en": "A single extension may be available for certain procedures; verify timely request and fee."
+    },
+    "extensionLength": {
+      "ja": "通常、当初期間と同程度までの延長が問題となるが、通知・根拠規定を個別確認する。",
+      "en": "An extension comparable to the original period may apply, but verify the notice and governing rule."
+    },
+    "extensionRequirements": {
+      "ja": "期限前の書面申請および所定料金。理由・証拠の要否を現地代理人に確認する。",
+      "en": "A timely written request and prescribed fee; confirm whether reasons/evidence are required."
+    },
+    "appealRoute": {
+      "ja": "IP VIET NAMの決定に対する第一次不服申立て、上級行政機関への第二次不服または裁判所への行政訴訟を検討する。",
+      "en": "Consider a first complaint to IP VIET NAM, a second administrative complaint to the superior authority, or administrative litigation in court."
+    },
+    "refusalAppealPeriod": {
+      "ja": "公式な平均審理期間は確認できない。庁内第一次・第二次不服と行政訴訟を分けて現地見積りを取得する。",
+      "en": "No official average identified; obtain separate local estimates for first/second administrative complaints and court litigation."
+    },
+    "publicDatabase": {
+      "ja": "IP VIET NAM産業財産デジタルライブラリ／WIPO Publish",
+      "en": "IP VIET NAM Industrial Property Digital Library / WIPO Publish",
+      "url": "https://wipopublish.ipvietnam.gov.vn/"
+    },
+    "publicationStage": {
+      "ja": "方式審査で適法と認められた後、原則2か月以内に工業所有権公報へ公告される。",
+      "en": "After formal acceptance, the application is generally published in the Industrial Property Gazette within two months."
+    },
+    "oppositionPeriod": {
+      "ja": "商標出願の公告日から5か月以内に正式異議申立て。第三者意見とは区別する。",
+      "en": "Formal opposition within five months from publication of a trademark application; distinguish this from third-party observations."
+    },
+    "oppositionExtension": {
+      "ja": "法定5か月の正式異議期間は原則延長不可として管理する。",
+      "en": "Treat the statutory five-month formal opposition period as generally non-extendible."
+    },
+    "averagePendency": {
+      "ja": "法定合計は概ね12か月超だが、バックログ、拒絶、異議により実際は長期化し得る。",
+      "en": "The statutory stages total roughly more than 12 months, but backlog, objections and opposition can significantly lengthen actual pendency."
+    },
+    "term": {
+      "ja": "出願日から10年。10年ごとに更新可能。",
+      "en": "10 years from the filing date, renewable for successive ten-year periods."
+    },
+    "termStart": {
+      "ja": "出願日から。権利は登録証発行により成立する。",
+      "en": "From the filing date; rights arise upon issuance of the certificate."
+    },
+    "renewalWindow": {
+      "ja": "満了前6か月以内に更新。満了後6か月以内は割増料金付き更新が可能。",
+      "en": "Renew within six months before expiry; late renewal is available within six months after expiry with surcharge."
+    },
+    "gracePeriod": {
+      "ja": "あり。満了後6か月。遅延月ごとの割増料金を確認する。",
+      "en": "Yes, six months after expiry; verify monthly surcharge."
+    },
+    "renewalEvidence": {
+      "ja": "使用宣誓・使用証拠は通常の更新要件ではない。ただし5年不使用取消に備え証拠を保存する。",
+      "en": "A declaration/evidence of use is not ordinarily required for renewal; retain evidence for possible five-year non-use termination."
+    },
+    "nonUseCancellation": {
+      "ja": "あり。利害関係人がIP VIET NAMへ登録効力終了を請求できる行政手続。",
+      "en": "Available through an administrative request by an interested person to IP VIET NAM for termination of validity."
+    },
+    "nonUsePeriod": {
+      "ja": "正当理由なく、取消請求前に連続5年以上使用されていない場合。",
+      "en": "At least five consecutive years of non-use before the termination request, without proper reasons."
+    },
+    "nonUseDefenses": {
+      "ja": "権利者またはライセンシーによる真正使用、不可抗力その他正当理由を立証する。取消請求前3か月以内の使用再開には制限があり得る。",
+      "en": "Show genuine use by the owner/licensee or force majeure/other proper reasons; use resumed within three months before the request may be restricted."
+    },
+    "otherCancellation": {
+      "ja": "普通名称化、権利者不存在、証明商標の管理違反、誤認的使用等による効力終了・取消があり得る。",
+      "en": "Termination/cancellation may apply for genericide, cessation of the proprietor, certification-mark control failures, misleading use and other grounds."
+    },
+    "invalidation": {
+      "ja": "あり。登録要件欠缺、悪意等を理由にIP VIET NAMへ全部・一部無効を請求できる。",
+      "en": "Available before IP VIET NAM, in whole or in part, for lack of registrability, bad faith and other grounds."
+    },
+    "civilInjunction": {
+      "ja": "人民裁判所で暫定措置および終局的差止めを請求可能。",
+      "en": "Provisional measures and final injunctions may be sought in the People’s Courts."
+    },
+    "civilDamages": {
+      "ja": "損害賠償を請求可能。実損、利益、精神的損害、弁護士費用等の法定枠を確認する。",
+      "en": "Damages may be claimed; verify statutory treatment of actual loss, profits, moral damage and attorney fees."
+    },
+    "civilEvidencePreservation": {
+      "ja": "暫定措置、証拠保全、侵害品・製造手段の差押え等を検討できる。",
+      "en": "Provisional measures, evidence preservation and seizure of infringing goods/means may be considered."
+    },
+    "civilOther": {
+      "ja": "侵害停止、謝罪・訂正、侵害品・原材料・設備の廃棄または非商業的処分等。",
+      "en": "Cessation, apology/correction and destruction or non-commercial disposal of infringing goods, materials and equipment may be available."
+    },
+    "borderMeasures": {
+      "ja": "税関監視・通関停止制度あり。申請、担保、期間、検査、提訴要件を確認する。",
+      "en": "Customs supervision and suspension are available; verify application, security, duration, inspection and litigation requirements."
+    },
+    "administrativeRaid": {
+      "ja": "市場管理局、経済警察、税関、科学技術当局等による行政摘発・押収が実務上重要。",
+      "en": "Administrative raids and seizures by market surveillance, economic police, customs and science/technology authorities are practically important."
+    },
+    "administrativeOther": {
+      "ja": "行政罰、没収、営業停止、侵害品廃棄、許認可措置等があり得る。",
+      "en": "Administrative fines, confiscation, business suspension, destruction and licensing measures may apply."
+    },
+    "criminalAvailability": {
+      "ja": "一定規模・価値以上の故意の商標侵害・偽造品取引には刑事責任あり。法人責任もあり得る。",
+      "en": "Intentional trademark infringement/counterfeit trade above statutory thresholds may incur criminal liability, including corporate liability."
+    },
+    "criminalFine": {
+      "ja": "個人・法人に罰金あり。侵害規模、利益、損害、再犯等で異なる。",
+      "en": "Fines apply to individuals and entities, varying with scale, profit, loss and recidivism."
+    },
+    "criminalImprisonment": {
+      "ja": "個人について拘禁刑があり得る。法定閾値・加重事情を確認する。",
+      "en": "Imprisonment may apply to individuals; verify statutory thresholds and aggravating factors."
+    },
+    "criminalOther": {
+      "ja": "法人の営業停止、侵害品・設備の没収・廃棄等があり得る。",
+      "en": "Corporate business suspension and forfeiture/destruction of infringing goods/equipment may apply."
+    }
+  },
+  "notablePoints": [
+    {
+      "id": "formal-opposition-2022",
+      "importance": "high",
+      "title": {
+        "ja": "2022年改正で正式異議制度を導入",
+        "en": "Formal opposition introduced by the 2022 amendments"
+      },
+      "summary": {
+        "ja": "第三者意見とは別に、商標出願公告から5か月以内の正式異議申立てが設けられた。手続・料金・証拠を区別して管理する。",
+        "en": "A formal opposition within five months from publication was introduced separately from third-party observations; manage procedure, fees and evidence distinctly."
+      },
+      "sourceUrl": "https://www.wipo.int/wipolex/en/legislation/details/21740"
+    },
+    {
+      "id": "administrative-non-use",
+      "importance": "critical",
+      "title": {
+        "ja": "不使用取消はIP VIET NAMへの行政請求",
+        "en": "Administrative non-use termination before IP VIET NAM"
+      },
+      "summary": {
+        "ja": "5年以上の不使用を理由とする効力終了は、IP VIET NAMへの行政請求が中心。インドネシアの商事裁判所型とは異なる。",
+        "en": "Termination for at least five years of non-use is principally requested administratively before IP VIET NAM, unlike Indonesia’s Commercial Court model."
+      },
+      "sourceUrl": "https://www.wipo.int/wipolex/en/legislation/details/12011"
+    },
+    {
+      "id": "statutory-vs-actual-time",
+      "importance": "high",
+      "title": {
+        "ja": "法定審査期間と実際の遅延",
+        "en": "Statutory examination periods versus actual delay"
+      },
+      "summary": {
+        "ja": "方式1か月・公告2か月・実体9か月という法定枠があるが、バックログにより実期間は長くなり得る。出張時は現地実測値を確認する。",
+        "en": "Statutory stages are one month, two months and nine months, but backlog may cause substantially longer actual pendency; obtain current local figures."
+      },
+      "sourceUrl": "https://www.ipvietnam.gov.vn/web/english/trademark-examination-procedure"
+    },
+    {
+      "id": "sound-marks-2022",
+      "importance": "medium",
+      "title": {
+        "ja": "音商標の保護",
+        "en": "Protection of sound marks"
+      },
+      "summary": {
+        "ja": "2022年改正で音商標保護が明確化された。音声ファイル・図形表示・識別力の方式を最新施行規則で確認する。",
+        "en": "The 2022 amendments expressly enabled sound-mark protection; verify audio file, graphical representation and distinctiveness requirements under current rules."
+      },
+      "sourceUrl": "https://www.wipo.int/wipolex/en/legislation/details/21740"
+    },
+    {
+      "id": "madrid-agreement-protocol",
+      "importance": "high",
+      "title": {
+        "ja": "協定と議定書の双方に加盟",
+        "en": "Member of both Madrid Agreement and Protocol"
+      },
+      "summary": {
+        "ja": "マドリッド協定には1949年、議定書には2006年から参加。出願経路・拒絶期間は基礎となる制度を区別する。",
+        "en": "Viet Nam has participated in the Agreement since 1949 and the Protocol since 2006; distinguish the governing route and refusal period."
+      },
+      "sourceUrl": "https://www.wipo.int/wipolex/en/treaties/ShowResults?code=VN"
+    }
+  ],
+  "statistics": {
+    "coverage": "2016–2025",
+    "status": "pending",
+    "series": []
+  },
+  "news": [
+    {
+      "id": "examination-guidelines-review-2025",
+      "type": "practice",
+      "date": "2025-06-03",
+      "title": {
+        "ja": "商標審査規則の見直しを進行",
+        "en": "Review of trademark examination regulations underway"
+      },
+      "summary": {
+        "ja": "IP VIET NAMはCircular 23/2023の改正および商標出願審査規則の見直しを公表した。施行済み変更と検討段階を区別して追跡する。",
+        "en": "IP VIET NAM reported work on amending Circular 23/2023 and reviewing trademark examination regulations; track enacted and proposed changes separately."
+      },
+      "sourceUrl": "https://www.ipvietnam.gov.vn/web/english/announcement/-/asset_publisher/ZMuTgR44COLR/content/formulation-and-improvement-of-legislation-and-policies-on-intellectual-property"
+    },
+    {
+      "id": "circular-23-2023",
+      "type": "law",
+      "date": "2023-11-30",
+      "title": {
+        "ja": "Circular 23/2023が施行手続を具体化",
+        "en": "Circular 23/2023 details implementation procedures"
+      },
+      "summary": {
+        "ja": "Decree 65/2023に基づく産業財産権の成立手続・情報制度を具体化した。",
+        "en": "The Circular details procedures for establishing industrial-property rights and information mechanisms under Decree 65/2023."
+      },
+      "sourceUrl": "https://www.wipo.int/wipolex/en/legislation/details/23898"
+    },
+    {
+      "id": "decree-65-2023",
+      "type": "law",
+      "date": "2023-08-23",
+      "title": {
+        "ja": "Decree 65/2023が改正知財法を施行",
+        "en": "Decree 65/2023 implements the amended IP Law"
+      },
+      "summary": {
+        "ja": "2022年改正知財法の産業財産手続、権利保護、様式等を具体化した主要施行令。",
+        "en": "A principal implementing decree for industrial-property procedure, enforcement and forms under the amended IP Law."
+      },
+      "sourceUrl": "https://www.wipo.int/wipolex/en/legislation/details/23885"
+    }
+  ],
+  "faqs": [
+    {
+      "tag": "Filing",
+      "question": {
+        "ja": "商品・役務のベトナム語訳と多区分構成は適切ですか。",
+        "en": "Are the Vietnamese translation and multi-class structure of the goods/services appropriate?"
+      },
+      "followUp": {
+        "ja": "法定審査期間ではなく、現在の実際の平均期間を教えてください。",
+        "en": "Please provide current actual averages rather than only statutory periods."
+      }
+    },
+    {
+      "tag": "Opposition",
+      "question": {
+        "ja": "正式異議と第三者意見のどちらを選ぶべきですか。",
+        "en": "Should we file a formal opposition or a third-party observation?"
+      },
+      "followUp": {
+        "ja": "5か月の期限、料金、証拠、当事者参加の違いを説明してください。",
+        "en": "Please explain differences in the five-month deadline, fees, evidence and party status."
+      }
+    },
+    {
+      "tag": "Non-use",
+      "question": {
+        "ja": "5年の不使用期間の起算日と、使用再開の3か月制限を確認できますか。",
+        "en": "Can you confirm the five-year start date and the restriction on use resumed within three months?"
+      },
+      "followUp": {
+        "ja": "オンライン販売、輸出、ライセンシー使用は真正使用になりますか。",
+        "en": "Do online sales, exports and licensee use qualify as genuine use?"
+      }
+    },
+    {
+      "tag": "Madrid",
+      "question": {
+        "ja": "直接出願とマドプロ指定のどちらが本件に適しますか。",
+        "en": "Should this case use a direct filing or Madrid designation?"
+      },
+      "followUp": {
+        "ja": "協定・議定書、拒絶期間、現地応答期限を確認してください。",
+        "en": "Confirm the Agreement/Protocol basis, refusal period and local response deadline."
+      }
+    },
+    {
+      "tag": "Colour",
+      "question": {
+        "ja": "白黒登録とカラー使用の同一性を、優先権・類似・不使用取消・侵害でどう判断しますか。",
+        "en": "How is identity between black-and-white registration and color use assessed for priority, similarity, non-use and infringement?"
+      }
+    },
+    {
+      "tag": "Enforcement",
+      "question": {
+        "ja": "行政摘発、民事訴訟、刑事手続、税関措置の最適な組合せは何ですか。",
+        "en": "What is the best combination of administrative raid, civil litigation, criminal action and customs measures?"
+      },
+      "followUp": {
+        "ja": "当局ごとの証拠、費用、期間、実効性を比較してください。",
+        "en": "Compare evidence, cost, duration and effectiveness for each authority."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "IP VIET NAM—Trademarks",
+      "url": "https://www.ipvietnam.gov.vn/en_US/web/english/trademarks",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IP VIET NAM—Examination Procedure",
+      "url": "https://www.ipvietnam.gov.vn/web/english/trademark-examination-procedure",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IP VIET NAM Home",
+      "url": "https://www.ipvietnam.gov.vn/en/web/english/home",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IP Law 2005—WIPO Lex",
+      "url": "https://www.wipo.int/wipolex/en/legislation/details/12011",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IP Law Amendment 2022",
+      "url": "https://www.wipo.int/wipolex/en/legislation/details/21740",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Decree 65/2023",
+      "url": "https://www.wipo.int/wipolex/en/legislation/details/23885",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Circular 23/2023",
+      "url": "https://www.wipo.int/wipolex/en/legislation/details/23898",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "WIPO treaty profile—Viet Nam",
+      "url": "https://www.wipo.int/wipolex/en/treaties/ShowResults?code=VN",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "WIPO Madrid Protocol accession—Viet Nam",
+      "url": "https://www.wipo.int/edocs/madrdocs/en/2006/madrid_2006_5.pdf",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IP VIET NAM—2025 policy review",
+      "url": "https://www.ipvietnam.gov.vn/web/english/announcement/-/asset_publisher/ZMuTgR44COLR/content/formulation-and-improvement-of-legislation-and-policies-on-intellectual-property",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    }
+  ]
