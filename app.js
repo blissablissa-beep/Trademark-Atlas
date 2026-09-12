@@ -34,53 +34,53 @@ const ui = {
 
 const copy = {
   ja: {
-    all: "ã™ã¹ã¦",
-    europe: "æ¬§å·ž",
-    americas: "ç±³å·ž",
-    asia: "ã‚¢ã‚¸ã‚¢",
-    region: "åœ°åŸŸåˆ¶åº¦",
-    jurisdictions: "æ³•åŸŸ",
+    all: "\u{3059}\u{3079}\u{3066}",
+    europe: "\u{6B27}\u{5DDE}",
+    americas: "\u{7C73}\u{5DDE}",
+    asia: "\u{30A2}\u{30B8}\u{30A2}",
+    region: "\u{5730}\u{57DF}\u{5236}\u{5EA6}",
+    jurisdictions: "\u{6CD5}\u{57DF}",
 
-    created: "ä½œæˆæ—¥",
-    updated: "æœ€çµ‚æ›´æ–°æ—¥",
+    created: "\u{4F5C}\u{6210}\u{65E5}",
+    updated: "\u{6700}\u{7D42}\u{66F4}\u{65B0}\u{65E5}",
 
-    review: "è¦æ›´æ–°ç¢ºèª",
-    draft: "èª¿æŸ»ä¸­",
-    current: "ç¢ºèªæ¸ˆã¿",
+    review: "\u{8981}\u{66F4}\u{65B0}\u{78BA}\u{8A8D}",
+    draft: "\u{8ABF}\u{67FB}\u{4E2D}",
+    current: "\u{78BA}\u{8A8D}\u{6E08}\u{307F}",
 
-    memo: "é¢è«‡ãƒ»æ¡ˆä»¶ãƒ¡ãƒ¢",
+    memo: "\u{9762}\u{8AC7}\u{30FB}\u{6848}\u{4EF6}\u{30E1}\u{30E2}",
     memoHint:
-      "ã“ã®ç«¯æœ«ã«è‡ªå‹•ä¿å­˜ã•ã‚Œã¾ã™ã€‚ä»£ç†äººã®å›žç­”ã€æ¡ˆä»¶å›ºæœ‰ã®æ³¨æ„ç‚¹ã€æ¬¡å›žç¢ºèªäº‹é …ãªã©ã€‚",
-    saved: "ä¿å­˜ã—ã¾ã—ãŸ",
+      "\u{3053}\u{306E}\u{7AEF}\u{672B}\u{306B}\u{81EA}\u{52D5}\u{4FDD}\u{5B58}\u{3055}\u{308C}\u{307E}\u{3059}\u{3002}\u{4EE3}\u{7406}\u{4EBA}\u{306E}\u{56DE}\u{7B54}\u{3001}\u{6848}\u{4EF6}\u{56FA}\u{6709}\u{306E}\u{6CE8}\u{610F}\u{70B9}\u{3001}\u{6B21}\u{56DE}\u{78BA}\u{8A8D}\u{4E8B}\u{9805}\u{306A}\u{3069}\u{3002}",
+    saved: "\u{4FDD}\u{5B58}\u{3057}\u{307E}\u{3057}\u{305F}",
 
-    optional: "è¿½åŠ è¨€èªž",
-    noData: "è¦èª¿æŸ»",
+    optional: "\u{8FFD}\u{52A0}\u{8A00}\u{8A9E}",
+    noData: "\u{8981}\u{8ABF}\u{67FB}",
 
     stats:
-      "å•†æ¨™å‡ºé¡˜ãƒ»å›½éš›å‡ºé¡˜ã®å‹•å‘ï¼ˆç›´è¿‘10å¹´ï¼‰",
-    statsPending: "çµ±è¨ˆãƒ‡ãƒ¼ã‚¿æœªåŽéŒ²",
+      "\u{5546}\u{6A19}\u{51FA}\u{9858}\u{30FB}\u{56FD}\u{969B}\u{51FA}\u{9858}\u{306E}\u{52D5}\u{5411}\u{FF08}\u{76F4}\u{8FD1}10\u{5E74}\u{FF09}",
+    statsPending: "\u{7D71}\u{8A08}\u{30C7}\u{30FC}\u{30BF}\u{672A}\u{53CE}\u{9332}",
     statsHelp:
-      "å¹´ã€å›½å†…å‡ºé¡˜ã€å½“è©²æ³•åŸŸã®å‡ºé¡˜äººã«ã‚ˆã‚‹å›½å¤–å‡ºé¡˜ã€ãƒžãƒ‰ãƒ—ãƒ­ã«ã‚ˆã‚‹æŒ‡å®šä»¶æ•°ã‚’åŽéŒ²ã—ã¾ã™ã€‚",
+      "\u{5E74}\u{3001}\u{56FD}\u{5185}\u{51FA}\u{9858}\u{3001}\u{5F53}\u{8A72}\u{6CD5}\u{57DF}\u{306E}\u{51FA}\u{9858}\u{4EBA}\u{306B}\u{3088}\u{308B}\u{56FD}\u{5916}\u{51FA}\u{9858}\u{3001}\u{30DE}\u{30C9}\u{30D7}\u{30ED}\u{306B}\u{3088}\u{308B}\u{6307}\u{5B9A}\u{4EF6}\u{6570}\u{3092}\u{53CE}\u{9332}\u{3057}\u{307E}\u{3059}\u{3002}",
 
     news:
-      "æœ€è¿‘ã®æ³•æ”¹æ­£ãƒ»å¯©æŸ»å®Ÿå‹™ãƒ»é‡è¦åˆ¤ä¾‹ï¼ˆç›´è¿‘3å¹´ï¼‰",
+      "\u{6700}\u{8FD1}\u{306E}\u{6CD5}\u{6539}\u{6B63}\u{30FB}\u{5BE9}\u{67FB}\u{5B9F}\u{52D9}\u{30FB}\u{91CD}\u{8981}\u{5224}\u{4F8B}\u{FF08}\u{76F4}\u{8FD1}3\u{5E74}\u{FF09}",
 
-    notablePoints: "ç‰¹ç­†ã™ã¹ãç‚¹",
-    importance: "é‡è¦åº¦",
-    practicalImpact: "å®Ÿå‹™ã¸ã®å½±éŸ¿",
-    recommendedAction: "æŽ¨å¥¨å¯¾å¿œ",
-    agentQuestion: "ç¾åœ°ä»£ç†äººã¸ã®ç¢ºèªäº‹é …",
-    source: "å‚è€ƒè³‡æ–™",
-    checked: "ç¢ºèªæ—¥",
+    notablePoints: "\u{7279}\u{7B46}\u{3059}\u{3079}\u{304D}\u{70B9}",
+    importance: "\u{91CD}\u{8981}\u{5EA6}",
+    practicalImpact: "\u{5B9F}\u{52D9}\u{3078}\u{306E}\u{5F71}\u{97FF}",
+    recommendedAction: "\u{63A8}\u{5968}\u{5BFE}\u{5FDC}",
+    agentQuestion: "\u{73FE}\u{5730}\u{4EE3}\u{7406}\u{4EBA}\u{3078}\u{306E}\u{78BA}\u{8A8D}\u{4E8B}\u{9805}",
+    source: "\u{53C2}\u{8003}\u{8CC7}\u{6599}",
+    checked: "\u{78BA}\u{8A8D}\u{65E5}",
 
-    faq: "ç¾åœ°ä»£ç†äººã«èžãFAQ",
-    sources: "å‚è€ƒã‚µã‚¤ãƒˆãƒ»å‡ºå…¸",
+    faq: "\u{73FE}\u{5730}\u{4EE3}\u{7406}\u{4EBA}\u{306B}\u{805E}\u{304F}FAQ",
+    sources: "\u{53C2}\u{8003}\u{30B5}\u{30A4}\u{30C8}\u{30FB}\u{51FA}\u{5178}",
 
     disclaimer:
-      "æ³•çš„åˆ¤æ–­ã¾ãŸã¯æœŸé™ç®¡ç†ã«ã¯ã€å¿…ãšæœ€æ–°ã®æ³•ä»¤ãƒ»å®˜åºè³‡æ–™ãŠã‚ˆã³ç¾åœ°ä»£ç†äººã®åŠ©è¨€ã‚’ç¢ºèªã—ã¦ãã ã•ã„ã€‚",
+      "\u{6CD5}\u{7684}\u{5224}\u{65AD}\u{307E}\u{305F}\u{306F}\u{671F}\u{9650}\u{7BA1}\u{7406}\u{306B}\u{306F}\u{3001}\u{5FC5}\u{305A}\u{6700}\u{65B0}\u{306E}\u{6CD5}\u{4EE4}\u{30FB}\u{5B98}\u{5E81}\u{8CC7}\u{6599}\u{304A}\u{3088}\u{3073}\u{73FE}\u{5730}\u{4EE3}\u{7406}\u{4EBA}\u{306E}\u{52A9}\u{8A00}\u{3092}\u{78BA}\u{8A8D}\u{3057}\u{3066}\u{304F}\u{3060}\u{3055}\u{3044}\u{3002}",
 
     noResults:
-      "æ¡ä»¶ã«ä¸€è‡´ã™ã‚‹æ³•åŸŸãŒã‚ã‚Šã¾ã›ã‚“ã€‚"
+      "\u{6761}\u{4EF6}\u{306B}\u{4E00}\u{81F4}\u{3059}\u{308B}\u{6CD5}\u{57DF}\u{304C}\u{3042}\u{308A}\u{307E}\u{305B}\u{3093}\u{3002}"
   },
 
   en: {
@@ -100,7 +100,7 @@ const copy = {
 
     memo: "Meeting & matter notes",
     memoHint:
-      "Saved automatically on this device. Record counselâ€™s answers, matter-specific points and follow-up questions.",
+      "Saved automatically on this device. Record counsel\u{2019}s answers, matter-specific points and follow-up questions.",
     saved: "Saved",
 
     optional: "Additional language",
@@ -137,29 +137,29 @@ const copy = {
 const notableCopy = {
   ja: {
     categories: {
-      filing: "å‡ºé¡˜",
-      examination: "å¯©æŸ»",
-      "use-evidence": "ä½¿ç”¨è¨¼æ‹ ",
-      "non-use": "ä¸ä½¿ç”¨",
-      opposition: "ç•°è­°",
-      appeal: "ä¸æœç”³ç«‹ã¦",
-      enforcement: "æ¨©åˆ©è¡Œä½¿",
-      "border-measures": "æ°´éš›æŽªç½®",
-      procedure: "æ‰‹ç¶š",
-      "cost-risk": "è²»ç”¨ãƒ»ãƒªã‚¹ã‚¯",
-      "local-practice": "ç¾åœ°å®Ÿå‹™",
-      other: "ãã®ä»–"
+      filing: "\u{51FA}\u{9858}",
+      examination: "\u{5BE9}\u{67FB}",
+      "use-evidence": "\u{4F7F}\u{7528}\u{8A3C}\u{62E0}",
+      "non-use": "\u{4E0D}\u{4F7F}\u{7528}",
+      opposition: "\u{7570}\u{8B70}",
+      appeal: "\u{4E0D}\u{670D}\u{7533}\u{7ACB}\u{3066}",
+      enforcement: "\u{6A29}\u{5229}\u{884C}\u{4F7F}",
+      "border-measures": "\u{6C34}\u{969B}\u{63AA}\u{7F6E}",
+      procedure: "\u{624B}\u{7D9A}",
+      "cost-risk": "\u{8CBB}\u{7528}\u{30FB}\u{30EA}\u{30B9}\u{30AF}",
+      "local-practice": "\u{73FE}\u{5730}\u{5B9F}\u{52D9}",
+      other: "\u{305D}\u{306E}\u{4ED6}"
     },
     importance: {
-      high: "é«˜",
-      medium: "ä¸­",
-      low: "ä½Ž"
+      high: "\u{9AD8}",
+      medium: "\u{4E2D}",
+      low: "\u{4F4E}"
     },
     status: {
-      verified: "ä¸€æ¬¡è³‡æ–™ç¢ºèªæ¸ˆã¿",
-      "agent-confirmed": "ç¾åœ°ä»£ç†äººç¢ºèªæ¸ˆã¿",
-      "research-needed": "è¦èª¿æŸ»",
-      historical: "éŽåŽ»æƒ…å ±"
+      verified: "\u{4E00}\u{6B21}\u{8CC7}\u{6599}\u{78BA}\u{8A8D}\u{6E08}\u{307F}",
+      "agent-confirmed": "\u{73FE}\u{5730}\u{4EE3}\u{7406}\u{4EBA}\u{78BA}\u{8A8D}\u{6E08}\u{307F}",
+      "research-needed": "\u{8981}\u{8ABF}\u{67FB}",
+      historical: "\u{904E}\u{53BB}\u{60C5}\u{5831}"
     }
   },
   en: {
@@ -191,7 +191,7 @@ const notableCopy = {
   }
 };
 
-/* è¨€èªžå‡¦ç† */
+/* \u{8A00}\u{8A9E}\u{51E6}\u{7406} */
 
 function primaryLanguage() {
   return state.mode === "en" ? "en" : "ja";
@@ -272,7 +272,7 @@ function multilingual(value) {
   return `${escapeHtml(primary)}${translations}`;
 }
 
-/* æ¤œç´¢ã¨çµžã‚Šè¾¼ã¿ */
+/* \u{691C}\u{7D22}\u{3068}\u{7D5E}\u{308A}\u{8FBC}\u{307F} */
 
 function searchableText(item) {
   return JSON.stringify(item).toLocaleLowerCase();
@@ -342,7 +342,7 @@ function renderFilters() {
     });
 }
 
-/* æ³•åŸŸä¸€è¦§ */
+/* \u{6CD5}\u{57DF}\u{4E00}\u{89A7} */
 
 function renderList() {
   const items = filteredData();
@@ -402,7 +402,7 @@ function renderList() {
   });
 }
 
-/* å…±é€šã‚»ã‚¯ã‚·ãƒ§ãƒ³ */
+/* \u{5171}\u{901A}\u{30BB}\u{30AF}\u{30B7}\u{30E7}\u{30F3} */
 
 function sectionShell(
   title,
@@ -419,7 +419,7 @@ function sectionShell(
         aria-expanded="${open}"
       >
         <span>${title}</span>
-        <span class="chevron">âŒ„</span>
+        <span class="chevron">\u{2304}</span>
       </button>
 
       <div class="section-body">
@@ -429,7 +429,7 @@ function sectionShell(
   `;
 }
 
-/* å•†æ¨™åˆ¶åº¦ã®å„é …ç›® */
+/* \u{5546}\u{6A19}\u{5236}\u{5EA6}\u{306E}\u{5404}\u{9805}\u{76EE} */
 
 function valueFor(item, field) {
   const value = item.facts?.[field.id];
@@ -491,7 +491,7 @@ function renderLegalSection(
   );
 }
 
-/* å‡ºé¡˜çµ±è¨ˆ */
+/* \u{51FA}\u{9858}\u{7D71}\u{8A08} */
 
 function renderStatistics(item) {
   const statistics =
@@ -514,7 +514,7 @@ function renderStatistics(item) {
 
         <span>
           ${escapeHtml(
-            statistics.coverage || "â€”"
+            statistics.coverage || "\u{2014}"
           )}
         </span>
       </div>
@@ -530,19 +530,19 @@ function renderStatistics(item) {
 
             <td>
               ${escapeHtml(
-                row.domestic ?? "â€”"
+                row.domestic ?? "\u{2014}"
               )}
             </td>
 
             <td>
               ${escapeHtml(
-                row.outbound ?? "â€”"
+                row.outbound ?? "\u{2014}"
               )}
             </td>
 
             <td>
               ${escapeHtml(
-                row.madridDesignations ?? "â€”"
+                row.madridDesignations ?? "\u{2014}"
               )}
             </td>
           </tr>
@@ -576,7 +576,7 @@ function renderStatistics(item) {
   );
 }
 
-/* æ³•æ”¹æ­£ãƒ»å¯©æŸ»å®Ÿå‹™ãƒ»åˆ¤ä¾‹ */
+/* \u{6CD5}\u{6539}\u{6B63}\u{30FB}\u{5BE9}\u{67FB}\u{5B9F}\u{52D9}\u{30FB}\u{5224}\u{4F8B} */
 
 function renderNews(item) {
   const newsItems = item.news || [];
@@ -637,7 +637,7 @@ function renderNews(item) {
   );
 }
 
-/* æ³•åŸŸå›ºæœ‰ã®ç‰¹ç­†ã™ã¹ãå®Ÿå‹™äº‹é … */
+/* \u{6CD5}\u{57DF}\u{56FA}\u{6709}\u{306E}\u{7279}\u{7B46}\u{3059}\u{3079}\u{304D}\u{5B9F}\u{52D9}\u{4E8B}\u{9805} */
 
 function notableTerm(group, value) {
   if (!value) {
@@ -832,7 +832,7 @@ function renderNotablePoints(item) {
   );
 }
 
-/* ç¾åœ°ä»£ç†äººã¸ã®è³ªå• */
+/* \u{73FE}\u{5730}\u{4EE3}\u{7406}\u{4EBA}\u{3078}\u{306E}\u{8CEA}\u{554F} */
 
 function renderFaq(item) {
   const faqItems = item.faqs || [];
@@ -851,7 +851,7 @@ function renderFaq(item) {
               </div>
 
               <div class="faq-followup">
-                â†³ ${multilingual(faq.followUp)}
+                \u{21B3} ${multilingual(faq.followUp)}
               </div>
             </div>
           `
@@ -869,7 +869,7 @@ function renderFaq(item) {
   );
 }
 
-/* å‚è€ƒè³‡æ–™ */
+/* \u{53C2}\u{8003}\u{8CC7}\u{6599} */
 
 function renderSources(item) {
   const sources = item.sources || [];
@@ -902,7 +902,7 @@ function renderSources(item) {
                 <small class="source-checked">
                   ${localCopy("updated")}:
                   ${escapeHtml(
-                    source.checkedAt || "â€”"
+                    source.checkedAt || "\u{2014}"
                   )}
                 </small>
               </div>
@@ -922,7 +922,7 @@ function renderSources(item) {
   );
 }
 
-/* æ³•åŸŸè©³ç´° */
+/* \u{6CD5}\u{57DF}\u{8A73}\u{7D30} */
 
 function renderDetail() {
   const item =
@@ -962,11 +962,11 @@ function renderDetail() {
         }
 
         if (language === "fr") {
-          label = "FranÃ§ais";
+          label = "Fran\u{E7}ais";
         }
 
         if (language === "es") {
-          label = "EspaÃ±ol";
+          label = "Espa\u{F1}ol";
         }
 
         return `
@@ -1048,9 +1048,9 @@ function renderDetail() {
           }"
           type="button"
           aria-pressed="${isFavorite}"
-          aria-label="ãŠæ°—ã«å…¥ã‚Š"
+          aria-label="\u{304A}\u{6C17}\u{306B}\u{5165}\u{308A}"
         >
-          ${isFavorite ? "â˜…" : "â˜†"}
+          ${isFavorite ? "\u{2605}" : "\u{2606}"}
         </button>
       </div>
     </header>
@@ -1140,7 +1140,7 @@ function renderDetail() {
   wireDetail(item);
 }
 
-/* è©³ç´°ç”»é¢ã®æ“ä½œ */
+/* \u{8A73}\u{7D30}\u{753B}\u{9762}\u{306E}\u{64CD}\u{4F5C} */
 
 function wireDetail(item) {
   ui.detail
@@ -1228,7 +1228,7 @@ function wireDetail(item) {
   );
 }
 
-/* æ³•åŸŸãƒ»ãŠæ°—ã«å…¥ã‚Šã®é¸æŠž */
+/* \u{6CD5}\u{57DF}\u{30FB}\u{304A}\u{6C17}\u{306B}\u{5165}\u{308A}\u{306E}\u{9078}\u{629E} */
 
 function selectJurisdiction(id) {
   state.selectedId = id;
@@ -1260,7 +1260,7 @@ function toggleFavorite(id) {
   renderAll();
 }
 
-/* å…¨ç”»é¢ã®å†æç”» */
+/* \u{5168}\u{753B}\u{9762}\u{306E}\u{518D}\u{63CF}\u{753B} */
 
 function renderAll() {
   document.documentElement.lang =
@@ -1280,19 +1280,19 @@ function renderAll() {
   ).textContent =
     state.mode === "en"
       ? "A practical jurisdiction guide for trade marks"
-      : "å•†æ¨™å®Ÿå‹™ã®æ³•åŸŸåˆ¥ã‚¬ã‚¤ãƒ‰";
+      : "\u{5546}\u{6A19}\u{5B9F}\u{52D9}\u{306E}\u{6CD5}\u{57DF}\u{5225}\u{30AC}\u{30A4}\u{30C9}";
 
   ui.search.placeholder =
     state.mode === "en"
       ? "Search jurisdictions, rules, cases and FAQs"
-      : "æ³•åŸŸãƒ»åˆ¶åº¦ãƒ»åˆ¤ä¾‹ãƒ»FAQã‚’æ¤œç´¢";
+      : "\u{6CD5}\u{57DF}\u{30FB}\u{5236}\u{5EA6}\u{30FB}\u{5224}\u{4F8B}\u{30FB}FAQ\u{3092}\u{691C}\u{7D22}";
 
   renderFilters();
   renderList();
   renderDetail();
 }
 
-/* è¨€èªžåˆ‡æ›¿ */
+/* \u{8A00}\u{8A9E}\u{5207}\u{66FF} */
 
 document
   .querySelectorAll(".lang-button")
@@ -1313,7 +1313,7 @@ document
     );
   });
 
-/* æ¤œç´¢ */
+/* \u{691C}\u{7D22} */
 
 ui.search.addEventListener(
   "input",
@@ -1325,7 +1325,7 @@ ui.search.addEventListener(
   }
 );
 
-/* ãŠæ°—ã«å…¥ã‚Šã®ã¿è¡¨ç¤º */
+/* \u{304A}\u{6C17}\u{306B}\u{5165}\u{308A}\u{306E}\u{307F}\u{8868}\u{793A} */
 
 ui.favoriteFilter.addEventListener(
   "click",
@@ -1340,14 +1340,14 @@ ui.favoriteFilter.addEventListener(
 
     ui.favoriteFilter.textContent =
       state.favoritesOnly
-        ? "â˜…"
-        : "â˜†";
+        ? "\u{2605}"
+        : "\u{2606}";
 
     renderList();
   }
 );
 
-/* JSONã®èª­ã¿è¾¼ã¿ */
+/* JSON\u{306E}\u{8AAD}\u{307F}\u{8FBC}\u{307F} */
 
 Promise.all([
   fetch("./data/schema.json")
@@ -1402,7 +1402,7 @@ Promise.all([
 
     ui.detail.innerHTML = `
       <div class="empty-state">
-        ãƒ‡ãƒ¼ã‚¿ã‚’èª­ã¿è¾¼ã‚ã¾ã›ã‚“ã§ã—ãŸã€‚
+        \u{30C7}\u{30FC}\u{30BF}\u{3092}\u{8AAD}\u{307F}\u{8FBC}\u{3081}\u{307E}\u{305B}\u{3093}\u{3067}\u{3057}\u{305F}\u{3002}
       </div>
     `;
   });
