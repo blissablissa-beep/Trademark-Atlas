@@ -1,0 +1,620 @@
+{
+  "id": "ar",
+  "type": "country",
+  "flag": "🇦🇷",
+  "region": "americas",
+  "names": {
+    "ja": "アルゼンチン共和国",
+    "en": "Argentine Republic",
+    "es": "República Argentina"
+  },
+  "office": {
+    "ja": "国立工業所有権庁（INPI）",
+    "en": "National Institute of Industrial Property (INPI)",
+    "es": "Instituto Nacional de la Propiedad Industrial (INPI)"
+  },
+  "availableLanguages": [
+    "es"
+  ],
+  "createdAt": "2026-09-12",
+  "updatedAt": "2026-09-12",
+  "status": "review",
+  "facts": {
+    "authority": {
+      "ja": "国立工業所有権庁（INPI）",
+      "en": "National Institute of Industrial Property (INPI)",
+      "es": "Instituto Nacional de la Propiedad Industrial (INPI)"
+    },
+    "protectionScope": {
+      "ja": "商品・役務を識別する商標。団体商標等には別途制度がある。",
+      "en": "Marks distinguishing goods and services; separate rules apply to collective marks and related regimes.",
+      "es": "Marcas que distinguen productos y servicios; existen regímenes específicos para marcas colectivas y figuras afines."
+    },
+    "markTypes": {
+      "ja": "語、名称、図形、記号、モノグラム、包装、色彩の組合せ、商品・包装の形状、音、香りその他識別力ある標識。",
+      "en": "Words, names, devices, emblems, monograms, packaging, color combinations, shapes, sounds, scents and other distinctive signs.",
+      "es": "Palabras, nombres, dibujos, emblemas, monogramas, envases, combinaciones de colores, formas, sonidos, aromas y otros signos distintivos."
+    },
+    "madridAccessionDate": {
+      "ja": "未加盟（2026年9月12日現在）",
+      "en": "Not a member as of 12 September 2026.",
+      "es": "No es parte al 12 de septiembre de 2026."
+    },
+    "niceClassification": {
+      "ja": "採用（ニース国際分類）",
+      "en": "Nice Classification adopted.",
+      "es": "Se aplica la Clasificación de Niza."
+    },
+    "classHeadingPractice": {
+      "ja": "類見出しだけに依存せず、商品・役務を明確かつ具体的に記載する。INPI分類ツールで要確認。",
+      "en": "Use clear, specific identifications rather than relying solely on class headings; verify with INPI classification tools.",
+      "es": "Deben indicarse productos y servicios con claridad y precisión; verificar con las herramientas de clasificación del INPI."
+    },
+    "retailServices": {
+      "ja": "第35類で登録可能。取扱商品等を具体的に特定する実務を確認する。",
+      "en": "Registrable in Class 35; confirm the required specification of the relevant goods and services.",
+      "es": "Registrables en la clase 35; debe verificarse la identificación exigida de los productos o servicios correspondientes."
+    },
+    "multiClassApplication": {
+      "ja": "原則として一区分ごとに出願する。",
+      "en": "Applications are generally filed on a single-class basis.",
+      "es": "Las solicitudes se presentan, por regla general, por una sola clase."
+    },
+    "applicationForm": {
+      "ja": "INPI電子ポータルから出願。出願人、標章、区分、商品・役務、優先権等を記載する。",
+      "en": "Electronic filing through the INPI portal, identifying the applicant, mark, class, goods/services and any priority claim.",
+      "es": "Presentación electrónica ante el portal del INPI con datos del solicitante, signo, clase, productos/servicios y prioridad."
+    },
+    "powerOfAttorney": {
+      "ja": "代理人手続では委任状または代理権を示す書類が必要となり得る。方式・電子提出要件は現地代理人に確認する。",
+      "en": "Representation may require a power of attorney or evidence of authority; confirm formal and electronic-filing requirements locally.",
+      "es": "La representación puede requerir poder o acreditación de personería; confirmar requisitos formales y electrónicos."
+    },
+    "priorityDocuments": {
+      "ja": "優先権主張時に基礎出願情報を記載し、INPIの要求に従い証明書・スペイン語訳を提出する。",
+      "en": "State the priority application details and submit a certificate and Spanish translation when required by INPI.",
+      "es": "Deben declararse los datos de prioridad y presentarse certificado y traducción al español cuando el INPI lo requiera."
+    },
+    "homeRegistrationCertificate": {
+      "ja": "通常の直接出願に本国登録証明書は不要。",
+      "en": "A home-registration certificate is not normally required for a direct national filing.",
+      "es": "No se exige normalmente certificado de registro de origen para una solicitud nacional directa."
+    },
+    "useEvidenceAtFiling": {
+      "ja": "出願時の使用証拠は通常不要。登録後の使用宣誓および不使用取消に備えて証拠を保存する。",
+      "en": "Evidence of use is not normally required at filing; retain evidence for the mid-term declaration and non-use proceedings.",
+      "es": "No se exige normalmente prueba de uso al solicitar; conviene conservarla para la declaración de medio término y acciones de caducidad."
+    },
+    "notarizationCertification": {
+      "ja": "通常の電子出願で出願人印章の公証は不要。外国委任状等は個別確認。",
+      "en": "A notarized applicant seal is not normally required for electronic filing; verify foreign powers individually.",
+      "es": "No suele exigirse sello notarial del solicitante en la presentación electrónica; verificar poderes extranjeros."
+    },
+    "otherDocuments": {
+      "ja": "法人情報、標章画像・説明、翻訳、優先権資料等を案件に応じて提出する。",
+      "en": "Entity details, representation/description of the mark, translations and priority materials as applicable.",
+      "es": "Datos societarios, representación y descripción del signo, traducciones y documentos de prioridad según corresponda."
+    },
+    "absoluteGroundsExamination": {
+      "ja": "あり。INPIが職権で審査する。",
+      "en": "Yes; examined ex officio by INPI.",
+      "es": "Sí; el INPI examina de oficio."
+    },
+    "distinctivenessGrounds": {
+      "ja": "普通名称、商品・役務の性質等を直接示す表示、広告的語句、識別力を欠く形状・色彩等は拒絶され得る。使用による識別力は個別検討。",
+      "en": "Generic, directly descriptive, promotional or otherwise non-distinctive matter may be refused; acquired distinctiveness is assessed case by case.",
+      "es": "Pueden rechazarse signos genéricos, descriptivos, publicitarios o carentes de distintividad; la distintividad adquirida se analiza caso por caso."
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "公序良俗違反、誤認的表示、国・州・自治体等の標章、原産地名称、第三者の氏名・肖像、必要形状等が問題となる。",
+      "en": "Bars include public order or morality, deceptive matter, official emblems, appellations of origin, third-party names or portraits, and necessary shapes.",
+      "es": "Incluye orden público o moral, signos engañosos, emblemas oficiales, denominaciones de origen, nombres o retratos ajenos y formas necesarias."
+    },
+    "relativeGroundsExamination": {
+      "ja": "あり。先行登録・出願との混同可能性を職権審査し、異議も考慮する。",
+      "en": "Yes; prior rights are examined ex officio and oppositions are considered.",
+      "es": "Sí; se examinan de oficio derechos anteriores y se consideran las oposiciones."
+    },
+    "disclaimer": {
+      "ja": "制度・実務の利用可能性は個別確認。非識別部分の権利範囲は標章全体との関係で評価される。",
+      "en": "Availability and practice should be confirmed case by case; non-distinctive matter is assessed in the context of the mark as a whole.",
+      "es": "La disponibilidad y práctica deben confirmarse caso por caso; los elementos no distintivos se valoran dentro del conjunto."
+    },
+    "consent": {
+      "ja": "併存同意は考慮され得るが、INPIを必ず拘束するものではない。",
+      "en": "Consent or coexistence may be considered but does not necessarily bind INPI.",
+      "es": "El consentimiento o acuerdo de coexistencia puede considerarse, pero no necesariamente vincula al INPI."
+    },
+    "acceleratedExamination": {
+      "ja": "一般的な商標早期審査制度の利用可否・要件は最新のINPI実務を確認する。",
+      "en": "Confirm whether a general expedited trademark examination route is currently available and its requirements.",
+      "es": "Debe confirmarse si existe una vía general de examen acelerado y cuáles son sus requisitos."
+    },
+    "thirdPartyObservation": {
+      "ja": "2026年3月1日以降の新規出願では「llamados de atención」は不可となり、第三者の反対は法定期間内の異議による。",
+      "en": "For applications filed from 1 March 2026, informal alerts are unavailable; third-party objections must be made by statutory opposition.",
+      "es": "Para solicitudes desde el 1 de marzo de 2026 no se admiten llamados de atención; la impugnación debe canalizarse mediante oposición."
+    },
+    "directExaminationPeriod": {
+      "ja": "公式な一律平均は確認できない。異議・拒絶理由のない案件でも変動するため、INPI統計と現地代理人の最新見積りを確認する。",
+      "en": "No uniform official average has been identified; consult current INPI data and local counsel estimates.",
+      "es": "No se identificó un promedio oficial uniforme; consultar datos actuales del INPI y estimaciones de agente local."
+    },
+    "madridExaminationPeriod": {
+      "ja": "マドプロ未加盟のため該当なし。",
+      "en": "Not applicable because Argentina is not a Madrid System member.",
+      "es": "No corresponde porque Argentina no es miembro del Sistema de Madrid."
+    },
+    "colourPriorityIdentity": {
+      "ja": "優先権基礎とアルゼンチン出願の標章が同一と認められるよう、色彩の有無・配置を一致させる。差異の許容範囲は個別確認。",
+      "en": "Keep color claims and arrangement aligned with the priority filing to preserve identity; confirm tolerance for differences case by case.",
+      "es": "Conviene mantener coincidentes la reivindicación y disposición de colores con la solicitud prioritaria; verificar diferencias admisibles."
+    },
+    "colourRelativeGrounds": {
+      "ja": "色彩は標章全体の混同可能性判断の一要素。色の追加だけで類似性が解消するとは限らない。",
+      "en": "Color is one factor in the overall likelihood-of-confusion assessment and may not by itself avoid similarity.",
+      "es": "El color es un factor en la apreciación global del riesgo de confusión y por sí solo puede no excluir la similitud."
+    },
+    "colourGenuineUse": {
+      "ja": "登録形態と使用形態の差異が識別性を変更するかが重要。白黒登録をカラー使用で当然維持できるとは限らないため要個別確認。",
+      "en": "The key issue is whether variations alter distinctive character; do not assume that color use automatically supports a black-and-white registration.",
+      "es": "La cuestión es si la variación altera el carácter distintivo; no debe presumirse que el uso en color mantiene siempre un registro en blanco y negro."
+    },
+    "colourInfringementScope": {
+      "ja": "色彩を含む全体的印象、識別力の強さ、商品・役務および取引事情を総合評価する。",
+      "en": "Overall impression including color, distinctiveness, goods/services and market circumstances are assessed together.",
+      "es": "Se valoran conjuntamente la impresión global, incluidos los colores, la distintividad, los productos/servicios y las circunstancias del mercado."
+    },
+    "colourFilingStrategy": {
+      "ja": "色彩がブランドの本質ならカラー版を検討し、柔軟性確保には白黒版や別バリエーションの併願も検討する。",
+      "en": "If color is essential, consider a color filing; for flexibility consider separate black-and-white or variant filings.",
+      "es": "Si el color es esencial, considerar una solicitud en color; para mayor flexibilidad, solicitudes separadas en blanco y negro o variantes."
+    },
+    "refusalResponseRoute": {
+      "ja": "INPIのvista（指令・拒絶理由通知）に書面で応答し、補正・主張・証拠を提出する。最終拒絶には行政・司法上の救済を検討する。",
+      "en": "Respond in writing to an INPI office action with amendments, arguments and evidence; consider administrative or judicial review of a final refusal.",
+      "es": "Se contesta la vista del INPI mediante reformas, argumentos y prueba; frente a denegación final se evalúan recursos administrativos o judiciales."
+    },
+    "responsePeriod": {
+      "ja": "通知ごとに指定される期間を厳守する。一般化せず、電子通知日と適用規則を確認する。",
+      "en": "Observe the period stated in each notice and verify the electronic notification date and applicable rule.",
+      "es": "Debe respetarse el plazo indicado en cada notificación y verificarse la fecha de notificación electrónica y la norma aplicable."
+    },
+    "extensionAvailable": {
+      "ja": "手続により可能。異議手続には延長不能の期限がある。",
+      "en": "Available for some procedures; certain opposition deadlines are non-extendible.",
+      "es": "Disponible en algunos trámites; ciertos plazos de oposición son improrrogables."
+    },
+    "extensionLength": {
+      "ja": "対象手続により異なる。",
+      "en": "Varies according to the procedure.",
+      "es": "Varía según el procedimiento."
+    },
+    "extensionRequirements": {
+      "ja": "期限前申請、所定料金、理由等の要否を個別確認する。延長不能期間には利用できない。",
+      "en": "Confirm advance request, fee and reasons; unavailable for non-extendible periods.",
+      "es": "Confirmar solicitud previa, tasa y fundamentos; no procede respecto de plazos improrrogables."
+    },
+    "appealRoute": {
+      "ja": "決定の種類に応じ、INPIへの行政救済または連邦民商事控訴裁判所への直接不服申立て等を検討する。",
+      "en": "Depending on the decision, consider administrative review or a direct appeal before the National Civil and Commercial Federal Court of Appeals.",
+      "es": "Según la decisión, procede evaluar recursos administrativos o recurso directo ante la Cámara Nacional de Apelaciones en lo Civil y Comercial Federal."
+    },
+    "refusalAppealPeriod": {
+      "ja": "拒絶不服の公式な平均審理期間は確認できない。経路・事件内容で大きく異なるため現地代理人に見積りを求める。",
+      "en": "No official average appeal duration has been identified; obtain a local estimate for the selected route and case.",
+      "es": "No se identificó un promedio oficial; solicitar estimación local según la vía y el caso."
+    },
+    "publicDatabase": {
+      "ja": "INPI商標検索データベース",
+      "en": "INPI Trademark Search",
+      "es": "Consulta de Marcas del INPI",
+      "url": "https://portaltramites.inpi.gob.ar/MarcasConsultas/Grilla"
+    },
+    "publicationStage": {
+      "ja": "方式審査後、商標公報に公告され、第三者異議の対象となる。",
+      "en": "After formal examination, the application is published in the Trademark Bulletin for opposition.",
+      "es": "Tras el examen formal, la solicitud se publica en el Boletín de Marcas a efectos de oposición."
+    },
+    "oppositionPeriod": {
+      "ja": "公告から30日。",
+      "en": "30 days from publication.",
+      "es": "30 días desde la publicación."
+    },
+    "oppositionExtension": {
+      "ja": "法定異議申立期間は延長不可。異議維持・立証等の後続期限も適用規則を確認する。",
+      "en": "The statutory opposition period is non-extendible; check subsequent deadlines for maintaining and substantiating the opposition.",
+      "es": "El plazo legal de oposición es improrrogable; deben verificarse los plazos posteriores para mantenerla y fundamentarla."
+    },
+    "averagePendency": {
+      "ja": "公式な一律平均は確認できない。異議・指令・審査バックログにより変動する。",
+      "en": "No uniform official average identified; timing varies with oppositions, office actions and backlog.",
+      "es": "No se identificó un promedio oficial uniforme; varía por oposiciones, vistas y carga de trabajo."
+    },
+    "term": {
+      "ja": "10年。10年ごとに更新可能。",
+      "en": "10 years, renewable for successive ten-year periods.",
+      "es": "10 años, renovables por períodos sucesivos de diez años."
+    },
+    "termStart": {
+      "ja": "登録日から。",
+      "en": "From the registration date.",
+      "es": "Desde la fecha de concesión del registro."
+    },
+    "renewalWindow": {
+      "ja": "満了前6か月以内が通常の更新期間。満了後6か月のグレース期間あり。",
+      "en": "Normally within six months before expiry, with a six-month post-expiry grace period.",
+      "es": "Normalmente dentro de los seis meses anteriores al vencimiento, con gracia de seis meses posteriores."
+    },
+    "gracePeriod": {
+      "ja": "あり。満了後6か月。追加料金その他の条件を確認する。",
+      "en": "Yes, six months after expiry; verify surcharges and conditions.",
+      "es": "Sí, seis meses después del vencimiento; verificar recargos y condiciones."
+    },
+    "renewalEvidence": {
+      "ja": "更新前5年間に使用した商品・役務を示す使用宣誓が必要。通常は宣誓時に証拠添付を要しないが、裏付資料を保存する。",
+      "en": "A sworn declaration identifying goods/services used during the preceding five years is required; evidence is not ordinarily attached, but should be retained.",
+      "es": "Se exige declaración jurada sobre los productos/servicios usados durante los cinco años anteriores; normalmente no se adjunta prueba, pero debe conservarse."
+    },
+    "nonUseCancellation": {
+      "ja": "あり。全部または一部取消があり得る。",
+      "en": "Available; total or partial cancellation may result.",
+      "es": "Disponible; la caducidad puede ser total o parcial."
+    },
+    "nonUsePeriod": {
+      "ja": "登録後5年間の不使用が基準。",
+      "en": "Five years of non-use following registration is the relevant threshold.",
+      "es": "El umbral pertinente es la falta de uso durante cinco años desde el registro."
+    },
+    "nonUseDefenses": {
+      "ja": "不可抗力その他正当な不使用理由、関連商品・役務での使用等を個別検討する。",
+      "en": "Force majeure, other legitimate reasons for non-use, and qualifying use for related goods/services require case-specific assessment.",
+      "es": "Deben analizarse fuerza mayor, motivos legítimos de falta de uso y uso pertinente para productos o servicios relacionados."
+    },
+    "otherCancellation": {
+      "ja": "登録要件欠缺、悪意その他を理由とする無効・取消手続がある。",
+      "en": "Invalidity or cancellation may be available for lack of registrability, bad faith and other grounds.",
+      "es": "Puede proceder nulidad o cancelación por falta de registrabilidad, mala fe u otras causales."
+    },
+    "invalidation": {
+      "ja": "あり。INPIの行政手続または司法手続となり得る。",
+      "en": "Available through INPI administrative and/or judicial proceedings.",
+      "es": "Disponible mediante procedimientos administrativos ante el INPI y/o judiciales."
+    },
+    "civilInjunction": {
+      "ja": "仮処分および終局的差止めを求め得る。",
+      "en": "Interim and permanent injunctions may be sought.",
+      "es": "Pueden solicitarse medidas cautelares y cesación definitiva."
+    },
+    "civilDamages": {
+      "ja": "損害賠償を請求し得る。算定・立証および時効は個別確認。",
+      "en": "Damages may be claimed; calculation, proof and limitation periods require case-specific review.",
+      "es": "Pueden reclamarse daños; su cuantificación, prueba y prescripción requieren análisis particular."
+    },
+    "civilEvidencePreservation": {
+      "ja": "証拠保全、検証、差押え等の仮処分を検討できる。",
+      "en": "Evidence-preservation, inspection, seizure and related interim measures may be considered.",
+      "es": "Pueden considerarse medidas de preservación de prueba, constatación, secuestro y otras cautelares."
+    },
+    "civilOther": {
+      "ja": "侵害品の除去・廃棄、判決公表、費用等を求め得る場合がある。",
+      "en": "Removal or destruction of infringing goods, publication of judgment and costs may be available.",
+      "es": "Pueden proceder retiro o destrucción de productos infractores, publicación de sentencia y costas."
+    },
+    "borderMeasures": {
+      "ja": "税関による輸入差止め等を検討できる。税関登録・担保・期限等を確認する。",
+      "en": "Customs suspension and related border measures may be available; verify recordal, security and deadlines.",
+      "es": "Pueden solicitarse medidas aduaneras; verificar registro, caución y plazos."
+    },
+    "administrativeRaid": {
+      "ja": "INPIその他当局への申立て・検査等の利用可能性を事案ごとに確認する。",
+      "en": "Confirm case-specific availability of complaints, inspections and other action before INPI or competent authorities.",
+      "es": "Confirmar según el caso denuncias, inspecciones y otras actuaciones ante INPI o autoridades competentes."
+    },
+    "administrativeOther": {
+      "ja": "異議、行政上の無効・不使用取消、税関・消費者当局等との連携を検討する。",
+      "en": "Consider opposition, administrative invalidity/non-use proceedings and coordination with customs or consumer authorities.",
+      "es": "Considerar oposición, nulidad/caducidad administrativa y coordinación con aduana o autoridades de consumo."
+    },
+    "criminalAvailability": {
+      "ja": "商標偽造等について刑事責任があり得る。",
+      "en": "Criminal liability may apply to trademark counterfeiting and related conduct.",
+      "es": "Puede existir responsabilidad penal por falsificación marcaria y conductas conexas."
+    },
+    "criminalFine": {
+      "ja": "罰金あり。最新の法定額・更新単位を確認する。",
+      "en": "Fines are available; verify current statutory and indexed amounts.",
+      "es": "Se prevén multas; verificar montos legales e indexados vigentes."
+    },
+    "criminalImprisonment": {
+      "ja": "犯罪類型によって拘禁刑があり得る。",
+      "en": "Imprisonment may apply depending on the offense.",
+      "es": "Puede corresponder pena privativa de libertad según el delito."
+    },
+    "criminalOther": {
+      "ja": "侵害品・設備の押収、没収、廃棄等があり得る。",
+      "en": "Seizure, forfeiture or destruction of infringing goods and equipment may be available.",
+      "es": "Puede proceder secuestro, decomiso o destrucción de mercadería y equipos infractores."
+    }
+  },
+  "notablePoints": [
+    {
+      "id": "mid-term-use-declaration",
+      "importance": "critical",
+      "title": {
+        "ja": "登録後5～6年目の使用宣誓",
+        "en": "Mid-term declaration of use",
+        "es": "Declaración jurada de uso de medio término"
+      },
+      "summary": {
+        "ja": "登録5周年満了後から6周年満了前までに使用宣誓を提出する。未提出は直ちに権利消滅ではないが、更新・権利行使や推定に重大な影響があり得るため期限管理が重要。",
+        "en": "File the declaration between the fifth and sixth anniversaries. Omission does not automatically cancel the registration, but may materially affect renewal, enforcement and evidentiary presumptions.",
+        "es": "Debe presentarse entre el quinto y sexto aniversario. La omisión no extingue automáticamente el registro, pero puede afectar renovación, ejercicio y presunciones."
+      },
+      "sourceUrl": "https://www.argentina.gob.ar/inpi/marcas/declaracion-jurada-de-uso"
+    },
+    {
+      "id": "renewal-use-declaration",
+      "importance": "critical",
+      "title": {
+        "ja": "更新時の使用宣誓",
+        "en": "Use declaration on renewal",
+        "es": "Declaración de uso al renovar"
+      },
+      "summary": {
+        "ja": "更新には直前5年間に使用した商品・役務の宣誓が必要。部分使用の場合の登録範囲への影響を現地代理人に確認する。",
+        "en": "Renewal requires a sworn statement of goods/services used during the preceding five years; assess consequences of partial use with local counsel.",
+        "es": "La renovación exige declarar los productos/servicios usados en los cinco años anteriores; consultar consecuencias del uso parcial."
+      },
+      "sourceUrl": "https://www.argentina.gob.ar/servicio/renovar-una-marca"
+    },
+    {
+      "id": "opposition-2026",
+      "importance": "high",
+      "title": {
+        "ja": "2026年の異議実務変更",
+        "en": "2026 opposition practice change",
+        "es": "Cambio de práctica de oposiciones en 2026"
+      },
+      "summary": {
+        "ja": "2026年3月1日以降の新規出願では非公式な注意喚起が廃止され、第三者の反対は公告後30日以内の正式異議に一本化された。",
+        "en": "For new filings from 1 March 2026, informal alerts were eliminated and third-party objections must proceed through formal opposition within 30 days of publication.",
+        "es": "Para solicitudes desde el 1 de marzo de 2026 se eliminaron los llamados de atención y la impugnación debe formularse por oposición dentro de 30 días."
+      },
+      "sourceUrl": "https://www.boletinoficial.gob.ar/detalleAviso/primera/341615/20260506"
+    },
+    {
+      "id": "single-class-filing",
+      "importance": "medium",
+      "title": {
+        "ja": "原則一区分一出願",
+        "en": "Generally one class per application",
+        "es": "En general, una clase por solicitud"
+      },
+      "summary": {
+        "ja": "直接出願は原則として一区分単位。多区分ポートフォリオでは件数・費用・異議対応を区分別に管理する。",
+        "en": "Direct applications are generally single-class; manage numbers, cost and opposition exposure class by class.",
+        "es": "Las solicitudes directas son generalmente monoclase; deben gestionarse cantidades, costos y oposiciones por clase."
+      },
+      "sourceUrl": "https://portaltramites.inpi.gob.ar/"
+    },
+    {
+      "id": "non-madrid",
+      "importance": "high",
+      "title": {
+        "ja": "マドプロ経由では指定不可",
+        "en": "No Madrid designation",
+        "es": "No puede designarse por Madrid"
+      },
+      "summary": {
+        "ja": "アルゼンチンはマドプロ非加盟のため、原則としてINPIへの直接出願が必要。",
+        "en": "Argentina is not a Madrid System member, so protection generally requires a direct INPI filing.",
+        "es": "Argentina no es miembro del Sistema de Madrid; la protección requiere normalmente solicitud directa ante el INPI."
+      },
+      "sourceUrl": "https://www.wipo.int/en/web/madrid-system/members/index"
+    }
+  ],
+  "statistics": {
+    "coverage": "2016–2025",
+    "status": "pending",
+    "series": []
+  },
+  "news": [
+    {
+      "id": "opposition-regulation-297-2026",
+      "type": "practice",
+      "date": "2026-08-10",
+      "title": {
+        "ja": "異議申立て行政手続規則の更新",
+        "en": "Updated administrative opposition rules",
+        "es": "Actualización del reglamento administrativo de oposiciones"
+      },
+      "summary": {
+        "ja": "INPI決議297/2026により行政上の異議解決手続規則が更新された。係属案件には適用規則と経過措置の確認が必要。",
+        "en": "INPI Resolution 297/2026 updated the administrative opposition procedure; pending matters require review of applicable and transitional rules.",
+        "es": "La Resolución INPI 297/2026 actualizó el procedimiento administrativo de oposiciones; deben revisarse reglas aplicables y transitorias."
+      },
+      "sourceUrl": "https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-297-2026-416391"
+    },
+    {
+      "id": "opposition-alerts-139-2026",
+      "type": "practice",
+      "date": "2026-05-06",
+      "title": {
+        "ja": "新規出願に対する「注意喚起」を廃止",
+        "en": "Informal alerts eliminated for new applications",
+        "es": "Eliminación de llamados de atención para solicitudes nuevas"
+      },
+      "summary": {
+        "ja": "2026年3月1日以降の新規出願に対する第三者の異議は、正式な異議申立てにより行うことになった。",
+        "en": "Third-party objections to applications filed from 1 March 2026 must be made by formal opposition.",
+        "es": "Las objeciones de terceros contra solicitudes desde el 1 de marzo de 2026 deben formularse mediante oposición."
+      },
+      "sourceUrl": "https://www.boletinoficial.gob.ar/detalleAviso/primera/341615/20260506"
+    },
+    {
+      "id": "applicant-opposition-fee-295-2024",
+      "type": "practice",
+      "date": "2024-07-23",
+      "title": {
+        "ja": "異議解決における出願人料金",
+        "en": "Applicant fee in opposition resolution",
+        "es": "Tasa del solicitante en resolución de oposiciones"
+      },
+      "summary": {
+        "ja": "維持された異議についてINPIの行政判断を求める出願人側の料金と、未納時の拒絶取扱いが導入された。",
+        "en": "An applicant-side fee was introduced for INPI resolution of maintained oppositions, with refusal consequences for non-payment.",
+        "es": "Se introdujo una tasa a cargo del solicitante para la resolución de oposiciones mantenidas, con denegación por falta de pago."
+      },
+      "sourceUrl": "https://www.boletinoficial.gob.ar/detalleAviso/primera/311064/20240723"
+    }
+  ],
+  "faqs": [
+    {
+      "tag": "Filing",
+      "question": {
+        "ja": "直接出願は一区分一出願ですか。商品・役務表示はINPIで受理可能ですか。",
+        "en": "Is a separate application required per class, and is this specification acceptable to INPI?",
+        "es": "¿Se requiere una solicitud por clase y acepta el INPI esta especificación?"
+      },
+      "followUp": {
+        "ja": "優先権書類、委任状およびスペイン語訳の期限・方式を確認してください。",
+        "en": "Please confirm deadlines and formalities for priority documents, powers and Spanish translations.",
+        "es": "Confirme plazos y formalidades de prioridad, poderes y traducciones al español."
+      }
+    },
+    {
+      "tag": "Use",
+      "question": {
+        "ja": "中間使用宣誓の正確な提出期間と対象商品・役務を確認できますか。",
+        "en": "Can you confirm the exact window and goods/services covered by the mid-term use declaration?",
+        "es": "¿Puede confirmar el plazo exacto y los productos/servicios de la declaración de medio término?"
+      },
+      "followUp": {
+        "ja": "不使用の商品・役務がある場合、更新・行使・取消リスクにどう影響しますか。",
+        "en": "How does partial non-use affect renewal, enforcement and cancellation risk?",
+        "es": "¿Cómo afecta el uso parcial a la renovación, ejercicio y riesgo de caducidad?"
+      }
+    },
+    {
+      "tag": "Opposition",
+      "question": {
+        "ja": "2026年の新規則が本件の異議・係属案件にどう適用されますか。",
+        "en": "How do the 2026 rules apply to this opposition or pending application?",
+        "es": "¿Cómo se aplican las reglas de 2026 a esta oposición o expediente pendiente?"
+      },
+      "followUp": {
+        "ja": "異議維持料金、出願人料金、証拠提出期限を一覧で教えてください。",
+        "en": "Please list the opponent maintenance fee, applicant fee and evidence deadlines.",
+        "es": "Indique la tasa de mantenimiento, la tasa del solicitante y los plazos probatorios."
+      }
+    },
+    {
+      "tag": "Examination",
+      "question": {
+        "ja": "現在の直接出願の平均審査期間と、最初の指令までの期間はどれくらいですか。",
+        "en": "What are the current average total pendency and time to first office action?",
+        "es": "¿Cuál es la duración media actual y el tiempo hasta la primera vista?"
+      },
+      "followUp": {
+        "ja": "早期処理の手段または実務上の短縮策はありますか。",
+        "en": "Is any expedited route or practical acceleration measure available?",
+        "es": "¿Existe vía acelerada o medida práctica para reducir el plazo?"
+      }
+    },
+    {
+      "tag": "Colour",
+      "question": {
+        "ja": "白黒の優先権基礎・登録とカラー使用の同一性はどう判断されますか。",
+        "en": "How is identity assessed between a black-and-white priority/registration and use in color?",
+        "es": "¿Cómo se aprecia la identidad entre prioridad/registro en blanco y negro y uso en color?"
+      },
+      "followUp": {
+        "ja": "カラー版と白黒版を別出願すべきですか。",
+        "en": "Should color and black-and-white versions be filed separately?",
+        "es": "¿Conviene presentar por separado las versiones en color y en blanco y negro?"
+      }
+    },
+    {
+      "tag": "Enforcement",
+      "question": {
+        "ja": "INPI行政手続、民事訴訟、刑事告訴、税関措置のどれが本件に最適ですか。",
+        "en": "Which route—INPI administrative action, civil litigation, criminal complaint or customs—is best here?",
+        "es": "¿Qué vía—INPI, acción civil, denuncia penal o aduana—conviene en este caso?"
+      },
+      "followUp": {
+        "ja": "仮処分の証拠・担保・所要期間と費用を見積もってください。",
+        "en": "Please estimate evidence, security, timing and cost for interim relief.",
+        "es": "Estime prueba, caución, plazo y costo de una medida cautelar."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "INPI Argentina",
+      "url": "https://www.argentina.gob.ar/inpi",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "INPI Online Procedures",
+      "url": "https://portaltramites.inpi.gob.ar/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "INPI Trademark Search",
+      "url": "https://portaltramites.inpi.gob.ar/MarcasConsultas/Grilla",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Trademark Law No. 22,362",
+      "url": "https://www.argentina.gob.ar/normativa/nacional/18803",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Regulatory Decree 242/2019",
+      "url": "https://www.argentina.gob.ar/normativa/nacional/decreto-242-2019-321704",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Renew a Trademark",
+      "url": "https://www.argentina.gob.ar/servicio/renovar-una-marca",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Oppose a Trademark",
+      "url": "https://www.argentina.gob.ar/servicio/oponerse-una-marca",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "INPI Resolution 139/2026",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/341615/20260506",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "INPI Resolution 295/2024",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/311064/20240723",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "WIPO Madrid Members",
+      "url": "https://www.wipo.int/en/web/madrid-system/members/index",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "WIPO Lex Argentina",
+      "url": "https://www.wipo.int/wipolex/en/members/profile/AR",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    }
+  ]
+}
