@@ -1,0 +1,519 @@
+{
+  "id": "za",
+  "type": "country",
+  "flag": "🇿🇦",
+  "region": "africa",
+  "names": {
+    "ja": "南アフリカ共和国",
+    "en": "Republic of South Africa"
+  },
+  "office": {
+    "ja": "南アフリカ企業・知的財産委員会（CIPC）商標登録局",
+    "en": "Trade Marks Office, Companies and Intellectual Property Commission (CIPC)"
+  },
+  "availableLanguages": [],
+  "createdAt": "2026-09-12",
+  "updatedAt": "2026-09-12",
+  "status": "review",
+  "facts": {
+    "authority": {
+      "ja": "南アフリカ企業・知的財産委員会（CIPC）商標登録局",
+      "en": "Trade Marks Office, Companies and Intellectual Property Commission (CIPC)"
+    },
+    "protectionScope": {
+      "ja": "通常商標、サービス商標、証明商標、団体商標、周知商標。未登録標章はコモンロー上のパッシング・オフで保護され得る。",
+      "en": "Ordinary and service marks, certification marks, collective marks and well-known marks; unregistered signs may be protected by common-law passing off."
+    },
+    "markTypes": {
+      "ja": "図形、名称、署名、語、文字、数字、形状、構成、模様、装飾、色彩、容器および組合せ等、図形的に表示可能な標識。非伝統的標章は表示可能性を確認する。",
+      "en": "Signs capable of graphical representation, including devices, names, signatures, words, letters, numerals, shapes, configurations, patterns, ornamentation, colors, containers and combinations; verify representation of non-traditional marks."
+    },
+    "madridAccessionDate": {
+      "ja": "未加盟（2026年9月12日現在）",
+      "en": "Not a member as of 12 September 2026"
+    },
+    "niceClassification": {
+      "ja": "採用。最新ニース分類とCIPCの類見出し・実務を確認する。",
+      "en": "Adopted; verify the current Nice edition and CIPC class-heading practice."
+    },
+    "classHeadingPractice": {
+      "ja": "商品・役務を特定の区分内で明確・具体的に記載する。広範な類見出しは保護範囲・明確性の観点から精査する。",
+      "en": "Specify goods/services clearly within the relevant class; scrutinize broad class headings for clarity and scope."
+    },
+    "retailServices": {
+      "ja": "第35類で登録可能。小売・卸売役務と対象商品を具体化する。",
+      "en": "Registrable in Class 35; specify retail/wholesale services and the relevant goods."
+    },
+    "multiClassApplication": {
+      "ja": "不可。原則として一区分ごとに別出願が必要。関連出願は一括管理する。",
+      "en": "Not available; a separate application is generally required for each class. Manage related applications as a family."
+    },
+    "applicationForm": {
+      "ja": "通常Form TM1をCIPCへ電子提出。出願人、標章、区分・商品役務、使用または真正な使用意思、優先権、国内送達先等を記載する。",
+      "en": "Normally e-file Form TM1 with CIPC, identifying applicant, mark, class/goods-services, use or bona fide intention to use, priority and South African address for service."
+    },
+    "powerOfAttorney": {
+      "ja": "代理人出願では委任状を提出する。南アフリカ国内の送達先が常時必要であり、外国出願人は現地代理人を利用するのが通常。",
+      "en": "A power is filed where an agent acts. A South African address for service must be maintained, and foreign applicants ordinarily use local counsel."
+    },
+    "priorityDocuments": {
+      "ja": "条約国出願から6か月以内。認証された優先権書類を南アフリカ出願から3か月以内に提出する。翻訳要件を確認する。",
+      "en": "File within six months of the convention application; provide a certified priority document within three months of the South African filing and confirm translation requirements."
+    },
+    "homeRegistrationCertificate": {
+      "ja": "通常の直接出願には不要。",
+      "en": "Not normally required for a direct national filing."
+    },
+    "useEvidenceAtFiling": {
+      "ja": "通常不要。ただし出願人は真正な権利者で、自己または許諾使用者による真正な使用意思を有する必要がある。使用による識別力を主張する場合は証拠を提出する。",
+      "en": "Not normally required, but the applicant must have a bona fide claim to proprietorship and intention to use personally or through a permitted user. Evidence is needed for acquired distinctiveness."
+    },
+    "notarizationCertification": {
+      "ja": "通常の委任状は公証・領事認証不要とされるが、署名権限・原本・電子提出要件を確認する。宣誓供述書は適式な宣誓が必要。",
+      "en": "A routine power generally requires no notarization/legalization, subject to signatory, original and e-filing requirements; affidavits require proper commissioning."
+    },
+    "otherDocuments": {
+      "ja": "標章見本、法人情報、優先権書類、翻訳・音訳、使用証拠。証明・団体商標は使用規則、statement of case、宣誓証拠等。",
+      "en": "Representation, entity and priority documents, translations/transliterations and use evidence; certification/collective marks require regulations, a statement of case and affidavit evidence."
+    },
+    "absoluteGroundsExamination": {
+      "ja": "あり。商標法第9条・第10条等に基づきCIPCが職権審査する。",
+      "en": "Yes; examined ex officio by CIPC under sections 9, 10 and related provisions."
+    },
+    "distinctivenessGrounds": {
+      "ja": "識別力欠如、記述的表示、取引上慣用または他業者に合理的に必要な表示は拒絶され得る。出願時までの使用による識別力を立証できる場合がある。",
+      "en": "Marks lacking distinctiveness, descriptive signs and matter customary or reasonably required in trade may be refused; acquired distinctiveness by the filing date may be shown."
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "真正な所有権主張・使用意思の欠如、技術的結果または商品の性質に由来する形状・色彩、違法・善良な風俗に反する・不快・欺瞞的表示、禁止紋章等。",
+      "en": "Lack of bona fide proprietorship or intent to use; shapes/colors dictated by technical result or nature of goods; unlawful, immoral, offensive or deceptive matter; and protected emblems."
+    },
+    "relativeGroundsExamination": {
+      "ja": "あり。先行出願・登録、混同のおそれ、周知商標、著名登録商標の希釈化等を職権審査する。",
+      "en": "Yes; CIPC examines earlier applications/registrations, likelihood of confusion, well-known marks and dilution of famous registered marks."
+    },
+    "disclaimer": {
+      "ja": "あり。記述的・非識別的部分について権利不要求が付されることがある。",
+      "en": "Available; descriptive or non-distinctive matter may be disclaimed."
+    },
+    "consent": {
+      "ja": "同意書・共存合意は考慮され得るが、混同・公益上の拒絶を当然に解消しない。誠実な同時使用または特別事情による登録は登録官・裁判所の裁量。",
+      "en": "Consent/coexistence may be considered but does not automatically cure confusion or public-interest objections. Registration for honest concurrent use or special circumstances is discretionary."
+    },
+    "acceleratedExamination": {
+      "ja": "一般的な正式早期審査制度は確認できない。特別な事情による優先取扱いの可否をCIPC・現地代理人に確認する。",
+      "en": "No general formal expedited examination route identified; confirm whether priority treatment is available in exceptional circumstances."
+    },
+    "thirdPartyObservation": {
+      "ja": "Patent Journal公告後の正式異議が主要な第三者手続。独立した非当事者情報提供制度の有無は最新実務を確認する。",
+      "en": "Formal opposition after Patent Journal advertisement is the principal third-party route; confirm any separate non-party observation mechanism."
+    },
+    "directExaminationPeriod": {
+      "ja": "CIPC公表サービス目安では、通常の新規商標出願に対する最初のofficial actionは出願から約10か月。実際は案件・バックログにより変動する。",
+      "en": "CIPC’s published service target for a first official action on a new trademark application is about ten months from filing; actual timing varies by case and backlog."
+    },
+    "madridExaminationPeriod": {
+      "ja": "対象外。南アフリカは2026年9月12日現在マドリッド議定書未加盟で、国際登録による指定はできない。",
+      "en": "Not applicable. South Africa is not a Madrid Protocol member as of 12 September 2026 and cannot be designated through an international registration."
+    },
+    "colourPriorityIdentity": {
+      "ja": "優先権基礎と南アフリカ出願の色彩クレーム、表示、構成を一致させる。色彩制限の有無が同一性・保護範囲に影響する。",
+      "en": "Align color claim, representation and configuration with the priority filing; a color limitation may affect identity and scope."
+    },
+    "colourRelativeGrounds": {
+      "ja": "色彩を含む標章全体の外観、称呼、観念、本質的特徴、商品・役務および欺瞞・混同のおそれを評価する。",
+      "en": "Assess the marks as a whole, including color, visual, phonetic and conceptual impressions, essential features, goods/services and likelihood of deception/confusion."
+    },
+    "colourGenuineUse": {
+      "ja": "登録形態と使用形態の差異が標章の同一性または識別性を実質的に変えるかを評価する。カラー使用が白黒登録を当然維持するとは限らない。",
+      "en": "Assess whether differences between registered and used forms materially alter identity or distinctive character; color use does not automatically maintain a black-and-white registration."
+    },
+    "colourInfringementScope": {
+      "ja": "登録上の色彩制限、標章の本質的特徴、混同・欺瞞、希釈化、商品・役務、取引事情を総合評価する。",
+      "en": "Assess registration color limitations, essential features, confusion/deception, dilution, goods/services and market context."
+    },
+    "colourFilingStrategy": {
+      "ja": "色彩が重要ならカラー版を、形状・文字自体の柔軟な保護も必要なら色彩限定なしまたは主要変形の別出願を検討する。",
+      "en": "If color is important, file a color version; for flexible protection of shape/wording, consider a non-color-limited or separate key-variant filing."
+    },
+    "refusalResponseRoute": {
+      "ja": "official actionに書面答弁、補正、権利不要求、使用証拠等で応答する。拒絶・条件付受理後は理由書請求、聴聞、High Courtへの上訴を検討する。",
+      "en": "Respond to an official action with arguments, amendment, disclaimer or use evidence. After refusal/conditional acceptance, consider written reasons, hearing and appeal to the High Court."
+    },
+    "responsePeriod": {
+      "ja": "official action発行日から3か月。通知の種類、発行日、電子記録を確認する。",
+      "en": "Three months from issue of the official action; verify the notice type, issue date and electronic record."
+    },
+    "extensionAvailable": {
+      "ja": "あり。所定の延長申請と料金によりprosecution termの延長を請求できる。放棄・取下げ後は利用できない場合がある。",
+      "en": "Available by prescribed extension request and fee for the prosecution term; it may be unavailable once the mark is recorded as abandoned or withdrawn."
+    },
+    "extensionLength": {
+      "ja": "申請ごとの延長単位・累積可能期間を現行practice noteとCIPCシステムで確認する。",
+      "en": "Confirm the extension unit and cumulative period under current practice notes and the CIPC system."
+    },
+    "extensionRequirements": {
+      "ja": "期限前の所定申請、料金および必要に応じ理由。既にabandoned表示となった案件には利用できない点に注意。",
+      "en": "Prescribed request before expiry, fee and reasons where required; note that extension may not be filed once the status is abandoned."
+    },
+    "appealRoute": {
+      "ja": "登録官の決定・命令は管轄High Courtへ上訴・審査請求できる。行政庁手続と裁判所手続を区別する。",
+      "en": "Registrar decisions/orders may be appealed or reviewed before the competent High Court; distinguish Registry proceedings from court proceedings."
+    },
+    "refusalAppealPeriod": {
+      "ja": "原則、登録官の決定・命令から3か月。理由書請求、上訴提起・追行の個別期限と延長を確認する。平均審理期間は現地見積りを取得する。",
+      "en": "Generally three months from the Registrar’s decision/order; confirm deadlines for reasons, noting and prosecuting appeal and extensions. Obtain a local duration estimate."
+    },
+    "publicDatabase": {
+      "ja": "CIPC IPOnline Trade Marks Search",
+      "en": "CIPC IPOnline Trade Marks Search",
+      "url": "https://iponline.cipc.co.za/Trademarks/TMInformation.aspx"
+    },
+    "publicationStage": {
+      "ja": "審査・受理後、出願人がPatent Journalに一回公告し、異議期間満了後に登録証が発行される。",
+      "en": "After examination and acceptance, the applicant advertises once in the Patent Journal; the certificate issues after the opposition period."
+    },
+    "oppositionPeriod": {
+      "ja": "Patent Journalでの公告日から3か月。登録官が認める追加期間内にも異議可能。",
+      "en": "Three months from Patent Journal advertisement, or within further time allowed by the Registrar."
+    },
+    "oppositionExtension": {
+      "ja": "あり。期限前に登録証発行を3か月留保する請求が可能で、当事者合意または正当理由により追加延長も検討される。",
+      "en": "Available; before expiry, an interested person may request withholding of the certificate for three months, with further extension considered by agreement or on good cause."
+    },
+    "averagePendency": {
+      "ja": "CIPC目安では最初のofficial actionまで約10か月、無異議案件の登録証発行は異議期間満了から約66営業日（約3か月）。全体は補正・公告・異議で変動する。",
+      "en": "CIPC targets about ten months to first official action and about 66 working days (three months) from expiry of an unopposed opposition period to certificate; total time varies with amendments, advertisement and opposition."
+    },
+    "term": {
+      "ja": "10年。10年ごとに無期限更新可能。",
+      "en": "Ten years, renewable indefinitely for successive ten-year periods."
+    },
+    "termStart": {
+      "ja": "登録時に出願日を登録日とみなす。更新期限も原則として出願日を基礎に管理する。",
+      "en": "Upon registration, the filing date is deemed the registration date; renewal is therefore generally docketed from the filing date."
+    },
+    "renewalWindow": {
+      "ja": "通常、満了前6か月以内に更新。期限後の更新・回復可能期間、割増料金、公告手続を登録ごとに確認する。",
+      "en": "Normally renew within six months before expiry; verify post-expiry renewal/restoration periods, surcharge and advertisement for each registration."
+    },
+    "gracePeriod": {
+      "ja": "期限後更新・登録回復制度あり。具体的期間・料金・第三者異議をCIPCの現行実務で確認する。",
+      "en": "Late renewal/restoration is available; confirm the current period, fees and third-party opposition under CIPC practice."
+    },
+    "renewalEvidence": {
+      "ja": "通常、更新時の使用宣誓・使用証拠は不要。ただし不使用取消では権利者が使用を立証するため、証拠を継続保存する。",
+      "en": "Use declarations/evidence are not ordinarily required for renewal; preserve evidence because the proprietor bears the burden of proving use in non-use proceedings."
+    },
+    "nonUseCancellation": {
+      "ja": "あり。利害関係人が登録官またはHigh Courtへ登録簿訂正・抹消を申請できる。",
+      "en": "Available by an interested person applying to the Registrar or High Court for rectification/removal."
+    },
+    "nonUsePeriod": {
+      "ja": "登録証発行日から継続5年以上、かつ取消申請日の3か月前まで真正使用がない場合。真正な使用意思なく登録され実使用もない場合は別の取消事由。",
+      "en": "A continuous period of at least five years from issue of the certificate, with no bona fide use up to three months before the removal application. Registration without bona fide intent and no actual use is a separate ground."
+    },
+    "nonUseDefenses": {
+      "ja": "権利者または許諾使用者による真正使用を権利者側が立証する。取引上の特別事情による不使用で、放棄・不使用意思がない場合は抗弁となり得る。",
+      "en": "The proprietor bears the burden of proving bona fide use by itself or a permitted user. Special circumstances in trade, without intent to abandon or not use, may excuse non-use."
+    },
+    "otherCancellation": {
+      "ja": "悪意・虚偽表示による登録、誤って登録簿に残る記載、登録条件違反、真正な権利帰属欠如、法人消滅・権利承継未登録等による訂正・抹消。",
+      "en": "Rectification/removal may follow mala fide or misrepresented entry, wrongful remaining entry, breach of condition, lack of bona fide proprietorship, or dissolution/death without recorded succession."
+    },
+    "invalidation": {
+      "ja": "あり。登録官またはHigh Courtに登録簿訂正を申し立て、登録要件欠缺、先行権利、悪意等により全部・一部の抹消・変更を求める。",
+      "en": "Available by rectification before the Registrar or High Court for lack of registrability, earlier rights, bad faith and other grounds, in whole or part."
+    },
+    "civilInjunction": {
+      "ja": "High Courtで暫定・終局的interdictを請求可能。緊急性、明確な権利、損害、代替救済等を立証する。",
+      "en": "Interim and final interdicts may be sought in the High Court, subject to proof of urgency, right, injury and adequate alternative remedy."
+    },
+    "civilDamages": {
+      "ja": "損害賠償または合理的使用料を請求可能。侵害者利益・損害算定、故意、通知等を事案ごとに確認する。",
+      "en": "Damages or a reasonable royalty may be claimed; assess infringer profits, quantification, intent and notice case by case."
+    },
+    "civilEvidencePreservation": {
+      "ja": "Anton Piller型命令、証拠保全、捜索・差押え、会計資料の開示等を検討する。",
+      "en": "Consider Anton Piller-type orders, evidence preservation, search/seizure and disclosure of accounting materials."
+    },
+    "civilOther": {
+      "ja": "侵害ラベル・標章の除去、侵害品の引渡し、費用、パッシング・オフおよび希釈化救済等があり得る。",
+      "en": "Removal of infringing labels/marks, delivery-up, costs, passing-off and dilution relief may be available."
+    },
+    "borderMeasures": {
+      "ja": "Counterfeit Goods Act等に基づく税関への知的財産権記録、疑義貨物の留置・差押え・没収・廃棄を検討する。",
+      "en": "Consider customs IP recordation and detention, seizure, forfeiture and destruction of suspect goods under the Counterfeit Goods Act and related law."
+    },
+    "administrativeRaid": {
+      "ja": "Counterfeit Goods Actに基づく指定inspectors、警察、税関による施設立入り・捜索・差押えが偽造品対策で重要。",
+      "en": "Entry, search and seizure by designated inspectors, police and customs under the Counterfeit Goods Act are important anti-counterfeiting measures."
+    },
+    "administrativeOther": {
+      "ja": "CIPC手続、税関留置、消費者・表示規制、オンライン削除要請等を民事・刑事措置と組み合わせて検討する。",
+      "en": "Consider CIPC proceedings, customs detention, consumer/labeling measures and online takedowns alongside civil and criminal action."
+    },
+    "criminalAvailability": {
+      "ja": "虚偽の商標表示、偽造品取引その他Trade Marks Act・Counterfeit Goods Act上の犯罪について刑事責任あり。",
+      "en": "Criminal liability applies to false trademark representations, dealing in counterfeit goods and other offenses under the Trade Marks Act and Counterfeit Goods Act."
+    },
+    "criminalFine": {
+      "ja": "あり。適用法、犯罪類型、法人・個人、再犯等により異なる。最新の法定額を確認する。",
+      "en": "Available; verify current statutory amounts by legislation, offense, entity/individual status and recidivism."
+    },
+    "criminalImprisonment": {
+      "ja": "あり得る。特に故意の偽造品犯罪について法定要件・量刑を確認する。",
+      "en": "Potentially available, particularly for intentional counterfeiting; verify statutory elements and sentencing."
+    },
+    "criminalOther": {
+      "ja": "侵害品、包装、ラベル、製造・複製手段の差押え、没収、廃棄等があり得る。",
+      "en": "Seizure, forfeiture and destruction of infringing goods, packaging, labels and production/reproduction means may apply."
+    }
+  },
+  "notablePoints": [
+    {
+      "id": "not-madrid-member",
+      "importance": "critical",
+      "title": {
+        "ja": "マドプロ指定不可",
+        "en": "Madrid designation unavailable"
+      },
+      "summary": {
+        "ja": "南アフリカは2026年9月時点でマドリッド議定書未加盟。南アフリカでの保護にはCIPCへの国内出願が必要。",
+        "en": "South Africa is not a Madrid Protocol member as of September 2026; protection requires a national application with CIPC."
+      },
+      "sourceUrl": "https://www.wipo.int/en/web/madrid-system/members/index"
+    },
+    {
+      "id": "first-action-ten-months",
+      "importance": "high",
+      "title": {
+        "ja": "最初のofficial actionは約10か月が目安",
+        "en": "First official action target is about ten months"
+      },
+      "summary": {
+        "ja": "CIPCの公表サービス目安は新規商標出願の最初のofficial actionまで10か月。無異議登録証は異議期間満了後約66営業日。",
+        "en": "CIPC’s published service target is ten months to first official action, with an unopposed certificate targeted about 66 working days after the opposition period."
+      },
+      "sourceUrl": "https://www.cipc.co.za/?page_id=4160"
+    },
+    {
+      "id": "five-years-plus-three-months",
+      "importance": "critical",
+      "title": {
+        "ja": "5年不使用と申請前3か月の基準",
+        "en": "Five-year non-use plus three-month look-back"
+      },
+      "summary": {
+        "ja": "登録証発行から5年以上、申請日の3か月前まで継続して真正使用がないことが取消事由となり、使用の立証責任は登録権者にある。",
+        "en": "Non-use for at least five years from certificate issue, continuing up to three months before the application, supports removal; the proprietor bears the burden of proving use."
+      },
+      "sourceUrl": "https://www.wipo.int/wipolex/en/legislation/details/4074"
+    },
+    {
+      "id": "single-class-system",
+      "importance": "high",
+      "title": {
+        "ja": "原則一出願一区分",
+        "en": "Generally a single-class filing system"
+      },
+      "summary": {
+        "ja": "区分ごとに別出願・別番号となるため、同一標章の複数区分をファミリーとして管理する。",
+        "en": "Each class generally requires a separate application and number, so multi-class brand coverage should be managed as an application family."
+      },
+      "sourceUrl": "https://www.cipc.co.za/?page_id=4118"
+    },
+    {
+      "id": "common-law-passing-off",
+      "importance": "high",
+      "title": {
+        "ja": "未登録標章にもコモンロー保護",
+        "en": "Common-law protection for unregistered marks"
+      },
+      "summary": {
+        "ja": "登録商標侵害とは別に、評判・営業上の信用、虚偽表示、損害を立証するパッシング・オフが利用され得る。先使用調査も重要。",
+        "en": "Passing off may protect unregistered marks upon proof of reputation/goodwill, misrepresentation and damage, making prior-use investigation important."
+      },
+      "sourceUrl": "https://www.cipc.co.za/wp-content/uploads/2025/05/Intellectual-Property-Reference-Guide-for-Small-Law-Firms-SMMEs.pdf"
+    }
+  ],
+  "statistics": {
+    "coverage": "2016–2025",
+    "status": "pending",
+    "series": []
+  },
+  "news": [
+    {
+      "id": "cipc-ip-guide-2025",
+      "type": "practice",
+      "date": "2025-05-01",
+      "title": {
+        "ja": "CIPCが中小法律事務所・SMME向けIP実務ガイドを公表",
+        "en": "CIPC publishes IP reference guide for small firms and SMMEs"
+      },
+      "summary": {
+        "ja": "登録・コモンロー、商標類型、識別力、手続、執行を横断的に整理した実務資料。法令・審査ガイドラインと併読する。",
+        "en": "The guide summarizes registration/common law, mark types, distinctiveness, procedure and enforcement; use it together with legislation and examination guidelines."
+      },
+      "sourceUrl": "https://www.cipc.co.za/wp-content/uploads/2025/05/Intellectual-Property-Reference-Guide-for-Small-Law-Firms-SMMEs.pdf"
+    },
+    {
+      "id": "smmes-registration-series-2023",
+      "type": "practice",
+      "date": "2023-11-01",
+      "title": {
+        "ja": "CIPCが商標登録実務の解説資料を公開",
+        "en": "CIPC publishes practical trademark-registration guidance"
+      },
+      "summary": {
+        "ja": "出願費用、標章選択、検索・出願工程等をSMME向けに説明する資料。具体的料金は改定され得るため都度確認する。",
+        "en": "CIPC guidance explains mark selection, searches, filing steps and fees for SMMEs; verify current fees before relying on figures."
+      },
+      "sourceUrl": "https://www.cipc.co.za/wp-content/uploads/2023/11/TMK-SSME-ART-1-NOV-23.pdf"
+    },
+    {
+      "id": "iponline-current-practice",
+      "type": "practice",
+      "date": "2024-01-01",
+      "title": {
+        "ja": "IPOnlineによる電子的な出願・維持管理",
+        "en": "Electronic filing and maintenance through IPOnline"
+      },
+      "summary": {
+        "ja": "CIPCのIPOnlineが商標出願、検索、優先権書類提出、更新等の実務窓口となる。画面・提出要件は更新時に再確認する。",
+        "en": "CIPC IPOnline serves as the operational portal for filings, searches, priority documents and maintenance; recheck interface and submission requirements on each update."
+      },
+      "sourceUrl": "https://iponline.cipc.co.za/"
+    }
+  ],
+  "faqs": [
+    {
+      "tag": "Filing",
+      "question": {
+        "ja": "一区分一出願として、どの区分・商品役務を優先すべきですか。",
+        "en": "Given the single-class system, which classes and goods/services should be prioritized?"
+      },
+      "followUp": {
+        "ja": "関連出願の費用、同時審査、公告・更新期限の一括管理方法も教えてください。",
+        "en": "Please explain costs, coordinated examination and family docketing of publication and renewal deadlines."
+      }
+    },
+    {
+      "tag": "Madrid",
+      "question": {
+        "ja": "マドプロが利用できないため、国内直接出願に必要な現地書類は何ですか。",
+        "en": "Since Madrid is unavailable, what local documents are required for a direct national filing?"
+      },
+      "followUp": {
+        "ja": "委任状、国内送達先、優先権証明書の3か月期限、原本・認証要件を確認してください。",
+        "en": "Please confirm the power, local address for service, three-month priority-document deadline and original/certification requirements."
+      }
+    },
+    {
+      "tag": "Opposition",
+      "question": {
+        "ja": "3か月の異議期間と登録証発行留保を、どのように延長できますか。",
+        "en": "How can the three-month opposition period and withholding of the certificate be extended?"
+      },
+      "followUp": {
+        "ja": "当事者合意、good cause、宣誓証拠、各証拠段階の期限を説明してください。",
+        "en": "Please explain party agreement, good cause, affidavit evidence and deadlines for each evidence stage."
+      }
+    },
+    {
+      "tag": "Non-use",
+      "question": {
+        "ja": "登録証発行日、5年期間、申請前3か月の基準日を具体的に計算できますか。",
+        "en": "Can you calculate the certificate date, five-year period and three-month-before-application cutoff?"
+      },
+      "followUp": {
+        "ja": "使用の立証責任、許諾使用、部分取消、輸出、オンライン販売、特別事情の抗弁も確認してください。",
+        "en": "Please confirm burden of proof, permitted use, partial removal, exports, online sales and special-circumstances defenses."
+      }
+    },
+    {
+      "tag": "Colour",
+      "question": {
+        "ja": "白黒登録とカラー使用の同一性を、優先権・類似・不使用取消・侵害でどう判断しますか。",
+        "en": "How is identity between black-and-white registration and color use assessed for priority, similarity, non-use and infringement?"
+      },
+      "followUp": {
+        "ja": "色彩限定なし出願とカラー版の併願が必要か、審査・判例実務から助言してください。",
+        "en": "Please advise from examination and case law whether both a non-color-limited and color filing are advisable."
+      }
+    },
+    {
+      "tag": "Enforcement",
+      "question": {
+        "ja": "High Courtのinterdict、パッシング・オフ、Counterfeit Goods Actの摘発、税関措置をどう組み合わせますか。",
+        "en": "How should we combine a High Court interdict, passing off, Counterfeit Goods Act raid and customs measures?"
+      },
+      "followUp": {
+        "ja": "Anton Piller型命令、inspectors、警察、税関それぞれの証拠、費用、期間を比較してください。",
+        "en": "Compare evidence, cost and timing for Anton Piller relief, inspectors, police and customs."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "CIPC—Register Trade Mark",
+      "url": "https://www.cipc.co.za/?page_id=4118",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "CIPC—Maintain Trade Mark",
+      "url": "https://www.cipc.co.za/?page_id=1539",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "CIPC—Trade Mark FAQs",
+      "url": "https://www.cipc.co.za/?page_id=4160",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "CIPC—IPOnline",
+      "url": "https://iponline.cipc.co.za/Trademarks/TMInformation.aspx",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "CIPC—Examination Guidelines Version 3A",
+      "url": "https://www.cipc.co.za/wp-content/uploads/2021/04/Guideline_on_the_Examination_of_Trade_Marks_by_the_South_African_Trade_Marks_Office_-_Version_3A_August_2019.pdf",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "CIPC—IP Reference Guide 2025",
+      "url": "https://www.cipc.co.za/wp-content/uploads/2025/05/Intellectual-Property-Reference-Guide-for-Small-Law-Firms-SMMEs.pdf",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "South African Trade Marks Act—WIPO Lex",
+      "url": "https://www.wipo.int/wipolex/en/legislation/details/4074",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "South African Trade Mark Regulations—WIPO Lex",
+      "url": "https://www.wipo.int/wipolex/en/legislation/details/13348",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "CIPC—Priority Document Filing",
+      "url": "https://iponline.cipc.co.za/Trademarks/Maintenance/TMMaintenance.aspx",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "WIPO—Madrid System Members",
+      "url": "https://www.wipo.int/en/web/madrid-system/members/index",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    }
+  ]
+}
