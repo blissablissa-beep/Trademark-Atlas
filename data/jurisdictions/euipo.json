@@ -20,7 +20,7 @@
     "it"
   ],
   "createdAt": "2026-09-11",
-  "updatedAt": "2026-09-11",
+  "updatedAt": "2026-09-12",
   "status": "draft",
   "facts": {
     "authority": {
@@ -118,6 +118,18 @@
       "en": "Yes",
       "de": "Ja",
       "it": "Sì"
+    },
+    "distinctivenessGrounds": {
+      "ja": "識別力欠如（EUTMR第7条第1項(b)）、記述的表示（同(c)）、普通名称・慣用表示（同(d)）等が拒絶理由となる。EU域内の一部においてのみ拒絶理由が存在する場合も登録できず、言語的評価ではEU公用語その他の関連言語に注意する。使用による識別力獲得を主張する場合は、原則として拒絶理由が存在するEUの地域全体について立証が必要となる。",
+      "en": "Grounds include lack of distinctive character (Article 7(1)(b) EUTMR), descriptiveness (Article 7(1)(c)) and customary signs or indications (Article 7(1)(d)). Registration may be refused even where the ground exists in only part of the EU, so all relevant EU languages must be considered. A claim of acquired distinctiveness through use generally requires proof covering the EU territory in which the ground exists.",
+      "de": "Zu den Schutzhindernissen gehören fehlende Unterscheidungskraft (Artikel 7 Absatz 1 Buchstabe b UMV), beschreibende Angaben (Buchstabe c) sowie übliche Zeichen oder Angaben (Buchstabe d). Die Eintragung kann auch versagt werden, wenn das Hindernis nur in einem Teil der EU besteht; daher sind alle maßgeblichen Sprachen der EU zu berücksichtigen. Für den Nachweis erworbener Unterscheidungskraft ist grundsätzlich das gesamte Unionsgebiet zu erfassen, in dem das Hindernis besteht.",
+      "it": "I motivi comprendono la mancanza di carattere distintivo (articolo 7, paragrafo 1, lettera b), RMUE), il carattere descrittivo (lettera c) e i segni o le indicazioni divenuti di uso comune (lettera d). La registrazione può essere rifiutata anche se il motivo sussiste soltanto in una parte dell’UE; occorre quindi considerare tutte le lingue pertinenti dell’Unione. La prova del carattere distintivo acquisito con l’uso deve generalmente coprire il territorio dell’UE nel quale sussiste il motivo di rifiuto."
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "標章としての要件を満たさない表示、商品の性質に由来する形状・技術的結果を得るために必要な形状等・商品に実質的価値を与える形状等、公序・善良な風俗に反する標章、需要者を欺くおそれのある標章、国旗・紋章・公的標章との抵触、原産地名称・地理的表示、ワインの伝統的用語、伝統的特産品保証および先行する植物品種名称との抵触等がある（EUTMR第7条）。悪意は通常、出願審査時の職権拒絶理由ではなく、無効理由として問題となる。",
+      "en": "Other grounds under Article 7 EUTMR include failure to satisfy the definition of a mark; shapes or other characteristics resulting from the nature of the goods, necessary to obtain a technical result or giving substantial value to the goods; signs contrary to public policy or accepted principles of morality; deceptive signs; conflicts with flags, emblems or official signs; and conflicts with protected designations of origin, geographical indications, traditional terms for wine, traditional specialities guaranteed or earlier plant variety denominations. Bad faith is generally addressed as a ground for invalidity rather than an ex officio filing-stage refusal.",
+      "de": "Weitere Schutzhindernisse nach Artikel 7 UMV betreffen unter anderem die Nichterfüllung des Markenbegriffs; Formen oder andere Merkmale, die durch die Art der Ware bedingt, zur Erreichung einer technischen Wirkung erforderlich sind oder der Ware einen wesentlichen Wert verleihen; Verstöße gegen die öffentliche Ordnung oder die guten Sitten; täuschende Zeichen; Konflikte mit Flaggen, Hoheitszeichen oder amtlichen Prüfzeichen sowie mit geschützten Ursprungsbezeichnungen, geografischen Angaben, traditionellen Weinbezeichnungen, garantiert traditionellen Spezialitäten oder älteren Sortenbezeichnungen. Bösgläubigkeit wird grundsätzlich als Nichtigkeitsgrund und nicht als von Amts wegen zu prüfendes Eintragungshindernis behandelt.",
+      "it": "Gli altri motivi previsti dall’articolo 7 RMUE comprendono il mancato rispetto della definizione di marchio; forme o altre caratteristiche imposte dalla natura del prodotto, necessarie per ottenere un risultato tecnico o che conferiscono un valore sostanziale al prodotto; segni contrari all’ordine pubblico o al buon costume; segni ingannevoli; conflitti con bandiere, emblemi o segni ufficiali; e conflitti con denominazioni di origine, indicazioni geografiche, menzioni tradizionali per i vini, specialità tradizionali garantite o denominazioni varietali anteriori. La malafede costituisce generalmente un motivo di nullità, non un motivo di rifiuto esaminato d’ufficio al deposito."
     },
     "relativeGroundsExamination": {
       "ja": "先行商標との抵触について、原則として職権による拒絶審査は行わず、異議申立手続で争われる。",
@@ -391,6 +403,122 @@
       "it": "Secondo i risultati 2024 delle commissioni di ricorso, le decisioni ex parte, comprese quelle relative ai rifiuti, sono state notificate in media 3,7 mesi dopo la ricezione dalla cancelleria; per le decisioni inter partes la media è stata di 4,8 mesi. Questi dati misurano la fase decisionale successiva alla ricezione dalla cancelleria, non l’intera durata dal deposito del ricorso alla conclusione."
     }
   },
+  "notablePoints": [
+    {
+      "id": "unitary-character-and-conversion",
+      "category": "filing",
+      "importance": "high",
+      "title": {
+        "ja": "単一的効力と一部地域の拒絶理由・国内出願への変更",
+        "en": "Unitary character, objections in part of the EU and conversion",
+        "de": "Einheitlicher Charakter, Hindernisse in Teilen der EU und Umwandlung",
+        "it": "Carattere unitario, impedimenti in parte dell’UE e conversione"
+      },
+      "summary": {
+        "ja": "EU商標はEU全域について単一的効力を有するため、絶対的拒絶理由が一加盟国またはEUの一部だけで成立する場合や、一部の国で有効な先行権に基づく異議が認められる場合でも、EU商標全体が拒絶され得る。ただし、拒絶理由等の影響を受けない加盟国について、一定の要件の下で国内出願への変更を請求できる場合がある。",
+        "en": "Because an EUTM has unitary effect throughout the EU, an absolute ground existing in a single Member State or part of the EU, or a successful opposition based on an earlier right effective in only part of the EU, may defeat the EUTM as a whole. Subject to the applicable requirements, conversion into national applications may remain available for unaffected Member States.",
+        "de": "Wegen des einheitlichen Charakters der Unionsmarke kann bereits ein absolutes Schutzhindernis in einem Mitgliedstaat oder einem Teil der EU oder ein erfolgreicher Widerspruch aus einem nur in einem Teil der EU geltenden älteren Recht die gesamte Anmeldung zu Fall bringen. Unter den einschlägigen Voraussetzungen kann eine Umwandlung in nationale Anmeldungen für nicht betroffene Mitgliedstaaten möglich bleiben.",
+        "it": "A causa del carattere unitario del MUE, un motivo assoluto esistente in un solo Stato membro o in una parte dell’UE, oppure un’opposizione accolta sulla base di un diritto anteriore efficace soltanto in una parte dell’UE, può pregiudicare l’intera domanda. Nel rispetto delle condizioni applicabili, può restare possibile la conversione in domande nazionali negli Stati membri non interessati."
+      },
+      "practicalImpact": {
+        "ja": "出願前調査では主要市場だけでなくEU全域の先行権と、各国言語における記述性・識別力・公序良俗上の意味を検討する必要がある。",
+        "en": "Clearance should consider earlier rights across the EU and descriptiveness, distinctiveness and public-policy meanings in relevant national languages, not only the principal commercial markets.",
+        "de": "Die Vorabrecherche sollte nicht nur die Hauptmärkte, sondern ältere Rechte in der gesamten EU sowie beschreibende, nicht unterscheidungskräftige oder anstößige Bedeutungen in den maßgeblichen Sprachen berücksichtigen.",
+        "it": "La ricerca preventiva dovrebbe considerare i diritti anteriori in tutta l’UE e i significati descrittivi, non distintivi o contrari all’ordine pubblico nelle lingue pertinenti, non soltanto i principali mercati commerciali."
+      },
+      "recommendedAction": {
+        "ja": "EU商標一本で進める場合の全域リスクと、国内出願の併願または変更を利用する場合の費用・期限を出願前に比較する。",
+        "en": "Before filing, compare the EU-wide risk of relying on one EUTM with the cost and deadlines of parallel national filings or a later conversion strategy.",
+        "de": "Vor der Anmeldung sollten das unionsweite Risiko einer einzigen Unionsmarke sowie Kosten und Fristen paralleler nationaler Anmeldungen oder einer späteren Umwandlung verglichen werden.",
+        "it": "Prima del deposito, confrontare il rischio unionale di un unico MUE con costi e termini di domande nazionali parallele o di una successiva conversione."
+      },
+      "agentQuestion": {
+        "ja": "今回の標章について、特定の加盟国・言語でEU商標全体を妨げる拒絶・異議リスクがありますか。また、国内出願の併願または変更を準備すべきですか。",
+        "en": "Does this mark face a refusal or opposition risk in any particular Member State or language that could defeat the entire EUTM, and should we prepare parallel national filings or a conversion strategy?",
+        "de": "Besteht für dieses Zeichen in einem bestimmten Mitgliedstaat oder einer bestimmten Sprache ein Zurückweisungs- oder Widerspruchsrisiko für die gesamte Unionsmarke, und sollten parallele nationale Anmeldungen oder eine Umwandlungsstrategie vorbereitet werden?",
+        "it": "Il segno presenta in un determinato Stato membro o in una determinata lingua un rischio di rifiuto o opposizione tale da compromettere l’intero MUE, e dovremmo predisporre domande nazionali parallele o una strategia di conversione?"
+      },
+      "sourceUrl": "https://www.euipo.europa.eu/en/help-centre/tm/faq-registration",
+      "checkedAt": "2026-09-12",
+      "status": "verified"
+    },
+    {
+      "id": "proof-of-use-in-opposition",
+      "category": "opposition",
+      "importance": "high",
+      "title": {
+        "ja": "異議申立てにおける先行商標の使用証明要求",
+        "en": "Requesting proof of use of the earlier mark in opposition",
+        "de": "Benutzungsnachweis der älteren Marke im Widerspruchsverfahren",
+        "it": "Richiesta della prova dell’uso del marchio anteriore nell’opposizione"
+      },
+      "summary": {
+        "ja": "先行登録商標が所定の5年間の使用猶予期間を経過している場合、被異議申立人は、適式かつ期限内に使用証明を要求できる。要求が認められると、異議申立人は関連期間・地域・商品役務について真正な使用または不使用の正当理由を立証しなければならず、立証されない範囲ではその先行商標に基づく異議が排斥され得る。",
+        "en": "Where the earlier registered mark has passed the applicable five-year grace period, the applicant may make an admissible and timely request for proof of use. The opponent must then prove genuine use, or proper reasons for non-use, for the relevant period, territory and goods or services; the opposition may fail to the extent that the required use is not proved.",
+        "de": "Ist für die ältere eingetragene Marke die maßgebliche fünfjährige Benutzungsschonfrist abgelaufen, kann der Anmelder rechtzeitig und zulässig einen Benutzungsnachweis verlangen. Der Widersprechende muss dann die ernsthafte Benutzung oder berechtigte Gründe für die Nichtbenutzung hinsichtlich Zeitraum, Gebiet und Waren oder Dienstleistungen nachweisen; soweit der Nachweis fehlt, kann der Widerspruch zurückgewiesen werden.",
+        "it": "Quando per il marchio anteriore registrato è decorso il pertinente periodo di tolleranza di cinque anni, il richiedente può presentare tempestivamente una richiesta ammissibile di prova dell’uso. L’opponente deve allora provare l’uso effettivo, o motivi legittimi di mancato uso, per il periodo, il territorio e i prodotti o servizi pertinenti; in mancanza, l’opposizione può essere respinta nella misura corrispondente."
+      },
+      "practicalImpact": {
+        "ja": "異議答弁の初期段階で要求の適格性と期限を確認する必要がある。一方、異議を申し立てる側は、請求前に証拠の対象期間・地域・商品役務を監査する必要がある。",
+        "en": "The admissibility and deadline for the request should be checked at the outset of the defence. An opponent should audit the relevant dates, territory, goods or services and supporting evidence before relying on an older registration.",
+        "de": "Zulässigkeit und Frist des Antrags sollten zu Beginn der Verteidigung geprüft werden. Der Widersprechende sollte Zeitraum, Gebiet, Waren oder Dienstleistungen und Belege vor Berufung auf eine ältere Eintragung kontrollieren.",
+        "it": "L’ammissibilità e il termine della richiesta devono essere verificati all’inizio della difesa. Prima di invocare una registrazione risalente, l’opponente dovrebbe verificare periodo, territorio, prodotti o servizi e prove disponibili."
+      },
+      "recommendedAction": {
+        "ja": "異議受領後、使用証明要求の可否を直ちに検討する。異議申立て前には、請求対象の商品・役務ごとに真正な使用を示す証拠一式を準備する。",
+        "en": "Immediately assess a proof-of-use request after receiving an opposition. Before filing an opposition, assemble evidence of genuine use for each good or service on which the opposition will rely.",
+        "de": "Nach Eingang eines Widerspruchs ist ein Antrag auf Benutzungsnachweis sofort zu prüfen. Vor Einlegung eines Widerspruchs sollten Benutzungsunterlagen für jede herangezogene Ware oder Dienstleistung zusammengestellt werden.",
+        "it": "Dopo aver ricevuto un’opposizione, valutare immediatamente la richiesta di prova dell’uso. Prima di presentare opposizione, raccogliere le prove dell’uso effettivo per ciascun prodotto o servizio invocato."
+      },
+      "agentQuestion": {
+        "ja": "先行商標について使用証明を要求できますか。要求期限と対象期間はいつで、異議申立人の証拠にはどのような不足がありますか。",
+        "en": "Can we request proof of use of the earlier mark, what are the request deadline and relevant use period, and what weaknesses are apparent in the opponent’s evidence?",
+        "de": "Kann ein Benutzungsnachweis für die ältere Marke verlangt werden, welche Antragsfrist und welcher Benutzungszeitraum gelten und welche Schwächen weist das Beweismaterial des Widersprechenden auf?",
+        "it": "Possiamo richiedere la prova dell’uso del marchio anteriore, quali sono il termine della richiesta e il periodo d’uso pertinente e quali carenze presenta la prova dell’opponente?"
+      },
+      "sourceUrl": "https://guidelines.euipo.europa.eu/1922895/1785962/trade-mark-guidelines/5-1-admissibility-of-the-request-for-proof-of-use",
+      "checkedAt": "2026-09-12",
+      "status": "verified"
+    },
+    {
+      "id": "mandatory-eea-representation",
+      "category": "procedure",
+      "importance": "high",
+      "title": {
+        "ja": "EEA域外の当事者に対する代理人選任義務",
+        "en": "Mandatory representation for parties based outside the EEA",
+        "de": "Vertretungspflicht für Beteiligte außerhalb des EWR",
+        "it": "Obbligo di rappresentanza per le parti stabilite al di fuori del SEE"
+      },
+      "summary": {
+        "ja": "EEA内に住所、主たる事業所または現実かつ真正な工業上・商業上の営業所を有しない出願人は、出願自体は行えるものの、その後のEUIPOにおける手続では原則としてEEA内の適格な代理人を選任する必要がある。日本企業については、方式不備通知や拒絶対応に先立ち、出願時から代理人を指定するのが実務上安全である。",
+        "en": "An applicant without a domicile, principal place of business or real and effective industrial or commercial establishment in the EEA may file the application itself, but generally must appoint a qualified EEA-based representative for subsequent proceedings before EUIPO. For a Japanese applicant, appointment at filing is normally prudent to avoid a representation deficiency when later action is required.",
+        "de": "Ein Anmelder ohne Wohnsitz, Hauptgeschäftssitz oder tatsächliche und nicht nur zum Schein bestehende Niederlassung im EWR kann die Anmeldung selbst einreichen, muss jedoch für spätere Verfahren vor dem EUIPO grundsätzlich einen qualifizierten Vertreter im EWR bestellen. Für japanische Anmelder ist die Bestellung bereits bei der Anmeldung zweckmäßig, um Vertretungsmängel bei späteren Handlungen zu vermeiden.",
+        "it": "Un richiedente privo di domicilio, sede principale o stabilimento industriale o commerciale reale ed effettivo nel SEE può depositare direttamente la domanda, ma deve generalmente nominare un rappresentante qualificato stabilito nel SEE per i successivi procedimenti dinanzi all’EUIPO. Per un richiedente giapponese è normalmente prudente effettuare la nomina al deposito per evitare irregolarità di rappresentanza."
+      },
+      "practicalImpact": {
+        "ja": "WIPOで選任した代理人がEUIPOでの代理資格を有するとは限らず、マドプロEU指定の暫定拒絶対応でも別途確認が必要となる。",
+        "en": "A representative recorded before WIPO is not necessarily entitled to act before EUIPO, which must also be checked when responding to a provisional refusal against an EU designation under Madrid.",
+        "de": "Ein bei der WIPO eingetragener Vertreter ist nicht zwangsläufig vor dem EUIPO vertretungsberechtigt; dies ist auch bei einer vorläufigen Schutzverweigerung gegen eine EU-Benennung nach dem Madrider System zu prüfen.",
+        "it": "Un rappresentante registrato presso l’OMPI non è necessariamente abilitato ad agire dinanzi all’EUIPO; ciò deve essere verificato anche in caso di rifiuto provvisorio relativo a una designazione UE ai sensi del sistema di Madrid."
+      },
+      "recommendedAction": {
+        "ja": "直接出願・マドプロ指定のいずれでも、EUIPOでの代理資格と連絡先を出願時に確認する。",
+        "en": "For both direct filings and Madrid designations, confirm at filing that the appointed representative is entitled to act before EUIPO and that the correspondence details are correct.",
+        "de": "Sowohl bei Direktanmeldungen als auch bei Madrider Benennungen sollte bereits bei der Einreichung geprüft werden, ob der bestellte Vertreter vor dem EUIPO vertretungsberechtigt ist und die Korrespondenzdaten stimmen.",
+        "it": "Sia per i depositi diretti sia per le designazioni Madrid, verificare al deposito che il rappresentante sia abilitato ad agire dinanzi all’EUIPO e che i recapiti siano corretti."
+      },
+      "agentQuestion": {
+        "ja": "貴所は当社をEUIPOで直接代理できますか。マドプロEU指定の場合、WIPO上の代理人記録とは別にEUIPOへの選任手続が必要ですか。",
+        "en": "Can your firm represent us directly before EUIPO, and for a Madrid EU designation is a separate EUIPO appointment required in addition to the representative recorded before WIPO?",
+        "de": "Kann Ihre Kanzlei uns unmittelbar vor dem EUIPO vertreten, und ist bei einer Madrider EU-Benennung zusätzlich zum bei der WIPO eingetragenen Vertreter eine gesonderte Bestellung beim EUIPO erforderlich?",
+        "it": "Il vostro studio può rappresentarci direttamente dinanzi all’EUIPO e, per una designazione UE tramite Madrid, è necessaria una nomina separata presso l’EUIPO oltre al rappresentante registrato presso l’OMPI?"
+      },
+      "sourceUrl": "https://www.euipo.europa.eu/en/help-centre/tm/faq-representation-before-the-office",
+      "checkedAt": "2026-09-12",
+      "status": "verified"
+    }
+  ],
   "statistics": {
     "coverage": "2016–2025",
     "status": "pending",
@@ -398,22 +526,22 @@
   },
   "news": [
     {
-      "id": "research-pending",
-      "type": "research",
-      "date": "2026-09-11",
+      "id": "cp14-public-policy-morality",
+      "type": "practice",
+      "date": "2024-04-19",
       "title": {
-        "ja": "直近3年の法改正・審査実務・重要判例を調査予定",
-        "en": "Research pending for legal amendments, examination practice and key cases from the last three years",
-        "de": "Recherche zu Gesetzesänderungen, Prüfungspraxis und wichtigen Entscheidungen der letzten drei Jahre vorgesehen",
-        "it": "Ricerca prevista sulle modifiche normative, la prassi d’esame e le decisioni principali degli ultimi tre anni"
+        "ja": "CP14：公序・善良な風俗に反する商標の共通実務",
+        "en": "CP14: Common Practice on marks contrary to public policy or accepted principles of morality",
+        "de": "CP14: Gemeinsame Praxis zu Marken, die gegen die öffentliche Ordnung oder die guten Sitten verstoßen",
+        "it": "CP14: Prassi comune sui marchi contrari all’ordine pubblico o al buon costume"
       },
       "summary": {
-        "ja": "EUIPO公式資料およびEU裁判所の一次資料に基づいて追記する。",
-        "en": "To be populated from official EUIPO guidance and primary EU court sources.",
-        "de": "Ergänzung anhand offizieller Unterlagen des EUIPO und der Primärquellen der Unionsgerichte.",
-        "it": "Da integrare sulla base delle fonti ufficiali dell’EUIPO e delle fonti primarie dei giudici dell’Unione."
+        "ja": "公序と善良な風俗の概念、その相違・重複、評価基準および例示を整理したEUIPN共通実務。2024年4月19日に公表され、EUIPOおよび参加官庁での予測可能性向上を目的とする。",
+        "en": "The EUIPN Common Practice explains public policy and accepted principles of morality, their distinctions and overlap, assessment criteria and illustrative examples. It was published on 19 April 2024 to improve consistency and predictability at EUIPO and participating offices.",
+        "de": "Die gemeinsame Praxis des EUIPN erläutert öffentliche Ordnung und gute Sitten, deren Unterschiede und Überschneidungen sowie Beurteilungskriterien und Beispiele. Sie wurde am 19. April 2024 veröffentlicht, um Kohärenz und Vorhersehbarkeit beim EUIPO und den teilnehmenden Ämtern zu verbessern.",
+        "it": "La prassi comune dell’EUIPN chiarisce i concetti di ordine pubblico e buon costume, le loro differenze e sovrapposizioni, i criteri di valutazione e alcuni esempi. È stata pubblicata il 19 aprile 2024 per migliorare coerenza e prevedibilità presso l’EUIPO e gli uffici partecipanti."
       },
-      "sourceUrl": ""
+      "sourceUrl": "https://www.euipo.europa.eu/en/news/publication-and-implementation-of-cp14"
     },
     {
       "id": "cp4-black-white-colour-marks",
@@ -529,6 +657,24 @@
       "url": "https://www.soei.com/%EF%BC%BB%E5%95%86%E6%A8%99%EF%BC%8Feu%EF%BC%BD%E7%99%BD%E9%BB%92vs%E8%89%B2%E5%BD%A9%E5%95%86%E6%A8%99%E3%81%AE%E5%90%8C%E4%B8%80%E6%80%A7%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%85%B1%E9%80%9A/",
       "type": "secondary",
       "checkedAt": "2026-09-11"
+    },
+    {
+      "label": "EUIPO Guidelines — Absolute grounds for refusal",
+      "url": "https://guidelines.euipo.europa.eu/2302857/1788306/trade-mark-guidelines",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "EUIPO — Publication and implementation of CP14",
+      "url": "https://www.euipo.europa.eu/en/news/publication-and-implementation-of-cp14",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "EUIPO — Representation before the Office",
+      "url": "https://www.euipo.europa.eu/en/help-centre/tm/faq-representation-before-the-office",
+      "type": "official",
+      "checkedAt": "2026-09-12"
     }
   ]
 }
