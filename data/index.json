@@ -16,6 +16,10 @@
     "path": "./data/jurisdictions/ar.json"
   },
   {
+    "id": "cl",
+    "path": "./data/jurisdictions/cl.json"
+  },
+  {
     "id": "au",
     "path": "./data/jurisdictions/au.json"
   },
