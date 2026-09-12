@@ -28,6 +28,10 @@
     "path": "./data/jurisdictions/nz.json"
   },
   {
+    "id": "in",
+    "path": "./data/jurisdictions/in.json"
+  },
+  {
     "id": "th",
     "path": "./data/jurisdictions/th.json"
   },
