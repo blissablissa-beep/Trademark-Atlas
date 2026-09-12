@@ -34,45 +34,53 @@ const ui = {
 
 const copy = {
   ja: {
-    all: "すべて",
-    europe: "欧州",
-    americas: "米州",
-    asia: "アジア",
-    region: "地域制度",
-    jurisdictions: "法域",
+    all: "ã™ã¹ã¦",
+    europe: "æ¬§å·ž",
+    americas: "ç±³å·ž",
+    asia: "ã‚¢ã‚¸ã‚¢",
+    region: "åœ°åŸŸåˆ¶åº¦",
+    jurisdictions: "æ³•åŸŸ",
 
-    created: "作成日",
-    updated: "最終更新日",
+    created: "ä½œæˆæ—¥",
+    updated: "æœ€çµ‚æ›´æ–°æ—¥",
 
-    review: "要更新確認",
-    draft: "調査中",
-    current: "確認済み",
+    review: "è¦æ›´æ–°ç¢ºèª",
+    draft: "èª¿æŸ»ä¸­",
+    current: "ç¢ºèªæ¸ˆã¿",
 
-    memo: "面談・案件メモ",
+    memo: "é¢è«‡ãƒ»æ¡ˆä»¶ãƒ¡ãƒ¢",
     memoHint:
-      "この端末に自動保存されます。代理人の回答、案件固有の注意点、次回確認事項など。",
-    saved: "保存しました",
+      "ã“ã®ç«¯æœ«ã«è‡ªå‹•ä¿å­˜ã•ã‚Œã¾ã™ã€‚ä»£ç†äººã®å›žç­”ã€æ¡ˆä»¶å›ºæœ‰ã®æ³¨æ„ç‚¹ã€æ¬¡å›žç¢ºèªäº‹é …ãªã©ã€‚",
+    saved: "ä¿å­˜ã—ã¾ã—ãŸ",
 
-    optional: "追加言語",
-    noData: "要調査",
+    optional: "è¿½åŠ è¨€èªž",
+    noData: "è¦èª¿æŸ»",
 
     stats:
-      "商標出願・国際出願の動向（直近10年）",
-    statsPending: "統計データ未収録",
+      "å•†æ¨™å‡ºé¡˜ãƒ»å›½éš›å‡ºé¡˜ã®å‹•å‘ï¼ˆç›´è¿‘10å¹´ï¼‰",
+    statsPending: "çµ±è¨ˆãƒ‡ãƒ¼ã‚¿æœªåŽéŒ²",
     statsHelp:
-      "年、国内出願、当該法域の出願人による国外出願、マドプロによる指定件数を収録します。",
+      "å¹´ã€å›½å†…å‡ºé¡˜ã€å½“è©²æ³•åŸŸã®å‡ºé¡˜äººã«ã‚ˆã‚‹å›½å¤–å‡ºé¡˜ã€ãƒžãƒ‰ãƒ—ãƒ­ã«ã‚ˆã‚‹æŒ‡å®šä»¶æ•°ã‚’åŽéŒ²ã—ã¾ã™ã€‚",
 
     news:
-      "最近の法改正・審査実務・重要判例（直近3年）",
+      "æœ€è¿‘ã®æ³•æ”¹æ­£ãƒ»å¯©æŸ»å®Ÿå‹™ãƒ»é‡è¦åˆ¤ä¾‹ï¼ˆç›´è¿‘3å¹´ï¼‰",
 
-    faq: "現地代理人に聞くFAQ",
-    sources: "参考サイト・出典",
+    notablePoints: "ç‰¹ç­†ã™ã¹ãç‚¹",
+    importance: "é‡è¦åº¦",
+    practicalImpact: "å®Ÿå‹™ã¸ã®å½±éŸ¿",
+    recommendedAction: "æŽ¨å¥¨å¯¾å¿œ",
+    agentQuestion: "ç¾åœ°ä»£ç†äººã¸ã®ç¢ºèªäº‹é …",
+    source: "å‚è€ƒè³‡æ–™",
+    checked: "ç¢ºèªæ—¥",
+
+    faq: "ç¾åœ°ä»£ç†äººã«èžãFAQ",
+    sources: "å‚è€ƒã‚µã‚¤ãƒˆãƒ»å‡ºå…¸",
 
     disclaimer:
-      "法的判断または期限管理には、必ず最新の法令・官庁資料および現地代理人の助言を確認してください。",
+      "æ³•çš„åˆ¤æ–­ã¾ãŸã¯æœŸé™ç®¡ç†ã«ã¯ã€å¿…ãšæœ€æ–°ã®æ³•ä»¤ãƒ»å®˜åºè³‡æ–™ãŠã‚ˆã³ç¾åœ°ä»£ç†äººã®åŠ©è¨€ã‚’ç¢ºèªã—ã¦ãã ã•ã„ã€‚",
 
     noResults:
-      "条件に一致する法域がありません。"
+      "æ¡ä»¶ã«ä¸€è‡´ã™ã‚‹æ³•åŸŸãŒã‚ã‚Šã¾ã›ã‚“ã€‚"
   },
 
   en: {
@@ -92,7 +100,7 @@ const copy = {
 
     memo: "Meeting & matter notes",
     memoHint:
-      "Saved automatically on this device. Record counsel’s answers, matter-specific points and follow-up questions.",
+      "Saved automatically on this device. Record counselâ€™s answers, matter-specific points and follow-up questions.",
     saved: "Saved",
 
     optional: "Additional language",
@@ -107,6 +115,14 @@ const copy = {
     news:
       "Recent amendments, examination practice and key cases (latest 3 years)",
 
+    notablePoints: "Notable points",
+    importance: "Importance",
+    practicalImpact: "Practical impact",
+    recommendedAction: "Recommended action",
+    agentQuestion: "Question for local counsel",
+    source: "Source",
+    checked: "Checked",
+
     faq: "Questions for local counsel",
     sources: "References and sources",
 
@@ -118,7 +134,64 @@ const copy = {
   }
 };
 
-/* 言語処理 */
+const notableCopy = {
+  ja: {
+    categories: {
+      filing: "å‡ºé¡˜",
+      examination: "å¯©æŸ»",
+      "use-evidence": "ä½¿ç”¨è¨¼æ‹ ",
+      "non-use": "ä¸ä½¿ç”¨",
+      opposition: "ç•°è­°",
+      appeal: "ä¸æœç”³ç«‹ã¦",
+      enforcement: "æ¨©åˆ©è¡Œä½¿",
+      "border-measures": "æ°´éš›æŽªç½®",
+      procedure: "æ‰‹ç¶š",
+      "cost-risk": "è²»ç”¨ãƒ»ãƒªã‚¹ã‚¯",
+      "local-practice": "ç¾åœ°å®Ÿå‹™",
+      other: "ãã®ä»–"
+    },
+    importance: {
+      high: "é«˜",
+      medium: "ä¸­",
+      low: "ä½Ž"
+    },
+    status: {
+      verified: "ä¸€æ¬¡è³‡æ–™ç¢ºèªæ¸ˆã¿",
+      "agent-confirmed": "ç¾åœ°ä»£ç†äººç¢ºèªæ¸ˆã¿",
+      "research-needed": "è¦èª¿æŸ»",
+      historical: "éŽåŽ»æƒ…å ±"
+    }
+  },
+  en: {
+    categories: {
+      filing: "Filing",
+      examination: "Examination",
+      "use-evidence": "Use evidence",
+      "non-use": "Non-use",
+      opposition: "Opposition",
+      appeal: "Appeal",
+      enforcement: "Enforcement",
+      "border-measures": "Border measures",
+      procedure: "Procedure",
+      "cost-risk": "Cost and risk",
+      "local-practice": "Local practice",
+      other: "Other"
+    },
+    importance: {
+      high: "High",
+      medium: "Medium",
+      low: "Low"
+    },
+    status: {
+      verified: "Verified from primary sources",
+      "agent-confirmed": "Confirmed by local counsel",
+      "research-needed": "Research needed",
+      historical: "Historical information"
+    }
+  }
+};
+
+/* è¨€èªžå‡¦ç† */
 
 function primaryLanguage() {
   return state.mode === "en" ? "en" : "ja";
@@ -199,7 +272,7 @@ function multilingual(value) {
   return `${escapeHtml(primary)}${translations}`;
 }
 
-/* 検索と絞り込み */
+/* æ¤œç´¢ã¨çµžã‚Šè¾¼ã¿ */
 
 function searchableText(item) {
   return JSON.stringify(item).toLocaleLowerCase();
@@ -269,7 +342,7 @@ function renderFilters() {
     });
 }
 
-/* 法域一覧 */
+/* æ³•åŸŸä¸€è¦§ */
 
 function renderList() {
   const items = filteredData();
@@ -329,7 +402,7 @@ function renderList() {
   });
 }
 
-/* 共通セクション */
+/* å…±é€šã‚»ã‚¯ã‚·ãƒ§ãƒ³ */
 
 function sectionShell(
   title,
@@ -346,7 +419,7 @@ function sectionShell(
         aria-expanded="${open}"
       >
         <span>${title}</span>
-        <span class="chevron">⌄</span>
+        <span class="chevron">âŒ„</span>
       </button>
 
       <div class="section-body">
@@ -356,7 +429,7 @@ function sectionShell(
   `;
 }
 
-/* 商標制度の各項目 */
+/* å•†æ¨™åˆ¶åº¦ã®å„é …ç›® */
 
 function valueFor(item, field) {
   const value = item.facts?.[field.id];
@@ -418,7 +491,7 @@ function renderLegalSection(
   );
 }
 
-/* 出願統計 */
+/* å‡ºé¡˜çµ±è¨ˆ */
 
 function renderStatistics(item) {
   const statistics =
@@ -441,7 +514,7 @@ function renderStatistics(item) {
 
         <span>
           ${escapeHtml(
-            statistics.coverage || "—"
+            statistics.coverage || "â€”"
           )}
         </span>
       </div>
@@ -457,19 +530,19 @@ function renderStatistics(item) {
 
             <td>
               ${escapeHtml(
-                row.domestic ?? "—"
+                row.domestic ?? "â€”"
               )}
             </td>
 
             <td>
               ${escapeHtml(
-                row.outbound ?? "—"
+                row.outbound ?? "â€”"
               )}
             </td>
 
             <td>
               ${escapeHtml(
-                row.madridDesignations ?? "—"
+                row.madridDesignations ?? "â€”"
               )}
             </td>
           </tr>
@@ -503,7 +576,7 @@ function renderStatistics(item) {
   );
 }
 
-/* 法改正・審査実務・判例 */
+/* æ³•æ”¹æ­£ãƒ»å¯©æŸ»å®Ÿå‹™ãƒ»åˆ¤ä¾‹ */
 
 function renderNews(item) {
   const newsItems = item.news || [];
@@ -564,7 +637,202 @@ function renderNews(item) {
   );
 }
 
-/* 現地代理人への質問 */
+/* æ³•åŸŸå›ºæœ‰ã®ç‰¹ç­†ã™ã¹ãå®Ÿå‹™äº‹é … */
+
+function notableTerm(group, value) {
+  if (!value) {
+    return "";
+  }
+
+  return (
+    notableCopy[primaryLanguage()]?.[group]?.[
+      value
+    ] || value
+  );
+}
+
+function renderNotablePoints(item) {
+  const points = Array.isArray(
+    item.notablePoints
+  )
+    ? item.notablePoints
+    : [];
+
+  if (!points.length) {
+    return "";
+  }
+
+  const body = points
+    .map((point) => {
+      const importance = [
+        "high",
+        "medium",
+        "low"
+      ].includes(point.importance)
+        ? point.importance
+        : "medium";
+
+      const status = [
+        "verified",
+        "agent-confirmed",
+        "research-needed",
+        "historical"
+      ].includes(point.status)
+        ? point.status
+        : "research-needed";
+
+      return `
+        <article
+          class="topic-card notable-card notable-${escapeHtml(
+            importance
+          )}"
+        >
+          <div class="topic-meta notable-meta">
+            <span class="faq-tag notable-category">
+              ${escapeHtml(
+                notableTerm(
+                  "categories",
+                  point.category || "other"
+                )
+              )}
+            </span>
+
+            <span
+              class="notable-importance importance-${escapeHtml(
+                importance
+              )}"
+            >
+              ${localCopy("importance")}:
+              ${escapeHtml(
+                notableTerm(
+                  "importance",
+                  importance
+                )
+              )}
+            </span>
+
+            <span
+              class="notable-status status-${escapeHtml(
+                status
+              )}"
+            >
+              ${escapeHtml(
+                notableTerm("status", status)
+              )}
+            </span>
+          </div>
+
+          <h4>
+            ${multilingual(point.title)}
+          </h4>
+
+          <p class="notable-summary">
+            ${multilingual(point.summary)}
+          </p>
+
+          ${
+            point.practicalImpact
+              ? `
+                <div class="notable-detail">
+                  <strong>
+                    ${localCopy("practicalImpact")}
+                  </strong>
+                  <div>
+                    ${multilingual(
+                      point.practicalImpact
+                    )}
+                  </div>
+                </div>
+              `
+              : ""
+          }
+
+          ${
+            point.recommendedAction
+              ? `
+                <div class="notable-detail">
+                  <strong>
+                    ${localCopy("recommendedAction")}
+                  </strong>
+                  <div>
+                    ${multilingual(
+                      point.recommendedAction
+                    )}
+                  </div>
+                </div>
+              `
+              : ""
+          }
+
+          ${
+            point.agentQuestion
+              ? `
+                <div class="notable-detail notable-question">
+                  <strong>
+                    ${localCopy("agentQuestion")}
+                  </strong>
+                  <div>
+                    ${multilingual(
+                      point.agentQuestion
+                    )}
+                  </div>
+                </div>
+              `
+              : ""
+          }
+
+          ${
+            point.sourceUrl || point.checkedAt
+              ? `
+                <div class="notable-source">
+                  ${
+                    point.sourceUrl
+                      ? `
+                        <a
+                          class="source-link"
+                          href="${escapeHtml(
+                            point.sourceUrl
+                          )}"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          ${localCopy("source")}
+                        </a>
+                      `
+                      : ""
+                  }
+
+                  ${
+                    point.checkedAt
+                      ? `
+                        <time datetime="${escapeHtml(
+                          point.checkedAt
+                        )}">
+                          ${localCopy("checked")}:
+                          ${escapeHtml(
+                            point.checkedAt
+                          )}
+                        </time>
+                      `
+                      : ""
+                  }
+                </div>
+              `
+              : ""
+          }
+        </article>
+      `;
+    })
+    .join("");
+
+  return sectionShell(
+    localCopy("notablePoints"),
+    body,
+    true
+  );
+}
+
+/* ç¾åœ°ä»£ç†äººã¸ã®è³ªå• */
 
 function renderFaq(item) {
   const faqItems = item.faqs || [];
@@ -583,7 +851,7 @@ function renderFaq(item) {
               </div>
 
               <div class="faq-followup">
-                ↳ ${multilingual(faq.followUp)}
+                â†³ ${multilingual(faq.followUp)}
               </div>
             </div>
           `
@@ -601,7 +869,7 @@ function renderFaq(item) {
   );
 }
 
-/* 参考資料 */
+/* å‚è€ƒè³‡æ–™ */
 
 function renderSources(item) {
   const sources = item.sources || [];
@@ -634,7 +902,7 @@ function renderSources(item) {
                 <small class="source-checked">
                   ${localCopy("updated")}:
                   ${escapeHtml(
-                    source.checkedAt || "—"
+                    source.checkedAt || "â€”"
                   )}
                 </small>
               </div>
@@ -654,7 +922,7 @@ function renderSources(item) {
   );
 }
 
-/* 法域詳細 */
+/* æ³•åŸŸè©³ç´° */
 
 function renderDetail() {
   const item =
@@ -680,7 +948,7 @@ function renderDetail() {
     state.favorites.has(item.id);
 
   const optionalButtons =
-    item.availableLanguages
+    (item.availableLanguages || [])
       .map((language) => {
         let label =
           language.toUpperCase();
@@ -694,11 +962,11 @@ function renderDetail() {
         }
 
         if (language === "fr") {
-          label = "Français";
+          label = "FranÃ§ais";
         }
 
         if (language === "es") {
-          label = "Español";
+          label = "EspaÃ±ol";
         }
 
         return `
@@ -780,9 +1048,9 @@ function renderDetail() {
           }"
           type="button"
           aria-pressed="${isFavorite}"
-          aria-label="お気に入り"
+          aria-label="ãŠæ°—ã«å…¥ã‚Š"
         >
-          ${isFavorite ? "★" : "☆"}
+          ${isFavorite ? "â˜…" : "â˜†"}
         </button>
       </div>
     </header>
@@ -834,6 +1102,8 @@ function renderDetail() {
     <div class="section-stack">
       ${legalSections}
 
+      ${renderNotablePoints(item)}
+
       ${renderStatistics(item)}
 
       ${renderNews(item)}
@@ -870,7 +1140,7 @@ function renderDetail() {
   wireDetail(item);
 }
 
-/* 詳細画面の操作 */
+/* è©³ç´°ç”»é¢ã®æ“ä½œ */
 
 function wireDetail(item) {
   ui.detail
@@ -958,7 +1228,7 @@ function wireDetail(item) {
   );
 }
 
-/* 法域・お気に入りの選択 */
+/* æ³•åŸŸãƒ»ãŠæ°—ã«å…¥ã‚Šã®é¸æŠž */
 
 function selectJurisdiction(id) {
   state.selectedId = id;
@@ -990,7 +1260,7 @@ function toggleFavorite(id) {
   renderAll();
 }
 
-/* 全画面の再描画 */
+/* å…¨ç”»é¢ã®å†æç”» */
 
 function renderAll() {
   document.documentElement.lang =
@@ -1010,19 +1280,19 @@ function renderAll() {
   ).textContent =
     state.mode === "en"
       ? "A practical jurisdiction guide for trade marks"
-      : "商標実務の法域別ガイド";
+      : "å•†æ¨™å®Ÿå‹™ã®æ³•åŸŸåˆ¥ã‚¬ã‚¤ãƒ‰";
 
   ui.search.placeholder =
     state.mode === "en"
       ? "Search jurisdictions, rules, cases and FAQs"
-      : "法域・制度・判例・FAQを検索";
+      : "æ³•åŸŸãƒ»åˆ¶åº¦ãƒ»åˆ¤ä¾‹ãƒ»FAQã‚’æ¤œç´¢";
 
   renderFilters();
   renderList();
   renderDetail();
 }
 
-/* 言語切替 */
+/* è¨€èªžåˆ‡æ›¿ */
 
 document
   .querySelectorAll(".lang-button")
@@ -1043,7 +1313,7 @@ document
     );
   });
 
-/* 検索 */
+/* æ¤œç´¢ */
 
 ui.search.addEventListener(
   "input",
@@ -1055,7 +1325,7 @@ ui.search.addEventListener(
   }
 );
 
-/* お気に入りのみ表示 */
+/* ãŠæ°—ã«å…¥ã‚Šã®ã¿è¡¨ç¤º */
 
 ui.favoriteFilter.addEventListener(
   "click",
@@ -1070,14 +1340,14 @@ ui.favoriteFilter.addEventListener(
 
     ui.favoriteFilter.textContent =
       state.favoritesOnly
-        ? "★"
-        : "☆";
+        ? "â˜…"
+        : "â˜†";
 
     renderList();
   }
 );
 
-/* JSONの読み込み */
+/* JSONã®èª­ã¿è¾¼ã¿ */
 
 Promise.all([
   fetch("./data/schema.json")
@@ -1132,7 +1402,7 @@ Promise.all([
 
     ui.detail.innerHTML = `
       <div class="empty-state">
-        データを読み込めませんでした。
+        ãƒ‡ãƒ¼ã‚¿ã‚’èª­ã¿è¾¼ã‚ã¾ã›ã‚“ã§ã—ãŸã€‚
       </div>
     `;
   });
