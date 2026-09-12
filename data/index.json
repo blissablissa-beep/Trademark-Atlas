@@ -8,6 +8,10 @@
     "path": "./data/jurisdictions/euipo.json"
   },
   {
+    "id": "at",
+    "path": "./data/jurisdictions/at.json"
+  },
+  {
     "id": "de",
     "path": "./data/jurisdictions/de.json"
   },
