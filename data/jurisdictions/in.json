@@ -1,0 +1,519 @@
+{
+  "id": "in",
+  "type": "country",
+  "flag": "🇮🇳",
+  "region": "asia",
+  "names": {
+    "ja": "インド共和国",
+    "en": "Republic of India"
+  },
+  "office": {
+    "ja": "インド特許意匠商標総局・商標登録局（Trade Marks Registry）",
+    "en": "Trade Marks Registry, Office of the Controller General of Patents, Designs and Trade Marks"
+  },
+  "availableLanguages": [],
+  "createdAt": "2026-09-12",
+  "updatedAt": "2026-09-12",
+  "status": "review",
+  "facts": {
+    "authority": {
+      "ja": "インド特許意匠商標総局（CGPDTM）商標登録局",
+      "en": "Trade Marks Registry, Office of the Controller General of Patents, Designs and Trade Marks (CGPDTM)"
+    },
+    "protectionScope": {
+      "ja": "商品商標、サービス商標、団体商標、証明商標、周知商標、シリーズ商標。未登録商標はパッシング・オフで保護され得る。",
+      "en": "Trademarks, service marks, collective marks, certification marks, well-known marks and series marks; unregistered marks may be protected through passing off."
+    },
+    "markTypes": {
+      "ja": "文字、名称、署名、語、文字・数字、図形、ブランド、ラベル、チケット、包装、商品形状、色彩結合、音等。図形表示可能性と識別力が必要。",
+      "en": "Devices, brands, headings, labels, tickets, names, signatures, words, letters, numerals, shape of goods, packaging, color combinations and sound, subject to representation and distinctiveness."
+    },
+    "madridAccessionDate": {
+      "ja": "2013年7月8日発効",
+      "en": "Effective 8 July 2013"
+    },
+    "niceClassification": {
+      "ja": "採用。インドはニース協定にも2019年9月7日から加盟。最新の商品・役務表示を確認する。",
+      "en": "Adopted; India has also been party to the Nice Agreement since 7 September 2019. Verify current goods/services wording."
+    },
+    "classHeadingPractice": {
+      "ja": "類見出しのみの包括的指定に依存せず、商品・役務を明確・具体的に記載する。区分判断は登録官が行う。",
+      "en": "Do not rely on class headings as blanket coverage; specify goods/services clearly. Classification questions are determined by the Registrar."
+    },
+    "retailServices": {
+      "ja": "第35類で登録可能。小売・卸売、オンライン販売支援等の役務と対象商品を具体化する。",
+      "en": "Registrable in Class 35; specify retail, wholesale or online retail-support services and relevant goods."
+    },
+    "multiClassApplication": {
+      "ja": "可。一出願で複数区分を指定でき、区分ごとに料金が必要。異議対象区分の分割も検討可能。",
+      "en": "Available; one application may cover multiple classes with fees per class. Division may be considered where opposition affects selected classes."
+    },
+    "applicationForm": {
+      "ja": "通常Form TM-Aによる電子出願。出願人、標章、商品・役務、区分、使用予定または使用開始日、優先権、代理人等を記載する。",
+      "en": "Normally e-filed on Form TM-A with applicant, mark, goods/services, classes, proposed-use or use-since claim, priority and representative details."
+    },
+    "powerOfAttorney": {
+      "ja": "代理人を選任する場合は通常Form TM-48の授権書を提出する。署名者権限、印紙税、原本・追完実務を確認する。",
+      "en": "Where an agent is appointed, an authorization usually on Form TM-48 is filed; verify signatory authority, stamp duty, original and late-filing practice."
+    },
+    "priorityDocuments": {
+      "ja": "条約国出願から6か月以内。優先権証明書を出願時またはインド出願から2か月以内に提出し、英訳要件を確認する。",
+      "en": "File within six months of the convention application; submit the priority certificate at filing or within two months of the Indian filing and confirm English translation requirements."
+    },
+    "homeRegistrationCertificate": {
+      "ja": "通常の直接出願には不要。",
+      "en": "Not normally required for a direct national filing."
+    },
+    "useEvidenceAtFiling": {
+      "ja": "使用予定で出願可能。出願日前からの使用を主張する場合は、使用期間を証する宣誓書と裏付資料を出願時に提出する。",
+      "en": "A proposed-to-be-used filing is available. If prior use is claimed, file an affidavit of use and supporting documents with the application."
+    },
+    "notarizationCertification": {
+      "ja": "Form TM-48は通常、公証・領事認証不要とされるが、署名・印紙・電子提出実務を確認する。外国宣誓書や訴訟証拠は個別確認。",
+      "en": "Form TM-48 generally does not require notarization/legalization, but verify signature, stamp and e-filing practice; foreign affidavits and litigation evidence require separate review."
+    },
+    "otherDocuments": {
+      "ja": "標章見本、使用宣誓・使用証拠、翻訳・音訳、法人情報、優先権書類。音商標は30秒以内のMP3と楽譜表示等。",
+      "en": "Representation, use affidavit/evidence, translation/transliteration, entity and priority documents; a sound mark requires an MP3 of no more than 30 seconds and graphical notation."
+    },
+    "absoluteGroundsExamination": {
+      "ja": "あり。商標法第9条その他に基づき職権審査する。",
+      "en": "Yes; examined ex officio under section 9 and other applicable provisions."
+    },
+    "distinctivenessGrounds": {
+      "ja": "識別力欠如、記述的表示、取引上・日常語で慣用化した表示は原則拒絶。ただし出願前の使用による識別力または周知性を立証できる場合がある。",
+      "en": "Marks devoid of distinctiveness, descriptive matter and signs customary in trade/current language are generally refused, subject to acquired distinctiveness or well-known status before filing."
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "公衆を欺きまたは混同させるもの、宗教的感情を害するもの、醜聞的・わいせつなもの、法令で使用禁止のもの、性質・技術的結果・実質的価値に由来する形状等。",
+      "en": "Marks deceiving or confusing the public, hurting religious susceptibilities, scandalous or obscene matter, matter prohibited by law, and shapes resulting from nature, technical result or substantial value."
+    },
+    "relativeGroundsExamination": {
+      "ja": "あり。先行商標との同一・類似、商品・役務の同一・類似および混同のおそれ、周知商標の希釈化等を検索・職権審査する。",
+      "en": "Yes; the Registry searches and examines identity/similarity with earlier marks, related goods/services, likelihood of confusion and dilution of well-known marks."
+    },
+    "disclaimer": {
+      "ja": "あり。標章の一部について排他的権利を付与しない条件を登録官が課す場合がある。",
+      "en": "Available; the Registrar may impose a condition disclaiming exclusive rights in a component of the mark."
+    },
+    "consent": {
+      "ja": "同意・共存合意は考慮され得る。商標法第12条の誠実な同時使用その他の特別事情による登録も可能だが、登録官の裁量。",
+      "en": "Consent/coexistence may be considered. Registration may also be allowed for honest concurrent use or other special circumstances under section 12, subject to Registrar discretion."
+    },
+    "acceleratedExamination": {
+      "ja": "あり。Form TM-Mと追加料金で迅速処理を請求でき、申請から通常3か月以内の審査が規則上の目安。後続手続も迅速に扱われる。",
+      "en": "Available by Form TM-M and additional fee; the Rules contemplate examination ordinarily within three months of the request, with later stages also handled expeditiously."
+    },
+    "thirdPartyObservation": {
+      "ja": "公告後4か月以内の正式異議申立てが主要手段。独立した一般的な第三者意見制度は明確でないため、情報提供の可否は最新実務を確認する。",
+      "en": "Formal opposition within four months after Journal publication is the principal route; confirm current practice for any separate third-party observation mechanism."
+    },
+    "directExaminationPeriod": {
+      "ja": "通常出願の公式な一律平均は示されていない。審査報告、聴聞、公告、異議の有無で大きく変動する。迅速処理では請求から通常3か月以内の審査が規則上の目安。",
+      "en": "No single official average applies to ordinary filings; timing varies with examination report, hearing, publication and opposition. Expedited examination is ordinarily targeted within three months of the request."
+    },
+    "madridExaminationPeriod": {
+      "ja": "国際登録指定の受領後、保護不能事由がなければ通常6か月以内に公報掲載。暫定拒絶通報期間は18か月で、異議由来の拒絶はその後もあり得る。",
+      "en": "An international designation without refusal grounds is ordinarily advertised within six months of receipt. The provisional-refusal period is 18 months, with later opposition-based notification possible."
+    },
+    "colourPriorityIdentity": {
+      "ja": "優先権基礎とインド出願の色彩クレーム・表示を一致させる。色彩結合を特徴として主張する場合はその組合せで標章を提出する。",
+      "en": "Align the color claim and representation with the priority filing; where a color combination is claimed as distinctive, submit the mark in that combination."
+    },
+    "colourRelativeGrounds": {
+      "ja": "色彩を含む標章全体の外観、称呼、観念、支配的特徴、商品・役務および混同のおそれを総合評価する。色変更だけで非類似とは限らない。",
+      "en": "Assess the marks as a whole, including color, visual, phonetic and conceptual impressions, dominant features, goods/services and confusion; color change alone may not avoid similarity."
+    },
+    "colourGenuineUse": {
+      "ja": "登録形態と使用形態の差異が標章の同一性・識別性を実質的に変えるかを評価する。白黒登録によるカラー使用の維持を当然視しない。",
+      "en": "Assess whether differences between registered and used forms materially alter identity or distinctive character; do not assume color use always maintains a black-and-white registration."
+    },
+    "colourInfringementScope": {
+      "ja": "登録の色彩制限、標章全体・本質的特徴、商品・役務、混同、希釈化、表示方法および取引事情を総合評価する。",
+      "en": "Assess color limitations in the registration, overall and essential features, goods/services, confusion, dilution, presentation and market context."
+    },
+    "colourFilingStrategy": {
+      "ja": "色彩が本質的ならカラー版を、文字・図形自体の柔軟な保護も必要なら白黒版や主要変形の別出願を検討する。",
+      "en": "If color is essential, file the color version; for flexible protection of wording/device, consider separate black-and-white and key-variant filings."
+    },
+    "refusalResponseRoute": {
+      "ja": "審査報告に書面答弁・補正・宣誓証拠を提出する。不十分な場合はshow-cause hearingを経て登録官が決定し、拒絶は管轄高等裁判所へ上訴し得る。",
+      "en": "Submit written arguments, amendments and affidavit evidence to the examination report. If unresolved, a show-cause hearing precedes the Registrar’s decision, which may be appealed to the competent High Court."
+    },
+    "responsePeriod": {
+      "ja": "審査報告受領から1か月。欠缺補正通知も通常1か月。通知記載日、送達日、電子記録を確認する。",
+      "en": "One month from receipt of the examination report; formal deficiency notices also generally allow one month. Verify notice, service and electronic-record dates."
+    },
+    "extensionAvailable": {
+      "ja": "審査報告への1か月応答は厳格に管理する。規則第109条等による裁量的期間延長の対象外・上限があるため、個別手続ごとに確認する。",
+      "en": "Docket the one-month examination response strictly. Discretionary extension under Rule 109 and exclusions/limits must be checked for each procedure."
+    },
+    "extensionLength": {
+      "ja": "一般的な裁量延長は累計1か月以内となる手続があるが、異議等の法定期限には適用されない場合がある。期限別に確認する。",
+      "en": "Some discretionary extensions are limited to one month in aggregate, while statutory deadlines such as opposition may be excluded; verify each deadline."
+    },
+    "extensionRequirements": {
+      "ja": "満了前のForm TM-M、所定料金および十分な理由。延長不可の手続では利用できない。",
+      "en": "Form TM-M before expiry, prescribed fee and sufficient cause; unavailable where the particular period is non-extendible."
+    },
+    "appealRoute": {
+      "ja": "登録官の命令・決定は、2021年の審判所改革後、管轄高等裁判所へ上訴する。取消・訂正も登録官または高等裁判所の管轄を確認する。",
+      "en": "Following the 2021 tribunal reforms, appeals from Registrar orders/decisions lie to the competent High Court; confirm Registry or High Court jurisdiction for rectification/removal."
+    },
+    "refusalAppealPeriod": {
+      "ja": "原則として登録官決定から3か月。書面理由請求により上訴起算日が調整される場合がある。平均審理期間は高裁ごとに現地確認する。",
+      "en": "Generally three months from the Registrar’s decision; requesting written grounds may affect the deemed appeal date. Obtain local estimates by High Court."
+    },
+    "publicDatabase": {
+      "ja": "IP India Trade Mark Public Search",
+      "en": "IP India Trade Mark Public Search",
+      "url": "https://tmrsearch.ipindia.gov.in/tmrpublicsearch/"
+    },
+    "publicationStage": {
+      "ja": "審査で受理された出願はTrade Marks Journalに公告され、4か月の異議期間に入る。訂正・再公告の場合は起算点を再確認する。",
+      "en": "An accepted application is advertised in the Trade Marks Journal, opening a four-month opposition period; verify the start date after correction or re-advertisement."
+    },
+    "oppositionPeriod": {
+      "ja": "Trade Marks Journalでの公告・再公告日から4か月以内。",
+      "en": "Within four months from advertisement or re-advertisement in the Trade Marks Journal."
+    },
+    "oppositionExtension": {
+      "ja": "4か月の期間自体は原則延長不可として管理する。被異議者の答弁書は異議通知受領から2か月で、未提出は出願放棄となる。",
+      "en": "Treat the four-month period as non-extendible. The applicant’s counterstatement is due within two months of receiving the opposition; failure results in abandonment."
+    },
+    "averagePendency": {
+      "ja": "無拒絶・無異議案件でも変動し、聴聞・異議案件は長期化し得る。IP India年次報告と現地代理人の直近実測値を参照する。",
+      "en": "Timing varies even for unobjectioned/unopposed matters, while hearings and oppositions may be lengthy. Consult IP India annual reports and current local estimates."
+    },
+    "term": {
+      "ja": "登録日から10年。10年ごとに更新可能。",
+      "en": "Ten years from the registration date, renewable for successive ten-year periods."
+    },
+    "termStart": {
+      "ja": "登録日から。ただし登録時には出願日に遡る権利効果が問題となるため個別確認する。",
+      "en": "From the registration date; once registered, certain effects relate back to filing, subject to the applicable provisions."
+    },
+    "renewalWindow": {
+      "ja": "満了前1年から更新申請可能。満了後6か月以内は割増料金付き更新、さらに満了後1年以内は回復・更新申請を検討できる。",
+      "en": "Renewal may be sought during the year before expiry; surcharge renewal is available within six months after expiry, and restoration/renewal may be sought within one year after expiry."
+    },
+    "gracePeriod": {
+      "ja": "あり。満了後6か月の割増更新。登録簿から抹消後は満了後1年以内の回復制度もある。",
+      "en": "Yes; six months after expiry with surcharge. Restoration may also be available within one year after expiry following removal."
+    },
+    "renewalEvidence": {
+      "ja": "通常、更新時の使用宣誓・使用証拠は不要。ただし不使用取消、先使用、侵害・パッシング・オフに備え使用証拠を継続保存する。",
+      "en": "Use affidavit/evidence is not ordinarily required for renewal; preserve evidence for non-use removal, prior-use, infringement and passing-off issues."
+    },
+    "nonUseCancellation": {
+      "ja": "あり。登録簿訂正・抹消申請を登録官または管轄高等裁判所へ提起する。",
+      "en": "Available through rectification/removal proceedings before the Registrar or competent High Court."
+    },
+    "nonUsePeriod": {
+      "ja": "実務上「登録簿への実際の登録日から5年が経過し、申請前3か月まで継続不使用」、すなわち一般に5年3か月が重要。",
+      "en": "Generally, five years must elapse from actual entry on the Register followed by continuous non-use up to three months before the removal application—commonly described as five years and three months."
+    },
+    "nonUseDefenses": {
+      "ja": "真正かつ善意の使用、登録された商品・役務との関係、許諾使用、特別な取引事情（法規制による使用制限を含む）を立証する。",
+      "en": "Show genuine bona fide use for registered goods/services, qualifying permitted use, or special circumstances in the trade, including legal restrictions on use."
+    },
+    "otherCancellation": {
+      "ja": "登録要件欠缺、登録簿上の誤記、条件違反、詐欺・悪意、権利帰属、普通名称化等について訂正・無効・取消が問題となり得る。",
+      "en": "Rectification, invalidity or removal may arise from lack of registrability, erroneous entry, breach of conditions, fraud/bad faith, ownership or genericide."
+    },
+    "invalidation": {
+      "ja": "あり。登録官または高等裁判所に登録簿訂正を申し立て、全部・一部の取消・変更を求める。",
+      "en": "Available by rectification before the Registrar or High Court seeking cancellation or variation in whole or part."
+    },
+    "civilInjunction": {
+      "ja": "地方裁判所以上の管轄裁判所で仮差止め・終局差止めを請求可能。商事裁判所・高等裁判所の管轄を確認する。",
+      "en": "Interim and final injunctions may be sought before a competent court not below District Court; verify Commercial Court/High Court jurisdiction."
+    },
+    "civilDamages": {
+      "ja": "損害賠償または利益計算を請求可能。原則として選択的救済で、悪意・通知・証拠が重要。",
+      "en": "Damages or an account of profits may be claimed, generally as alternative monetary remedies; bad faith, notice and evidence are important."
+    },
+    "civilEvidencePreservation": {
+      "ja": "Anton Piller型命令、証拠保全・捜索、資産凍結、ローカルコミッショナーによる押収等の暫定救済を検討する。",
+      "en": "Consider Anton Piller-type orders, evidence preservation/search, asset restraint and seizure through a local commissioner as interim relief."
+    },
+    "civilOther": {
+      "ja": "侵害標章・ラベルの消去または廃棄、引渡し、費用、パッシング・オフ救済等があり得る。",
+      "en": "Erasure/destruction or delivery-up of infringing marks and labels, costs and passing-off relief may be available."
+    },
+    "borderMeasures": {
+      "ja": "税関知的財産権（輸入品）執行規則に基づく権利記録、疑義貨物の通関停止・没収・廃棄を検討する。",
+      "en": "Consider customs recordation and suspension, confiscation or destruction of suspected imports under the IP Rights (Imported Goods) Enforcement Rules."
+    },
+    "administrativeRaid": {
+      "ja": "警察への刑事告訴と捜索・押収が偽造品対策で重要。行政・刑事の権限、令状要否、現地実務を確認する。",
+      "en": "Criminal complaints and police search/seizure are important against counterfeits; verify administrative/criminal authority, warrant requirements and local practice."
+    },
+    "administrativeOther": {
+      "ja": "税関、警察、地方当局、電子商取引仲介者への削除要請等を、民事訴訟と組み合わせて検討する。",
+      "en": "Consider customs, police, local-authority and e-commerce takedown measures alongside civil litigation."
+    },
+    "criminalAvailability": {
+      "ja": "商標偽造、偽造商標の使用、虚偽表示、偽造品販売等について刑事責任あり。",
+      "en": "Criminal liability applies to falsifying trademarks, applying false marks, false representation and dealing in falsely marked goods."
+    },
+    "criminalFine": {
+      "ja": "あり。2023年改正を含む最新の犯罪・行政罰化された条項と法定額を確認する。",
+      "en": "Available; verify current offenses, provisions converted to administrative penalties, and statutory amounts after the 2023 amendments."
+    },
+    "criminalImprisonment": {
+      "ja": "重大な商標偽造・虚偽商標使用等について拘禁刑があり得る。犯罪類型、初犯・再犯を確認する。",
+      "en": "Imprisonment may apply to serious trademark falsification or false-mark use; verify the offense and first/repeat-offender treatment."
+    },
+    "criminalOther": {
+      "ja": "侵害品・版・機械の没収・廃棄、事業者に対する命令、捜索・押収等があり得る。",
+      "en": "Forfeiture/destruction of goods, plates and machinery, business orders and search/seizure may apply."
+    }
+  },
+  "notablePoints": [
+    {
+      "id": "prior-user-rights",
+      "importance": "critical",
+      "title": {
+        "ja": "先使用者の権利が極めて重要",
+        "en": "Prior-user rights are critical"
+      },
+      "summary": {
+        "ja": "登録は強い権利を与えるが、善意かつ継続的な先使用者に対しては登録権者の差止権が制限され得る。出願前使用調査が不可欠。",
+        "en": "Registration confers strong rights, but enforcement may be restricted against a good-faith continuous prior user. Pre-filing use investigation is essential."
+      },
+      "sourceUrl": "https://ipindia.gov.in/tm-act-1999"
+    },
+    {
+      "id": "use-claim-affidavit",
+      "importance": "high",
+      "title": {
+        "ja": "使用予定出願と先使用主張を明確に区別",
+        "en": "Distinguish proposed use from a prior-use claim"
+      },
+      "summary": {
+        "ja": "使用予定で出願できる一方、出願前使用を主張する場合は使用開始日だけでなく宣誓書と裏付資料が必要。誤った使用主張は登録の脆弱性につながる。",
+        "en": "A filing may be proposed-to-be-used, but a prior-use claim requires an affidavit and supporting documents, not merely a date. An inaccurate claim may weaken the registration."
+      },
+      "sourceUrl": "https://ipindia.gov.in/tm-rules-2017"
+    },
+    {
+      "id": "five-years-three-months",
+      "importance": "critical",
+      "title": {
+        "ja": "不使用取消の重要期間は5年3か月",
+        "en": "Key non-use period is five years and three months"
+      },
+      "summary": {
+        "ja": "登録簿への実際の登録から5年が経過し、取消申請前3か月まで継続不使用であることが問題となる。単純な「登録から5年」より精密な管理が必要。",
+        "en": "Five years must pass from actual entry on the Register and non-use must continue to three months before the removal application, requiring more precise docketing than a simple five-year rule."
+      },
+      "sourceUrl": "https://ipindia.gov.in/tm-act-1999"
+    },
+    {
+      "id": "opposition-fixed-four-months",
+      "importance": "high",
+      "title": {
+        "ja": "異議申立期間は公告から4か月",
+        "en": "Opposition period is four months from publication"
+      },
+      "summary": {
+        "ja": "Trade Marks Journalの公告・再公告から4か月以内にForm TM-Oを提出する。被異議者の答弁は通知受領から2か月で、未提出は出願放棄となる。",
+        "en": "Form TM-O must be filed within four months from Journal advertisement/re-advertisement. The applicant has two months from service to counterstate, failing which the application is abandoned."
+      },
+      "sourceUrl": "https://ipindia.gov.in/tm-rules-2017"
+    },
+    {
+      "id": "expedited-three-months",
+      "importance": "high",
+      "title": {
+        "ja": "迅速処理は3か月以内の審査が目安",
+        "en": "Expedited examination targets three months"
+      },
+      "summary": {
+        "ja": "Form TM-Mと追加料金による迅速処理では、請求から通常3か月以内の審査が規則上の目安で、後続手続も迅速対象となる。",
+        "en": "Under expedited processing by Form TM-M and additional fee, examination is ordinarily targeted within three months of the request and later stages are also expedited."
+      },
+      "sourceUrl": "https://ipindia.gov.in/tm-rules-2017"
+    }
+  ],
+  "statistics": {
+    "coverage": "2016–2025",
+    "status": "pending",
+    "series": []
+  },
+  "news": [
+    {
+      "id": "jan-vishwas-2023",
+      "type": "law",
+      "date": "2023-08-11",
+      "title": {
+        "ja": "2023年改正を反映した商標法",
+        "en": "Trade Marks Act updated by the 2023 amendment"
+      },
+      "summary": {
+        "ja": "Jan Vishwas法による違反・制裁体系の変更を含む2023年改正後の条文がWIPO Lexで現行版として整理されている。刑事・行政救済では改正前資料に依存しない。",
+        "en": "WIPO Lex identifies the current Act as amended in 2023, including changes to the offense/penalty framework under the Jan Vishwas legislation. Enforcement analysis should not rely only on pre-amendment materials."
+      },
+      "sourceUrl": "https://www.wipo.int/wipolex/en/legislation/details/22958"
+    },
+    {
+      "id": "annual-report-2024-25",
+      "type": "statistics",
+      "date": "2025-03-22",
+      "title": {
+        "ja": "CGPDTM年次報告2024–25を公表",
+        "en": "CGPDTM publishes Annual Report 2024–25"
+      },
+      "summary": {
+        "ja": "出願・審査・登録等の最新統計を収録する公式年次報告。統計欄へ直近10年データを追加する際の基礎資料とする。",
+        "en": "The official annual report contains current filing, examination and registration statistics and is a primary source for populating the ten-year data series."
+      },
+      "sourceUrl": "https://ipindia.gov.in/storage/uploads/media/English_Annual_Report_2024-25.pdf"
+    },
+    {
+      "id": "new-workflow-guidance-2026",
+      "type": "practice",
+      "date": "2026-09-08",
+      "title": {
+        "ja": "IP Indiaが商標出願ワークフロー案内を更新",
+        "en": "IP India updates trademark filing workflow guidance"
+      },
+      "summary": {
+        "ja": "IP Indiaの新しい段階別案内が利用可能。ただし同ページ自身が、法令・通知を優先し法的解釈に用いないよう明記しているため、実務補助資料として扱う。",
+        "en": "IP India provides updated step-by-step workflow guidance, while expressly stating that statutes, rules and notifications prevail; use it as operational guidance rather than legal authority."
+      },
+      "sourceUrl": "https://ipindia.gov.in/application-workflow/trademark-filing-process"
+    }
+  ],
+  "faqs": [
+    {
+      "tag": "Prior use",
+      "question": {
+        "ja": "第三者の未登録先使用を含め、本件標章の使用調査をどこまで行うべきですか。",
+        "en": "How extensive should our use investigation be, including unregistered third-party prior use?"
+      },
+      "followUp": {
+        "ja": "地域的使用、善意・継続性、パッシング・オフ、オンライン販売の証拠を確認してください。",
+        "en": "Please assess territorial use, good faith, continuity, passing off and online-sales evidence."
+      }
+    },
+    {
+      "tag": "Filing",
+      "question": {
+        "ja": "「使用予定」と「使用開始日主張」のどちらで出願すべきですか。",
+        "en": "Should we file as proposed to be used or claim a use-since date?"
+      },
+      "followUp": {
+        "ja": "使用宣誓書に必要な請求書、広告、ウェブ資料、売上、日付の連続性を教えてください。",
+        "en": "Please identify invoices, advertising, web evidence, sales and date continuity needed for the use affidavit."
+      }
+    },
+    {
+      "tag": "Opposition",
+      "question": {
+        "ja": "4か月の異議期限と、被異議者の2か月答弁期限は延長できますか。",
+        "en": "Can the four-month opposition deadline or two-month counterstatement deadline be extended?"
+      },
+      "followUp": {
+        "ja": "Form TM-O、verification、証拠段階、cross-examination、聴聞までの期間も見積もってください。",
+        "en": "Please estimate Form TM-O, verification, evidence stages, cross-examination and hearing timing."
+      }
+    },
+    {
+      "tag": "Non-use",
+      "question": {
+        "ja": "本件の「5年3か月」は、登録証の日付と登録簿への実登録日のどちらから計算しますか。",
+        "en": "For this registration, is the five-years-and-three-months period calculated from the certificate date or actual entry on the Register?"
+      },
+      "followUp": {
+        "ja": "立証責任、部分取消、輸出、広告、許諾使用、特別な取引事情も確認してください。",
+        "en": "Please also confirm burden of proof, partial removal, exports, advertising, permitted use and special trade circumstances."
+      }
+    },
+    {
+      "tag": "Madrid",
+      "question": {
+        "ja": "直接出願とマドプロ指定のどちらが、18か月拒絶・異議・現地応答を含めて適切ですか。",
+        "en": "Which route is preferable considering the 18-month Madrid refusal period, opposition and local response?"
+      },
+      "followUp": {
+        "ja": "国際指定の通常6か月公告目安と、実際の処理期間も比較してください。",
+        "en": "Please compare the ordinary six-month advertisement target for designations with actual processing time."
+      }
+    },
+    {
+      "tag": "Enforcement",
+      "question": {
+        "ja": "民事差止め、パッシング・オフ、刑事捜索、税関記録の最適な組合せは何ですか。",
+        "en": "What is the best combination of civil injunction, passing off, criminal search and customs recordation?"
+      },
+      "followUp": {
+        "ja": "管轄高裁・商事裁判所、証拠、費用、期間、local commissionerの利用可能性を比較してください。",
+        "en": "Compare the competent High Court/Commercial Court, evidence, cost, duration and availability of a local commissioner."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "IP India—Trade Marks",
+      "url": "https://ipindia.gov.in/trademarks",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IP India—Trade Marks Act 1999",
+      "url": "https://ipindia.gov.in/tm-act-1999",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IP India—Trade Marks Rules 2017",
+      "url": "https://ipindia.gov.in/tm-rules-2017",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IP India—Filing Process",
+      "url": "https://ipindia.gov.in/application-workflow/trademark-filing-process",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IP India—Public Search",
+      "url": "https://tmrsearch.ipindia.gov.in/tmrpublicsearch/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IP India—Trade Marks Journal",
+      "url": "https://search.ipindia.gov.in/IPOJournal/Journal/Trademark",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IP India—Annual Report 2024–25",
+      "url": "https://ipindia.gov.in/storage/uploads/media/English_Annual_Report_2024-25.pdf",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "WIPO Lex—Trade Marks Act (2023 consolidated status)",
+      "url": "https://www.wipo.int/wipolex/en/legislation/details/22958",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "WIPO—Madrid Protocol Accession: India",
+      "url": "https://www.wipo.int/wipolex/en/treaties/notifications/details/treaty_madridp-gp_199",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "WIPO Lex—India Treaty Profile",
+      "url": "https://www.wipo.int/wipolex/en/treaties/ShowResults?code=IN",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    }
+  ]
+}
