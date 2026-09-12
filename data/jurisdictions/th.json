@@ -1,0 +1,515 @@
+{
+  "id": "th",
+  "type": "country",
+  "flag": "🇹🇭",
+  "region": "asia",
+  "names": {
+    "ja": "タイ王国",
+    "en": "Kingdom of Thailand"
+  },
+  "office": {
+    "ja": "商務省知的財産局（DIP）",
+    "en": "Department of Intellectual Property, Ministry of Commerce (DIP)"
+  },
+  "availableLanguages": [],
+  "createdAt": "2026-09-12",
+  "updatedAt": "2026-09-12",
+  "status": "review",
+  "facts": {
+    "authority": {
+      "ja": "商務省知的財産局（DIP）",
+      "en": "Department of Intellectual Property, Ministry of Commerce (DIP)"
+    },
+    "protectionScope": {
+      "ja": "商品商標、サービスマーク、証明商標、団体商標。",
+      "en": "Trademarks, service marks, certification marks and collective marks."
+    },
+    "markTypes": {
+      "ja": "文字、図形、考案された図案、名称、語句、数字、署名、色彩の組合せ、形状・立体、音その他、法定の標識。匂いは現行法上の取扱いを要確認。",
+      "en": "Words, devices, invented designs, names, phrases, numerals, signatures, color combinations, configurations/3D shapes, sounds and other statutory signs; confirm current treatment of scent marks."
+    },
+    "madridAccessionDate": {
+      "ja": "2017年11月7日発効",
+      "en": "Effective 7 November 2017"
+    },
+    "niceClassification": {
+      "ja": "採用。最新のニース分類版およびDIP指定商品・役務実務を確認する。",
+      "en": "Adopted; verify the current Nice edition and DIP identification practice."
+    },
+    "classHeadingPractice": {
+      "ja": "類見出しだけではなく、商品・役務を明確かつ具体的に列挙する。曖昧・広範な表示は指令対象となり得る。",
+      "en": "List goods/services clearly and specifically rather than relying solely on class headings; vague or broad wording may trigger an order."
+    },
+    "retailServices": {
+      "ja": "第35類で登録可能。小売対象商品と役務内容を具体化する。",
+      "en": "Registrable in Class 35; specify the relevant goods and retail services."
+    },
+    "multiClassApplication": {
+      "ja": "可。ただし区分ごとの商品数に応じた料金体系があり、分割・補正実務を確認する。",
+      "en": "Available, with fees depending on the number of items/classes; confirm division and amendment practice."
+    },
+    "applicationForm": {
+      "ja": "DIPへ電子または所定方式で出願。出願人、標章、商品・役務、区分、優先権等を記載する。",
+      "en": "File electronically or in the prescribed form with DIP, identifying applicant, mark, goods/services, classes and priority."
+    },
+    "powerOfAttorney": {
+      "ja": "外国出願人はタイ国内の代理人を選任し、委任状が必要。公証要件を最新実務で確認する。",
+      "en": "A foreign applicant must appoint a Thai representative and provide a power of attorney; verify current notarization requirements."
+    },
+    "priorityDocuments": {
+      "ja": "パリ優先権は基礎出願から6か月以内。優先権証明書および翻訳の提出期限・認証を確認する。",
+      "en": "Paris priority must be claimed within six months; verify deadlines and certification for the priority document and translation."
+    },
+    "homeRegistrationCertificate": {
+      "ja": "通常の直接出願には不要。",
+      "en": "Not normally required for a direct national filing."
+    },
+    "useEvidenceAtFiling": {
+      "ja": "通常不要。使用による識別力を主張する場合等は証拠が必要となり得る。",
+      "en": "Not normally required, but evidence may be needed to establish acquired distinctiveness or in other specific cases."
+    },
+    "notarizationCertification": {
+      "ja": "外国出願人の委任状は公証が求められる実務がある。署名者権限・認証方式を現地代理人に確認する。",
+      "en": "A foreign applicant’s power is commonly notarized; confirm signatory authority and authentication formalities with local counsel."
+    },
+    "otherDocuments": {
+      "ja": "標章見本、タイ語音訳・訳語、法人情報、優先権資料、使用証拠等を案件に応じて提出する。",
+      "en": "Submit mark representation, Thai transliteration/translation, entity details, priority materials and use evidence as applicable."
+    },
+    "absoluteGroundsExamination": {
+      "ja": "あり。DIPが職権審査する。",
+      "en": "Yes; examined ex officio by DIP."
+    },
+    "distinctivenessGrounds": {
+      "ja": "普通・記述的語、地理的名称、商品の形状・包装、識別力のない標識等は拒絶され得る。使用による識別力の立証を検討できる。",
+      "en": "Generic, descriptive or geographical matter, product shapes/packaging and other non-distinctive signs may be refused; acquired distinctiveness may be shown."
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "王室・国家・政府の標章、国旗、赤十字、公序良俗違反、地理的表示、誤認的標識等の禁止を確認する。",
+      "en": "Check prohibitions involving royal/state/government emblems, flags, the Red Cross, public order or morality, geographical indications and deceptive signs."
+    },
+    "relativeGroundsExamination": {
+      "ja": "あり。DIPが先行登録・出願との同一・類似を職権審査する。",
+      "en": "Yes; DIP examines conflicts with prior applications and registrations ex officio."
+    },
+    "disclaimer": {
+      "ja": "非識別部分についてディスクレーム命令が出されることがある。応答または商標委員会への不服申立てを検討する。",
+      "en": "The Registrar may order a disclaimer of non-distinctive matter; consider compliance or appeal to the Trademark Board."
+    },
+    "consent": {
+      "ja": "同意書・併存契約のみで類似拒絶が当然解消するとは限らない。特別事情を含め現地実務を確認する。",
+      "en": "Consent/coexistence alone may not automatically overcome a similarity refusal; confirm local practice and special circumstances."
+    },
+    "acceleratedExamination": {
+      "ja": "所定条件下の早期審査・ファストトラックの最新運用、対象商品数、方式要件をDIPで確認する。",
+      "en": "Confirm current DIP fast-track availability, item limits and formal conditions."
+    },
+    "thirdPartyObservation": {
+      "ja": "公告後60日以内に異議申立て可能。正式異議以外の情報提供の扱いは要確認。",
+      "en": "An opposition may be filed within 60 days after publication; verify treatment of informal observations."
+    },
+    "directExaminationPeriod": {
+      "ja": "公式の一律平均は確認できない。通常案件でもバックログと指令の有無で大きく変動するため、現地代理人の最新見積りを取得する。",
+      "en": "No uniform official average identified; pendency varies significantly with backlog and orders, so obtain a current local estimate."
+    },
+    "madridExaminationPeriod": {
+      "ja": "国際登録の拒絶通報期間は原則18か月。暫定拒絶通知記載の現地応答期限を厳守する。",
+      "en": "The refusal-notification period is generally 18 months; strictly follow the local response deadline stated in the provisional refusal."
+    },
+    "colourPriorityIdentity": {
+      "ja": "優先権基礎とタイ出願で色彩の有無・配置を一致させ、同一性を確保する。許容差は要個別確認。",
+      "en": "Align color claims and arrangement with the priority filing to preserve identity; confirm permissible differences."
+    },
+    "colourRelativeGrounds": {
+      "ja": "色彩は全体的印象の一要素であり、色の変更だけで類似性が解消するとは限らない。",
+      "en": "Color is one factor in overall impression and a color change alone may not avoid similarity."
+    },
+    "colourGenuineUse": {
+      "ja": "登録形態と使用形態の差異が識別性を変更するかを評価。白黒登録のカラー使用による維持を当然視しない。",
+      "en": "Assess whether differences from the registered form alter distinctive character; do not assume color use always maintains a black-and-white registration."
+    },
+    "colourInfringementScope": {
+      "ja": "色彩を含む外観、称呼、観念、識別力、商品・役務、取引事情を総合評価する。",
+      "en": "Assess visual, phonetic and conceptual impressions including color, distinctiveness, goods/services and market context."
+    },
+    "colourFilingStrategy": {
+      "ja": "色彩が重要ならカラー版、柔軟性が必要なら白黒版・主要変形の別出願を検討。",
+      "en": "If color matters, file in color; for flexibility consider separate black-and-white and key variants."
+    },
+    "refusalResponseRoute": {
+      "ja": "審査官が補正・説明命令を出す場合は応答する。他方、登録拒絶決定が初回通知となることもあり、その場合は補正応答ではなく商標委員会への不服申立てが初動となる。",
+      "en": "Respond where the Registrar issues an amendment or explanation order. A refusal decision may instead be the first substantive communication, in which case the initial remedy is an appeal to the Trademark Board rather than an office-action response."
+    },
+    "responsePeriod": {
+      "ja": "補正命令・拒絶決定等について通常60日が重要な期限。通知の根拠条文・起算日を個別確認する。",
+      "en": "A 60-day period is commonly critical for amendment orders and refusal decisions; verify the legal basis and start date in each notice."
+    },
+    "extensionAvailable": {
+      "ja": "期限・手続により限定的。法定不服期間を当然に延長できるとは考えない。",
+      "en": "Limited and procedure-specific; do not assume a statutory appeal period can be extended."
+    },
+    "extensionLength": {
+      "ja": "手続により異なる。",
+      "en": "Varies by procedure."
+    },
+    "extensionRequirements": {
+      "ja": "期限前申請、理由、料金の要否と延長可能性を現地代理人に確認する。",
+      "en": "Confirm advance request, reasons, fees and extendibility with local counsel."
+    },
+    "appealRoute": {
+      "ja": "登録官の命令・拒絶決定は通常60日以内に商標委員会へ不服申立てし、同委員会決定は所定期間内に知的財産・国際取引中央裁判所へ争う。",
+      "en": "Orders or refusals of the Registrar are generally appealed to the Trademark Board within 60 days; Board decisions may be challenged before the Central Intellectual Property and International Trade Court within the prescribed period."
+    },
+    "refusalAppealPeriod": {
+      "ja": "商標委員会の平均審理期間について信頼できる一律公式値は確認できない。現地代理人から最新の実務見積りを取得する。",
+      "en": "No reliable uniform official average for Trademark Board appeals has been identified; obtain a current local-practice estimate."
+    },
+    "publicDatabase": {
+      "ja": "DIP商標検索",
+      "en": "DIP Trademark Search",
+      "url": "https://www.ipthailand.go.th/th/trademark-021.html"
+    },
+    "publicationStage": {
+      "ja": "審査通過後に公告され、第三者異議の対象となる。",
+      "en": "After examination, the application is published for third-party opposition."
+    },
+    "oppositionPeriod": {
+      "ja": "公告日から60日。",
+      "en": "60 days from publication."
+    },
+    "oppositionExtension": {
+      "ja": "法定異議期間は原則延長不可として管理する。",
+      "en": "Treat the statutory opposition period as generally non-extendible."
+    },
+    "averagePendency": {
+      "ja": "案件・バックログにより大きく変動。直接出願とマドプロ指定を分けて最新実務値を確認する。",
+      "en": "Varies substantially with the case and backlog; obtain separate current estimates for direct and Madrid cases."
+    },
+    "term": {
+      "ja": "10年。10年ごとに更新可能。",
+      "en": "10 years, renewable for successive ten-year terms."
+    },
+    "termStart": {
+      "ja": "出願日から起算される。登録日は出願日とみなされる。",
+      "en": "Calculated from the filing date; registration is deemed effective from the application date."
+    },
+    "renewalWindow": {
+      "ja": "通常、満了前3か月以内に更新申請。満了後6か月の救済期間あり。",
+      "en": "Normally file within three months before expiry; a six-month post-expiry grace period is available."
+    },
+    "gracePeriod": {
+      "ja": "あり。満了後6か月、割増料金が必要。",
+      "en": "Yes, six months after expiry, subject to surcharge."
+    },
+    "renewalEvidence": {
+      "ja": "使用宣誓・使用証拠は通常の更新要件ではない。更新願と料金等を提出する。",
+      "en": "A declaration or evidence of use is not ordinarily required for renewal; file the renewal request and fees."
+    },
+    "nonUseCancellation": {
+      "ja": "あり。利害関係人または登録官が商標委員会へ請求する。",
+      "en": "Available; an interested person or the Registrar may petition the Trademark Board."
+    },
+    "nonUsePeriod": {
+      "ja": "取消請求前3年間に真正使用がない場合。登録時に善意の使用意思がなく実際の真正使用もない場合も対象。",
+      "en": "No bona fide use during the three years preceding the cancellation petition; lack of bona fide intent and actual use at registration is also a ground."
+    },
+    "nonUseDefenses": {
+      "ja": "取引上の特別事情による不使用であり、不使用・放棄の意思によらないことを権利者が立証できる場合。",
+      "en": "The owner may show that non-use resulted from special circumstances in the trade and not an intention not to use or abandon the mark."
+    },
+    "otherCancellation": {
+      "ja": "登録時の識別力欠如、禁止標章、他人の先行権、普通名称化、公序良俗等を理由とする取消制度がある。",
+      "en": "Cancellation may be sought for non-distinctiveness at registration, prohibited matter, prior rights, genericide, public-order grounds and others."
+    },
+    "invalidation": {
+      "ja": "あり。商標委員会への取消請求または裁判所での争いとなり得る。",
+      "en": "Available through cancellation before the Trademark Board and/or court proceedings."
+    },
+    "civilInjunction": {
+      "ja": "仮処分・差止めを請求可能。",
+      "en": "Interim and permanent injunctions are available."
+    },
+    "civilDamages": {
+      "ja": "損害賠償を請求可能。算定・立証方法を個別確認。",
+      "en": "Damages are available; calculation and proof are case-specific."
+    },
+    "civilEvidencePreservation": {
+      "ja": "証拠保全、侵害品の検査・差押え等の措置を検討できる。",
+      "en": "Evidence preservation, inspection and seizure of infringing goods may be considered."
+    },
+    "civilOther": {
+      "ja": "侵害品の除去・廃棄、判決公表、費用等が認められ得る。",
+      "en": "Removal/destruction of infringing goods, publication and costs may be available."
+    },
+    "borderMeasures": {
+      "ja": "税関による疑義貨物の差止め等あり。登録・申請・担保・期限を確認する。",
+      "en": "Customs suspension measures are available; verify recordal, application, security and deadlines."
+    },
+    "administrativeRaid": {
+      "ja": "DIP、警察その他当局と連携した摘発・検査・押収を検討する。",
+      "en": "Consider raids, inspections and seizures coordinated with DIP, police and other authorities."
+    },
+    "administrativeOther": {
+      "ja": "異議、取消、税関措置、DIP調停その他の行政的対応を検討する。",
+      "en": "Consider opposition, cancellation, customs measures, DIP mediation and other administrative action."
+    },
+    "criminalAvailability": {
+      "ja": "商標偽造、登録商標の模倣、虚偽表示等に刑事責任あり。",
+      "en": "Criminal liability applies to counterfeiting, imitation of registered marks, false representation and related offenses."
+    },
+    "criminalFine": {
+      "ja": "罰金あり。真正な偽造と模倣で上限が異なるため最新法定額を確認する。",
+      "en": "Fines apply; verify current maxima, which differ between counterfeiting and imitation."
+    },
+    "criminalImprisonment": {
+      "ja": "あり得る。犯罪類型・故意・再犯等により異なる。",
+      "en": "Available depending on the offense, intent and recidivism."
+    },
+    "criminalOther": {
+      "ja": "侵害品・製造器具の没収・廃棄等があり得る。",
+      "en": "Forfeiture and destruction of infringing goods and manufacturing equipment may be available."
+    }
+  },
+  "notablePoints": [
+    {
+      "id": "first-action-may-be-refusal",
+      "importance": "critical",
+      "title": {
+        "ja": "初回通知が拒絶決定となる場合",
+        "en": "First substantive action may be a refusal decision"
+      },
+      "summary": {
+        "ja": "日本のような拒絶理由通知を常に想定できない。拒絶決定が届いた場合、通常60日以内の商標委員会への不服申立てを初動として検討する。",
+        "en": "Do not assume an office-action stage equivalent to Japan. If a refusal decision issues, the initial response may be a Trademark Board appeal, generally within 60 days."
+      },
+      "sourceUrl": "https://www.ipthailand.go.th/th/dip-law-2/item/trademark-act-b-e-2534-amended-by-trademark-act-no-2-b-e-2543-and-trademark-act-no-3-b-e-2559.html"
+    },
+    {
+      "id": "non-use-burden",
+      "importance": "critical",
+      "title": {
+        "ja": "不使用取消の立証負担",
+        "en": "Evidentiary burden in non-use cancellation"
+      },
+      "summary": {
+        "ja": "法文上、申立人側が直前3年間の不使用を証明する構造であり、消極的事実の立証が実務上大きな障害となり得る。証拠収集・費用・成功可能性を現地代理人に確認する。",
+        "en": "The statute is framed around the petitioner proving three years of non-use, making proof of a negative fact a practical obstacle. Confirm evidence strategy, cost and prospects locally."
+      },
+      "sourceUrl": "https://www.wipo.int/wipolex/en/text/586274"
+    },
+    {
+      "id": "three-year-non-use",
+      "importance": "high",
+      "title": {
+        "ja": "取消基準は直前3年間",
+        "en": "Three-year non-use threshold"
+      },
+      "summary": {
+        "ja": "取消請求前3年間の真正使用の有無を検討する。取引上の特別事情は権利者側の抗弁となる。",
+        "en": "Assess bona fide use during the three years before the petition; special circumstances in the trade may provide a defense."
+      },
+      "sourceUrl": "https://www.wipo.int/wipolex/en/text/586274"
+    },
+    {
+      "id": "madrid-2017",
+      "importance": "high",
+      "title": {
+        "ja": "2017年からマドプロ加盟",
+        "en": "Madrid member since 2017"
+      },
+      "summary": {
+        "ja": "2017年11月7日発効。DIPは絶対的・相対的拒絶理由の双方を審査する。",
+        "en": "Effective 7 November 2017; DIP examines both absolute and relative grounds."
+      },
+      "sourceUrl": "https://www.wipo.int/en/web/madrid-system/w/news/2017/news_0015"
+    },
+    {
+      "id": "thai-transliteration",
+      "importance": "medium",
+      "title": {
+        "ja": "タイ語音訳・意味の確認",
+        "en": "Thai transliteration and meaning"
+      },
+      "summary": {
+        "ja": "外国語標章ではタイ語の音訳・意味説明が必要となり得る。誤訳が審査・権利範囲へ影響しないよう現地確認する。",
+        "en": "Foreign-language marks may require Thai transliteration and meaning; local review helps prevent errors affecting examination or scope."
+      },
+      "sourceUrl": "https://www.ipthailand.go.th/trademark.html"
+    }
+  ],
+  "statistics": {
+    "coverage": "2016–2025",
+    "status": "pending",
+    "series": []
+  },
+  "news": [
+    {
+      "id": "trademark-amendment-research",
+      "type": "research",
+      "date": "2026-09-12",
+      "title": {
+        "ja": "近時の商標法改正案・審査実務を継続確認",
+        "en": "Ongoing review of recent trademark bills and examination practice"
+      },
+      "summary": {
+        "ja": "DIPの公式法令・告示を基礎に、施行済み改正と審議中の提案を区別して更新する。",
+        "en": "Update from DIP legislation and notices, clearly separating enacted changes from pending proposals."
+      },
+      "sourceUrl": "https://www.ipthailand.go.th/th/dip-law-2/category/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%9A%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B1%E0%B8%95%E0%B8%B4-acts-2.html"
+    },
+    {
+      "id": "ai-image-search",
+      "type": "practice",
+      "date": "2026-09-12",
+      "title": {
+        "ja": "DIPのAI画像検索・商標チェック機能",
+        "en": "DIP AI image search and trademark-check tools"
+      },
+      "summary": {
+        "ja": "DIPが提供する最新検索支援機能を、出願前調査の補助として確認する。",
+        "en": "Review DIP’s current AI-assisted image-search and trademark-check tools as pre-filing aids."
+      },
+      "sourceUrl": "https://tm-imagesearch.ipthailand.go.th/"
+    },
+    {
+      "id": "madrid-practice",
+      "type": "practice",
+      "date": "2026-09-12",
+      "title": {
+        "ja": "マドプロ暫定拒絶への現地応答実務",
+        "en": "Local response practice for Madrid provisional refusals"
+      },
+      "summary": {
+        "ja": "暫定拒絶が初回実体判断となる場合を想定し、60日期限、代理人選任、補正可能性を通知ごとに確認する。",
+        "en": "For each provisional refusal, verify the 60-day deadline, local representation and amendment options, particularly where it is the first substantive decision."
+      },
+      "sourceUrl": "https://www.ipthailand.go.th/images/26881/law/LawBE2560%282017%29.pdf"
+    }
+  ],
+  "faqs": [
+    {
+      "tag": "Refusal",
+      "question": {
+        "ja": "この通知は補正可能な指令ですか、それとも商標委員会へ不服申立てすべき拒絶決定ですか。",
+        "en": "Is this an amendable order, or a refusal decision requiring appeal to the Trademark Board?"
+      },
+      "followUp": {
+        "ja": "60日の起算日、必要書類、証拠、費用を確認してください。",
+        "en": "Please confirm the start of the 60-day period, documents, evidence and cost."
+      }
+    },
+    {
+      "tag": "Non-use",
+      "question": {
+        "ja": "不使用取消請求人は3年間の不使用をどの証拠で立証できますか。",
+        "en": "How can a cancellation petitioner prove three years of non-use?"
+      },
+      "followUp": {
+        "ja": "調査費用、訴訟費用、立証責任、現実的な成功率を教えてください。",
+        "en": "Please advise investigation cost, proceeding cost, burden of proof and realistic prospects."
+      }
+    },
+    {
+      "tag": "Filing",
+      "question": {
+        "ja": "タイ語音訳・翻訳と商品・役務表示はDIP実務上適切ですか。",
+        "en": "Are the Thai transliteration/translation and goods/services wording acceptable to DIP?"
+      },
+      "followUp": {
+        "ja": "多区分出願と区分別出願のどちらが安全ですか。",
+        "en": "Is a multi-class or separate-class filing safer?"
+      }
+    },
+    {
+      "tag": "Madrid",
+      "question": {
+        "ja": "直接出願とマドプロ指定のどちらが本件に適しますか。",
+        "en": "Should this case use a direct filing or Madrid designation?"
+      },
+      "followUp": {
+        "ja": "暫定拒絶時の現地代理人選任と応答方法を確認してください。",
+        "en": "Confirm local appointment and response route for a provisional refusal."
+      }
+    },
+    {
+      "tag": "Colour",
+      "question": {
+        "ja": "白黒登録とカラー使用の同一性を、優先権・類似・不使用取消・侵害でどう判断しますか。",
+        "en": "How is identity between black-and-white registration and color use assessed for priority, similarity, non-use and infringement?"
+      }
+    },
+    {
+      "tag": "Enforcement",
+      "question": {
+        "ja": "民事訴訟、刑事摘発、DIP・税関対応の最適な組合せは何ですか。",
+        "en": "What is the best combination of civil litigation, criminal raid, DIP and customs action?"
+      },
+      "followUp": {
+        "ja": "証拠、仮処分、費用、期間を見積もってください。",
+        "en": "Please estimate evidence, interim relief, cost and timing."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "Thailand DIP—Trademarks",
+      "url": "https://www.ipthailand.go.th/trademark.html",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Trademark Act consolidated English",
+      "url": "https://www.ipthailand.go.th/th/dip-law-2/item/trademark-act-b-e-2534-amended-by-trademark-act-no-2-b-e-2543-and-trademark-act-no-3-b-e-2559.html",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Trademark Act—WIPO Lex",
+      "url": "https://www.wipo.int/wipolex/en/text/586274",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Trademark Act No. 3 (2016)—WIPO Lex",
+      "url": "https://www.wipo.int/wipolex/en/legislation/details/16367",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Madrid Implementing Rules",
+      "url": "https://www.ipthailand.go.th/images/26881/law/LawBE2560%282017%29.pdf",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "WIPO—Thailand joins Madrid",
+      "url": "https://www.wipo.int/en/web/madrid-system/w/news/2017/news_0015",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "WIPO treaty profile—Thailand",
+      "url": "https://www.wipo.int/wipolex/en/treaties/ShowResults?code=TH&search_what=C",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "DIP domestic trademark fees",
+      "url": "https://www.ipthailand.go.th/en/trademark-006.html",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "DIP trademark search",
+      "url": "https://www.ipthailand.go.th/th/trademark-021.html",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "DIP AI image search",
+      "url": "https://tm-imagesearch.ipthailand.go.th/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    }
+  ]
+}
