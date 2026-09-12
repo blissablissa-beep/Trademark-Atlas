@@ -17,7 +17,7 @@
     "it"
   ],
   "createdAt": "2026-09-11",
-  "updatedAt": "2026-09-11",
+  "updatedAt": "2026-09-12",
   "status": "review",
   "facts": {
     "authority": {
@@ -99,6 +99,16 @@
       "ja": "あり",
       "en": "Yes",
       "it": "Sì"
+    },
+    "distinctivenessGrounds": {
+      "ja": "識別力を欠く標章、商品・役務の普通名称となった表示、取引上一般的に使用される表示、商品・役務の種類、品質、数量、用途、価値、原産地、製造・提供時期その他の特徴を示す記述的表示等は登録できない（イタリア産業財産法典第13条）。ただし、出願前の使用により識別力を獲得した場合には登録可能となることがあり、登録後の識別力獲得が無効判断に影響する場合もある。",
+      "en": "Signs lacking distinctive character, generic or customary terms, and indications descriptive of characteristics such as kind, quality, quantity, intended purpose, value, geographical origin or time of production or supply are excluded under Article 13 of the Italian Industrial Property Code. Registration may nevertheless be possible where distinctive character was acquired through use before filing, and post-filing acquisition may also affect invalidity in the circumstances provided by law.",
+      "it": "Sono esclusi dalla registrazione i segni privi di carattere distintivo, le denominazioni generiche e le indicazioni divenute di uso comune, nonché i segni descrittivi della specie, qualità, quantità, destinazione, valore, provenienza geografica, epoca di fabbricazione o prestazione o di altre caratteristiche dei prodotti o servizi, ai sensi dell’articolo 13 CPI. La registrazione può tuttavia essere possibile se il carattere distintivo è stato acquisito con l’uso prima del deposito; nei casi previsti, anche l’acquisizione successiva può incidere sulla nullità."
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "法令、公序または善良な風俗に反する標章、商品・役務の地理的出所、性質または品質について公衆を欺くおそれのある標章、使用が第三者の著作権・産業財産権その他の排他的権利を侵害する標章等は登録できない（同第14条）。さらに、技術的結果を得るために必要な形状その他の特徴、商品の性質に由来する形状等、商品に実質的価値を与える形状等、国旗・紋章・公的標章、保護される原産地名称・地理的表示その他の法定除外も確認する。悪意による出願も無効原因となり得る。",
+      "en": "Article 14 excludes signs contrary to law, public policy or accepted principles of morality; signs liable to deceive the public, particularly as to geographical origin, nature or quality; and signs whose use would infringe another person’s copyright, industrial-property right or other exclusive right. Further exclusions concern shapes or other characteristics resulting from the nature of the goods, necessary to obtain a technical result or giving substantial value to the goods, official emblems and protected designations of origin, geographical indications and other protected matter. A filing made in bad faith may also be subject to invalidity.",
+      "it": "L’articolo 14 esclude i segni contrari alla legge, all’ordine pubblico o al buon costume; i segni idonei a ingannare il pubblico, in particolare sulla provenienza geografica, natura o qualità dei prodotti o servizi; e i segni il cui uso violerebbe un diritto d’autore, di proprietà industriale o altro diritto esclusivo altrui. Devono inoltre essere verificati i divieti relativi a forme o altre caratteristiche imposte dalla natura del prodotto, necessarie per ottenere un risultato tecnico o che conferiscono un valore sostanziale, agli emblemi ufficiali e alle denominazioni di origine, indicazioni geografiche e altre indicazioni protette. Il deposito in malafede può altresì determinare la nullità."
     },
     "relativeGroundsExamination": {
       "ja": "先行商標との抵触について、原則として包括的な職権拒絶審査は行わず、異議申立て等により争われる。個別の審査範囲は要確認。",
@@ -327,6 +337,107 @@
       "it": "Non è stata individuata una durata media ufficiale aggiornata comune a tutti i ricorsi contro il rifiuto di marchi dinanzi alla Commissione dei ricorsi. I tempi variano secondo la complessità, le notificazioni, la presenza di controinteressati, le prove e il calendario delle udienze. Il termine di 60 giorni per proporre ricorso è distinto dal tempo necessario per deciderlo; la durata prevista va verificata con un mandatario italiano."
     }
   },
+  "notablePoints": [
+    {
+      "id": "administrative-revocation-and-invalidity",
+      "category": "non-use",
+      "importance": "high",
+      "title": {
+        "ja": "UIBMにおける行政上の取消し・無効手続",
+        "en": "Administrative revocation and invalidity proceedings before UIBM",
+        "it": "Procedimenti amministrativi di decadenza e nullità dinanzi all’UIBM"
+      },
+      "summary": {
+        "ja": "イタリアでは、不使用等による取消しおよび絶対的・相対的理由による無効について、裁判所での訴訟に加えてUIBMにおける行政手続を利用できる。行政手続は司法手続に代わる選択肢として導入され、当事者の主張・証拠に基づいて判断される。UIBMデータベースでは異議・無効・取消しの最終決定を検索できる。",
+        "en": "Italy provides administrative proceedings before UIBM for revocation, including non-use, and invalidity on absolute or relative grounds, in addition to court litigation. The administrative route was introduced as an alternative to judicial proceedings and is decided on the parties’ submissions and evidence. Final opposition, invalidity and revocation decisions can be searched in the UIBM database.",
+        "it": "In Italia sono disponibili procedimenti amministrativi dinanzi all’UIBM per la decadenza, compreso il mancato uso, e per la nullità per motivi assoluti o relativi, oltre all’azione giudiziaria. La via amministrativa è stata introdotta come alternativa al procedimento giurisdizionale ed è decisa sulla base delle allegazioni e prove delle parti. Le decisioni finali su opposizione, nullità e decadenza sono ricercabili nella banca dati UIBM."
+      },
+      "practicalImpact": {
+        "ja": "UIBM手続と裁判手続では、費用、証拠調べ、期間、反訴・侵害請求との関係および不服申立経路が異なるため、案件目的に応じた選択が必要となる。",
+        "en": "The UIBM and court routes differ in cost, taking of evidence, duration, interaction with counterclaims or infringement claims and review routes, so the forum should be selected according to the matter’s objectives.",
+        "it": "La via UIBM e quella giudiziaria differiscono quanto a costi, assunzione delle prove, durata, rapporto con domande riconvenzionali o di contraffazione e mezzi di impugnazione; la scelta deve quindi dipendere dagli obiettivi del caso."
+      },
+      "recommendedAction": {
+        "ja": "取消し・無効を提起する前に、UIBMと専門部裁判所の費用、証拠、見込み期間および並行手続への影響を比較する。",
+        "en": "Before seeking revocation or invalidity, compare cost, evidence, expected duration and interaction with parallel proceedings before UIBM and the specialised court.",
+        "it": "Prima di promuovere la decadenza o la nullità, confrontare costi, prove, durata prevista e rapporto con procedimenti paralleli dinanzi all’UIBM e al tribunale specializzato."
+      },
+      "agentQuestion": {
+        "ja": "本件ではUIBMの行政手続と裁判所のどちらを選ぶべきで、費用・期間・立証責任上の主な違いは何ですか。",
+        "en": "For this matter, should we use the UIBM administrative route or the courts, and what are the principal differences in cost, duration and burden of proof?",
+        "it": "Per questo caso è preferibile il procedimento amministrativo dinanzi all’UIBM o l’azione giudiziaria, e quali sono le principali differenze in termini di costi, durata e onere della prova?"
+      },
+      "sourceUrl": "https://uibm.mise.gov.it/images/Accademia/Anna_Maria_Bardone_Ordine_consulenti_PI.pdf",
+      "checkedAt": "2026-09-12",
+      "status": "verified"
+    },
+    {
+      "id": "cp4-non-participation",
+      "category": "local-practice",
+      "importance": "high",
+      "title": {
+        "ja": "白黒・色彩商標に関するCP4不参加",
+        "en": "Italy’s non-participation in CP4 on black-and-white and colour marks",
+        "it": "Mancata partecipazione italiana alla CP4 sui marchi in bianco e nero e a colori"
+      },
+      "summary": {
+        "ja": "UIBMは2014年のCP4共通実務に参加していない。このため、EUIPOやCP4参加官庁の『白黒版とカラー版の同一性』および色彩変更使用に関する基準を、イタリア国内出願の優先権、異議、無効、不使用取消しへ当然に適用すべきではない。",
+        "en": "The UIBM did not participate in the 2014 CP4 Common Practice. The CP4 approach used by EUIPO and participating offices on identity between black-and-white and colour versions and use in a different colour should therefore not automatically be treated as the Italian national rule for priority, opposition, invalidity or non-use matters.",
+        "it": "L’UIBM non ha partecipato alla prassi comune CP4 del 2014. L’approccio seguito dall’EUIPO e dagli uffici partecipanti in materia di identità tra versioni in bianco e nero e a colori e di uso con colori diversi non deve quindi essere automaticamente considerato la regola nazionale italiana per priorità, opposizione, nullità o decadenza per non uso."
+      },
+      "practicalImpact": {
+        "ja": "EU商標とイタリア国内商標で同じ白黒・カラー出願戦略を採用しても、優先権や使用証明について異なる結果となる可能性がある。",
+        "en": "Applying the same black-and-white and colour filing strategy to an EUTM and an Italian national mark may produce different outcomes for priority or proof of use.",
+        "it": "La stessa strategia di deposito in bianco e nero e a colori per un MUE e per un marchio nazionale italiano può produrre risultati diversi in materia di priorità o prova dell’uso."
+      },
+      "recommendedAction": {
+        "ja": "重要なロゴは白黒版と主要カラー版の併願を検討し、基礎出願とイタリア出願の表示を厳密に照合する。",
+        "en": "For an important logo, consider parallel black-and-white and principal-colour filings and closely compare the representation in the priority filing with the proposed Italian application.",
+        "it": "Per un logo importante, considerare depositi paralleli della versione in bianco e nero e della principale versione a colori e confrontare attentamente la rappresentazione della domanda prioritaria con quella italiana."
+      },
+      "agentQuestion": {
+        "ja": "最新のUIBM・裁判例では、白黒版とカラー版の同一性および色彩変更使用をどのように判断していますか。",
+        "en": "Under current UIBM and Italian case law, how are identity between black-and-white and colour versions and use in a different colour assessed?",
+        "it": "Secondo l’attuale prassi UIBM e la giurisprudenza italiana, come sono valutate l’identità tra versioni in bianco e nero e a colori e l’uso con colori diversi?"
+      },
+      "sourceUrl": "https://www.tmdn.org/network/documents/10181/299339/cp4_common_communication_%2Ben.pdf",
+      "checkedAt": "2026-09-12",
+      "status": "verified"
+    },
+    {
+      "id": "elective-domicile-and-qualified-representation",
+      "category": "procedure",
+      "importance": "high",
+      "title": {
+        "ja": "EU域内の選定住所とUIBMでの代理資格",
+        "en": "Elective domicile in the EU and qualified representation before UIBM",
+        "it": "Domicilio elettivo nell’UE e rappresentanza qualificata dinanzi all’UIBM"
+      },
+      "summary": {
+        "ja": "UIBMの案内では、イタリアまたはEU加盟国に選定住所（domicilio elettivo）を指定する必要がある。UIBMで職業代理を行える者は、原則として所定の名簿に登録された産業財産専門家または弁護士である。日本企業は、出願時から代理資格、選定住所、通知受領方法を確認するのが安全である。",
+        "en": "UIBM guidance requires an elective domicile in Italy or another EU Member State. Professional representation before UIBM is generally limited to registered industrial-property consultants or admitted lawyers. A Japanese applicant should verify entitlement to act, the elective domicile and the communication channel from the filing stage.",
+        "it": "Secondo le indicazioni UIBM è necessario eleggere domicilio in Italia o in un altro Stato membro dell’UE. La rappresentanza professionale dinanzi all’UIBM è generalmente riservata ai consulenti in proprietà industriale iscritti all’Ordine o agli avvocati iscritti all’albo. Per un richiedente giapponese è prudente verificare fin dal deposito l’abilitazione, il domicilio elettivo e il canale delle comunicazioni."
+      },
+      "practicalImpact": {
+        "ja": "外国代理人への包括委任だけではUIBM上の代理・送達要件を満たさない可能性があり、拒絶・異議・取消手続の期限管理に影響し得る。",
+        "en": "A general appointment of foreign counsel may not satisfy UIBM representation and service requirements and may affect deadline control in examination, opposition, revocation or invalidity proceedings.",
+        "it": "Un incarico generale a un professionista estero può non soddisfare i requisiti UIBM di rappresentanza e notificazione e può incidere sul controllo dei termini in esame, opposizione, decadenza o nullità."
+      },
+      "recommendedAction": {
+        "ja": "出願前に、UIBMでの代理資格、委任状・lettera d’incarico、印紙、選定住所および電子通知先を確認する。",
+        "en": "Before filing, confirm entitlement to act before UIBM, the letter of appointment or power-of-attorney requirements, stamp duty, elective domicile and electronic correspondence address.",
+        "it": "Prima del deposito, verificare l’abilitazione dinanzi all’UIBM, la lettera d’incarico o procura, l’imposta di bollo, il domicilio elettivo e l’indirizzo per le comunicazioni elettroniche."
+      },
+      "agentQuestion": {
+        "ja": "日本企業の出願について、必要な選定住所、lettera d’incarico、印紙およびUIBMからの通知受領方法を確認してください。",
+        "en": "For a Japanese applicant, please confirm the required elective domicile, letter of appointment, stamp duty and method for receiving UIBM communications.",
+        "it": "Per un richiedente giapponese, la prego di confermare il domicilio elettivo richiesto, la lettera d’incarico, l’imposta di bollo e le modalità di ricezione delle comunicazioni UIBM."
+      },
+      "sourceUrl": "https://uibm.mise.gov.it/index.php/it/marchi/esame-della-domanda-e-procedura-di-opposizione/procedura-di-opposizione-alla-registrazione-del-marchio/214-faq/2036064-risposte-alle-domande-piu-frequenti-registrare-un-marchio-in-italia",
+      "checkedAt": "2026-09-12",
+      "status": "verified"
+    }
+  ],
   "statistics": {
     "coverage": "2016–2025",
     "status": "pending",
@@ -521,6 +632,18 @@
       "url": "https://www.parlamento.it/parlam/leggi/deleghe/05030dl1.htm",
       "type": "legislation",
       "checkedAt": "2026-09-11"
+    },
+    {
+      "label": "UIBM — Administrative revocation and invalidity proceedings",
+      "url": "https://uibm.mise.gov.it/images/Accademia/Anna_Maria_Bardone_Ordine_consulenti_PI.pdf",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "UIBM — FAQ: Registrare un marchio in Italia",
+      "url": "https://uibm.mise.gov.it/index.php/it/marchi/esame-della-domanda-e-procedura-di-opposizione/procedura-di-opposizione-alla-registrazione-del-marchio/214-faq/2036064-risposte-alle-domande-piu-frequenti-registrare-un-marchio-in-italia",
+      "type": "official",
+      "checkedAt": "2026-09-12"
     }
   ]
 }
