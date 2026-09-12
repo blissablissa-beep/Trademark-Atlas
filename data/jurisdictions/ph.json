@@ -1,0 +1,519 @@
+{
+  "id": "ph",
+  "type": "country",
+  "flag": "🇵🇭",
+  "region": "asia",
+  "names": {
+    "ja": "フィリピン共和国",
+    "en": "Republic of the Philippines"
+  },
+  "office": {
+    "ja": "フィリピン知的財産庁（IPOPHL）",
+    "en": "Intellectual Property Office of the Philippines (IPOPHL)"
+  },
+  "availableLanguages": [],
+  "createdAt": "2026-09-12",
+  "updatedAt": "2026-09-12",
+  "status": "review",
+  "facts": {
+    "authority": {
+      "ja": "フィリピン知的財産庁（IPOPHL）商標局",
+      "en": "Bureau of Trademarks, Intellectual Property Office of the Philippines (IPOPHL)"
+    },
+    "protectionScope": {
+      "ja": "商品商標、サービスマーク、団体商標、証明商標、周知商標、商号。地理的表示は別制度も確認する。",
+      "en": "Marks for goods, service marks, collective marks, certification marks, well-known marks and trade names; also check the separate GI regime."
+    },
+    "markTypes": {
+      "ja": "文字、図形、結合、立体、色彩そのもの、位置、動き、ホログラム等。非伝統的視覚商標には表示方法および使用による識別力の要件を確認する。",
+      "en": "Word, figurative, combined, three-dimensional, color-per-se, position, motion and hologram marks; verify representation and acquired-distinctiveness requirements for non-traditional visual marks."
+    },
+    "madridAccessionDate": {
+      "ja": "2012年7月25日発効",
+      "en": "Effective 25 July 2012"
+    },
+    "niceClassification": {
+      "ja": "採用。最新ニース分類およびIPOPHLの商品・役務表示を確認する。",
+      "en": "Adopted; verify the current Nice edition and IPOPHL goods/services terminology."
+    },
+    "classHeadingPractice": {
+      "ja": "類見出しだけに依存せず、商品・役務を明確かつ具体的に記載する。",
+      "en": "Do not rely solely on class headings; identify goods and services clearly and specifically."
+    },
+    "retailServices": {
+      "ja": "第35類で登録可能。小売・卸売役務と対象商品を具体化する。",
+      "en": "Registrable in Class 35; specify retail/wholesale services and the relevant goods."
+    },
+    "multiClassApplication": {
+      "ja": "可。一出願に複数区分を含められる。",
+      "en": "Available; one application may cover multiple classes."
+    },
+    "applicationForm": {
+      "ja": "オンライン出願が原則。出願人、標章見本、商品・役務、区分、優先権、代理人等を英語またはフィリピノ語で提出する。",
+      "en": "Online filing is standard, providing applicant, representation, goods/services, classes, priority and representative details in English or Filipino."
+    },
+    "powerOfAttorney": {
+      "ja": "フィリピンに住所・実効的営業所のない出願人は、国内の送達先・代理人を指定する。委任状の様式・提出期限を確認する。",
+      "en": "An applicant without Philippine domicile or effective commercial establishment must designate a local address for service/representative; verify power form and deadline."
+    },
+    "priorityDocuments": {
+      "ja": "パリ優先権は最初の出願から6か月以内。国、日付、番号を願書に記載し、認証謄本・英訳の提出期限を確認する。",
+      "en": "Paris priority must be claimed within six months; state country, date and number and verify deadlines for certified copy and English translation."
+    },
+    "homeRegistrationCertificate": {
+      "ja": "通常の直接出願には不要。",
+      "en": "Not normally required for a direct national application."
+    },
+    "useEvidenceAtFiling": {
+      "ja": "出願時には通常不要。ただし出願日から3年以内の使用宣誓（DAU）と使用証拠が必須で、正当な不使用宣誓の適用は限定的。",
+      "en": "Normally unnecessary at filing, but a Declaration of Actual Use (DAU) with evidence is mandatory within three years from filing; a declaration of non-use is available only on limited grounds."
+    },
+    "notarizationCertification": {
+      "ja": "通常出願の署名・委任状について一律の公証・領事認証は通常不要とされるが、宣誓書、異議・取消等は認証要件を個別確認する。",
+      "en": "Routine signatures/powers generally do not require blanket notarization or legalization, but verification requirements for declarations, opposition and cancellation should be checked."
+    },
+    "otherDocuments": {
+      "ja": "標章見本・説明、翻訳・音訳、法人情報、優先権書類、使用による識別力資料。非伝統的商標は所定の表示資料。",
+      "en": "Representation/description, translation/transliteration, entity details, priority documents and acquired-distinctiveness evidence; prescribed representations for non-traditional marks."
+    },
+    "absoluteGroundsExamination": {
+      "ja": "あり。IPOPHLが職権審査する。",
+      "en": "Yes; examined ex officio by IPOPHL."
+    },
+    "distinctivenessGrounds": {
+      "ja": "普通名称、慣用表示、記述的表示、技術的・本質的・価値的形状等は拒絶され得る。一定の表示は使用による識別力を立証可能。",
+      "en": "Generic, customary or descriptive signs and shapes dictated by technical, intrinsic or value-related factors may be refused; acquired distinctiveness may be shown for certain signs."
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "不道徳・欺瞞的・醜聞的表示、人物・制度・信条・国家的象徴を害する表示、国旗・紋章、所定の氏名・肖像・署名、誤認、公序良俗等。",
+      "en": "Immoral, deceptive or scandalous matter; disparagement or false connection; flags/emblems; protected names, portraits or signatures; misleading matter; and public order or morality."
+    },
+    "relativeGroundsExamination": {
+      "ja": "あり。先行出願・登録およびフィリピンで周知の商標との同一・混同のおそれ等を職権審査する。",
+      "en": "Yes; IPOPHL examines conflicts and likelihood of confusion with earlier applications/registrations and marks well known in the Philippines."
+    },
+    "disclaimer": {
+      "ja": "あり。登録不能部分の権利不要求をIPOPHLが許容または要求できる。",
+      "en": "Available; IPOPHL may permit or require disclaimer of an unregistrable component."
+    },
+    "consent": {
+      "ja": "同意書は考慮され得るが、混同のおそれの拒絶を当然に解消しない。関連会社関係、共存条件、譲渡等を個別検討する。",
+      "en": "Consent may be considered but does not automatically overcome a likelihood-of-confusion refusal; assess affiliation, coexistence terms, assignment and alternatives."
+    },
+    "acceleratedExamination": {
+      "ja": "優先・迅速審査または特別トラックの最新の利用可能性、対象、追加料金をIPOPHLで確認する。",
+      "en": "Confirm current availability, eligibility and fees for priority, expedited or special examination tracks with IPOPHL."
+    },
+    "thirdPartyObservation": {
+      "ja": "公告後の正式異議申立てが主要手段。第三者意見・情報提供に相当する非当事者手続の可否は最新実務を確認する。",
+      "en": "Formal opposition after publication is the principal route; confirm whether a separate non-party observation or information-submission mechanism is currently available."
+    },
+    "directExaminationPeriod": {
+      "ja": "IPOPHLが示す平均目安は無異議案件で約8か月だが、審査方式、拒絶、異議、バックログにより変動する。最新の実測値を確認する。",
+      "en": "IPOPHL has cited an average of about eight months for unopposed cases, but timing varies with examination track, objections, opposition and backlog; obtain current figures."
+    },
+    "madridExaminationPeriod": {
+      "ja": "フィリピンは暫定拒絶通報期間を18か月とする宣言をしており、異議に基づく拒絶は18か月経過後にも通報され得る。",
+      "en": "The Philippines declares an 18-month provisional-refusal period, and opposition-based refusals may be notified after that period."
+    },
+    "colourPriorityIdentity": {
+      "ja": "優先権基礎とフィリピン出願の色彩クレーム、標章表示、主要部分を一致させる。色彩そのものの商標では使用による識別力にも注意する。",
+      "en": "Align color claim, representation and principal colored parts with the priority filing; color-per-se marks also require attention to acquired distinctiveness."
+    },
+    "colourRelativeGrounds": {
+      "ja": "色彩を含む標章全体の外観、称呼、観念、商品・役務、混同のおそれを評価し、色変更だけで非類似とは限らない。",
+      "en": "Assess the marks as a whole, including color, visual, phonetic and conceptual impressions, goods/services and likelihood of confusion; color change alone may not avoid similarity."
+    },
+    "colourGenuineUse": {
+      "ja": "登録形態と使用形態の差異が識別性を変更しなければ、異なる形態の使用でも取消・抹消を免れ得る。色彩差が識別性を変えるか個別評価する。",
+      "en": "Use in a different form may maintain the mark if distinctive character is not altered; assess specifically whether color differences alter that character."
+    },
+    "colourInfringementScope": {
+      "ja": "登録表示、色彩クレーム、標章全体の印象、商品・役務の関連性および混同のおそれを総合判断する。",
+      "en": "Assess the registered representation, color claim, overall impression, relatedness of goods/services and likelihood of confusion."
+    },
+    "colourFilingStrategy": {
+      "ja": "色彩が識別の中心ならカラー版を、形状・文字自体の柔軟な保護も必要なら白黒版や主要変形の別出願を検討する。",
+      "en": "If color is central, file the color version; for broader flexibility in wording/device, consider separate black-and-white and key-variant filings."
+    },
+    "refusalResponseRoute": {
+      "ja": "審査官通知には答弁、補正、限定、権利不要求、証拠等で応答する。最終拒絶は商標局長を経てIPOPHL長官への不服申立て等を検討する。",
+      "en": "Respond to examiner action with argument, amendment, limitation, disclaimer or evidence; consider appeal from final refusal through the Bureau/Director General route."
+    },
+    "responsePeriod": {
+      "ja": "法律上、審査官通知への答弁・補正期間は4か月。実際の通知記載期限を必ず確認する。",
+      "en": "The statutory period to reply or amend following examiner action is four months; always verify the deadline stated in the notice."
+    },
+    "extensionAvailable": {
+      "ja": "手続・通知により延長または放棄出願の復活が利用できる場合がある。",
+      "en": "Extension and/or revival of an abandoned application may be available depending on the procedure and notice."
+    },
+    "extensionLength": {
+      "ja": "延長可能期間は通知・規則により確認。放棄出願の復活申請は放棄日から3か月以内が重要。",
+      "en": "Verify any extension under the notice and rules; revival within three months from abandonment is a critical deadline."
+    },
+    "extensionRequirements": {
+      "ja": "期限内申請、所定料金および必要に応じ正当理由。復活にはgood causeの立証が必要。",
+      "en": "Timely request, prescribed fee and reasons where required; revival requires good cause."
+    },
+    "appealRoute": {
+      "ja": "審査官の最終措置について商標局長への不服申立てを経て、最終拒絶はIPOPHL長官へ上訴可能。さらに裁判所審査を検討する。",
+      "en": "A final examiner action may be appealed to the Director of Trademarks, with final refusal appealable to the IPOPHL Director General; further judicial review may be considered."
+    },
+    "refusalAppealPeriod": {
+      "ja": "公式の平均審理期間は確認できない。庁内上訴と司法審査を分け、現地代理人から最新見積りを取得する。",
+      "en": "No official average identified; obtain current local estimates separately for administrative appeal and judicial review."
+    },
+    "publicDatabase": {
+      "ja": "IPOPHL Trademark Search / IP Search",
+      "en": "IPOPHL Trademark Search / IP Search",
+      "url": "https://onlineservices.ipophil.gov.ph/tmsearch/"
+    },
+    "publicationStage": {
+      "ja": "実体審査で登録可能と判断された出願は、異議申立てのためIPOPHL電子公報に30日間公告される。",
+      "en": "An application allowed after substantive examination is published in the IPOPHL e-Gazette for a 30-day opposition period."
+    },
+    "oppositionPeriod": {
+      "ja": "公告日から30日。正当理由と追加料金により延長可能だが、最大期間と段階的期限を確認する。",
+      "en": "Thirty days from publication; extensions may be granted for good cause and surcharge, subject to the maximum and staged deadlines."
+    },
+    "oppositionExtension": {
+      "ja": "あり。正当理由、期限内申請、割増料金が必要。最大延長期間は現行手続規則を確認する。",
+      "en": "Available for good cause upon timely request and surcharge; verify the current maximum under procedural rules."
+    },
+    "averagePendency": {
+      "ja": "無異議の通常案件でIPOPHLが示した平均は約8か月。拒絶・異議・DAU不備等により長期化する。",
+      "en": "IPOPHL has cited about eight months on average for unopposed ordinary cases; objections, opposition and DAU defects can lengthen pendency."
+    },
+    "term": {
+      "ja": "登録から10年。10年ごとに更新可能。",
+      "en": "Ten years from registration, renewable for successive ten-year periods."
+    },
+    "termStart": {
+      "ja": "登録日から。",
+      "en": "From the registration date."
+    },
+    "renewalWindow": {
+      "ja": "満了前6か月以内。満了後6か月以内は追加料金付きで更新可能。",
+      "en": "Within six months before expiry; late renewal is available within six months after expiry with an additional fee."
+    },
+    "gracePeriod": {
+      "ja": "あり。満了後6か月。",
+      "en": "Yes, six months after expiry."
+    },
+    "renewalEvidence": {
+      "ja": "DAUを、出願・国際登録等から3年以内、登録・保護付与5周年から1年以内、更新日から1年以内、各更新5周年から1年以内に提出する。",
+      "en": "File DAUs within three years from filing/international registration or designation, within one year from the fifth anniversary of registration/grant, within one year from renewal, and within one year from each fifth anniversary after renewal."
+    },
+    "nonUseCancellation": {
+      "ja": "あり。利害関係人がIPOPHL法務局へ取消請求を提起する。DAU不提出による職権上の抹消も別途重要。",
+      "en": "Available by petition of an interested person before the IPOPHL Bureau of Legal Affairs; removal for failure to file required DAUs is separately important."
+    },
+    "nonUsePeriod": {
+      "ja": "正当理由なく、フィリピン国内で継続3年以上使用されていない場合。DAU制度上の期限と混同しない。",
+      "en": "Three consecutive years of non-use in the Philippines without legitimate reason; distinguish this from DAU filing deadlines."
+    },
+    "nonUseDefenses": {
+      "ja": "権利者・関連会社・品質管理下の使用、登録の識別性を変えない形態での使用、輸入制限等の正当な障害を立証する。",
+      "en": "Show use by the owner, related company or controlled user, use in a form not altering distinctive character, or legitimate obstacles such as import restrictions."
+    },
+    "otherCancellation": {
+      "ja": "普通名称化、放棄、詐欺的・違法な登録、出所を誤認させる使用、先使用・権利帰属、悪意等が問題となり得る。",
+      "en": "Genericide, abandonment, fraudulent or unlawful registration, misleading-source use, prior use/ownership and bad faith may support cancellation."
+    },
+    "invalidation": {
+      "ja": "あり。IPOPHL法務局への取消請求およびその上訴を通じて登録の有効性を争う。",
+      "en": "Available through cancellation proceedings before the IPOPHL Bureau of Legal Affairs and subsequent appeals."
+    },
+    "civilInjunction": {
+      "ja": "裁判所で仮差止めおよび終局的差止めを請求可能。",
+      "en": "Preliminary and final injunctions may be sought in court."
+    },
+    "civilDamages": {
+      "ja": "損害賠償、侵害者利益、合理的使用料等を請求可能。悪意、通知、立証方法により範囲が左右される。",
+      "en": "Damages, infringer profits and a reasonable royalty may be available, subject to bad faith, notice and proof."
+    },
+    "civilEvidencePreservation": {
+      "ja": "捜索・差押え、文書提出、検証、仮処分等を事案に応じ検討する。",
+      "en": "Consider search/seizure, production, inspection and provisional relief as appropriate."
+    },
+    "civilOther": {
+      "ja": "侵害品・ラベル・広告物・製造手段の廃棄、会計、訴訟費用等があり得る。",
+      "en": "Destruction of infringing goods, labels, advertisements and means, accounting and costs may be available."
+    },
+    "borderMeasures": {
+      "ja": "税関への知的財産権記録および疑義貨物の差止め・押収を検討できる。",
+      "en": "Customs recordation and suspension/seizure of suspected shipments may be considered."
+    },
+    "administrativeRaid": {
+      "ja": "IPOPHLの行政執行、国家捜査局・警察・税関等との摘発を事案に応じ検討する。",
+      "en": "Consider IPOPHL administrative enforcement and raids with the NBI, police, customs or other agencies as appropriate."
+    },
+    "administrativeOther": {
+      "ja": "行政上の差止命令、罰金、押収・没収、営業許可関係措置等があり得る。IPOPHLの管轄額を確認する。",
+      "en": "Administrative injunctions, fines, seizure/forfeiture and licensing-related measures may be available; verify IPOPHL jurisdictional thresholds."
+    },
+    "criminalAvailability": {
+      "ja": "故意の商標侵害、偽造品取引、不正競争等について刑事責任があり得る。",
+      "en": "Criminal liability may apply to willful trademark infringement, counterfeiting and unfair competition."
+    },
+    "criminalFine": {
+      "ja": "あり。再犯、規模、適用条文により異なる。最新の法定額を確認する。",
+      "en": "Available; amounts vary with recidivism, scale and applicable provisions. Verify current statutory figures."
+    },
+    "criminalImprisonment": {
+      "ja": "あり得る。犯罪類型と加重事情を確認する。",
+      "en": "Potentially available; verify the offense and aggravating circumstances."
+    },
+    "criminalOther": {
+      "ja": "侵害品・器具の没収・廃棄、営業上の措置等があり得る。",
+      "en": "Forfeiture/destruction of infringing goods and instruments and business-related measures may apply."
+    }
+  },
+  "notablePoints": [
+    {
+      "id": "dau-lifecycle",
+      "importance": "critical",
+      "title": {
+        "ja": "使用宣誓（DAU）が権利維持の中心",
+        "en": "DAU filings are central throughout the lifecycle"
+      },
+      "summary": {
+        "ja": "出願から3年以内、登録5周年、更新時および更新5周年ごとにDAU期限が生じる。直接出願・マドプロ指定の双方で期限管理が不可欠。",
+        "en": "DAU deadlines arise within three years, around the fifth anniversary, after renewal and at each mid-renewal point; docketing is essential for both direct and Madrid routes."
+      },
+      "sourceUrl": "https://www.ipophil.gov.ph/trademark/trademark-maintenance/"
+    },
+    {
+      "id": "non-use-vs-dau",
+      "importance": "critical",
+      "title": {
+        "ja": "3年不使用取消とDAU抹消を区別",
+        "en": "Distinguish three-year non-use cancellation from DAU removal"
+      },
+      "summary": {
+        "ja": "継続3年不使用による当事者系取消と、所定DAU不提出による出願拒絶・登録簿からの抹消は別制度である。",
+        "en": "Adversarial cancellation for three consecutive years of non-use is distinct from refusal or removal caused by failure to file a prescribed DAU."
+      },
+      "sourceUrl": "https://lawphil.net/statutes/repacts/ra1997/ra_8293_1997.html"
+    },
+    {
+      "id": "nontraditional-rules-2023",
+      "importance": "high",
+      "title": {
+        "ja": "2023年規則が非伝統的視覚商標を明確化",
+        "en": "2023 rules clarify non-traditional visual marks"
+      },
+      "summary": {
+        "ja": "MC 2023-001は色彩そのもの、動き、位置、ホログラム等の受理と表示方法を明確化し、手続のオンライン化も推進した。",
+        "en": "MC 2023-001 clarified acceptance and representation of color-per-se, motion, position and hologram marks and advanced online processing."
+      },
+      "sourceUrl": "https://www.ipophil.gov.ph/news/new-trademark-rules-for-protecting-non-traditional-marks-embraces-full-digitalization/"
+    },
+    {
+      "id": "opposition-30-days",
+      "importance": "high",
+      "title": {
+        "ja": "異議申立ての初動期限は30日",
+        "en": "Initial opposition deadline is 30 days"
+      },
+      "summary": {
+        "ja": "登録可能とされた出願の公告から30日が基本。延長には正当理由・割増料金が必要となるため早期判断が必要。",
+        "en": "The basic deadline is 30 days from publication of an allowed application; extensions require good cause and surcharge, so early instruction is important."
+      },
+      "sourceUrl": "https://lawphil.net/statutes/repacts/ra1997/ra_8293_1997.html"
+    },
+    {
+      "id": "madrid-18-months",
+      "importance": "high",
+      "title": {
+        "ja": "マドプロ拒絶通報は18か月",
+        "en": "Madrid refusal period is 18 months"
+      },
+      "summary": {
+        "ja": "フィリピンは18か月宣言を行い、異議に基づく拒絶はさらに後に通報され得る。DAU期限も国際登録日・事後指定日から管理する。",
+        "en": "The Philippines made the 18-month declaration and opposition-based refusals may come later; DAU deadlines also run from the international registration or subsequent designation date."
+      },
+      "sourceUrl": "https://www.wipo.int/wipolex/en/treaties/notifications/details/treaty_madridp-gp_194"
+    }
+  ],
+  "statistics": {
+    "coverage": "2016–2025",
+    "status": "pending",
+    "series": []
+  },
+  "news": [
+    {
+      "id": "jet-processing-reform-2025",
+      "type": "practice",
+      "date": "2025-07-01",
+      "title": {
+        "ja": "審査・事件処理期間短縮策を公表",
+        "en": "IPOPHL announces measures to shorten processing times"
+      },
+      "summary": {
+        "ja": "IPOPHLは絶対的拒絶理由を先行判断するJoint Examination Track（JET）等の改革を示した。正式な運用開始・対象・実績は更新時に確認する。",
+        "en": "IPOPHL announced reforms including a Joint Examination Track (JET) for early absolute-ground review; confirm formal rollout, scope and results on update."
+      },
+      "sourceUrl": "https://www.ipophil.gov.ph/news/ipophl-sets-reforms-to-slash-processing-time-for-intellectual-property-applications-cases/"
+    },
+    {
+      "id": "trademark-rules-2023",
+      "type": "law",
+      "date": "2023-02-14",
+      "title": {
+        "ja": "2023年改訂商標規則が発効",
+        "en": "Revised Trademark Regulations took effect"
+      },
+      "summary": {
+        "ja": "MC 2023-001が2017年規則を置き換え、非伝統的視覚商標の表示とオンライン取引を明確化した。",
+        "en": "MC 2023-001 replaced the 2017 rules and clarified representation of non-traditional visual marks and online transactions."
+      },
+      "sourceUrl": "https://www.ipophil.gov.ph/news/new-trademark-rules-for-protecting-non-traditional-marks-embraces-full-digitalization/"
+    },
+    {
+      "id": "renewal-dau-amendment-2023",
+      "type": "practice",
+      "date": "2023-02-14",
+      "title": {
+        "ja": "更新後DAUの提出時期を整理",
+        "en": "Post-renewal DAU timing clarified"
+      },
+      "summary": {
+        "ja": "現行案内では更新日から1年以内、および各更新の5周年から1年以内にDAUを提出する。登録ごとに適用期限を確認する。",
+        "en": "Current IPOPHL guidance requires a DAU within one year from renewal and within one year from the fifth anniversary of each renewal; verify each registration’s deadline."
+      },
+      "sourceUrl": "https://www.ipophil.gov.ph/trademark/trademark-maintenance/"
+    }
+  ],
+  "faqs": [
+    {
+      "tag": "DAU",
+      "question": {
+        "ja": "本件の3年目・5年目・更新時・更新5年目DAUの正確な期限を一覧化できますか。",
+        "en": "Can you docket the exact third-year, fifth-year, renewal and mid-renewal DAU deadlines?"
+      },
+      "followUp": {
+        "ja": "マドプロ指定日、延長、正当な不使用宣誓、使用証拠の適格性も確認してください。",
+        "en": "Please also confirm Madrid designation dates, extensions, declarations of non-use and acceptable evidence."
+      }
+    },
+    {
+      "tag": "Filing",
+      "question": {
+        "ja": "直接出願とマドプロ指定のどちらが、DAU管理と拒絶対応を含めて本件に適しますか。",
+        "en": "Which route is preferable here, direct filing or Madrid designation, considering DAU docketing and refusals?"
+      },
+      "followUp": {
+        "ja": "現在の実際の審査期間、費用、現地代理人関与を比較してください。",
+        "en": "Please compare current actual pendency, cost and local-representative involvement."
+      }
+    },
+    {
+      "tag": "Opposition",
+      "question": {
+        "ja": "30日の異議期間に間に合う最低限の申立てと、利用可能な延長は何ですか。",
+        "en": "What minimum filing preserves the 30-day opposition deadline, and what extensions are available?"
+      },
+      "followUp": {
+        "ja": "認証、証拠、英訳、和解・共存の工程も教えてください。",
+        "en": "Please explain verification, evidence, English translations and settlement/coexistence steps."
+      }
+    },
+    {
+      "tag": "Non-use",
+      "question": {
+        "ja": "継続3年不使用の起算日、立証責任、取消範囲はどうなりますか。",
+        "en": "How are the three-year period, burden of proof and scope of cancellation determined?"
+      },
+      "followUp": {
+        "ja": "オンライン販売、輸出、関連会社・ライセンシー使用、標章の変形使用は真正使用になりますか。",
+        "en": "Do online sales, exports, related-company/licensee use and variant use qualify as genuine use?"
+      }
+    },
+    {
+      "tag": "Colour",
+      "question": {
+        "ja": "白黒登録とカラー使用の同一性を、優先権・類似・DAU・不使用取消・侵害でどう扱いますか。",
+        "en": "How is identity between a black-and-white registration and color use treated for priority, similarity, DAU, non-use and infringement?"
+      },
+      "followUp": {
+        "ja": "2023年規則上、色彩そのものの商標に必要な使用による識別力資料は何ですか。",
+        "en": "What acquired-distinctiveness evidence is needed for a color-per-se mark under the 2023 rules?"
+      }
+    },
+    {
+      "tag": "Enforcement",
+      "question": {
+        "ja": "IPOPHL行政事件、民事訴訟、刑事告訴、税関記録の最適な組合せは何ですか。",
+        "en": "What is the best combination of IPOPHL administrative action, civil suit, criminal complaint and customs recordation?"
+      },
+      "followUp": {
+        "ja": "各経路の管轄、証拠、費用、期間、実効性を比較してください。",
+        "en": "Please compare jurisdiction, evidence, cost, duration and effectiveness for each route."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "IPOPHL—Trademark",
+      "url": "https://www.ipophil.gov.ph/trademark/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IPOPHL—How to Apply",
+      "url": "https://www.ipophil.gov.ph/how-to-apply-for-trademark-registration/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IPOPHL—Trademark Maintenance",
+      "url": "https://www.ipophil.gov.ph/trademark/trademark-maintenance/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IPOPHL—Trademark FAQ",
+      "url": "https://www.ipophil.gov.ph/help-and-support/trademark/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IPOPHL—Laws and Rules",
+      "url": "https://www.ipophil.gov.ph/intellectual-property-code-implementing-rules-and-regulations/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Philippine IP Code (R.A. 8293)",
+      "url": "https://lawphil.net/statutes/repacts/ra1997/ra_8293_1997.html",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IPOPHL—2023 Trademark Rules Announcement",
+      "url": "https://www.ipophil.gov.ph/news/new-trademark-rules-for-protecting-non-traditional-marks-embraces-full-digitalization/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "WIPO—Madrid Protocol Accession: Philippines",
+      "url": "https://www.wipo.int/wipolex/en/treaties/notifications/details/treaty_madridp-gp_194",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "WIPO Lex—Philippine Madrid Regulations 2017",
+      "url": "https://www.wipo.int/wipolex/en/legislation/details/18115",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IPOPHL—Processing-time reforms",
+      "url": "https://www.ipophil.gov.ph/news/ipophl-sets-reforms-to-slash-processing-time-for-intellectual-property-applications-cases/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    }
+  ]
+}
