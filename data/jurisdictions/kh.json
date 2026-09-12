@@ -1,0 +1,519 @@
+{
+  "id": "kh",
+  "type": "country",
+  "flag": "🇰🇭",
+  "region": "asia",
+  "names": {
+    "ja": "カンボジア王国",
+    "en": "Kingdom of Cambodia"
+  },
+  "office": {
+    "ja": "カンボジア商務省知的財産局（DIP）",
+    "en": "Department of Intellectual Property, Ministry of Commerce (DIP)"
+  },
+  "availableLanguages": [],
+  "createdAt": "2026-09-12",
+  "updatedAt": "2026-09-12",
+  "status": "review",
+  "facts": {
+    "authority": {
+      "ja": "カンボジア商務省知的財産局（DIP）",
+      "en": "Department of Intellectual Property, Ministry of Commerce (DIP)"
+    },
+    "protectionScope": {
+      "ja": "商品商標、サービスマーク、団体商標、証明商標、周知商標、商号。地理的表示は別法・別制度も確認する。",
+      "en": "Trademarks, service marks, collective marks, certification marks, well-known marks and trade names; geographical indications also follow a separate regime."
+    },
+    "markTypes": {
+      "ja": "識別可能な視覚的標識。語、名称、文字、数字、図形、ラベル、色彩、立体的形状およびこれらの組合せ等。音・匂い等の非視覚的標識は現行法上慎重に確認する。",
+      "en": "Distinctive visible signs, including words, names, letters, numerals, devices, labels, colors, three-dimensional shapes and combinations; confirm treatment of non-visible signs such as sound or scent."
+    },
+    "madridAccessionDate": {
+      "ja": "2015年6月5日発効",
+      "en": "Effective 5 June 2015"
+    },
+    "niceClassification": {
+      "ja": "採用。最新ニース分類およびDIPが受理する商品・役務表示を確認する。",
+      "en": "Adopted; verify the current Nice edition and wording accepted by DIP."
+    },
+    "classHeadingPractice": {
+      "ja": "類見出しだけに依存せず、商品・役務を明確かつ具体的に記載する。クメール語訳の要否・実務も確認する。",
+      "en": "Do not rely solely on class headings; state goods/services clearly and specifically, and confirm Khmer translation practice."
+    },
+    "retailServices": {
+      "ja": "第35類で登録可能。小売・卸売役務と対象商品を具体化する。",
+      "en": "Registrable in Class 35; specify retail/wholesale services and the relevant goods."
+    },
+    "multiClassApplication": {
+      "ja": "法令上は複数区分を含む出願が可能と読めるが、実務上は一出願一区分の運用・料金を現地代理人に確認する。",
+      "en": "The legislation contemplates classes, but confirm whether current practice requires or favors one application per class and the applicable fees."
+    },
+    "applicationForm": {
+      "ja": "DIPへ願書、出願人情報、標章見本、商品・役務および区分、優先権、代理人等を提出する。オンライン出願も利用可能。",
+      "en": "File with DIP the request, applicant details, representation, goods/services and classes, priority and representative details; online filing is available."
+    },
+    "powerOfAttorney": {
+      "ja": "外国出願人はカンボジアに居住し業務を行う代理人を選任する。委任状原本、公証・認証および追完期限を最新実務で確認する。",
+      "en": "A foreign applicant must appoint an agent residing and practicing in Cambodia; verify current original, notarization/legalization and late-filing requirements."
+    },
+    "priorityDocuments": {
+      "ja": "パリ優先権は最初の出願から6か月以内。認証謄本は登録官の請求から3か月以内とされ、翻訳要件も確認する。",
+      "en": "Paris priority must be claimed within six months; a certified copy may be required within three months of the Registrar’s request, and translation requirements should be checked."
+    },
+    "homeRegistrationCertificate": {
+      "ja": "通常の直接出願には不要。",
+      "en": "Not normally required for a direct national filing."
+    },
+    "useEvidenceAtFiling": {
+      "ja": "通常不要。ただし登録5周年後1年以内に使用または不使用の宣誓書を提出する維持手続がある。",
+      "en": "Not normally required at filing; however, an affidavit of use or non-use must be filed within one year following the fifth anniversary of registration."
+    },
+    "notarizationCertification": {
+      "ja": "委任状・宣誓書の署名、公証、領事認証要件は書類別に確認する。団体商標使用規則の出願人による証明には領事認証不要。",
+      "en": "Check signature, notarization and legalization requirements separately for powers and affidavits; applicant certification of collective-mark regulations requires no legalization."
+    },
+    "otherDocuments": {
+      "ja": "標章見本、翻訳・音訳、法人情報、優先権書類、団体・証明商標の使用規則、使用・不使用宣誓関連資料。",
+      "en": "Representation, translation/transliteration, entity and priority documents, regulations for collective/certification marks, and use/non-use affidavit materials."
+    },
+    "absoluteGroundsExamination": {
+      "ja": "あり。識別性、視覚的標識性、公序良俗、誤認、禁止標章等をDIPが職権審査する。",
+      "en": "Yes; DIP examines distinctiveness, visible-sign status, public order/morality, deception and prohibited emblems ex officio."
+    },
+    "distinctivenessGrounds": {
+      "ja": "商品・役務を識別できない標識は登録不可。普通名称・記述的・慣用的表示等の具体的運用と使用による識別力の立証可能性を確認する。",
+      "en": "A sign incapable of distinguishing goods/services is unregistrable; confirm practice for generic, descriptive and customary matter and proof of acquired distinctiveness."
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "公序良俗・善良な慣習に反する表示、地理的原産地・性質・特徴等について誤認を招く表示、無許可の国旗・紋章・国際機関標章等。",
+      "en": "Signs contrary to public order, morality or good custom; misleading indications of geographical origin, nature or characteristics; and unauthorized flags, emblems or intergovernmental signs."
+    },
+    "relativeGroundsExamination": {
+      "ja": "限定的。法律上、登録官の通常審査は先行商標との抵触に関する第4条(g)を除外しており、先行権利調査と公告後異議が特に重要。複数の競合出願には別規定がある。",
+      "en": "Limited: the statute excludes Article 4(g) earlier-mark conflicts from ordinary Registrar examination, making clearance and post-registration opposition particularly important; competing applications are addressed separately."
+    },
+    "disclaimer": {
+      "ja": "あり。条件付受理として非識別部分の権利不要求を要求または受諾する実務がある。",
+      "en": "Available; disclaimer of non-distinctive matter may be required or accepted as a condition of registration."
+    },
+    "consent": {
+      "ja": "当事者間合意は競合出願の解決で考慮され得るが、同意のみで公益・周知商標・混同上の問題が必ず解消するとは限らない。",
+      "en": "Agreement may assist in resolving competing applications, but consent alone may not cure public-interest, well-known-mark or confusion objections."
+    },
+    "acceleratedExamination": {
+      "ja": "一般的な早期・迅速審査の有無、利用事由、追加料金、ASEAN協力制度の適用をDIPまたは現地代理人に最新確認する。",
+      "en": "Confirm with DIP or local counsel the current availability, grounds and fees for expedited examination and any applicable ASEAN cooperation mechanism."
+    },
+    "thirdPartyObservation": {
+      "ja": "公告後90日以内の正式異議申立てが主要な第三者手続。独立した非当事者情報提供制度の有無は最新実務を確認する。",
+      "en": "Formal opposition within 90 days after publication is the principal third-party route; confirm any separate non-party observation procedure."
+    },
+    "directExaminationPeriod": {
+      "ja": "公式の最新平均期間は確認できない。方式・実体審査、受理後登録・公告、異議を分けて現地代理人から実測値を取得する。",
+      "en": "No current official average identified; obtain local estimates separately for formality/substantive examination, registration/publication and opposition."
+    },
+    "madridExaminationPeriod": {
+      "ja": "暫定拒絶通報期間は18か月。異議に基づく拒絶は18か月経過後に通報される場合がある。",
+      "en": "The provisional-refusal period is 18 months; an opposition-based refusal may be notified after the 18-month period."
+    },
+    "colourPriorityIdentity": {
+      "ja": "優先権基礎とカンボジア出願の色彩表示・配置を一致させ、同一性を確保する。白黒とカラーの差異は個別確認する。",
+      "en": "Align the color representation and arrangement with the priority filing to preserve identity; assess black-and-white versus color differences individually."
+    },
+    "colourRelativeGrounds": {
+      "ja": "色彩を含む標章全体の外観、商品・役務および混同のおそれを評価する。色変更だけで類似が解消するとは限らない。",
+      "en": "Assess the mark as a whole, including color, visual impression, goods/services and likelihood of confusion; a color change alone may not avoid similarity."
+    },
+    "colourGenuineUse": {
+      "ja": "登録形態と実使用形態の差異が識別性を変更するかを評価する。宣誓書提出だけで実際の不使用取消リスクが当然消滅するとは限らない。",
+      "en": "Assess whether differences between the registered and used forms alter distinctive character; filing an affidavit alone does not necessarily eliminate non-use cancellation risk."
+    },
+    "colourInfringementScope": {
+      "ja": "登録表示、色彩、標章全体の印象、商品・役務の類似性および公衆の混同のおそれを総合評価する。",
+      "en": "Assess the registered representation, color, overall impression, similarity of goods/services and likelihood of public confusion."
+    },
+    "colourFilingStrategy": {
+      "ja": "色彩が重要ならカラー版を、図形・文字自体の柔軟な保護も必要なら白黒版・主要変形の別出願を検討する。",
+      "en": "If color is important, file a color version; for flexibility in the device/wording, consider separate black-and-white and key-variant filings."
+    },
+    "refusalResponseRoute": {
+      "ja": "拒絶通知には補正・書面意見または聴聞請求で応答する。拒絶維持後は商務省不服審判委員会または管轄裁判所への上訴を検討する。",
+      "en": "Respond to an objection by amendment, written observations or request for hearing; if refusal is maintained, consider appeal to the Ministry of Commerce Appeal Board or competent court."
+    },
+    "responsePeriod": {
+      "ja": "通常の拒絶通知への補正・応答・聴聞請求は受領から45日。条件付受理への異議は受領から60日。通知ごとに区別する。",
+      "en": "Amendment, response or hearing request to an ordinary objection is due within 45 days of receipt; objection to conditional acceptance is due within 60 days. Distinguish each notice."
+    },
+    "extensionAvailable": {
+      "ja": "登録官は事情により期限を延長でき、期限経過後の延長も法文上可能。裁量・料金・実務を確認する。",
+      "en": "The Registrar may extend a deadline where circumstances justify it, even after expiry; confirm discretion, fees and practice."
+    },
+    "extensionLength": {
+      "ja": "一律の延長幅ではなく手続・登録官の裁量による。45日・60日・90日の基礎期限と別に管理する。",
+      "en": "There is no single extension length; it depends on the procedure and Registrar’s discretion. Docket separately from the 45-, 60- and 90-day base periods."
+    },
+    "extensionRequirements": {
+      "ja": "書面申請、事情説明、所定料金その他登録官が付す条件。期限前の申請を原則とし現地確認する。",
+      "en": "Written request, explanation, prescribed fee and any conditions directed by the Registrar; file before expiry where possible and confirm locally."
+    },
+    "appealRoute": {
+      "ja": "登録官の拒絶・条件付受理に対し、商務省不服審判委員会または管轄裁判所へ上訴可能。委員会決定も裁判所で争い得る。",
+      "en": "A refusal or contested conditional acceptance may be appealed to the Ministry of Commerce Appeal Board or competent court; an Appeal Board decision may also be challenged in court."
+    },
+    "refusalAppealPeriod": {
+      "ja": "登録官決定から3か月。不服審判委員会決定に対する上訴も決定から3か月。平均審理期間は現地確認する。",
+      "en": "Three months from the Registrar’s decision; an appeal from the Appeal Board decision is likewise due within three months. Obtain a local estimate of duration."
+    },
+    "publicDatabase": {
+      "ja": "Cambodia Digital IP／Trademark Search",
+      "en": "Cambodia Digital IP / Trademark Search",
+      "url": "https://digitalip.cambodiaip.gov.kh/en"
+    },
+    "publicationStage": {
+      "ja": "審査後に登録・登録証発行が行われ、その登録が商務省官報に公告される。公告後に異議申立期間が進行する点に注意。",
+      "en": "Following examination the mark is registered and a certificate issued, and the registration is published in the Ministry’s Official Gazette; note that opposition follows publication."
+    },
+    "oppositionPeriod": {
+      "ja": "商務省官報の公告日から90日。通常の出願公告前異議ではなく、登録公告後の異議として管理する。",
+      "en": "Ninety days from publication in the Ministry’s Official Gazette; docket it as a post-registration-publication opposition."
+    },
+    "oppositionExtension": {
+      "ja": "法定90日について当然の延長は予定せず、一般的期限延長裁量の適用可否を期限前に現地確認する。",
+      "en": "Do not assume an extension of the statutory 90 days; confirm before expiry whether the Registrar’s general extension discretion applies."
+    },
+    "averagePendency": {
+      "ja": "公式の最新平均は確認できない。実務上の所要期間はバックログ、拒絶、公告後異議、書類追完により変動するため現地見積りを取得する。",
+      "en": "No current official average identified; obtain a local estimate because backlog, objections, post-publication opposition and document completion affect timing."
+    },
+    "term": {
+      "ja": "出願日から10年。10年ごとに更新可能。",
+      "en": "Ten years from the filing date, renewable for successive ten-year periods."
+    },
+    "termStart": {
+      "ja": "出願日から。排他的権利は登録により取得する。",
+      "en": "From the filing date; exclusive rights are acquired by registration."
+    },
+    "renewalWindow": {
+      "ja": "満了前6か月以内に更新申請。満了後6か月は割増料金付き更新が可能。",
+      "en": "Apply for renewal within six months before expiry; late renewal is available during a six-month grace period with surcharge."
+    },
+    "gracePeriod": {
+      "ja": "あり。満了後6か月。",
+      "en": "Yes, six months after expiry."
+    },
+    "renewalEvidence": {
+      "ja": "登録5周年後1年以内、および各更新の5周年後1年以内に使用または不使用の宣誓書を提出する。マドプロ指定もDIPへ直接提出する。",
+      "en": "File an affidavit of use or non-use within one year after the fifth anniversary of registration and each renewal; Madrid holders file directly with DIP."
+    },
+    "nonUseCancellation": {
+      "ja": "あり。利害関係人が商務省に登録簿からの抹消を請求できる行政手続。",
+      "en": "Available through an administrative request by an interested person to the Ministry of Commerce for removal from the Register."
+    },
+    "nonUsePeriod": {
+      "ja": "登録後、請求の1か月前までに継続5年間、権利者またはライセンシーが使用していない場合。",
+      "en": "Five continuous years of non-use after registration by the owner or licensee, measured up to one month before the removal request."
+    },
+    "nonUseDefenses": {
+      "ja": "特別な事情が使用を妨げ、商品・役務について不使用・放棄の意思がなかったことを立証する。真正使用の主体・態様・証拠も確認する。",
+      "en": "Show special circumstances preventing use and no intention not to use or abandon the mark; confirm qualifying users, manner of use and evidence."
+    },
+    "otherCancellation": {
+      "ja": "未更新、権利者請求、条件不遵守、国内送達先喪失、正当な所有者でないこと、第三者の周知商標との抵触等による抹消があり得る。",
+      "en": "Removal may follow non-renewal, owner request, non-compliance, loss of local address for service, lack of legitimate ownership or conflict with another’s well-known mark."
+    },
+    "invalidation": {
+      "ja": "あり。利害関係人が標識性または登録要件の欠缺を立証して商務省へ請求し、無効は登録日に遡及する。",
+      "en": "Available before the Ministry upon proof by an interested person that sign or registrability requirements were not met; invalidation is retroactive to registration."
+    },
+    "civilInjunction": {
+      "ja": "管轄裁判所で暫定措置および終局的差止めを請求可能。",
+      "en": "Provisional measures and final injunctions may be sought from the competent court."
+    },
+    "civilDamages": {
+      "ja": "損害賠償を請求可能。実損、侵害者利益、故意、証拠および算定方法を事案ごとに確認する。",
+      "en": "Damages may be claimed; assess actual loss, infringer profits, intent, evidence and calculation case by case."
+    },
+    "civilEvidencePreservation": {
+      "ja": "裁判所による暫定措置、証拠保全、侵害品・関連資料の差押え等を検討する。担保要件を確認する。",
+      "en": "Consider court-ordered provisional measures, evidence preservation and seizure of infringing goods/materials; verify security requirements."
+    },
+    "civilOther": {
+      "ja": "侵害停止、侵害品・包装・ラベル・製造手段の廃棄、費用その他の救済があり得る。",
+      "en": "Cessation, destruction of infringing goods, packaging, labels and means, costs and other remedies may be available."
+    },
+    "borderMeasures": {
+      "ja": "税関による通関停止、検査、差押えおよび裁判所を通じた廃棄が可能。申請、担保、提訴期限を確認する。",
+      "en": "Customs suspension, inspection and seizure and court-ordered destruction are available; verify application, security and litigation deadlines."
+    },
+    "administrativeRaid": {
+      "ja": "DIP、経済警察、税関その他関係当局との行政摘発・押収が実務上利用される。権限と手順を現地確認する。",
+      "en": "Administrative raids and seizures involving DIP, Economic Police, Customs and other authorities are used in practice; confirm authority and procedure locally."
+    },
+    "administrativeOther": {
+      "ja": "警告、行政罰、没収、侵害品の廃棄その他の措置を、民事・刑事経路との組合せで検討する。",
+      "en": "Consider warnings, administrative penalties, forfeiture, destruction and other measures in combination with civil or criminal routes."
+    },
+    "criminalAvailability": {
+      "ja": "故意の商標偽造、侵害品の輸入・販売等には刑事責任があり得る。",
+      "en": "Criminal liability may apply to intentional trademark counterfeiting and importation or sale of infringing goods."
+    },
+    "criminalFine": {
+      "ja": "あり。犯罪類型、再犯、規模等により異なるため、最新の法定額を確認する。",
+      "en": "Available; verify current statutory amounts according to the offense, recidivism and scale."
+    },
+    "criminalImprisonment": {
+      "ja": "あり得る。侵害類型、故意、再犯その他の要件を確認する。",
+      "en": "Potentially available; verify the infringement type, intent, recidivism and other requirements."
+    },
+    "criminalOther": {
+      "ja": "侵害品・包装・器具の没収・廃棄、事業上の措置等があり得る。",
+      "en": "Forfeiture/destruction of infringing goods, packaging and instruments and business-related measures may apply."
+    }
+  },
+  "notablePoints": [
+    {
+      "id": "affidavit-use-nonuse",
+      "importance": "critical",
+      "title": {
+        "ja": "使用だけでなく「不使用」の宣誓も可能",
+        "en": "Affidavit may declare use or non-use"
+      },
+      "summary": {
+        "ja": "登録5周年後1年以内と各更新5周年後1年以内に、使用または不使用の宣誓書を提出する。不使用宣誓が5年不使用取消を当然に防ぐわけではない。",
+        "en": "Within one year after the fifth anniversary of registration and each renewal, file an affidavit of use or non-use; a non-use affidavit does not automatically defeat a five-year non-use removal request."
+      },
+      "sourceUrl": "https://www.wipo.int/wipolex/en/legislation/details/6376"
+    },
+    {
+      "id": "post-registration-opposition",
+      "importance": "critical",
+      "title": {
+        "ja": "異議は登録公告後90日",
+        "en": "Opposition follows registration publication"
+      },
+      "summary": {
+        "ja": "審査・登録・登録証発行後、官報公告から90日以内に異議を申し立てる構造である。多くの法域の出願公告前異議と異なる。",
+        "en": "The mark is examined, registered and certified before a 90-day opposition period runs from Official Gazette publication, unlike pre-registration opposition in many jurisdictions."
+      },
+      "sourceUrl": "https://www.wipo.int/wipolex/en/legislation/details/5780"
+    },
+    {
+      "id": "limited-relative-examination",
+      "importance": "high",
+      "title": {
+        "ja": "先行商標の職権審査が限定的",
+        "en": "Limited ex officio earlier-mark examination"
+      },
+      "summary": {
+        "ja": "商標法第8条の通常審査は先行商標抵触に関する第4条(g)を除外する。事前調査・監視・異議の重要性が高い。",
+        "en": "Ordinary examination under Article 8 excludes the earlier-mark conflict in Article 4(g), increasing the importance of clearance, watching and opposition."
+      },
+      "sourceUrl": "https://www.wipo.int/wipolex/en/legislation/details/5780"
+    },
+    {
+      "id": "madrid-local-affidavit",
+      "importance": "high",
+      "title": {
+        "ja": "マドプロ指定もDIPへ宣誓書を直接提出",
+        "en": "Madrid holders file affidavits directly with DIP"
+      },
+      "summary": {
+        "ja": "国際登録・事後指定・更新の5周年から1年以内にDIPへ直接提出する。WIPOだけの期限管理では足りない。",
+        "en": "The affidavit is filed directly with DIP within one year from the fifth anniversary of the international registration, subsequent designation or renewal; WIPO-only docketing is insufficient."
+      },
+      "sourceUrl": "https://www.wipo.int/wipolex/en/legislation/details/19478"
+    },
+    {
+      "id": "three-response-clocks",
+      "importance": "high",
+      "title": {
+        "ja": "45日・60日・90日の期限を区別",
+        "en": "Distinguish 45-, 60- and 90-day periods"
+      },
+      "summary": {
+        "ja": "通常拒絶への応答は45日、条件付受理への異議は60日、公告後異議および被異議者答弁は各90日が基本。通知の種類を誤らない。",
+        "en": "Ordinary objection response is 45 days, objection to conditional acceptance 60 days, and post-publication opposition/counterstatement generally 90 days; classify each notice correctly."
+      },
+      "sourceUrl": "https://www.wipo.int/wipolex/en/legislation/details/6376"
+    }
+  ],
+  "statistics": {
+    "coverage": "2016–2025",
+    "status": "pending",
+    "series": []
+  },
+  "news": [
+    {
+      "id": "digital-ip-portal-2024",
+      "type": "practice",
+      "date": "2024-05-21",
+      "title": {
+        "ja": "Digital IPポータルで検索・公報を集約",
+        "en": "Digital IP portal consolidates search and gazettes"
+      },
+      "summary": {
+        "ja": "DIPのDigital IPポータルから商標検索と官報にアクセスできる。監視・異議期限管理では掲載状況と更新頻度を確認する。",
+        "en": "DIP’s Digital IP portal provides trademark search and Official Gazette access; verify publication status and update frequency for watching and opposition docketing."
+      },
+      "sourceUrl": "https://digitalip.cambodiaip.gov.kh/en"
+    },
+    {
+      "id": "official-procedure-pages-2024",
+      "type": "practice",
+      "date": "2024-07-09",
+      "title": {
+        "ja": "商標紛争手続案内をオンライン掲載",
+        "en": "Trademark dispute procedure guidance available online"
+      },
+      "summary": {
+        "ja": "DIPは聴聞、登録官決定への上訴、異議、無効・不使用抹消の手続概要を公式サイトに掲載している。",
+        "en": "DIP publishes official online guidance on hearings, appeals from Registrar decisions, opposition, invalidation and non-use removal."
+      },
+      "sourceUrl": "https://www.cambodiaip.gov.kh/en/iptrademark/"
+    },
+    {
+      "id": "gazette-access-2024",
+      "type": "practice",
+      "date": "2024-05-21",
+      "title": {
+        "ja": "オンライン官報によるウォッチング実務",
+        "en": "Online Gazette supports trademark watching"
+      },
+      "summary": {
+        "ja": "DIP公式サイトは年度・週別の商標官報を提供する。90日の登録後異議に備え、定期監視が重要。",
+        "en": "DIP provides annual and weekly trademark gazettes online; regular watching is important for the 90-day post-registration opposition."
+      },
+      "sourceUrl": "https://www.cambodiaip.gov.kh/en/official-gazettes/"
+    }
+  ],
+  "faqs": [
+    {
+      "tag": "Affidavit",
+      "question": {
+        "ja": "本件の登録5周年・更新5周年の使用／不使用宣誓期限を一覧化できますか。",
+        "en": "Can you docket the use/non-use affidavit deadlines after registration and each renewal?"
+      },
+      "followUp": {
+        "ja": "不使用宣誓の根拠資料、公証、原本、料金、遅延救済および不使用取消への影響も確認してください。",
+        "en": "Please confirm supporting grounds, notarization, original, fee, late relief and effect on non-use cancellation."
+      }
+    },
+    {
+      "tag": "Opposition",
+      "question": {
+        "ja": "登録公告後90日の異議で、最低限必要な申立書・証拠は何ですか。",
+        "en": "What minimum pleading and evidence are required for the 90-day post-registration opposition?"
+      },
+      "followUp": {
+        "ja": "公告日の確認方法、延長可能性、被異議者の90日答弁期限も教えてください。",
+        "en": "Please explain how to verify publication, any extension and the applicant’s 90-day counterstatement deadline."
+      }
+    },
+    {
+      "tag": "Search",
+      "question": {
+        "ja": "先行商標の職権審査が限定的であることを踏まえ、どの検索・監視を行うべきですか。",
+        "en": "Given limited ex officio earlier-mark examination, what clearance and watching should we conduct?"
+      },
+      "followUp": {
+        "ja": "クメール文字、英語表記、音訳、商号、周知商標も検索対象にしてください。",
+        "en": "Please include Khmer script, English form, transliterations, trade names and well-known marks."
+      }
+    },
+    {
+      "tag": "Non-use",
+      "question": {
+        "ja": "5年不使用の起算日、請求前1か月の基準、立証責任を確認できますか。",
+        "en": "Can you confirm the five-year start date, the one-month-before-request rule and burden of proof?"
+      },
+      "followUp": {
+        "ja": "ライセンシー使用、輸出、オンライン販売、標章の変形使用、特別事情の抗弁はどう扱われますか。",
+        "en": "How are licensee use, exports, online sales, variant use and special-circumstances defenses treated?"
+      }
+    },
+    {
+      "tag": "Madrid",
+      "question": {
+        "ja": "マドプロ指定の5周年宣誓は、どの日を起算点としてDIPへ提出しますか。",
+        "en": "Which date starts the fifth-anniversary affidavit deadline for a Madrid designation filed directly with DIP?"
+      },
+      "followUp": {
+        "ja": "18か月拒絶、公告後異議、現地代理人・委任状の期限も確認してください。",
+        "en": "Please also confirm the 18-month refusal, post-publication opposition and local-agent/power deadlines."
+      }
+    },
+    {
+      "tag": "Enforcement",
+      "question": {
+        "ja": "行政摘発、民事訴訟、刑事告訴、税関措置の最適な組合せは何ですか。",
+        "en": "What is the best combination of administrative raid, civil suit, criminal complaint and customs action?"
+      },
+      "followUp": {
+        "ja": "各機関の管轄、必要証拠、担保、費用、期間、廃棄までの流れを比較してください。",
+        "en": "Compare jurisdiction, evidence, security, cost, duration and the path to destruction for each route."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "Cambodia DIP—Trademark",
+      "url": "https://www.cambodiaip.gov.kh/en/trademark/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Cambodia Digital IP",
+      "url": "https://digitalip.cambodiaip.gov.kh/en",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Cambodia DIP—Request Forms",
+      "url": "https://www.cambodiaip.gov.kh/en/request-form/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Cambodia DIP—Trademark Disputes",
+      "url": "https://www.cambodiaip.gov.kh/en/iptrademark/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Cambodia DIP—Official Gazettes",
+      "url": "https://www.cambodiaip.gov.kh/en/official-gazettes/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Cambodia Trademark Law—WIPO Lex",
+      "url": "https://www.wipo.int/wipolex/en/legislation/details/5780",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Cambodia Trademark Sub-Decree—WIPO Lex",
+      "url": "https://www.wipo.int/wipolex/en/legislation/details/6376",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Cambodia Online Filing Prakas—WIPO Lex",
+      "url": "https://www.wipo.int/wipolex/en/text/544178",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Cambodia Madrid Implementing Prakas—WIPO Lex",
+      "url": "https://www.wipo.int/wipolex/en/legislation/details/19478",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "WIPO—Madrid Protocol Accession: Cambodia",
+      "url": "https://www.wipo.int/wipolex/en/treaties/notifications/details/treaty_madridp-gp_205",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    }
+  ]
+}
