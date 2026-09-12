@@ -1,0 +1,660 @@
+{
+  "id": "au",
+  "type": "country",
+  "flag": "🇦🇺",
+  "region": "asia",
+  "names": {
+    "ja": "オーストラリア",
+    "en": "Australia"
+  },
+  "office": {
+    "ja": "IP Australia（オーストラリア商標庁）",
+    "en": "IP Australia (Trade Marks Office)"
+  },
+  "availableLanguages": [],
+  "createdAt": "2026-09-12",
+  "updatedAt": "2026-09-12",
+  "status": "review",
+  "facts": {
+    "authority": {
+      "ja": "IP Australiaの商標庁。出願、審査、異議、不使用取消等を扱う。登録官の決定に対する控訴および侵害・登録簿訂正訴訟は連邦裁判所または連邦巡回・家庭裁判所第2部等が扱う。",
+      "en": "The Trade Marks Office within IP Australia handles filing, examination, opposition and non-use removal. Appeals from Registrar decisions and infringement or rectification proceedings are heard by the Federal Court or the Federal Circuit and Family Court of Australia (Division 2), as applicable."
+    },
+    "protectionScope": {
+      "ja": "登録商標は、指定商品・役務についてオーストラリア全域で使用し、使用を許諾し、侵害救済を求める排他的権利を与える。未登録標章にはpassing offおよびオーストラリア消費者法上の誤認惹起行為等による保護があり得る。",
+      "en": "Registration gives exclusive Australia-wide rights to use and authorize use of the mark for the registered goods and services and to obtain infringement relief. Unregistered signs may be protected through passing off and misleading-or-deceptive-conduct claims under Australian Consumer Law."
+    },
+    "markTypes": {
+      "ja": "語、名称、署名、文字、数字、図形、ブランド、見出し、ラベル、チケット、包装の外観、形状、色彩、音、香り、動きその他の標識またはその組合せ。標準、シリーズ、団体、証明および防護商標がある。",
+      "en": "Words, names, signatures, letters, numerals, devices, brands, headings, labels, tickets, aspects of packaging, shapes, colours, sounds, scents, movements and combinations. Standard, series, collective, certification and defensive marks are available."
+    },
+    "madridAccessionDate": {
+      "ja": "2001年7月11日（マドリッド協定議定書の発効日）",
+      "en": "11 July 2001 (entry into force of the Madrid Protocol for Australia)"
+    },
+    "niceClassification": {
+      "ja": "採用。45区分のニース国際分類およびIP AustraliaのClassification Search／picklistを使用する。",
+      "en": "Adopted. Australia uses the 45-class Nice Classification together with IP Australia's Classification Search and picklist."
+    },
+    "classHeadingPractice": {
+      "ja": "類見出しは分類範囲の概略であり、当該類の全商品・役務を包含しない。単独では不十分に広い・不明確な場合があるため、原則としてニース分類またはpicklistの具体的用語を使用する。",
+      "en": "Class headings indicate the general scope of a class but do not cover every good or service in it. A heading may be too broad or unclear on its own, so specific Nice or picklist terms should ordinarily be used."
+    },
+    "retailServices": {
+      "ja": "可。第35類で対象商品を特定した小売・卸売・オンライン小売役務等を指定する。単なる「online retail services」は広すぎるとして対象商品の特定を求められ得る。",
+      "en": "Available in class 35. Retail, wholesale and online-retail services should identify the relevant goods. A bare term such as 'online retail services' may be considered too broad without specifying the goods."
+    },
+    "multiClassApplication": {
+      "ja": "可。1出願で複数区分を指定でき、区分ごとに料金が計算される。",
+      "en": "Available. One application may cover multiple classes, with fees calculated per class."
+    },
+    "applicationForm": {
+      "ja": "通常はIP Australia Online Servicesによる出願。出願人の法的名称・住所、オーストラリアまたはニュージーランドの送達住所、標章の表示、商品・役務、区分、優先権、非伝統的標章の説明等を記載し、料金を納付する。書面出願も可能。",
+      "en": "Applications are ordinarily filed through IP Australia Online Services. Provide the applicant's legal name and address, an Australian or New Zealand address for service, representation of the mark, goods and services, classes, priority details and any description required for a non-traditional mark, and pay the fee. Paper filing is also available."
+    },
+    "powerOfAttorney": {
+      "ja": "通常、署名済み委任状の提出は不要。代理人を選任できるが、すべての出願人・権利者はオーストラリアまたはニュージーランドの送達住所を備える必要がある。権限に疑義がある個別手続では追加確認があり得る。",
+      "en": "A signed power of attorney is not ordinarily filed. An agent may be appointed, but every applicant or owner must maintain an address for service in Australia or New Zealand. Authority may be queried in an exceptional procedure where it is doubtful."
+    },
+    "priorityDocuments": {
+      "ja": "条約国の先の出願から6か月以内に、同等の商標について優先権を主張する。先願日、国および可能なら出願番号を出願時または原則2営業日以内に示し、要求された場合は認証謄本・英訳および翻訳証明を提出する。6か月の出願期間は延長不可。",
+      "en": "Claim priority for an equivalent mark within six months of the first Convention-country filing. Identify the date, country and, if available, application number at filing or generally within two working days. Supply a certified copy, English translation and verification if required. The six-month filing period is not extendable."
+    },
+    "homeRegistrationCertificate": {
+      "ja": "通常不要。オーストラリア直接出願は本国登録を基礎とする必要がない。",
+      "en": "Not normally required. A direct Australian application need not be based on a home-country registration."
+    },
+    "useEvidenceAtFiling": {
+      "ja": "通常不要。使用宣誓・使用見本は出願要件ではない。ただし出願人は所有者であり、オーストラリアで使用中、使用予定、使用許諾中・許諾予定、または使用予定法人への譲渡を意図している必要がある。所有権・使用意思の欠缺は異議・取消リスクとなる。",
+      "en": "Not normally required; no declaration or specimen of use is a filing formality. The applicant must claim ownership and be using, intending to use, authorizing or intending to authorize use in Australia, or intending assignment to a body corporate for use. Defective ownership or intention may support opposition or cancellation."
+    },
+    "notarizationCertification": {
+      "ja": "通常出願に公証・領事認証・出願人印章は不要。審査・異議・不使用取消で使用証拠等を提出する場合、所定形式のdeclarationおよび翻訳証明が必要となり得る。",
+      "en": "No notarization, legalization or applicant seal is normally required for filing. Evidence submitted in examination, opposition or non-use proceedings may need to be in the prescribed declaration form, with verification of translations where applicable."
+    },
+    "otherDocuments": {
+      "ja": "非英語文字の翻訳・音訳、色彩・形状・音・香り・動き等の説明および所定ファイル、シリーズ各標章、証明商標の使用規則、団体商標情報、優先権資料等を案件に応じて提出する。",
+      "en": "Depending on the application, provide translations or transliterations of non-English matter; descriptions and required files for colour, shape, sound, scent or movement marks; each mark in a series; certification-mark rules; collective-mark details; priority material and other required documents."
+    },
+    "absoluteGroundsExamination": {
+      "ja": "あり。IP Australiaが標章性、識別力、禁止標識、欺瞞・混同、公序上不適切な標章等を職権審査する。登録可能性の推定があるが、拒絶理由が認められれば受理されない。",
+      "en": "Yes. IP Australia examines whether the sign is a trade mark, distinctiveness, prohibited signs, deception or confusion, scandalous matter and other grounds ex officio. Registrability is presumed, but an established ground must be overcome."
+    },
+    "distinctivenessGrounds": {
+      "ja": "他人の商品・役務から識別する能力を欠く標章はTrade Marks Act 1995の41条により拒絶される。普通名称、記述的・称賛的表現、一般的地名、機能的形状・一般的色彩等が問題となり、出願前使用または使用予定等の証拠で識別力を立証できる場合がある。",
+      "en": "Section 41 of the Trade Marks Act 1995 applies where a mark lacks capacity to distinguish the applicant's goods or services. Generic, descriptive or laudatory terms, ordinary place names, functional shapes and commonplace colours may be problematic. Pre-filing use or intended-use evidence can sometimes establish distinctiveness."
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "商標として機能しない標識、法令により使用禁止の標識、Coat of Arms・旗章・王室・防衛関係その他の保護標識、scandalousな標章、使用が欺瞞または混同を生じる標章、保護地理的表示・植物品種名との抵触等。国際登録では制裁法に抵触する保護も拒絶対象。",
+      "en": "Grounds include matter that is not a trade mark; signs whose use is prohibited by law; protected coats of arms, flags, royal, defence and other signs; scandalous matter; use likely to deceive or cause confusion; conflicts with protected geographical indications or plant-variety names; and, for international registrations, protection contrary to applicable sanctions laws."
+    },
+    "relativeGroundsExamination": {
+      "ja": "あり。IP Australiaは44条に基づき、先行する登録商標・係属出願と実質的に同一または欺瞞的に類似し、商品役務も類似・密接関連する場合を職権審査する。先使用、著名性、所有権、悪意、使用意思等の追加論点は主に応答・異議で扱われる。",
+      "en": "Yes. Under section 44, IP Australia searches earlier registered and pending marks and objects where the marks are substantially identical or deceptively similar and the goods or services are similar or closely related. Prior use, reputation, ownership, bad faith and intention to use are principally addressed through responses or opposition."
+    },
+    "disclaimer": {
+      "ja": "あり。ただし現行法では自発的なディスクレームのみで、登録官が登録条件として要求しない。商標の一部に関する排他的使用・使用許諾権を制限し、登録前後いつでも無償で記録できるが、適法に記録されたものは原則撤回不能。",
+      "en": "Available, but only voluntarily under current law; the Registrar does not require a disclaimer as a condition of registration. It limits exclusive use and authorization rights in part of the mark, may be recorded without a fee before or after registration, and generally cannot be revoked once validly entered."
+    },
+    "consent": {
+      "ja": "あり。先行商標権者の同意書は、44条3項(b)の「other circumstances」により引用を克服する手段となり得る。同意範囲が狭ければ指定商品・役務を対応範囲へ限定する必要があり、受理後に先行権者へ通知される場合がある。",
+      "en": "Available. A letter of consent from the cited owner may support acceptance under the 'other circumstances' discretion in section 44(3)(b). If consent is narrower than the application, the specification should be limited accordingly, and the cited owner may be notified after acceptance."
+    },
+    "acceleratedExamination": {
+      "ja": "あり。出願人または代理人が合理的な早期化理由を示すdeclarationとともに申請する。係争・市場投入・第三者による使用等の具体的事情を説明する。認容されても登録要件や受理公告後の異議期間は省略されない。",
+      "en": "Available on request by the applicant or agent, supported by a declaration setting out reasonable grounds for expedition, such as litigation, launch timing or third-party use. Expedition does not waive registrability requirements or the post-acceptance opposition period."
+    },
+    "thirdPartyObservation": {
+      "ja": "商標について一般的な法定の匿名情報提供制度はない。受理前に第三者から所有権等が指摘されても、通常は受理後の異議申立てを案内される。第三者はAustralian Trade Mark Searchを監視し、受理公告から2か月以内に異議を申し立てるのが基本。",
+      "en": "There is no general statutory anonymous-observation system for trade marks. If a third party raises ownership or similar matters before acceptance, it is ordinarily directed to opposition after acceptance. Monitoring Australian Trade Mark Search and opposing within two months of acceptance publication is the principal route."
+    },
+    "directExaminationPeriod": {
+      "ja": "IP Australiaは通常、直接出願の審査に約3～4か月を要すると案内する。2025–26年度の公表目標は初回審査報告の95%を16週以内。これは目標・通常目安であり統計上の一律平均ではない。",
+      "en": "IP Australia states that a direct application is usually examined in about three to four months. Its published 2025–26 target is to issue 95% of first examination reports within 16 weeks. These are service indications or targets, not a uniform statistical average."
+    },
+    "madridExaminationPeriod": {
+      "ja": "統計上の一律平均は確認できない。IRDAはWIPOからIP Australiaへ届いた後に国内基準で審査され、暫定拒絶の通報期限は原則18か月。2026年IP Reportではマドプロ出願が国際出願からIP Australia到達まで通常約3.5か月とされる。",
+      "en": "No uniform statistical average has been identified. An IRDA is examined under Australian standards after WIPO transmits it to IP Australia, and a provisional refusal must generally be notified within 18 months. The Australian IP Report 2026 states that Madrid filings typically reach IP Australia about 3.5 months after the international filing."
+    },
+    "colourPriorityIdentity": {
+      "ja": "条約優先権は先願と「equivalent」な商標について主張する。白黒先願から色彩を識別的特徴として主張する後願への変更は同等性・同一性を害し得る。優先権主張前に、表示、色彩クレームおよび対象商品役務を個別照合する。",
+      "en": "Convention priority is claimed for an equivalent trade mark. Moving from an earlier monochrome mark to a later mark claiming colour as a distinctive feature may jeopardize equivalence or identity. Compare the representations, colour claim and goods or services before relying on priority."
+    },
+    "colourRelativeGrounds": {
+      "ja": "44条では「実質的同一」と「欺瞞的類似」を別々に判断する。前者は並置比較による本質的特徴と全体印象、後者は不完全な記憶を前提とする全体的印象で判断する。色彩は一要素だが、語・図形等の支配的特徴が共通すれば色違いだけで抵触を回避できない。",
+      "en": "Section 44 treats substantial identity and deceptive similarity as separate tests. The former uses side-by-side comparison of essential features and overall impression; the latter considers imperfect recollection. Colour is relevant, but a colour difference alone may not avoid conflict where dominant word or device elements remain common."
+    },
+    "colourGenuineUse": {
+      "ja": "不使用取消では、登録標章の同一性を実質的に害しない付加・変更を伴う使用も認められ得る。登録に色彩限定がなければ全色で登録されたものと扱われるため配色変更の許容性は比較的高いが、色彩自体が主要識別要素なら個別評価が必要。",
+      "en": "In non-use proceedings, use with additions or alterations may qualify if they do not substantially affect the identity of the registered mark. A registration without a colour limitation is taken to cover all colours, which may assist with colour variation, but a change requires closer analysis where colour is a principal distinctive feature."
+    },
+    "colourInfringementScope": {
+      "ja": "色彩の限定なしに登録された商標は70条3項により全色について登録されたものと扱われる。したがって侵害判断は通常、色の相違だけでなく標章全体の実質的同一性・欺瞞的類似性を検討する。明示的色彩限定・ディスクレームは範囲を制限し得る。",
+      "en": "Under section 70(3), a mark registered without colour limitation is taken to be registered for all colours. Infringement therefore ordinarily turns on substantial identity or deceptive similarity of the marks as a whole, not colour difference alone. An express colour limitation or disclaimer may narrow scope."
+    },
+    "colourFilingStrategy": {
+      "ja": "ロゴを複数配色で使用する場合、色彩限定のない主要ロゴ出願を軸とし、色自体に識別力・ブランド価値がある場合は色彩商標または主要配色版を追加検討する。語商標とロゴを別出願にすることも有効。",
+      "en": "For a logo used in multiple colourways, consider a principal logo filing without colour limitation, with an additional colour mark or principal-colour filing where colour itself has distinctive brand value. Separate word and logo applications may also provide more resilient protection."
+    },
+    "refusalResponseRoute": {
+      "ja": "examination reportに対し、オンラインで意見書、商品役務の削除・限定、許容補正、同意書、識別力・honest concurrent use・prior use・other circumstancesのdeclaration等を提出する。未解消なら聴聞を請求し、正式拒絶後は裁判所へ控訴する。",
+      "en": "Respond online to the examination report with arguments, deletion or narrowing of goods and services, permissible amendments, consent, or declarations supporting distinctiveness, honest concurrent use, prior use or other circumstances. If unresolved, request a hearing; a formal rejection may then be appealed to court."
+    },
+    "responsePeriod": {
+      "ja": "通常、最初の審査報告日から15か月以内にすべての拒絶理由を解消し、出願が受理される必要がある。単なる応答提出期限ではなく「受理完了期限」であるため、再審査時間を見込んで早めに応答する。新たな拒絶理由を示す後続報告から15か月が再計算される場合がある。",
+      "en": "Ordinarily, all objections must be overcome and the application accepted within 15 months from the first examination report. This is an acceptance deadline, not merely a deadline to file any response, so sufficient re-examination time should be allowed. A later report raising a new ground may start a new 15-month period."
+    },
+    "extensionAvailable": {
+      "ja": "あり。通常、15か月の受理期限を合計6か月まで有料で延長できる。21か月を超える延長は、過誤・不作為または当事者の支配を超える事情等について224条の厳格な要件が必要。",
+      "en": "Available. The 15-month acceptance period may ordinarily be extended, with fees, by up to six months in total. Beyond 21 months, the strict section 224 requirements concerning error or omission or circumstances beyond control generally apply."
+    },
+    "extensionLength": {
+      "ja": "通常延長は15か月後から21か月まで、合計最大6か月。月単位の料金が生じる。聴聞請求による受理期限の自動的なdefermentが適用される場合もある。",
+      "en": "The ordinary extension runs from 15 to 21 months after the first report, up to six months in total, with monthly fees. A hearing request may also trigger statutory deferment of the acceptance deadline."
+    },
+    "extensionRequirements": {
+      "ja": "所定様式・料金により延長を申請する。期限後申請では224条4項および規則21.25等の説明・証拠が追加で必要となり得る。条約優先権の6か月、更新後6か月等の延長不可期限もある。",
+      "en": "Request the extension in the approved form and pay the applicable fee. A request filed after expiry may require additional explanation and evidence under section 224(4) and regulation 21.25. Some periods, including the six-month Convention filing period and six-month late-renewal period, are not extendable."
+    },
+    "appealRoute": {
+      "ja": "審査官見解に同意しない場合、まずIP Australiaの聴聞官による口頭または書面聴聞を請求できる。登録官による正式拒絶決定は、連邦裁判所または連邦巡回・家庭裁判所第2部へ控訴できる。行政的決定にはART審査またはAD(JR)法上の司法審査が適用される場合もある。",
+      "en": "An applicant disagreeing with examination may first request an oral or written hearing before an IP Australia hearing officer. A formal rejection by the Registrar may be appealed to the Federal Court or the Federal Circuit and Family Court (Division 2). Some administrative decisions may instead be reviewable by the ART or under the AD(JR) Act."
+    },
+    "refusalAppealPeriod": {
+      "ja": "登録官決定に対する裁判所へのnotice of appealは原則決定日から21日以内。裁判所控訴の公表された一律平均審理期間は確認できず、争点・証拠・裁判所により大きく異なるため、現地代理人に最新見込みを確認する。",
+      "en": "A notice of appeal from a Registrar decision must generally be filed within 21 days of the decision. No reliable uniform published average duration has been identified; timing varies materially with the issues, evidence and court, so obtain a current estimate from Australian counsel."
+    },
+    "publicDatabase": {
+      "ja": "Australian Trade Mark Search",
+      "en": "Australian Trade Mark Search",
+      "url": "https://search.ipaustralia.gov.au/trademarks/search/quick"
+    },
+    "publicationStage": {
+      "ja": "出願内容は出願後にAustralian Trade Mark Searchへ公開される。審査通過後、受理がAustralian Official Journal of Trade Marksおよび検索データベースに公告され、2か月の異議期間に入る。",
+      "en": "Application details are published in Australian Trade Mark Search after filing. Once examination is passed, acceptance is advertised in the Australian Official Journal of Trade Marks and the search database, opening the two-month opposition period."
+    },
+    "oppositionPeriod": {
+      "ja": "受理公告日から2か月以内にnotice of intention to opposeを提出。その提出日から1か月以内にstatement of grounds and particularsを提出する。国内出願およびオーストラリア指定国際登録の双方に適用。",
+      "en": "File a notice of intention to oppose within two months from publication of acceptance, followed by a statement of grounds and particulars within one month after that notice. This applies to national applications and international registrations designating Australia."
+    },
+    "oppositionExtension": {
+      "ja": "限定的に可能。過誤・不作為または当事者の支配を超える事情等、規則上の理由を証拠で示す必要があり、単なる調査・交渉目的では当然に認められない。延長申請自体が公告・異議対象となる場合もある。",
+      "en": "Available only on limited regulatory grounds, generally requiring evidence of error or omission or circumstances beyond the person's control. It should not be assumed for further research or negotiation, and some extension requests may themselves be advertised and opposed."
+    },
+    "averagePendency": {
+      "ja": "IP Australiaの案内では登録まで最短7か月。通常審査約3～4か月、受理公告後2か月の異議期間を経て、無異議なら受理公告から概ね65日後に登録される。拒絶・証拠・異議があれば長期化する。",
+      "en": "IP Australia states that registration takes at least seven months. Examination usually takes about three to four months, followed by a two-month opposition period; if unopposed, registration occurs approximately 65 days after acceptance publication. Objections, evidence or opposition add time."
+    },
+    "term": {
+      "ja": "10年。10年ごとに回数制限なく更新可能。",
+      "en": "Ten years, renewable indefinitely for successive ten-year periods."
+    },
+    "termStart": {
+      "ja": "出願日から。条約優先権等により商品・役務ごとに異なる登録日が記録される場合がある。",
+      "en": "From the filing date. Convention priority or other circumstances may result in different registration dates for particular goods or services."
+    },
+    "renewalWindow": {
+      "ja": "満了日前12か月以内に更新申請可能。",
+      "en": "Renewal may be requested during the 12 months before expiry."
+    },
+    "gracePeriod": {
+      "ja": "あり。満了後6か月以内に、更新料および経過月ごとの遅延料金を納付して更新できる。この6か月は延長不可。",
+      "en": "Available. Renewal may be completed within six months after expiry by paying the renewal fee and monthly late fees. This six-month period is not extendable."
+    },
+    "renewalEvidence": {
+      "ja": "更新時の使用証拠提出は通常不要。ただし不使用取消では登録維持側が使用を立証するため、商品・役務別の使用、販売、広告およびライセンス管理資料を保存する。",
+      "en": "Use evidence is not normally filed at renewal. Because the party maintaining the registration bears the use burden in non-use proceedings, preserve goods-and-services-specific sales, advertising, use and licensed-control records."
+    },
+    "nonUseCancellation": {
+      "ja": "あり。第三者はIP Australiaへ登録抹消申請を提出でき、関連裁判がある場合等には裁判所へ移送され得る。適法な申請に異議がなければ登録は抹消される。防護商標・証明商標には特則がある。",
+      "en": "Available. Any person may apply to IP Australia for removal, with possible referral to a court where related litigation exists. If a valid application is unopposed, the registration is removed. Special rules apply to defensive and certification marks."
+    },
+    "nonUsePeriod": {
+      "ja": "2019年2月24日以後の出願では、登録簿への登録から3年以上経過後、申請日の1か月前に終わる連続3年間の不使用を理由に請求できる。旧出願には出願日から5年経過等の移行規則がある。出願時に善意の使用意思がなく実際にも使用しなかったことを理由とする請求は別途可能。",
+      "en": "For applications filed on or after 24 February 2019, the three-year non-use ground becomes available after the mark has been registered for at least three years, covering the continuous three years ending one month before the removal application. Transitional timing applies to older filings. A separate ground concerns lack of good-faith intention at filing coupled with no actual good-faith use."
+    },
+    "nonUseDefenses": {
+      "ja": "抹消申請への異議申立人（通常は登録名義人）が、関連3年間のオーストラリアでの善意の使用、同一性を実質的に害しない態様での使用、適切に管理されたauthorized use、または意思から独立した使用障害を立証する。登録官・裁判所には登録を維持する裁量がある。",
+      "en": "The opponent to removal, usually the owner, bears the onus to prove good-faith Australian use during the relevant three years, use in a form not substantially affecting identity, properly controlled authorized use, or circumstances beyond the owner's will that obstructed use. The Registrar or court retains discretion to preserve registration."
+    },
+    "otherCancellation": {
+      "ja": "登録名義人による任意取消、登録官による誤登録等のrevocation、排他的権利を失った場合の登録簿訂正、登録後の事情により使用が欺瞞・混同を生じる場合等の裁判所による訂正・取消がある。",
+      "en": "Other routes include voluntary cancellation by the owner, Registrar revocation for specified registration errors, rectification after loss of exclusive rights, and court cancellation where post-registration circumstances make use deceptive or confusing."
+    },
+    "invalidation": {
+      "ja": "あり。所定裁判所に登録簿訂正を申し立て、登録時に異議理由となり得た識別力、先行権、所有権、使用意思、悪意、欺瞞等を理由として登録の取消・限定を求める。侵害訴訟の反訴として争われることも多い。",
+      "en": "Available through rectification proceedings in a prescribed court. Cancellation or limitation may be sought on grounds that could have supported opposition, including distinctiveness, earlier rights, ownership, intention to use, bad faith or deception. Validity is also commonly challenged by cross-claim in infringement litigation."
+    },
+    "civilInjunction": {
+      "ja": "あり。中間差止めおよび終局差止めを請求できる。中間差止めではserious question to be tried、損害賠償の不十分性、balance of convenienceおよびundertaking as to damages等を検討する。",
+      "en": "Available as interlocutory and final injunctions. Interim relief considers a serious question to be tried, inadequacy of damages, balance of convenience and an undertaking as to damages, among other factors."
+    },
+    "civilDamages": {
+      "ja": "あり。損害賠償または侵害者利益の返還を選択でき、侵害の悪質性、抑止必要性、侵害後の行動等によりadditional damagesが認められ得る。善意侵害には損害賠償制限がある。",
+      "en": "Available as damages or an account of profits, with possible additional damages having regard to flagrancy, deterrence, post-infringement conduct and related factors. Damages may be limited for innocent infringement."
+    },
+    "civilEvidencePreservation": {
+      "ja": "裁判所のdiscovery、subpoena、preliminary discovery、証拠保全命令および緊急時のsearch order（旧Anton Piller order）等を利用し得る。秘密情報・電子証拠・比例性を含め裁判所規則に従う。",
+      "en": "Court procedures may include discovery, subpoenas, preliminary discovery, preservation orders and, in urgent cases, search orders formerly known as Anton Piller orders. Court rules on confidentiality, electronic evidence and proportionality apply."
+    },
+    "civilOther": {
+      "ja": "侵害品の引渡し・廃棄、宣言、費用、passing offおよびAustralian Consumer Law上の誤認惹起行為との併合請求等があり得る。不当な侵害警告には逆に救済請求を受けるリスクがある。",
+      "en": "Other relief may include delivery up or destruction, declarations, costs, and combined claims in passing off or misleading conduct under Australian Consumer Law. An unjustified infringement threat may itself expose the sender to relief."
+    },
+    "borderMeasures": {
+      "ja": "あり。登録商標権者等がAustralian Border ForceへNotice of ObjectionとDeed of Undertakingを提出すると、商標侵害疑義の輸入品を税関が差し押さえ得る。Noticeは原則4年間有効で、運送・保管・廃棄費用等を権利者が負担し得る。",
+      "en": "Available. A registered owner or other eligible party may lodge a Notice of Objection and Deed of Undertaking with the Australian Border Force, enabling seizure of suspected infringing imports. A notice generally remains valid for four years, and the objector may bear transport, storage and destruction costs."
+    },
+    "administrativeRaid": {
+      "ja": "IP Australia自体に一般的な市場摘発権限はない。国境ではABFが差押えを行い、国内の重大な模倣品事案ではAustralian Federal Police、州警察その他の執行機関が刑事捜査を行う場合がある。",
+      "en": "IP Australia has no general market-raid function. The ABF conducts border seizures, while the Australian Federal Police, state police or other enforcement bodies may investigate serious domestic counterfeiting offences."
+    },
+    "administrativeOther": {
+      "ja": "ABFのNotice of Objection制度、Australian Consumer Lawに基づくACCC・州当局の消費者保護措置、オンラインプラットフォームの削除制度等を事案に応じて組み合わせる。商標侵害の損害賠償は原則裁判所で請求する。",
+      "en": "Depending on the matter, combine the ABF Notice of Objection scheme, consumer-protection action by the ACCC or state authorities under Australian Consumer Law, and online-platform takedowns. Trade mark infringement damages are ordinarily obtained through court proceedings."
+    },
+    "criminalAvailability": {
+      "ja": "あり。商業目的での登録商標の偽造、不正除去、虚偽商標の付与、偽造用機器の製造・所持、虚偽商標付商品等の販売・輸入等が犯罪となり得る。故意・recklessness等の主観要件は罪種により異なる。",
+      "en": "Available. Offences may cover commercial falsification or removal of registered marks, false application of marks, making or possessing equipment for falsification, and selling or importing falsely marked goods. Fault elements such as intention or recklessness vary by offence."
+    },
+    "criminalFine": {
+      "ja": "重大なindictable offenceでは最大550 penalty units等。summary／strict-liability offenceには別の上限があり、penalty unitの金額は改定されるため、行為時の現行法で換算する。法人には刑法上の倍率が適用され得る。",
+      "en": "Serious indictable offences may attract up to 550 penalty units, with different limits for summary or strict-liability offences. Because the monetary value of a penalty unit changes, calculate it under the law in force at the time; corporate multipliers may apply."
+    },
+    "criminalImprisonment": {
+      "ja": "重大な商標犯罪について最大5年の拘禁刑があり得る。具体的罪名、主観要件および訴追方式を確認する。",
+      "en": "Serious trade mark offences may carry imprisonment for up to five years. Confirm the specific offence, fault element and mode of prosecution."
+    },
+    "criminalOther": {
+      "ja": "侵害品、製造機器および犯罪収益の没収・廃棄、税関差押え、法人・役員への責任等があり得る。",
+      "en": "Other consequences may include forfeiture or destruction of infringing goods and equipment, confiscation of proceeds, customs seizure and liability of corporations or responsible officers."
+    }
+  },
+  "notablePoints": [
+    {
+      "id": "section-44-citations-and-overcoming-options",
+      "category": "examination",
+      "importance": "high",
+      "title": {
+        "ja": "44条引用には同意・honest concurrent use・prior use等の複数ルート",
+        "en": "Section 44 citations have several consent and use-based solutions"
+      },
+      "summary": {
+        "ja": "IP Australiaは先行登録・係属出願を職権引用するが、指定限定、同意書、honest concurrent use、other circumstances、引用商標より早い継続使用等で引用を克服できる場合がある。",
+        "en": "IP Australia cites earlier registrations and applications ex officio, but a citation may sometimes be overcome through narrowing, consent, honest concurrent use, other circumstances or continuous use predating the cited mark."
+      },
+      "practicalImpact": {
+        "ja": "単に類似を争う以外にも証拠・交渉による選択肢が多い一方、15か月の受理期限内に証拠審査まで終える必要がある。",
+        "en": "There are meaningful evidentiary and negotiated options beyond disputing similarity, but they must be completed early enough for acceptance within the 15-month period."
+      },
+      "recommendedAction": {
+        "ja": "引用ごとに先使用日、使用量、採択経緯、同意可能性、指定限定および不使用取消の費用対効果を比較する。",
+        "en": "For each citation, compare first-use dates, extent of use, circumstances of adoption, consent prospects, narrowing and the cost-benefit of non-use removal."
+      },
+      "agentQuestion": {
+        "ja": "この44条引用には、反論、同意書、honest concurrent use、prior use、指定限定または不使用取消のどれが最も安全ですか。",
+        "en": "For this section 44 citation, which is safest: argument, consent, honest concurrent use, prior use, narrowing or non-use removal?"
+      },
+      "sourceUrl": "https://manuals.ipaustralia.gov.au/trademark/1.-introduction5",
+      "checkedAt": "2026-09-12",
+      "status": "verified"
+    },
+    {
+      "id": "non-use-owner-bears-onus",
+      "category": "maintenance",
+      "importance": "high",
+      "title": {
+        "ja": "不使用取消では登録維持側が使用を立証",
+        "en": "The party maintaining registration bears the use burden"
+      },
+      "summary": {
+        "ja": "第三者が適法な不使用抹消申請を提出すると、異議申立人（通常は登録名義人）が関連3年間の善意の使用または意思から独立した使用障害を立証する。申請者が不使用を全面立証する制度ではない。",
+        "en": "Once a valid non-use removal application is filed, the opponent, usually the owner, must prove good-faith use during the relevant three years or an obstacle independent of the owner's will. The removal applicant need not prove the negative comprehensively."
+      },
+      "practicalImpact": {
+        "ja": "更新時に使用証拠を出さなくても、請求書、広告、包装、ウェブ販売、輸出およびライセンス管理を商品役務別に保存する必要がある。",
+        "en": "Although use evidence is not filed at renewal, invoices, advertising, packaging, online sales, exports and licensed-use control should be preserved by good and service."
+      },
+      "recommendedAction": {
+        "ja": "毎年の使用監査を行い、使用のない指定を把握し、ライセンシーに対する品質・財務その他の管理を文書化する。",
+        "en": "Conduct annual use audits, identify unused specifications and document quality, financial or other control over licensees."
+      },
+      "agentQuestion": {
+        "ja": "各指定商品・役務について関連3年間のオーストラリア使用とauthorized useの管理を立証できますか。",
+        "en": "Can we prove Australian use and control of authorized use for every listed good and service during the relevant three years?"
+      },
+      "sourceUrl": "https://manuals.ipaustralia.gov.au/trademark/1.-what-if-a-trade-mark-is-not-used-",
+      "checkedAt": "2026-09-12",
+      "status": "verified"
+    },
+    {
+      "id": "no-colour-limitation-all-colours",
+      "category": "colour",
+      "importance": "high",
+      "title": {
+        "ja": "色彩限定がなければ全色について登録された扱い",
+        "en": "A registration without colour limitation is taken to cover all colours"
+      },
+      "summary": {
+        "ja": "Trade Marks Act 1995の70条3項により、色彩について限定なく登録された標章は全色で登録されたものと扱われる。配色変更を予定するロゴでは重要な出願設計要素となる。",
+        "en": "Section 70(3) of the Trade Marks Act 1995 treats a mark registered without colour limitation as registered for all colours, an important filing-design point for logos expected to change colourways."
+      },
+      "practicalImpact": {
+        "ja": "色彩限定のない出願は一般に配色の柔軟性を持つが、色彩自体の独占や識別力を主張したい場合には専用の色彩商標が必要となり得る。",
+        "en": "A filing without colour limitation generally offers colourway flexibility, but a separate colour mark may be needed where monopoly or distinctiveness in the colour itself is commercially important."
+      },
+      "recommendedAction": {
+        "ja": "基本ロゴ、色彩限定版、語商標を分け、実際の使用計画と権利行使目的に沿って出願する。",
+        "en": "Separate the core logo, colour-limited version and word mark where appropriate, matching filings to actual use and enforcement objectives."
+      },
+      "agentQuestion": {
+        "ja": "本件ロゴは色彩限定なしで出願すべきですか。それとも色彩自体の識別力を別登録で確保すべきですか。",
+        "en": "Should this logo be filed without colour limitation, or should distinctiveness in the colour itself be protected separately?"
+      },
+      "sourceUrl": "https://manuals.ipaustralia.gov.au/trademark/2.-what-rights-are-given-by-trade-mark-registration-",
+      "checkedAt": "2026-09-12",
+      "status": "verified"
+    },
+    {
+      "id": "ownership-and-intention-at-filing",
+      "category": "filing",
+      "importance": "high",
+      "title": {
+        "ja": "出願人の所有権・使用意思の誤りは後で直せない場合がある",
+        "en": "Ownership and intention errors at filing may be incurable"
+      },
+      "summary": {
+        "ja": "出願人は法的人格を有する正しい所有者で、使用・使用予定等の法定関係を備える必要がある。IP Australiaは通常、出願時に所有権を実質審査しないが、誤りは異議・登録簿訂正で致命的となり、補正不能な場合がある。",
+        "en": "The applicant must be the correct legal owner and satisfy the statutory use or intention relationship. IP Australia does not ordinarily verify ownership substantively at filing, but an error may be fatal in opposition or rectification and may not be amendable."
+      },
+      "practicalImpact": {
+        "ja": "事業部名・ブランド名・未設立会社・誤ったグループ会社名での出願は重大リスク。オーストラリアでの最初の使用者も確認する必要がある。",
+        "en": "Filing in a division, trading style, unincorporated future company or wrong group entity creates serious risk. The first Australian user should also be checked."
+      },
+      "recommendedAction": {
+        "ja": "出願前に法人登記、ブランド創作者・使用者、譲渡契約、グループ内ライセンスおよび最初の使用日を確認する。",
+        "en": "Before filing, verify corporate identity, brand creation and use, assignments, group licences and first-use dates."
+      },
+      "agentQuestion": {
+        "ja": "本件の正しい出願人は誰で、オーストラリアでの最初の使用者・使用許諾関係を証明できますか。",
+        "en": "Who is the correct applicant, and can we prove the first Australian user and the authorization chain?"
+      },
+      "sourceUrl": "https://manuals.ipaustralia.gov.au/trademark/part-2.3-who-may-apply-for-a-trade-mark--what-are-the-filing-requirements-for-applications-notices",
+      "checkedAt": "2026-09-12",
+      "status": "verified"
+    },
+    {
+      "id": "customs-notice-of-objection",
+      "category": "enforcement",
+      "importance": "high",
+      "title": {
+        "ja": "税関差押えにはNotice of Objectionの事前登録が重要",
+        "en": "Advance Notice of Objection filing is central to customs seizures"
+      },
+      "summary": {
+        "ja": "ABFの水際制度を利用するには、原則として有効な登録商標を記載したNotice of Objectionと費用負担を約するDeed of Undertakingを事前提出する。Noticeは通常4年間有効。",
+        "en": "To use the ABF border scheme, an objector generally files in advance a Notice of Objection identifying current registrations and a Deed of Undertaking covering seizure-related costs. A notice ordinarily lasts four years."
+      },
+      "practicalImpact": {
+        "ja": "模倣品到着後の初動だけでは間に合わない場合がある。差押え後の連絡、真正品判定、同意・訴訟期限、保管・廃棄費用にも即応が必要。",
+        "en": "Waiting until counterfeit goods arrive may be too late. The owner also needs rapid post-seizure contacts, authentication, consent or litigation decisions, and budgets for storage and destruction."
+      },
+      "recommendedAction": {
+        "ja": "重要登録を選び、正規・模倣品識別資料、輸入者情報、現地連絡担当および費用承認手順とともにNoticeを維持する。",
+        "en": "Maintain notices for key registrations together with genuine-versus-counterfeit guides, importer intelligence, local contacts and cost-approval procedures."
+      },
+      "agentQuestion": {
+        "ja": "どの登録をNotice of Objectionへ含めるべきですか。差押え通知後の期限と概算費用も教えてください。",
+        "en": "Which registrations should be included in a Notice of Objection, and what deadlines and estimated costs follow a seizure notice?"
+      },
+      "sourceUrl": "https://www.abf.gov.au/importing-exporting-and-manufacturing/importing/how-to-import/types-of-imports/intellectual-property",
+      "checkedAt": "2026-09-12",
+      "status": "verified"
+    }
+  ],
+  "statistics": {
+    "coverage": "2016–2025",
+    "status": "pending",
+    "series": []
+  },
+  "news": [
+    {
+      "id": "zip-firstmac-honest-concurrent-use-2026",
+      "type": "case",
+      "date": "2026-05-13",
+      "title": {
+        "ja": "最高裁がhonest concurrent useによる侵害抗弁を判断",
+        "en": "High Court rules on the honest-concurrent-use infringement defence"
+      },
+      "summary": {
+        "ja": "Zip Co Ltd v Firstmac Ltd [2026] HCA 16で最高裁は控訴を全員一致で棄却し、honest concurrent useに基づく侵害抗弁の「honesty」、評価時点、先行権を知った後の使用継続を検討した。採択時の善意だけでなく、最初の潜在的侵害時の事情が重要。",
+        "en": "In Zip Co Ltd v Firstmac Ltd [2026] HCA 16, the High Court unanimously dismissed the appeal and considered honesty, timing and continued use after awareness of an earlier right for the honest-concurrent-use infringement defence. Good faith at initial adoption is not the only relevant point; circumstances at first potential infringement matter."
+      },
+      "sourceUrl": "https://www.hcourt.gov.au/cases-and-judgments/judgments/judgments-1998-current/zip-co-limited-v-firstmac-limited"
+    },
+    {
+      "id": "trade-mark-regulations-irhoa-2025",
+      "type": "law",
+      "date": "2025-12-18",
+      "title": {
+        "ja": "異議防御通知が2か月へ延長され、IRDA・聴聞手続も改正",
+        "en": "Opposition defence period extended to two months with IRDA and hearing reforms"
+      },
+      "summary": {
+        "ja": "Trade Marks Amendment (International Registrations, Hearings and Oppositions) Regulations 2025により、受理公告等が2025年12月18日以後の異議でnotice of intention to defendの期限が1か月から2か月へ延長。IRDAの部分的replacement、制裁法による拒絶、聴聞請求時の受理期限deferment等も導入された。",
+        "en": "The Trade Marks Amendment (International Registrations, Hearings and Oppositions) Regulations 2025 increased the notice-of-intention-to-defend period from one to two months for relevant publications on or after 18 December 2025. They also introduced partial IRDA replacement, a sanctions-based refusal ground and acceptance deferment when a hearing is requested."
+      },
+      "sourceUrl": "https://www.ipaustralia.gov.au/news-and-community/official-notices/trade-marks-amendment-irho-regulations-2025"
+    },
+    {
+      "id": "record-trade-mark-filings-2025",
+      "type": "practice",
+      "date": "2026-05-06",
+      "title": {
+        "ja": "2025年の豪州商標出願・登録が過去最高",
+        "en": "Australian trade mark applications and registrations reach record levels in 2025"
+      },
+      "summary": {
+        "ja": "Australian IP Report 2026によれば、2025年の商標出願は97,345件で前年比13.3%増、登録は70,614件で5.4%増となり、いずれも過去最高。直接出願の比重がマドプロ経由に対して強まった。",
+        "en": "The Australian IP Report 2026 records 97,345 trade mark applications in 2025, up 13.3%, and 70,614 registrations, up 5.4%, both new highs. Direct engagement with Australia strengthened relative to the Madrid filing route."
+      },
+      "sourceUrl": "https://www.ipaustralia.gov.au/tools-and-research/professional-resources/data-research-and-reports/australian-ip-report-2026/trade-marks"
+    }
+  ],
+  "faqs": [
+    {
+      "tag": "Filing",
+      "question": {
+        "ja": "本件の出願人はオーストラリア法上の正しい所有者で、使用または使用意思を備えていますか。",
+        "en": "Is the proposed applicant the correct owner under Australian law, with the required use or intention to use?"
+      },
+      "followUp": {
+        "ja": "グループ会社、販売代理店、ライセンシーまたはブランド創作者との権利連鎖に不足はありませんか。",
+        "en": "Are there gaps in the chain of title involving group companies, distributors, licensees or the brand creator?"
+      }
+    },
+    {
+      "tag": "Examination",
+      "question": {
+        "ja": "予想される44条引用について、同意、honest concurrent use、prior use、指定限定のどれを優先すべきですか。",
+        "en": "For an anticipated section 44 citation, should we prioritize consent, honest concurrent use, prior use or narrowing?"
+      },
+      "followUp": {
+        "ja": "15か月の受理期限内に必要なdeclarationを審査してもらうには、いつまでに証拠を提出すべきですか。",
+        "en": "By what date should evidence be filed so that the declaration can be examined before the 15-month acceptance deadline?"
+      }
+    },
+    {
+      "tag": "Madrid",
+      "question": {
+        "ja": "オーストラリア指定の暫定拒絶に対する15か月の解消期限は、どの日から計算されますか。",
+        "en": "From which date is the 15-month period to overcome this Australian provisional refusal calculated?"
+      },
+      "followUp": {
+        "ja": "WIPOの18か月通報期限、豪州送達住所、商品役務補正および現地代理人選任の期限を確認してください。",
+        "en": "Please confirm the WIPO 18-month notification limit, Australian address for service, specification amendments and deadline for appointing local counsel."
+      }
+    },
+    {
+      "tag": "Colour",
+      "question": {
+        "ja": "色彩限定なしのロゴ、主要配色版および色彩自体の商標のどれを出願すべきですか。",
+        "en": "Should we file the logo without colour limitation, a principal-colour version, or a mark for the colour itself?"
+      },
+      "followUp": {
+        "ja": "先願との優先権同一性および将来の配色変更・不使用取消への影響を教えてください。",
+        "en": "How would that choice affect priority identity, future colour variations and non-use vulnerability?"
+      }
+    },
+    {
+      "tag": "Non-use",
+      "question": {
+        "ja": "各指定商品・役務について関連3年間のオーストラリアでの善意の使用を立証できますか。",
+        "en": "Can we prove good-faith Australian use during the relevant three years for every listed good and service?"
+      },
+      "followUp": {
+        "ja": "標章の変更は同一性を実質的に害していませんか。ライセンシーへの管理も文書化されていますか。",
+        "en": "Do variations substantially affect the mark's identity, and is control over licensees documented?"
+      }
+    },
+    {
+      "tag": "Enforcement",
+      "question": {
+        "ja": "ABFへのNotice of Objectionを今提出すべきですか。どの登録と真正品識別資料が必要ですか。",
+        "en": "Should we lodge an ABF Notice of Objection now, and which registrations and authentication materials are needed?"
+      },
+      "followUp": {
+        "ja": "差押え後の同意・訴訟期限、Deed of Undertaking、保管・廃棄費用および現地連絡体制を教えてください。",
+        "en": "Please explain post-seizure consent or litigation deadlines, the Deed of Undertaking, storage and destruction costs, and local contact arrangements."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "IP Australia — Trade marks",
+      "url": "https://www.ipaustralia.gov.au/trade-marks",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IP Australia — How to apply for a trade mark",
+      "url": "https://www.ipaustralia.gov.au/trade-marks/how-to-apply-for-a-trade-mark",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IP Australia — Kinds of trade marks",
+      "url": "https://www.ipaustralia.gov.au/trade-marks/what-are-trade-marks/kinds-of-trade-marks",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IP Australia — Trade mark timeframes and fees",
+      "url": "https://www.ipaustralia.gov.au/trade-marks/timeframes-and-fees",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IP Australia — Respond to an examination report",
+      "url": "https://www.ipaustralia.gov.au/trade-marks/how-to-respond-to-an-examination-report",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IP Australia — Respond to an opposition",
+      "url": "https://www.ipaustralia.gov.au/trade-marks/how-to-respond-to-an-opposition",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IP Australia — Australian Trade Marks Manual",
+      "url": "https://manuals.ipaustralia.gov.au/trademark",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IP Australia Manual — Filing requirements",
+      "url": "https://manuals.ipaustralia.gov.au/trademark/part-2.3-who-may-apply-for-a-trade-mark--what-are-the-filing-requirements-for-applications-notices",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IP Australia Manual — Section 44",
+      "url": "https://manuals.ipaustralia.gov.au/trademark/1.-introduction-to-section-44-and-regulation-4.15a",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IP Australia Manual — Non-use",
+      "url": "https://manuals.ipaustralia.gov.au/trademark/1.-what-if-a-trade-mark-is-not-used-",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IP Australia Manual — Renewal timing",
+      "url": "https://manuals.ipaustralia.gov.au/trademark/2.timing-for-renewal",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IP Australia Manual — Colour and registration rights",
+      "url": "https://manuals.ipaustralia.gov.au/trademark/2.-what-rights-are-given-by-trade-mark-registration-",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Federal Register of Legislation — Trade Marks Act 1995",
+      "url": "https://www.legislation.gov.au/C2004A04969/latest/text",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Federal Register of Legislation — Trade Marks Regulations 1995",
+      "url": "https://www.legislation.gov.au/F1996B00084/latest/text",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Australian Trade Mark Search",
+      "url": "https://search.ipaustralia.gov.au/trademarks/search/quick",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Australian Border Force — Intellectual property imports",
+      "url": "https://www.abf.gov.au/importing-exporting-and-manufacturing/importing/how-to-import/types-of-imports/intellectual-property",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Federal Court — Trade Marks Sub-area",
+      "url": "https://www.fedcourt.gov.au/law-and-practice/national-practice-areas/ip/trade-marks",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "High Court — Zip Co Limited v Firstmac Limited [2026] HCA 16",
+      "url": "https://www.hcourt.gov.au/cases-and-judgments/judgments/judgments-1998-current/zip-co-limited-v-firstmac-limited",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IP Australia — IRHO Regulations 2025",
+      "url": "https://www.ipaustralia.gov.au/news-and-community/official-notices/trade-marks-amendment-irho-regulations-2025",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "IP Australia — Australian IP Report 2026: Trade marks",
+      "url": "https://www.ipaustralia.gov.au/tools-and-research/professional-resources/data-research-and-reports/australian-ip-report-2026/trade-marks",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "WIPO Lex — Australia accession to the Madrid Protocol",
+      "url": "https://www.wipo.int/wipolex/en/treaties/notifications/details/treaty_madridp-gp_132",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    }
+  ]
+}
