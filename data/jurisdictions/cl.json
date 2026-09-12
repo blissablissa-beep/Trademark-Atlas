@@ -1,0 +1,610 @@
+{
+  "id": "cl",
+  "type": "country",
+  "flag": "🇨🇱",
+  "region": "americas",
+  "names": {
+    "ja": "チリ共和国",
+    "en": "Republic of Chile",
+    "es": "República de Chile"
+  },
+  "office": {
+    "ja": "国立工業所有権庁（INAPI）",
+    "en": "National Institute of Industrial Property (INAPI)",
+    "es": "Instituto Nacional de Propiedad Industrial (INAPI)"
+  },
+  "availableLanguages": [
+    "es"
+  ],
+  "createdAt": "2026-09-12",
+  "updatedAt": "2026-09-12",
+  "status": "review",
+  "facts": {
+    "authority": {
+      "ja": "国立工業所有権庁（INAPI）",
+      "en": "National Institute of Industrial Property (INAPI)",
+      "es": "Instituto Nacional de Propiedad Industrial (INAPI)"
+    },
+    "protectionScope": {
+      "ja": "商品・役務、営業施設、工業施設、スローガン等を識別する商標。団体商標・証明商標も保護対象。",
+      "en": "Marks for goods, services, commercial or industrial establishments and slogans; collective and certification marks are also protected.",
+      "es": "Marcas de productos, servicios, establecimientos comerciales o industriales y frases de propaganda; también marcas colectivas y de certificación."
+    },
+    "markTypes": {
+      "ja": "文字、名称、文字・数字、図形、記号、色彩の組合せ、音、立体形状、香りその他、図示または明確に表現できる識別標識。",
+      "en": "Words, names, letters, numbers, devices, symbols, color combinations, sounds, 3D shapes, scents and other distinctive signs capable of clear representation.",
+      "es": "Palabras, nombres, letras, números, imágenes, símbolos, combinaciones de colores, sonidos, formas 3D, olores y otros signos distintivos representables claramente."
+    },
+    "madridAccessionDate": {
+      "ja": "2022年7月4日発効",
+      "en": "Effective 4 July 2022",
+      "es": "Vigente desde el 4 de julio de 2022"
+    },
+    "niceClassification": {
+      "ja": "採用。2026年1月1日から第13版を新規出願に適用。",
+      "en": "Adopted; the 13th edition applies to new filings from 1 January 2026.",
+      "es": "Adoptada; la 13.ª edición rige para nuevas solicitudes desde el 1 de enero de 2026."
+    },
+    "classHeadingPractice": {
+      "ja": "商品・役務を明確・具体的に指定し、INAPI分類検索で受理可能性を確認する。",
+      "en": "Specify goods/services clearly and precisely and check INAPI classification tools.",
+      "es": "Especificar productos/servicios con claridad y verificar el clasificador del INAPI."
+    },
+    "retailServices": {
+      "ja": "第35類で登録可能。小売の対象商品・提供方法を適切に特定する。",
+      "en": "Registrable in Class 35 with an appropriate identification of the retail subject matter and mode.",
+      "es": "Registrables en clase 35 con identificación adecuada de productos y modalidad."
+    },
+    "multiClassApplication": {
+      "ja": "可。多区分出願制度あり。",
+      "en": "Available; multi-class applications are permitted.",
+      "es": "Disponible; se permiten solicitudes multiclase."
+    },
+    "applicationForm": {
+      "ja": "INAPIオンラインシステムで出願人、標章、区分、商品・役務、優先権等を記載する。",
+      "en": "File online with INAPI, identifying applicant, mark, classes, goods/services and priority.",
+      "es": "Presentación en línea ante INAPI con solicitante, signo, clases, productos/servicios y prioridad."
+    },
+    "powerOfAttorney": {
+      "ja": "代理時に委任状が必要。欠缺時の追完は国内居住者30日、国外居住者60日とされるため最新通知を確認する。",
+      "en": "A power is required for representation; cure periods are stated as 30 days for domestic and 60 days for foreign residents—verify the notice.",
+      "es": "Se requiere poder; los plazos de acompañamiento son 30 días para residentes nacionales y 60 para extranjeros, sujeto a la notificación."
+    },
+    "priorityDocuments": {
+      "ja": "パリ優先権は基礎出願から6か月以内。証明書・スペイン語訳の期限と方式を確認する。",
+      "en": "Paris priority must be claimed within six months; verify certificate and Spanish-translation formalities.",
+      "es": "La prioridad unionista debe reivindicarse dentro de seis meses; verificar certificado y traducción al español."
+    },
+    "homeRegistrationCertificate": {
+      "ja": "通常の直接出願には不要。",
+      "en": "Not normally required for a direct national filing.",
+      "es": "No se exige normalmente para una solicitud nacional directa."
+    },
+    "useEvidenceAtFiling": {
+      "ja": "通常不要。ただし登録後5年の不使用取消に備え真正使用資料を保存する。",
+      "en": "Not normally required; retain genuine-use evidence for possible cancellation after five years.",
+      "es": "No se exige normalmente; conservar prueba de uso real ante posible caducidad tras cinco años."
+    },
+    "notarizationCertification": {
+      "ja": "通常の出願で公証済み印章は不要。外国委任状の認証・方式は個別確認。",
+      "en": "A notarized seal is not normally required; verify formalities for foreign powers.",
+      "es": "No suele exigirse sello notarial; verificar formalidades de poderes extranjeros."
+    },
+    "otherDocuments": {
+      "ja": "標章画像・説明、音声等の表現、法人情報、翻訳、優先権資料を案件に応じて提出。",
+      "en": "Submit representation/description, sound or other files, entity details, translations and priority materials as applicable.",
+      "es": "Presentar representación/descripción, archivos sonoros u otros, datos societarios, traducciones y prioridad según corresponda."
+    },
+    "absoluteGroundsExamination": {
+      "ja": "あり。INAPIが職権審査する。",
+      "en": "Yes; examined ex officio by INAPI.",
+      "es": "Sí; el INAPI examina de oficio."
+    },
+    "distinctivenessGrounds": {
+      "ja": "普通名称、記述的・称賛的表示、一般的形状、単一色など識別力を欠く標識は拒絶され得る。使用による識別力は個別評価。",
+      "en": "Generic, descriptive, laudatory or otherwise non-distinctive signs, ordinary shapes and single colors may be refused; acquired distinctiveness is case-specific.",
+      "es": "Pueden rechazarse signos genéricos, descriptivos, laudatorios o no distintivos, formas usuales y colores aislados; la distintividad adquirida es casuística."
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "公序良俗、誤認、公式標章、原産地表示、植物品種名称、必要・機能的形状等、法20条の不登録事由を確認する。",
+      "en": "Review Article 20 bars including public order/morality, deception, official signs, origin indications, plant variety names and necessary or functional shapes.",
+      "es": "Revisar causales del artículo 20: orden público/moral, engaño, signos oficiales, procedencia, variedades vegetales y formas necesarias o funcionales."
+    },
+    "relativeGroundsExamination": {
+      "ja": "あり。先行商標等との同一・類似を職権審査し、第三者異議も審理する。",
+      "en": "Yes; INAPI examines conflicting prior rights ex officio and adjudicates oppositions.",
+      "es": "Sí; INAPI examina de oficio derechos anteriores y resuelve oposiciones."
+    },
+    "disclaimer": {
+      "ja": "権利不要求の表示・実務は標章と非識別部分に応じ個別確認。",
+      "en": "Confirm disclaimer practice case by case according to the mark and non-distinctive matter.",
+      "es": "Confirmar la práctica de disclaimers según el signo y sus elementos no distintivos."
+    },
+    "consent": {
+      "ja": "同意・併存契約は考慮され得るが、消費者混同の判断を当然には覆さない。",
+      "en": "Consent/coexistence may be considered but does not automatically override public-confusion concerns.",
+      "es": "El consentimiento/coexistencia puede considerarse, pero no supera automáticamente el riesgo de confusión."
+    },
+    "acceleratedExamination": {
+      "ja": "一般的な早期審査制度の有無・要件を最新INAPI実務で確認する。",
+      "en": "Confirm current availability and requirements of any general expedited examination route.",
+      "es": "Confirmar disponibilidad y requisitos actuales de examen acelerado."
+    },
+    "thirdPartyObservation": {
+      "ja": "第三者は公告後30営業日以内に、弁護士を通じて異議訴訟を提起する。非公式情報提供の扱いは個別確認。",
+      "en": "A third party may file a lawyer-sponsored opposition action within 30 working days after publication; confirm treatment of informal observations.",
+      "es": "Un tercero puede interponer demanda de oposición patrocinada por abogado dentro de 30 días hábiles desde la publicación; confirmar observaciones informales."
+    },
+    "directExaminationPeriod": {
+      "ja": "2025年実績では商標出願の97%が7か月未満で処理。案件別の平均は最新INAPI統計で確認する。",
+      "en": "INAPI reported that 97% of trademark applications were decided in under seven months in 2025; confirm case-specific current timing.",
+      "es": "INAPI informó que el 97% de las solicitudes se resolvió en menos de siete meses en 2025; confirmar plazo actual del caso."
+    },
+    "madridExaminationPeriod": {
+      "ja": "拒絶通報期間は原則18か月。異議に基づく拒絶は18か月後となり得る。",
+      "en": "The refusal period is generally 18 months; opposition-based refusals may be notified later.",
+      "es": "El plazo de denegación es generalmente 18 meses; las denegaciones por oposición pueden notificarse después."
+    },
+    "colourPriorityIdentity": {
+      "ja": "優先権基礎とチリ出願で色彩の有無・配置を一致させ、同一性を確保する。許容差は要個別確認。",
+      "en": "Align color claims and arrangement with the priority filing to preserve identity; confirm permissible differences.",
+      "es": "Alinear reivindicación y disposición de colores con la prioridad; confirmar diferencias admisibles."
+    },
+    "colourRelativeGrounds": {
+      "ja": "色彩は全体的印象の一要素であり、色の変更だけで類似性が解消するとは限らない。",
+      "en": "Color is one factor in overall impression and a color change alone may not avoid similarity.",
+      "es": "El color es un factor de la impresión global y su cambio por sí solo puede no excluir similitud."
+    },
+    "colourGenuineUse": {
+      "ja": "登録形態と使用形態の差異が識別性を変更するかを評価。白黒登録のカラー使用による維持を当然視しない。",
+      "en": "Assess whether differences from the registered form alter distinctive character; do not assume color use always maintains a black-and-white registration.",
+      "es": "Evaluar si las diferencias alteran el carácter distintivo; no presumir que uso en color mantiene siempre registro en blanco y negro."
+    },
+    "colourInfringementScope": {
+      "ja": "色彩を含む外観、称呼、観念、識別力、商品・役務、取引事情を総合評価する。",
+      "en": "Assess visual, phonetic and conceptual impressions including color, distinctiveness, goods/services and market context.",
+      "es": "Valorar impresión visual, fonética y conceptual, incluido color, distintividad, productos/servicios y mercado."
+    },
+    "colourFilingStrategy": {
+      "ja": "色彩が重要ならカラー版、柔軟性が必要なら白黒版・主要変形の別出願を検討。",
+      "en": "If color matters, file in color; for flexibility consider separate black-and-white and key variants.",
+      "es": "Si el color es esencial, solicitarlo; para flexibilidad considerar blanco y negro y variantes por separado."
+    },
+    "refusalResponseRoute": {
+      "ja": "方式・実体指令に書面で補正・主張・証拠を提出。異議があればINAPI長官が第一審として審理し、最終判断に不服申立てを検討。",
+      "en": "Respond to formal/substantive objections with amendments, arguments and evidence. Oppositions are heard at first instance by INAPI, with appeal available.",
+      "es": "Contestar observaciones formales/sustantivas con correcciones, argumentos y prueba. Las oposiciones se conocen en primera instancia ante INAPI y admiten apelación."
+    },
+    "responsePeriod": {
+      "ja": "方式・実体拒絶理由および異議への応答は通常30営業日。通知ごとに期限を確認する。",
+      "en": "Responses to formal/substantive objections and oppositions are generally due in 30 working days; check each notice.",
+      "es": "Las respuestas a observaciones y oposiciones vencen generalmente en 30 días hábiles; revisar cada notificación."
+    },
+    "extensionAvailable": {
+      "ja": "手続により可能性あり。ただし法定・訴訟期限は延長困難な場合がある。",
+      "en": "May be available for some procedures; statutory and contentious deadlines may be non-extendible.",
+      "es": "Puede existir en ciertos trámites; plazos legales y contenciosos pueden ser improrrogables."
+    },
+    "extensionLength": {
+      "ja": "手続ごとに異なる。",
+      "en": "Varies by procedure.",
+      "es": "Varía según el procedimiento."
+    },
+    "extensionRequirements": {
+      "ja": "期限前申請、理由、料金の要否と、当該期限が延長可能かを現地確認。",
+      "en": "Confirm advance request, reasons, fee and whether the particular deadline is extendible.",
+      "es": "Confirmar solicitud previa, fundamentos, tasa y si el plazo es prorrogable."
+    },
+    "appealRoute": {
+      "ja": "INAPIの終局決定は工業所有権審判所（TDPI）への控訴、さらに法令違反について最高裁への破棄申立てが問題となる。",
+      "en": "Final INAPI decisions may be appealed to the Industrial Property Court (TDPI), with a cassation route to the Supreme Court on legal issues.",
+      "es": "Las decisiones definitivas del INAPI pueden apelarse ante el TDPI y recurrirse de casación ante la Corte Suprema por cuestiones de derecho."
+    },
+    "refusalAppealPeriod": {
+      "ja": "公式平均は確認できない。INAPI第一審、TDPI、最高裁の各段階で異なるため現地見積りを取得する。",
+      "en": "No official average identified; obtain local estimates for INAPI, TDPI and Supreme Court stages.",
+      "es": "No se identificó promedio oficial; obtener estimación local para etapas INAPI, TDPI y Corte Suprema."
+    },
+    "publicDatabase": {
+      "ja": "INAPI商標検索",
+      "en": "INAPI Trademark Search",
+      "es": "Buscador de Marcas INAPI",
+      "url": "https://ion.inapi.cl/Marca/BuscarMarca.aspx"
+    },
+    "publicationStage": {
+      "ja": "方式審査合格後、出願人が所定期間内に官報公告し、異議期間が開始する。",
+      "en": "After formal acceptance, the applicant arranges Official Gazette publication, starting the opposition period.",
+      "es": "Aceptado el examen formal, el solicitante publica en el Diario Oficial y comienza el plazo de oposición."
+    },
+    "oppositionPeriod": {
+      "ja": "官報公告から30営業日。",
+      "en": "30 working days from Official Gazette publication.",
+      "es": "30 días hábiles desde la publicación en el Diario Oficial."
+    },
+    "oppositionExtension": {
+      "ja": "原則として法定30営業日の異議期間は延長不可。",
+      "en": "The statutory 30-working-day opposition period is generally non-extendible.",
+      "es": "El plazo legal de oposición de 30 días hábiles es generalmente improrrogable."
+    },
+    "averagePendency": {
+      "ja": "2025年は97%が7か月未満で処理されたとのINAPI公表あり。異議案件は長期化し得る。",
+      "en": "INAPI reports 97% were decided in under seven months in 2025; opposed cases can take longer.",
+      "es": "INAPI informó que el 97% se resolvió en menos de siete meses en 2025; casos con oposición pueden tardar más."
+    },
+    "term": {
+      "ja": "10年。10年ごとに更新可能。",
+      "en": "10 years, renewable for successive ten-year terms.",
+      "es": "10 años, renovables por períodos sucesivos de diez años."
+    },
+    "termStart": {
+      "ja": "登録日から。",
+      "en": "From the registration date.",
+      "es": "Desde la fecha de registro."
+    },
+    "renewalWindow": {
+      "ja": "満了前6か月から満了後6か月まで。",
+      "en": "From six months before to six months after expiry.",
+      "es": "Desde seis meses antes hasta seis meses después del vencimiento."
+    },
+    "gracePeriod": {
+      "ja": "あり。満了後6か月。追加料金を確認する。",
+      "en": "Yes, six months after expiry; verify surcharge.",
+      "es": "Sí, seis meses después del vencimiento; verificar recargo."
+    },
+    "renewalEvidence": {
+      "ja": "使用宣誓・使用証拠は通常の更新要件ではない。更新申請と区分別料金等を確認する。",
+      "en": "A use declaration/evidence is not ordinarily a renewal requirement; verify the request and class fees.",
+      "es": "La declaración/prueba de uso no es normalmente requisito de renovación; verificar solicitud y tasas por clase."
+    },
+    "nonUseCancellation": {
+      "ja": "あり。全部または一部取消が可能。2022年施行の制度。",
+      "en": "Available, in whole or in part; the regime took effect in 2022.",
+      "es": "Disponible total o parcialmente; el régimen entró en vigor en 2022."
+    },
+    "nonUsePeriod": {
+      "ja": "登録から5年間真正使用がない場合、または使用が連続5年間中断した場合。",
+      "en": "No genuine use for five years after registration, or continuous suspension of use for five years.",
+      "es": "Falta de uso real y efectivo por cinco años desde el registro, o suspensión continua por cinco años."
+    },
+    "nonUseDefenses": {
+      "ja": "正当な理由、権利者の支配を超える障害、権利者の同意を得た第三者使用等を検討する。",
+      "en": "Consider proper reasons, obstacles beyond the owner’s control and use by an authorized third party.",
+      "es": "Considerar motivos válidos, obstáculos ajenos a la voluntad del titular y uso por tercero autorizado."
+    },
+    "otherCancellation": {
+      "ja": "普通名称化、誤認を生じさせる使用等による取消や無効があり得る。",
+      "en": "Cancellation or invalidity may apply for genericide, misleading use and other grounds.",
+      "es": "Puede proceder caducidad o nulidad por vulgarización, uso engañoso u otras causales."
+    },
+    "invalidation": {
+      "ja": "あり。INAPIの争訟手続で請求し、一定の場合に時効・悪意例外を確認する。",
+      "en": "Available through contentious proceedings before INAPI; check limitation periods and bad-faith exceptions.",
+      "es": "Disponible en procedimiento contencioso ante INAPI; verificar prescripción y excepciones por mala fe."
+    },
+    "civilInjunction": {
+      "ja": "仮処分・差止めを請求可能。",
+      "en": "Interim and permanent injunctions are available.",
+      "es": "Pueden solicitarse medidas cautelares y cesación."
+    },
+    "civilDamages": {
+      "ja": "損害賠償を請求可能。算定・立証方法を個別確認。",
+      "en": "Damages are available; calculation and proof are case-specific.",
+      "es": "Pueden reclamarse daños; cuantificación y prueba son casuísticas."
+    },
+    "civilEvidencePreservation": {
+      "ja": "証拠保全、侵害品の検査・差押え等の措置を検討できる。",
+      "en": "Evidence preservation, inspection and seizure of infringing goods may be considered.",
+      "es": "Pueden considerarse preservación de prueba, inspección y secuestro de bienes infractores."
+    },
+    "civilOther": {
+      "ja": "侵害品の除去・廃棄、判決公表、費用等が認められ得る。",
+      "en": "Removal/destruction of infringing goods, publication and costs may be available.",
+      "es": "Pueden proceder retiro/destrucción, publicación y costas."
+    },
+    "borderMeasures": {
+      "ja": "税関による疑義貨物の差止め等あり。申請、担保、提訴期限を確認する。",
+      "en": "Customs suspension measures are available; verify application, security and litigation deadlines.",
+      "es": "Existen medidas de suspensión aduanera; verificar solicitud, caución y plazo para demandar."
+    },
+    "administrativeRaid": {
+      "ja": "警察・税関等との摘発、検査、押収を事案ごとに検討。",
+      "en": "Consider raids, inspections and seizures with police/customs case by case.",
+      "es": "Considerar operativos, inspecciones y decomisos con policía/aduana según el caso."
+    },
+    "administrativeOther": {
+      "ja": "INAPIでの異議・無効・取消、税関措置その他の行政対応。",
+      "en": "Opposition, invalidity/cancellation before INAPI, customs and other administrative action.",
+      "es": "Oposición, nulidad/caducidad ante INAPI, medidas aduaneras y otras actuaciones."
+    },
+    "criminalAvailability": {
+      "ja": "故意の商標偽造・不正使用等に刑事責任あり。",
+      "en": "Criminal liability applies to intentional counterfeiting and unlawful trademark use.",
+      "es": "Existe responsabilidad penal por falsificación y uso ilícito doloso."
+    },
+    "criminalFine": {
+      "ja": "罰金あり。UTM建ての最新範囲と再犯加重を確認する。",
+      "en": "Fines apply; verify current UTM ranges and increased penalties for recidivism.",
+      "es": "Se aplican multas; verificar rangos en UTM y agravación por reincidencia."
+    },
+    "criminalImprisonment": {
+      "ja": "犯罪類型・他法令により拘禁刑が問題となり得るため個別確認。",
+      "en": "Imprisonment may arise depending on the offense and other laws; confirm case specifically.",
+      "es": "Puede proceder privación de libertad según el delito y otras normas; confirmar el caso."
+    },
+    "criminalOther": {
+      "ja": "侵害品・器具の没収・廃棄、判決公表等があり得る。",
+      "en": "Forfeiture/destruction of infringing goods and tools and publication may be available.",
+      "es": "Puede proceder decomiso/destrucción de bienes e instrumentos y publicación."
+    }
+  },
+  "notablePoints": [
+    {
+      "id": "non-use-cancellation-2022",
+      "importance": "critical",
+      "title": {
+        "ja": "5年の不使用取消制度",
+        "en": "Five-year non-use cancellation",
+        "es": "Caducidad por falta de uso de cinco años"
+      },
+      "summary": {
+        "ja": "2022年から真正使用がない登録の全部・一部取消が可能。旧登録には経過規定があるため起算点を確認する。",
+        "en": "Since 2022, total or partial cancellation is available for lack of genuine use; transitional rules affect older registrations.",
+        "es": "Desde 2022 procede caducidad total o parcial por falta de uso real; los registros antiguos están sujetos a reglas transitorias."
+      },
+      "sourceUrl": "https://www.bcn.cl/leychile/navegar?idNorma=1162253"
+    },
+    {
+      "id": "madrid-2022",
+      "importance": "high",
+      "title": {
+        "ja": "2022年にマドプロ加盟",
+        "en": "Madrid System member since 2022",
+        "es": "Miembro de Madrid desde 2022"
+      },
+      "summary": {
+        "ja": "2022年7月4日発効。18か月拒絶期間と異議による期間後通報の宣言あり。",
+        "en": "Effective 4 July 2022, with an 18-month refusal period and later opposition-based refusals.",
+        "es": "Vigente desde el 4 de julio de 2022, con plazo de 18 meses y denegaciones posteriores por oposición."
+      },
+      "sourceUrl": "https://www.wipo.int/wipolex/en/treaties/notifications/details/treaty_madridp-gp_234"
+    },
+    {
+      "id": "opposition-litigation",
+      "importance": "high",
+      "title": {
+        "ja": "異議は弁護士による訴訟形式",
+        "en": "Opposition is contentious and lawyer-sponsored",
+        "es": "Oposición contenciosa con patrocinio de abogado"
+      },
+      "summary": {
+        "ja": "公告後30営業日以内にINAPIへ異議訴訟を提起する。通常の情報提供とは異なる。",
+        "en": "An opposition action must be filed before INAPI through counsel within 30 working days of publication.",
+        "es": "La demanda de oposición debe interponerse ante INAPI con abogado dentro de 30 días hábiles."
+      },
+      "sourceUrl": "https://www.inapi.cl/preguntas-frecuentes/marcas"
+    },
+    {
+      "id": "renewal-no-use-declaration",
+      "importance": "medium",
+      "title": {
+        "ja": "更新時の使用宣誓なし",
+        "en": "No use declaration on renewal",
+        "es": "Sin declaración de uso al renovar"
+      },
+      "summary": {
+        "ja": "更新に使用宣誓は通常不要だが、独立した不使用取消リスクに備え継続的な証拠保存が必要。",
+        "en": "No use declaration is ordinarily filed on renewal, but ongoing evidence retention is important because cancellation is independent.",
+        "es": "No suele declararse uso al renovar, pero debe conservarse prueba por el riesgo independiente de caducidad."
+      },
+      "sourceUrl": "https://www.inapi.cl/sala-de-prensa/detalle-noticia/inapi-actualiza-sus-criterios-en-materia-de-renovacion-de-marcas"
+    },
+    {
+      "id": "2026-guidelines",
+      "importance": "high",
+      "title": {
+        "ja": "INAPI商標審査指針2026",
+        "en": "INAPI Trademark Guidelines 2026",
+        "es": "Directrices de Marcas INAPI 2026"
+      },
+      "summary": {
+        "ja": "2026年5月に手続・維持・審査基準を体系化した新版が公表された。",
+        "en": "A new consolidated set of procedural, maintenance and examination guidelines was published in May 2026.",
+        "es": "En mayo de 2026 se publicaron nuevas directrices consolidadas de procedimiento, mantenimiento y examen."
+      },
+      "sourceUrl": "https://www.inapi.cl/centro-de-documentacion/directrices/marcas"
+    }
+  ],
+  "statistics": {
+    "coverage": "2016–2025",
+    "status": "pending",
+    "series": []
+  },
+  "news": [
+    {
+      "id": "guidelines-2026",
+      "type": "practice",
+      "date": "2026-05-28",
+      "title": {
+        "ja": "INAPIが2026年版商標指針を公表",
+        "en": "INAPI publishes 2026 Trademark Guidelines",
+        "es": "INAPI publica las Directrices de Marcas 2026"
+      },
+      "summary": {
+        "ja": "登録取得・手続・維持とINAPIの判断基準を体系化した新版。",
+        "en": "New consolidated guidance on registration, procedure, maintenance and INAPI criteria.",
+        "es": "Nueva guía consolidada sobre registro, procedimiento, mantenimiento y criterios del INAPI."
+      },
+      "sourceUrl": "https://www.inapi.cl/sala-de-prensa/detalle-noticia/inapi-publica-nueva-version-de-las-directrices-de-marcas-2026"
+    },
+    {
+      "id": "nice-13-2026",
+      "type": "practice",
+      "date": "2026-01-02",
+      "title": {
+        "ja": "ニース分類第13版を採用",
+        "en": "Nice Classification 13th edition adopted",
+        "es": "Adopción de la 13.ª edición de Niza"
+      },
+      "summary": {
+        "ja": "2026年1月1日以降の新規商標出願に第13版を強制適用。従前出願は旧分類を維持する。",
+        "en": "The 13th edition is mandatory for new filings from 1 January 2026; earlier filings retain their classification.",
+        "es": "La 13.ª edición es obligatoria para solicitudes desde el 1 de enero de 2026; las anteriores mantienen su clasificación."
+      },
+      "sourceUrl": "https://www.inapi.cl/sala-de-prensa/detalle-noticia/inapi-adopta-la-13.%C2%AA-edicion-de-la-clasificacion-de-niza-para-marcas-comerciales-a-partir-del-1-de-enero-de-2026"
+    },
+    {
+      "id": "performance-2025",
+      "type": "practice",
+      "date": "2026-06-21",
+      "title": {
+        "ja": "商標出願の97%を7か月未満で処理",
+        "en": "97% of trademark applications decided in under seven months",
+        "es": "97% de solicitudes resueltas en menos de siete meses"
+      },
+      "summary": {
+        "ja": "INAPIは2025年実績として処理迅速化と異議事件滞留の縮小を公表した。",
+        "en": "INAPI reported faster 2025 processing and a major reduction in the opposition backlog.",
+        "es": "INAPI informó mayor rapidez en 2025 y una fuerte reducción del rezago de oposiciones."
+      },
+      "sourceUrl": "https://inapi.cl/sala-de-prensa/detalle-noticia/inapi-realizo-su-cuenta-publica-participativa-2026-en-valparaiso-y-reforzo-compromiso-con-la-descentralizacion-de-la-propiedad-industrial"
+    }
+  ],
+  "faqs": [
+    {
+      "tag": "Filing",
+      "question": {
+        "ja": "多区分出願と区分別出願のどちらが費用・リスク上適切ですか。",
+        "en": "Is a multi-class or separate-class filing preferable for cost and risk?",
+        "es": "¿Conviene solicitud multiclase o solicitudes separadas por costo y riesgo?"
+      },
+      "followUp": {
+        "ja": "商品・役務表示はINAPI分類ツールで受理可能ですか。",
+        "en": "Is the specification acceptable under INAPI classification practice?",
+        "es": "¿Acepta INAPI esta especificación?"
+      }
+    },
+    {
+      "tag": "Madrid",
+      "question": {
+        "ja": "直接出願とマドプロ指定のどちらが本件に適しますか。",
+        "en": "Should this case use a direct filing or Madrid designation?",
+        "es": "¿Conviene presentación directa o designación Madrid?"
+      },
+      "followUp": {
+        "ja": "暫定拒絶への現地代理人選任・応答期限を確認してください。",
+        "en": "Confirm local-counsel appointment and response deadline for provisional refusal.",
+        "es": "Confirme designación de agente local y plazo de respuesta a denegación provisional."
+      }
+    },
+    {
+      "tag": "Use",
+      "question": {
+        "ja": "5年の不使用期間の起算日と、この登録への経過規定を確認できますか。",
+        "en": "Can you confirm the five-year start date and transitional rules for this registration?",
+        "es": "¿Puede confirmar el inicio de cinco años y régimen transitorio de este registro?"
+      },
+      "followUp": {
+        "ja": "カラー・略称・オンライン使用は真正使用として十分ですか。",
+        "en": "Are color variants, abbreviations and online use sufficient genuine use?",
+        "es": "¿Son suficientes variantes de color, abreviaturas y uso en línea?"
+      }
+    },
+    {
+      "tag": "Opposition",
+      "question": {
+        "ja": "異議提起に必要な弁護士、証拠、費用、30営業日の計算を確認してください。",
+        "en": "Please confirm counsel, evidence, fees and calculation of the 30-working-day opposition period.",
+        "es": "Confirme abogado, prueba, tasas y cómputo de los 30 días hábiles."
+      }
+    },
+    {
+      "tag": "Colour",
+      "question": {
+        "ja": "白黒登録とカラー使用の同一性は、優先権・不使用取消・侵害でどう異なりますか。",
+        "en": "How does identity between black-and-white registration and color use differ for priority, non-use and infringement?",
+        "es": "¿Cómo difiere la identidad entre registro en blanco y negro y uso en color en prioridad, caducidad e infracción?"
+      }
+    },
+    {
+      "tag": "Enforcement",
+      "question": {
+        "ja": "INAPI手続、民事・刑事手続、税関措置の最適な組合せは何ですか。",
+        "en": "What combination of INAPI, civil, criminal and customs routes is best?",
+        "es": "¿Cuál es la mejor combinación de vías INAPI, civil, penal y aduanera?"
+      },
+      "followUp": {
+        "ja": "仮処分の証拠、担保、期間、費用を見積もってください。",
+        "en": "Estimate evidence, security, timing and cost for interim relief.",
+        "es": "Estime prueba, caución, plazo y costo de medidas cautelares."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "INAPI",
+      "url": "https://www.inapi.cl/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "INAPI Trademark FAQ",
+      "url": "https://www.inapi.cl/preguntas-frecuentes/marcas",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "INAPI Trademark Guide",
+      "url": "https://www.inapi.cl/docs/default-source/2025-doc/home/gu%C3%ADa-inapi_marcas-%281%29.pdf",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "INAPI Trademark Guidelines 2026",
+      "url": "https://www.inapi.cl/centro-de-documentacion/directrices/marcas",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Industrial Property Law No. 19,039",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=250708",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Law No. 21,355",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1162253",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Regulation Decree No. 82/2022",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1175783",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Consolidated Industrial Property Rules",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1179684",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "WIPO Madrid accession—Chile",
+      "url": "https://www.wipo.int/wipolex/en/treaties/notifications/details/treaty_madridp-gp_234",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "WIPO Madrid declarations—Chile",
+      "url": "https://www.wipo.int/wipolex/en/treaties/parties/remarks/CL/8",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "INAPI Nice 13th edition notice",
+      "url": "https://www.inapi.cl/sala-de-prensa/detalle-noticia/inapi-adopta-la-13.%C2%AA-edicion-de-la-clasificacion-de-niza-para-marcas-comerciales-a-partir-del-1-de-enero-de-2026",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    }
+  ]
+}
