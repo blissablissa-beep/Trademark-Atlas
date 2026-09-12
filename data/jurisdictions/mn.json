@@ -1,0 +1,492 @@
+{
+  "id": "mn",
+  "type": "country",
+  "flag": "🇲🇳",
+  "region": "asia",
+  "names": {
+    "ja": "モンゴル国",
+    "en": "Mongolia"
+  },
+  "office": {
+    "ja": "モンゴル知的財産庁（IPOM）",
+    "en": "Intellectual Property Office of Mongolia (IPOM)"
+  },
+  "availableLanguages": [],
+  "createdAt": "2026-09-12",
+  "updatedAt": "2026-09-12",
+  "status": "review",
+  "facts": {
+    "authority": {
+      "ja": "モンゴル知的財産庁（IPOM）",
+      "en": "Intellectual Property Office of Mongolia (IPOM)"
+    },
+    "protectionScope": {
+      "ja": "商品・役務の商標、団体商標、証明商標、周知商標。地理的表示は関連法令に基づき保護される。",
+      "en": "Marks for goods and services, collective marks, certification marks and well-known marks; geographical indications are protected under the applicable regime."
+    },
+    "markTypes": {
+      "ja": "文字、語、名称、図形、文字・数字、立体形状、色彩およびこれらの組合せ等。非伝統的商標の受理要件は出願前にIPOM実務を確認する。",
+      "en": "Words, names, devices, letters/numerals, three-dimensional shapes, colors and combinations; verify current IPOM requirements for non-traditional marks before filing."
+    },
+    "madridAccessionDate": {
+      "ja": "マドリッド協定：1985年4月21日発効、マドリッド協定議定書：2001年6月16日発効",
+      "en": "Madrid Agreement effective 21 April 1985; Madrid Protocol effective 16 June 2001"
+    },
+    "niceClassification": {
+      "ja": "採用。最新版ニース分類およびモンゴル語の商品・役務表示を確認する。",
+      "en": "Adopted; verify the current Nice edition and Mongolian goods/services wording."
+    },
+    "classHeadingPractice": {
+      "ja": "類見出しのみへの依存を避け、商品・役務を明確かつ具体的に記載する。",
+      "en": "Avoid relying only on class headings; state goods/services clearly and specifically."
+    },
+    "retailServices": {
+      "ja": "第35類で登録可能と考えられるが、対象商品および役務内容を具体化し、IPOMの最新受理実務を確認する。",
+      "en": "Generally registrable in Class 35; specify the goods and nature of the services and verify current IPOM acceptance practice."
+    },
+    "multiClassApplication": {
+      "ja": "可。区分ごとの料金・分割の可否を確認する。",
+      "en": "Available; verify per-class fees and divisional practice."
+    },
+    "applicationForm": {
+      "ja": "IPOMへモンゴル語の願書、出願人情報、標章見本、商品・役務、区分、優先権等を提出する。",
+      "en": "File a Mongolian-language application with IPOM, including applicant details, representation, goods/services, classes and priority."
+    },
+    "powerOfAttorney": {
+      "ja": "外国出願人は通常、モンゴルの商標代理人を通じて手続し、委任状を提出する。原本・署名要件を確認する。",
+      "en": "A foreign applicant normally acts through a Mongolian trademark agent and files a power of attorney; verify original and signature requirements."
+    },
+    "priorityDocuments": {
+      "ja": "パリ優先権は最初の出願から6か月以内。優先権証明書、モンゴル語訳および提出期限を確認する。",
+      "en": "Paris priority must be claimed within six months; verify the certified priority document, Mongolian translation and filing deadline."
+    },
+    "homeRegistrationCertificate": {
+      "ja": "通常の直接出願には原則不要。",
+      "en": "Not normally required for a direct national filing."
+    },
+    "useEvidenceAtFiling": {
+      "ja": "通常不要。使用による識別力、周知性、先使用等を主張する場合は証拠が必要となり得る。",
+      "en": "Not normally required; evidence may be needed for acquired distinctiveness, well-known status or prior use."
+    },
+    "notarizationCertification": {
+      "ja": "委任状の公証・領事認証は通常不要とされるが、最新の代理人実務と書類別要件を確認する。",
+      "en": "Notarization/legalization of a power is generally understood not to be required, subject to current agent and document-specific practice."
+    },
+    "otherDocuments": {
+      "ja": "標章見本・説明、モンゴル語訳、法人情報、優先権書類、周知性・使用による識別力の証拠等。",
+      "en": "Representation and description, Mongolian translations, entity details, priority documents and evidence of well-known status or acquired distinctiveness."
+    },
+    "absoluteGroundsExamination": {
+      "ja": "あり。IPOMが職権審査する。",
+      "en": "Yes; examined ex officio by IPOM."
+    },
+    "distinctivenessGrounds": {
+      "ja": "識別力欠如、普通名称、記述的・慣用的表示、単純な記号・数字等は拒絶され得る。使用による識別力の立証可能性を確認する。",
+      "en": "Non-distinctive, generic, descriptive or customary matter and simple signs/numerals may be refused; assess whether acquired distinctiveness can be proven."
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "公序良俗、欺瞞性、国旗・国章・公的記章、国際機関の標章、著名人の氏名・肖像、原産地・品質の誤認等を確認する。",
+      "en": "Check public order/morality, deception, state flags/emblems and official signs, international-organization emblems, names/portraits of notable persons and misleading origin or quality."
+    },
+    "relativeGroundsExamination": {
+      "ja": "あり。先行出願・登録、モンゴル指定国際登録、周知商標、商号、著作権等との抵触を職権審査する。",
+      "en": "Yes; conflicts with earlier applications/registrations, international registrations designating Mongolia, well-known marks, trade names and copyright are examined ex officio."
+    },
+    "disclaimer": {
+      "ja": "非識別的要素について権利不要求または保護範囲の限定を求められる可能性がある。最新実務を確認する。",
+      "en": "A disclaimer or limitation concerning non-distinctive elements may be required; verify current practice."
+    },
+    "consent": {
+      "ja": "先行権利者の同意書のみで拒絶が当然解消するとは限らない。混同のおそれ、権利関係、譲渡・取消等を併せて検討する。",
+      "en": "Consent alone may not automatically overcome an earlier-right refusal; assess confusion, relationship, assignment and cancellation options."
+    },
+    "acceleratedExamination": {
+      "ja": "一般的な早期審査制度の有無・要件はIPOMまたは現地代理人に最新確認する。",
+      "en": "Confirm with IPOM or local counsel whether a general expedited route is currently available and on what conditions."
+    },
+    "thirdPartyObservation": {
+      "ja": "公告後の異議申立制度あり。正式異議とは別の情報提供制度の有無・提出時期は最新法令で確認する。",
+      "en": "A post-publication opposition procedure is available; verify whether separate third-party observations are accepted and their timing."
+    },
+    "directExaminationPeriod": {
+      "ja": "公式な一律の最新平均期間は確認できない。方式・実体審査、翻訳、拒絶、異議を分けて現地見積りを取得する。",
+      "en": "No single current official average identified; obtain a local estimate separating formality/substantive examination, translation, objections and opposition."
+    },
+    "madridExaminationPeriod": {
+      "ja": "モンゴル指定の暫定拒絶通報期間は原則12か月として管理し、WIPO通知と現地応答期限を個別確認する。",
+      "en": "Manage a Mongolian designation on the basis of a generally applicable 12-month refusal-notification period and verify the WIPO notice and local response deadline."
+    },
+    "colourPriorityIdentity": {
+      "ja": "優先権基礎とモンゴル出願で色彩の有無・配置を一致させる。白黒とカラーの同一性は色彩が識別性に与える影響を踏まえ個別確認する。",
+      "en": "Align the presence and arrangement of color with the priority filing; assess black-and-white/color identity in light of color’s effect on distinctive character."
+    },
+    "colourRelativeGrounds": {
+      "ja": "色彩は標章全体の一要素であり、色の変更のみで類似性が解消するとは限らない。外観・称呼・観念を総合比較する。",
+      "en": "Color is one element of the mark; a change of color alone may not avoid similarity. Compare visual, phonetic and conceptual impressions globally."
+    },
+    "colourGenuineUse": {
+      "ja": "登録形態と使用形態の色彩差が識別性を変更するかを評価する。白黒登録のカラー使用が常に真正使用となるとは限らない。",
+      "en": "Assess whether color differences between registration and use alter distinctive character; color use does not invariably maintain a black-and-white registration."
+    },
+    "colourInfringementScope": {
+      "ja": "登録表示、色彩限定、全体的印象、商品・役務、需要者および混同のおそれを総合判断する。",
+      "en": "Assess the registered representation, color limitation, overall impression, goods/services, consumers and likelihood of confusion."
+    },
+    "colourFilingStrategy": {
+      "ja": "色彩が重要ならカラー版を、使用態様の柔軟性が必要なら白黒版と主要カラー版の別出願を検討する。",
+      "en": "If color matters, file the color version; for flexibility consider separate black-and-white and key color filings."
+    },
+    "refusalResponseRoute": {
+      "ja": "IPOMの審査通知・暫定拒絶に、モンゴル語の意見書、補正、限定、同意書または証拠で応答する。最終拒絶には庁内不服および裁判所手続を検討する。",
+      "en": "Respond to an IPOM examination notice or provisional refusal with Mongolian submissions, amendment, limitation, consent or evidence; consider administrative and court challenges to a final refusal."
+    },
+    "responsePeriod": {
+      "ja": "通知の種類により異なるため、通知記載の期限を優先する。実務上重要な期限を現地代理人に即時確認する。",
+      "en": "The period varies by notice; the stated deadline controls and should be confirmed immediately with local counsel."
+    },
+    "extensionAvailable": {
+      "ja": "手続により延長可能な場合がある。期限前申請を前提として確認する。",
+      "en": "An extension may be available for certain procedures; verify on the basis of a pre-expiry request."
+    },
+    "extensionLength": {
+      "ja": "一律ではない。通知および適用規則を個別確認する。",
+      "en": "Not uniform; check the notice and applicable rules."
+    },
+    "extensionRequirements": {
+      "ja": "期限前の書面申請、理由および所定料金の有無を現地代理人に確認する。",
+      "en": "Confirm whether a timely written request, reasons and prescribed fee are required."
+    },
+    "appealRoute": {
+      "ja": "IPOMの最終決定について、所定の行政上の不服申立ておよび裁判所への提訴を検討する。決定送達日からの期限を確認する。",
+      "en": "For a final IPOM decision, consider the prescribed administrative review and court proceedings; verify the deadline from service of the decision."
+    },
+    "refusalAppealPeriod": {
+      "ja": "公式な平均審理期間は確認できない。庁内不服と行政裁判を分けて現地見積りを取得する。",
+      "en": "No official average identified; obtain separate local estimates for administrative review and court proceedings."
+    },
+    "publicDatabase": {
+      "ja": "IPOM知的財産検索／商標データベース（稼働URLは要最新確認）",
+      "en": "IPOM IP Search / Trade Mark Database (verify current operational URL)",
+      "url": "https://ipom.gov.mn/"
+    },
+    "publicationStage": {
+      "ja": "実体審査を経た出願が公報に公告され、第三者の異議手続の対象となる。公告時点と登録前後の手続順序を最新確認する。",
+      "en": "An examined application is published in the official bulletin and becomes subject to third-party opposition; verify the current publication/registration sequence."
+    },
+    "oppositionPeriod": {
+      "ja": "公告からの法定期間について最新法令・公報を確認する。実務上は短期の可能性があるため公告監視を推奨。",
+      "en": "Verify the current statutory period from publication in the legislation and bulletin; active watching is recommended because the window may be short."
+    },
+    "oppositionExtension": {
+      "ja": "法定異議期間の延長を当然視せず、期間内提出を前提に管理する。",
+      "en": "Do not assume the statutory opposition period is extendible; docket filing within the original period."
+    },
+    "averagePendency": {
+      "ja": "案件、拒絶、異議、翻訳および登録料手続により変動。IPOMの最新統計または現地代理人の実績値を確認する。",
+      "en": "Varies with objections, opposition, translation and registration-fee steps; consult current IPOM statistics or local-agent experience."
+    },
+    "term": {
+      "ja": "出願日から10年。10年ごとに更新可能。",
+      "en": "10 years from the filing date, renewable for successive ten-year periods."
+    },
+    "termStart": {
+      "ja": "出願日から。権利発生・行使可能時点は登録との関係を確認する。",
+      "en": "From the filing date; verify when rights arise and become enforceable in relation to registration."
+    },
+    "renewalWindow": {
+      "ja": "満了前12か月程度からの更新が一般に想定されるが、最新の申請可能期間と料金を確認する。",
+      "en": "Renewal is generally anticipated during the year before expiry; verify the current filing window and fees."
+    },
+    "gracePeriod": {
+      "ja": "ありとされ、通常満了後6か月。割増料金および回復手続を確認する。",
+      "en": "Understood to be available, normally for six months after expiry; verify surcharge and restoration procedure."
+    },
+    "renewalEvidence": {
+      "ja": "通常の更新に使用証拠は原則不要。ただし不使用取消に備え、モンゴル国内の使用証拠を保存する。",
+      "en": "Use evidence is generally not required for ordinary renewal; preserve evidence of use in Mongolia against non-use cancellation."
+    },
+    "nonUseCancellation": {
+      "ja": "あり。利害関係人による取消請求が可能。IPOMの行政手続か裁判所手続か、最新の管轄を現地確認する。",
+      "en": "Available at the request of an interested party; confirm the current competent forum, whether administrative at IPOM or judicial."
+    },
+    "nonUsePeriod": {
+      "ja": "正当理由なく継続5年間使用されていない場合が取消基準とされる。起算点および一部取消を確認する。",
+      "en": "Five continuous years of non-use without proper reasons is understood to be the threshold; verify the start date and partial revocation."
+    },
+    "nonUseDefenses": {
+      "ja": "商標権者または許諾を受けた者によるモンゴル国内の真正使用、使用再開、輸入・広告等、および正当な不使用理由を証拠化する。立証責任の配分を確認する。",
+      "en": "Document genuine use in Mongolia by the owner or an authorized party, resumption, imports/advertising and proper reasons for non-use; verify allocation of the burden of proof."
+    },
+    "otherCancellation": {
+      "ja": "普通名称化、誤認的使用、団体・証明商標の管理違反等による取消の可能性を確認する。",
+      "en": "Check revocation for genericide, misleading use and failures concerning collective/certification-mark control."
+    },
+    "invalidation": {
+      "ja": "あり。登録要件欠缺、先行権利、悪意等を理由に全部または一部無効を請求できる。管轄と除斥期間を確認する。",
+      "en": "Available in whole or in part for lack of registrability, earlier rights, bad faith and other grounds; verify forum and limitation periods."
+    },
+    "civilInjunction": {
+      "ja": "裁判所で仮処分・終局的差止めを請求可能。緊急性、担保および管轄を確認する。",
+      "en": "Interim and final injunctions may be sought in court; verify urgency, security and jurisdiction."
+    },
+    "civilDamages": {
+      "ja": "損害賠償を請求可能。実損、逸失利益、侵害者利益、法定算定の可否を個別確認する。",
+      "en": "Damages may be claimed; assess actual loss, lost profits, infringer’s profits and any statutory calculation."
+    },
+    "civilEvidencePreservation": {
+      "ja": "証拠保全、侵害品・帳簿等の差押え、鑑定、公証等の利用可能性を事案ごとに検討する。",
+      "en": "Consider evidence preservation, seizure of goods/records, expert evidence and notarization as available in the case."
+    },
+    "civilOther": {
+      "ja": "侵害品・包装・製造手段の廃棄、判決公表、費用等の救済を確認する。",
+      "en": "Check destruction of infringing goods, packaging and means, publication of judgment and costs."
+    },
+    "borderMeasures": {
+      "ja": "税関への知的財産権登録・通関停止等の水際措置が利用可能。申請、担保、期間、提訴要件を確認する。",
+      "en": "Customs recordal and suspension measures are available; verify application, security, duration and litigation requirements."
+    },
+    "administrativeRaid": {
+      "ja": "IPOM、税関、警察、競争・消費者保護当局等による行政・刑事執行の可能性を事案ごとに確認する。",
+      "en": "Assess possible administrative/criminal enforcement involving IPOM, customs, police and competition/consumer authorities."
+    },
+    "administrativeOther": {
+      "ja": "行政罰、侵害停止、押収・没収、侵害品廃棄等があり得る。所管と刑事手続との境界を確認する。",
+      "en": "Administrative fines, cessation, seizure/confiscation and destruction may apply; verify competence and overlap with criminal proceedings."
+    },
+    "criminalAvailability": {
+      "ja": "故意の商標偽造・重大な侵害について刑事責任があり得る。規模、損害、反復性等の構成要件を確認する。",
+      "en": "Criminal liability may arise for intentional counterfeiting or serious infringement; verify thresholds involving scale, harm and repetition."
+    },
+    "criminalFine": {
+      "ja": "あり得る。個人・法人、犯罪類型および最新刑法上の単位額を確認する。",
+      "en": "Potentially available; verify person/entity liability, offense and current penalty units."
+    },
+    "criminalImprisonment": {
+      "ja": "重大事案ではあり得る。最新刑法の構成要件と上限を確認する。",
+      "en": "Potentially available in serious cases; verify current elements and maxima under the Criminal Code."
+    },
+    "criminalOther": {
+      "ja": "侵害品・製造設備の没収・廃棄、営業関連措置等があり得る。",
+      "en": "Confiscation/destruction of infringing goods or equipment and business-related measures may be available."
+    }
+  },
+  "notablePoints": [
+    {
+      "title": {
+        "ja": "国内登録とマドプロ指定の併存",
+        "en": "National and Madrid routes"
+      },
+      "detail": {
+        "ja": "モンゴルはマドリッド協定・議定書の双方に加盟。直接出願と国際登録指定で、拒絶通知・現地応答期限・代理人要否を分けて管理する。",
+        "en": "Mongolia belongs to both the Madrid Agreement and Protocol. Docket refusal notices, local deadlines and representation separately for national and international routes."
+      }
+    },
+    {
+      "title": {
+        "ja": "相対的理由の職権審査",
+        "en": "Ex officio relative examination"
+      },
+      "detail": {
+        "ja": "先行する国内商標だけでなく、モンゴル指定国際登録や周知商標との抵触も出願前調査に含める。",
+        "en": "Clearance should include earlier national marks, international registrations designating Mongolia and well-known marks."
+      }
+    },
+    {
+      "title": {
+        "ja": "モンゴル語書類と現地代理",
+        "en": "Mongolian documents and local agent"
+      },
+      "detail": {
+        "ja": "外国出願人は現地代理人を通じるのが通常。商品・役務のモンゴル語訳と委任状の形式・原本要件を早期確認する。",
+        "en": "Foreign applicants normally use local counsel. Confirm Mongolian specification translations and power-of-attorney form/original requirements early."
+      }
+    },
+    {
+      "title": {
+        "ja": "不使用取消の管轄・立証を要確認",
+        "en": "Confirm non-use forum and burden"
+      },
+      "detail": {
+        "ja": "5年不使用が重要だが、申立先、立証責任、使用再開の扱いは改正・運用の影響を受けるため現地意見を取得する。",
+        "en": "Five-year non-use is central, but obtain local advice on forum, burden of proof and treatment of resumed use under current law/practice."
+      }
+    },
+    {
+      "title": {
+        "ja": "公報監視が重要",
+        "en": "Active gazette watching"
+      },
+      "detail": {
+        "ja": "異議期間とその起算点を最新公報で確認し、短い期間を想定して先行商標監視を行う。",
+        "en": "Verify the opposition period and trigger in the current gazette and watch proactively on the assumption of a short window."
+      }
+    }
+  ],
+  "statistics": {
+    "coverage": "2016–2025",
+    "status": "pending",
+    "series": []
+  },
+  "news": [
+    {
+      "id": "trademark-law-current-review",
+      "type": "law",
+      "date": "2026-09-12",
+      "title": {
+        "ja": "現行商標法・施行規則の改正履歴を継続確認",
+        "en": "Ongoing review of current trademark law and rules"
+      },
+      "summary": {
+        "ja": "法改正の施行日、異議・取消の管轄、電子手続をIPOMおよびWIPO Lexの一次資料で継続確認する。",
+        "en": "Continue checking primary IPOM and WIPO Lex materials for amendments, opposition/revocation forum and electronic procedures."
+      },
+      "sourceUrl": "https://www.wipo.int/wipolex/en/legislation/profile/MN"
+    },
+    {
+      "id": "nice-edition-practice",
+      "type": "practice",
+      "date": "2026-01-01",
+      "title": {
+        "ja": "最新ニース分類による指定商品・役務確認",
+        "en": "Current Nice edition for specifications"
+      },
+      "summary": {
+        "ja": "新規出願では出願時点のニース分類とIPOMのモンゴル語受理表示を照合する。",
+        "en": "For new filings, align the Nice edition current at filing with IPOM-accepted Mongolian wording."
+      },
+      "sourceUrl": "https://www.wipo.int/classifications/nice/en/"
+    },
+    {
+      "id": "digital-services-monitoring",
+      "type": "practice",
+      "date": "2026-09-12",
+      "title": {
+        "ja": "IPOM電子サービス・公報URLを要定期確認",
+        "en": "Monitor IPOM e-services and gazette URLs"
+      },
+      "summary": {
+        "ja": "IPOMサイトの検索・電子出願・公報導線は変更され得るため、カード更新時に稼働URLと対象データを確認する。",
+        "en": "Because IPOM search, e-filing and gazette links may change, verify operational URLs and database scope at each card update."
+      },
+      "sourceUrl": "https://ipom.gov.mn/"
+    }
+  ],
+  "faqs": [
+    {
+      "tag": "Filing",
+      "question": {
+        "ja": "直接出願とマドプロのモンゴル指定では、費用・審査期間・拒絶対応のどちらが有利ですか。",
+        "en": "Which is preferable for Mongolia—direct filing or Madrid designation—in cost, timing and refusal handling?"
+      },
+      "followUp": {
+        "ja": "外国出願人の現地代理人選任と委任状原本はいつ必要ですか。",
+        "en": "When are local representation and the original power required for a foreign applicant?"
+      }
+    },
+    {
+      "tag": "Specification",
+      "question": {
+        "ja": "商品・役務のモンゴル語訳で、類見出しや小売役務はどの程度具体化すべきですか。",
+        "en": "How specifically should class headings and retail services be drafted in Mongolian?"
+      },
+      "followUp": {
+        "ja": "IPOMが推奨・受理する定型表示のデータベースはありますか。",
+        "en": "Is there a database of IPOM-preferred or accepted terms?"
+      }
+    },
+    {
+      "tag": "Examination",
+      "question": {
+        "ja": "先行商標拒絶に対して、同意書、限定、譲渡、取消のどれが有効ですか。",
+        "en": "Against an earlier-mark refusal, which works best: consent, limitation, assignment or cancellation?"
+      },
+      "followUp": {
+        "ja": "通知への正確な応答期限、延長期間、理由・料金は何ですか。",
+        "en": "What are the exact response deadline, extension, reasons and fees?"
+      }
+    },
+    {
+      "tag": "Opposition",
+      "question": {
+        "ja": "公告からの異議期間、起算日、延長可否、必要証拠を確認してください。",
+        "en": "Please confirm the opposition period from publication, trigger date, extendibility and required evidence."
+      },
+      "followUp": {
+        "ja": "異議前の情報提供または警告状は実務上有効ですか。",
+        "en": "Are pre-opposition observations or a warning letter practically effective?"
+      }
+    },
+    {
+      "tag": "Non-use",
+      "question": {
+        "ja": "不使用取消はIPOMと裁判所のどちらに申し立て、立証責任はどちらが負いますか。",
+        "en": "Is non-use cancellation filed with IPOM or a court, and who bears the burden of proof?"
+      },
+      "followUp": {
+        "ja": "モンゴル向けオンライン販売・輸入・広告のどの証拠が真正使用として十分ですか。",
+        "en": "What evidence of Mongolia-directed online sales, imports or advertising is sufficient genuine use?"
+      }
+    },
+    {
+      "tag": "Enforcement",
+      "question": {
+        "ja": "侵害品に対して、仮処分、行政摘発、税関、刑事告訴のどれを優先すべきですか。",
+        "en": "For infringing goods, should we prioritize an injunction, administrative raid, customs or criminal complaint?"
+      },
+      "followUp": {
+        "ja": "証拠保全、担保、処理期間、費用回収の実務的見通しは。",
+        "en": "What is the practical outlook for evidence preservation, security, timing and cost recovery?"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "IPOM — Official Website",
+      "url": "https://ipom.gov.mn/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "WIPO Lex — Mongolia IP Legislation Profile",
+      "url": "https://www.wipo.int/wipolex/en/legislation/profile/MN",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "WIPO — Mongolia Member Profile",
+      "url": "https://www.wipo.int/directory/en/details.jsp?country_code=MN",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "WIPO Madrid — Members",
+      "url": "https://www.wipo.int/madrid/en/members/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "WIPO Madrid Member Profile — Mongolia",
+      "url": "https://www.wipo.int/madrid/memberprofiles/#/result?countries=9384",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "WIPO Global Brand Database",
+      "url": "https://branddb.wipo.int/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "WIPO Nice Classification",
+      "url": "https://www.wipo.int/classifications/nice/en/",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "WTO — Mongolia and the WTO",
+      "url": "https://www.wto.org/english/thewto_e/countries_e/mongolia_e.htm",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    }
+  ]
+}
