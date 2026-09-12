@@ -1,0 +1,752 @@
+{
+  "id": "ca",
+  "type": "country",
+  "flag": "🇨🇦",
+  "region": "americas",
+  "names": {
+    "ja": "カナダ",
+    "en": "Canada",
+    "fr": "Canada"
+  },
+  "office": {
+    "ja": "カナダ知的財産庁（CIPO）",
+    "en": "Canadian Intellectual Property Office (CIPO)",
+    "fr": "Office de la propriété intellectuelle du Canada (OPIC)"
+  },
+  "availableLanguages": [
+    "fr"
+  ],
+  "createdAt": "2026-09-12",
+  "updatedAt": "2026-09-12",
+  "status": "review",
+  "facts": {
+    "authority": {
+      "ja": "カナダ知的財産庁（CIPO）。異議申立ておよび商標法45条の不使用取消手続は、商標異議委員会（TMOB）が登録官に代わって扱う。",
+      "en": "The Canadian Intellectual Property Office (CIPO). The Trademarks Opposition Board (TMOB) handles oppositions and section 45 non-use proceedings on behalf of the Registrar.",
+      "fr": "L’Office de la propriété intellectuelle du Canada (OPIC). La Commission des oppositions des marques de commerce traite les oppositions et les procédures prévues à l’article 45 au nom du registraire."
+    },
+    "protectionScope": {
+      "ja": "登録商標は、指定商品・役務についてカナダ全域で排他的権利を与える。未登録標章にも使用に基づくコモンロー上のpassing off等による保護があり得る。",
+      "en": "Registration grants exclusive rights across Canada for the listed goods and services. Unregistered marks may also obtain use-based protection through the common-law action of passing off and related remedies.",
+      "fr": "L’enregistrement confère des droits exclusifs partout au Canada pour les produits et services énumérés. Les marques non enregistrées peuvent aussi bénéficier d’une protection fondée sur l’emploi, notamment par l’action de common law en commercialisation trompeuse."
+    },
+    "markTypes": {
+      "ja": "語、名称、図形、文字、数字、色彩、音、ホログラム、動き、香り、味、触感、立体形状、包装形態、標章の位置その他の標識またはその組合せ。証明商標も登録可能。",
+      "en": "Words, names, designs, letters, numerals, colour, sound, holograms, motion, scent, taste, texture, three-dimensional shapes, modes of packaging, positioning of a sign, and other signs or combinations. Certification marks are also registrable.",
+      "fr": "Mots, noms, dessins, lettres, chiffres, couleurs, sons, hologrammes, images en mouvement, odeurs, goûts, textures, formes tridimensionnelles, modes d’emballage, positionnement d’un signe et autres signes ou combinaisons. Les marques de certification peuvent aussi être enregistrées."
+    },
+    "madridAccessionDate": {
+      "ja": "2019年6月17日",
+      "en": "17 June 2019",
+      "fr": "17 juin 2019"
+    },
+    "niceClassification": {
+      "ja": "採用。商品・役務をニース分類に従って区分しなければならない。",
+      "en": "Adopted. Goods and services must be grouped according to the Nice Classification.",
+      "fr": "Adoptée. Les produits et services doivent être groupés selon la classification de Nice."
+    },
+    "classHeadingPractice": {
+      "ja": "類見出しの文言でも、個々の商品・役務を通常の商取引用語で具体的に特定できる場合に限り受理される。類見出しを記載しただけで当該類の全商品・役務を包含する扱いにはならない。",
+      "en": "Class-heading wording is acceptable only where it identifies specific goods or services in ordinary commercial terms. Use of a heading does not automatically cover every good or service in the class.",
+      "fr": "Le libellé d’un intitulé de classe n’est acceptable que s’il désigne des produits ou services précis dans les termes ordinaires du commerce. L’emploi d’un intitulé ne couvre pas automatiquement tous les produits ou services de la classe."
+    },
+    "retailServices": {
+      "ja": "可。ただし単なる商品の販売は役務とは扱われず、小売店、オンライン小売等の役務内容および対象商品を具体的に記載する。",
+      "en": "Available. The mere sale of goods is not itself a service; the retail-store, online-retail or other service and the relevant goods should be specified.",
+      "fr": "Admis. La simple vente de produits n’est pas en soi un service; il faut préciser le service de magasin de détail, de vente au détail en ligne ou autre, ainsi que les produits concernés."
+    },
+    "multiClassApplication": {
+      "ja": "可。1出願で複数区分を指定でき、追加区分ごとに料金が加算される。",
+      "en": "Available. One application may cover multiple classes, with an additional fee for each additional class.",
+      "fr": "Admise. Une demande peut viser plusieurs classes, moyennant une taxe additionnelle pour chaque classe supplémentaire."
+    },
+    "applicationForm": {
+      "ja": "オンラインまたは書面による願書。出願人の氏名・住所、商標の表示または記述、通常の商取引用語による商品・役務一覧、区分および料金が必要。",
+      "en": "An online or paper application containing the applicant’s name and address, a representation or description of the mark, the goods and services in ordinary commercial terms, their classes, and the fee.",
+      "fr": "Une demande en ligne ou sur papier comprenant le nom et l’adresse du requérant, une représentation ou description de la marque, les produits et services dans les termes ordinaires du commerce, leurs classes et la taxe."
+    },
+    "powerOfAttorney": {
+      "ja": "通常、署名済み委任状の提出は不要。代理人を選任する場合、カナダで認可された商標代理人である必要がある。",
+      "en": "A signed power of attorney is generally not filed. If an agent is appointed, the agent must be a Canadian-licensed trademark agent.",
+      "fr": "Une procuration signée n’est généralement pas déposée. Lorsqu’un agent est nommé, il doit être un agent de marques de commerce agréé au Canada."
+    },
+    "priorityDocuments": {
+      "ja": "優先日、国・庁および先の出願を特定して6か月以内に主張する。先の出願番号を示さない場合、CIPOは番号または認証謄本を要求する。翻訳等は個別通知を確認する。",
+      "en": "Priority must be claimed within six months, identifying the priority date and country or office. If the earlier application number is not supplied, CIPO will require either that number or a certified copy; check any translation request individually.",
+      "fr": "La priorité doit être revendiquée dans les six mois en indiquant la date et le pays ou l’office du premier dépôt. Si le numéro de la demande antérieure n’est pas fourni, l’OPIC exigera ce numéro ou une copie certifiée; toute exigence de traduction doit être vérifiée au cas par cas."
+    },
+    "homeRegistrationCertificate": {
+      "ja": "不要。カナダ国内出願は本国登録を基礎とする必要がない。",
+      "en": "Not required. A Canadian application need not be based on a home-country registration.",
+      "fr": "Non requis. Une demande canadienne n’a pas à être fondée sur un enregistrement dans le pays d’origine."
+    },
+    "useEvidenceAtFiling": {
+      "ja": "出願時の使用証拠または使用宣誓は不要。ただし出願人は、カナダで商標を使用しているか使用を予定し、かつ使用する権利を有していなければならない。",
+      "en": "No specimen or declaration of use is required at filing. The applicant must nevertheless be using or propose to use, and be entitled to use, the mark in Canada.",
+      "fr": "Aucun spécimen ni déclaration d’emploi n’est requis au dépôt. Le requérant doit néanmoins employer ou projeter d’employer la marque au Canada et avoir le droit de l’employer."
+    },
+    "notarizationCertification": {
+      "ja": "通常出願に公証・領事認証は不要。異議・不使用取消等で証拠を提出する場合は、宣誓供述書または法定宣言が必要となり得る。",
+      "en": "No notarization or legalization is normally required for filing. Evidence in oppositions and section 45 proceedings may need to be submitted by affidavit or statutory declaration.",
+      "fr": "Aucune notarisation ni légalisation n’est normalement requise au dépôt. La preuve dans une opposition ou une procédure fondée sur l’article 45 peut devoir être produite par affidavit ou déclaration solennelle."
+    },
+    "otherDocuments": {
+      "ja": "非伝統的商標の種類に応じた表示・説明、色彩クレーム、外国文字の翻訳・音訳、証明商標の基準、優先権情報その他を必要に応じて提出する。",
+      "en": "Depending on the mark, provide representations and descriptions for non-traditional marks, colour claims, translations or transliterations of foreign characters, certification-mark standards, priority details and other required material.",
+      "fr": "Selon la marque, fournir les représentations et descriptions des marques non traditionnelles, les revendications de couleur, les traductions ou translittérations de caractères étrangers, les normes d’une marque de certification, les renseignements de priorité et les autres éléments requis."
+    },
+    "absoluteGroundsExamination": {
+      "ja": "あり。CIPOが識別力、記述性、禁止標章その他の登録可能性を審査する。",
+      "en": "Yes. CIPO examines distinctiveness, descriptiveness, prohibited signs and other registrability requirements.",
+      "fr": "Oui. L’OPIC examine le caractère distinctif, le caractère descriptif, les signes interdits et les autres conditions d’enregistrabilité."
+    },
+    "distinctivenessGrounds": {
+      "ja": "本来的識別力を欠く商標は拒絶対象となる。氏名・姓、明確な記述的または誤認的記述の標章は、出願日時点で使用により識別力を獲得したことを立証できれば登録可能な場合がある。",
+      "en": "A mark lacking inherent distinctiveness may be refused. A name or surname, or a clearly descriptive or deceptively misdescriptive mark, may in some cases be registered upon proof that it had acquired distinctiveness by the filing date.",
+      "fr": "Une marque dépourvue de caractère distinctif inhérent peut être refusée. Un nom ou nom de famille, ou une marque clairement descriptive ou faussement descriptive, peut parfois être enregistrée si son caractère distinctif acquis à la date de dépôt est démontré."
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "主として氏名・姓、英語またはフランス語で明確に記述的・誤認的記述、商品・役務の名称、政府・王室・軍・大学等の禁止標章およびofficial marks、保護地理的表示、オリンピック標章、主として実用的機能による特徴、公序良俗に反する表現等。",
+      "en": "Grounds include primarily merely a name or surname; clear or deceptive descriptiveness in English or French; the name of the goods or services; prohibited governmental, royal, military, university and official marks; protected geographical indications; Olympic marks; primarily utilitarian features; and scandalous, obscene or immoral matter.",
+      "fr": "Les motifs comprennent notamment le nom ou nom de famille, le caractère clairement ou faussement descriptif en français ou en anglais, le nom des produits ou services, les signes gouvernementaux, royaux, militaires, universitaires et marques officielles interdits, les indications géographiques protégées, les marques olympiques, les caractéristiques principalement utilitaires et les éléments scandaleux, obscènes ou immoraux."
+    },
+    "relativeGroundsExamination": {
+      "ja": "あり。CIPOは登録商標および係属出願との混同を職権審査する。未登録の先使用商標・商号、権原、悪意等の論点は異議申立てで争われることがある。",
+      "en": "Yes. CIPO examines confusion with registered marks and pending applications ex officio. Earlier unregistered marks or trade names, entitlement and bad faith may be raised in opposition.",
+      "fr": "Oui. L’OPIC examine d’office la confusion avec les marques enregistrées et les demandes pendantes. Les marques ou noms commerciaux antérieurs non enregistrés, le droit à l’enregistrement et la mauvaise foi peuvent être invoqués en opposition."
+    },
+    "disclaimer": {
+      "ja": "あり。登録官は、独立して登録できない構成部分について、商標全体とは別個の排他的使用権を放棄するよう求めることができる。",
+      "en": "Available. The Registrar may require a disclaimer of the right to exclusive use, apart from the mark as a whole, of a portion that is not independently registrable.",
+      "fr": "Prévu. Le registraire peut exiger une renonciation au droit à l’usage exclusif, indépendamment de la marque dans son ensemble, d’une partie qui n’est pas enregistrable séparément."
+    },
+    "consent": {
+      "ja": "当事者間の同意・共存契約は混同判断の証拠となり得るが、通常、それだけでCIPOを拘束せず拒絶解消が保証されない。証明商標等には特則がある。",
+      "en": "Consent or a coexistence agreement may be relevant evidence on confusion, but ordinarily does not bind CIPO or guarantee withdrawal of an objection. Special rules apply in some contexts, including certification marks.",
+      "fr": "Le consentement ou un accord de coexistence peut constituer un élément pertinent quant à la confusion, mais ne lie généralement pas l’OPIC et ne garantit pas le retrait de l’objection. Des règles particulières s’appliquent notamment aux marques de certification."
+    },
+    "acceleratedExamination": {
+      "ja": "あり。カナダでの訴訟、税関での模倣品対策、オンライン市場での重大な不利益、外国庁から求められた優先権維持期限のいずれかを、事情を知る者の宣誓供述書または法定宣言で立証する。料金なし。認容後に延長請求や期限徒過があると優先扱いを失い得る。",
+      "en": "Available without a fee where an affidavit or statutory declaration establishes qualifying circumstances: Canadian litigation, anti-counterfeiting at the border, severe disadvantage on online marketplaces, or a foreign-office deadline needed to preserve priority. The advantage may be lost after an extension request or missed deadline.",
+      "fr": "Disponible sans taxe lorsqu’un affidavit ou une déclaration solennelle établit une circonstance admissible : litige au Canada, lutte contre la contrefaçon à la frontière, désavantage grave sur une place de marché en ligne ou échéance imposée par un office étranger pour préserver la priorité. Le traitement accéléré peut être perdu en cas de demande de prorogation ou de délai manqué."
+    },
+    "directExaminationPeriod": {
+      "ja": "2026–2027年度のCIPO目標は、国内直接出願の初回アクションを出願日から14か月以内に発行すること（指定商品・役務の事前承認リスト利用の有無を問わない）。これは平均値ではなく目標値。",
+      "en": "CIPO’s 2026–2027 target is to issue the first action on a national application within 14 months of filing, whether or not the pre-approved goods and services list is used. This is a target, not a statistical average.",
+      "fr": "L’objectif 2026–2027 de l’OPIC est d’émettre la première mesure à l’égard d’une demande nationale dans les 14 mois du dépôt, que la liste préapprouvée des produits et services soit utilisée ou non. Il s’agit d’un objectif et non d’une moyenne statistique."
+    },
+    "madridExaminationPeriod": {
+      "ja": "2026–2027年度のCIPO目標は、領域指定通知から14か月以内に最初の承認通知または審査報告を発行すること。マドプロ上の拒絶通報期限との関係も案件ごとに確認する。",
+      "en": "CIPO’s 2026–2027 target is to issue the first approval or examiner’s report within 14 months from notification of territorial extension. The Madrid refusal-notification limit should also be checked for each designation.",
+      "fr": "L’objectif 2026–2027 de l’OPIC est d’émettre la première approbation ou le premier rapport d’examinateur dans les 14 mois suivant la notification de l’extension territoriale. Il faut aussi vérifier le délai de notification de refus prévu par le système de Madrid."
+    },
+    "thirdPartyObservation": {
+      "ja": "第三者権利通知（Notification of Third Party Rights）に相当する非公式手続がある。限定された登録可能性の論点を登録官へ知らせるもので、当事者系手続を生じさせず、公告後の異議申立てに代わらない。提出前に現行の対象事由を確認する。",
+      "en": "An informal Notification of Third Party Rights procedure allows limited registrability information to be brought to the Registrar’s attention. It creates no inter partes proceeding and does not replace opposition; confirm the current permitted grounds before filing.",
+      "fr": "Une procédure informelle de notification des droits d’un tiers permet de porter certains renseignements limités sur l’enregistrabilité à l’attention du registraire. Elle ne crée pas de procédure inter partes et ne remplace pas l’opposition; il convient de vérifier les motifs actuellement admis avant le dépôt."
+    },
+    "responsePeriod": {
+      "ja": "通常、審査報告日から6か月以内。各通知に記載された期限を優先して確認する。",
+      "en": "Normally six months from the examiner’s report. The deadline stated in the particular notice must be checked.",
+      "fr": "Normalement six mois à compter du rapport de l’examinateur. Il faut vérifier le délai indiqué dans l’avis concerné."
+    },
+    "extensionAvailable": {
+      "ja": "例外的事情がある場合に限り可能。通常の便宜だけでは認められない。",
+      "en": "Available only where exceptional circumstances justify it; ordinary convenience is insufficient.",
+      "fr": "Possible uniquement lorsque des circonstances exceptionnelles le justifient; la simple convenance ne suffit pas."
+    },
+    "extensionLength": {
+      "ja": "審査応答については、認められる場合、通常1回・最大6か月。通知の種類と事情により異なる。",
+      "en": "For examination responses, where granted, generally one extension of up to six months. The result varies with the notice and circumstances.",
+      "fr": "Pour une réponse d’examen, lorsqu’elle est accordée, généralement une seule prorogation pouvant aller jusqu’à six mois. Le résultat dépend de l’avis et des circonstances."
+    },
+    "extensionRequirements": {
+      "ja": "適切な応答が期限内にできない例外的事情を、具体的事実とともに期限前に説明する。審査中の先行出願待ち、出願人の支配外の事情、関連移転手続等、実務通知に示された類型を検討する。",
+      "en": "Before the deadline, explain with specific facts the exceptional circumstances preventing a proper response. Consider the categories in CIPO practice, such as awaiting a cited application, circumstances beyond the applicant’s control, or a related transfer.",
+      "fr": "Avant l’échéance, expliquer par des faits précis les circonstances exceptionnelles empêchant une réponse complète. Examiner les catégories reconnues par la pratique de l’OPIC, par exemple l’attente d’une demande citée, des circonstances indépendantes de la volonté du requérant ou un transfert connexe."
+    },
+    "refusalResponseRoute": {
+      "ja": "審査報告に対し、意見書、商品・役務の限定、商標の許容される補正、識別力証拠等を提出する。拒絶が維持され最終決定となった場合、商標法56条によりカナダ連邦裁判所へ控訴する。",
+      "en": "Respond to the examiner’s report with arguments, narrowing of goods or services, permissible amendments, acquired-distinctiveness evidence or other material. A final refusal may be appealed to the Federal Court under section 56.",
+      "fr": "Répondre au rapport d’examen par des observations, une limitation des produits ou services, des modifications permises, une preuve de caractère distinctif acquis ou d’autres éléments. Un refus définitif peut être porté en appel devant la Cour fédérale en vertu de l’article 56."
+    },
+    "appealRoute": {
+      "ja": "登録官の決定通知発送日から2か月以内にカナダ連邦裁判所へ控訴する。裁判所は期間延長を許可でき、条件を満たせば追加証拠を提出できる。さらに連邦控訴裁判所への上訴可能性がある。",
+      "en": "Appeal a Registrar’s decision to the Federal Court within two months after notice of the decision was dispatched. The Court may allow further time and, where permitted, additional evidence may be filed. A further appeal may lie to the Federal Court of Appeal.",
+      "fr": "La décision du registraire peut être portée en appel devant la Cour fédérale dans les deux mois suivant l’expédition de l’avis de décision. La Cour peut accorder un délai supplémentaire et permettre une preuve additionnelle. Un appel ultérieur peut être possible devant la Cour d’appel fédérale."
+    },
+    "refusalAppealPeriod": {
+      "ja": "公表された一律の平均審理期間は確認できない。連邦裁判所での進行、追加証拠、相手方参加、和解等により大きく異なるため、現地代理人に最新見込みを確認する。",
+      "en": "No reliable uniform published average has been identified. Duration varies materially with Federal Court procedure, additional evidence, participation by other parties and settlement; obtain a current estimate from Canadian counsel.",
+      "fr": "Aucune moyenne uniforme et fiable n’a été identifiée. La durée varie sensiblement selon la procédure devant la Cour fédérale, la preuve additionnelle, la participation d’autres parties et un éventuel règlement; demander une estimation actuelle à un conseil canadien."
+    },
+    "publicDatabase": {
+      "ja": "Canadian Trademarks Database",
+      "en": "Canadian Trademarks Database",
+      "fr": "Base de données sur les marques de commerce canadiennes",
+      "url": "https://ised-isde.canada.ca/cipo/trademark-search/srch?lang=eng"
+    },
+    "publicationStage": {
+      "ja": "審査で承認された出願はCIPOウェブサイトのTrademarks Journalに公告され、異議申立期間に入る。異議がなければ、または異議が解決すれば登録へ進む。",
+      "en": "An approved application is advertised in the Trademarks Journal on CIPO’s website and enters the opposition period. It proceeds toward registration if no opposition is filed or after opposition is resolved.",
+      "fr": "Une demande approuvée est annoncée dans le Journal des marques de commerce sur le site de l’OPIC et entre dans la période d’opposition. Elle progresse vers l’enregistrement en l’absence d’opposition ou après le règlement de celle-ci."
+    },
+    "oppositionPeriod": {
+      "ja": "公告日から2か月。所定料金とともに異議申立書を提出する。",
+      "en": "Two months from advertisement. A statement of opposition and the prescribed fee must be filed.",
+      "fr": "Deux mois à compter de l’annonce. Une déclaration d’opposition doit être déposée avec la taxe prescrite."
+    },
+    "oppositionExtension": {
+      "ja": "通常のベンチマーク延長は2か月。合意によるcooling-off延長は各当事者1回、最大7か月などの制度がある。申請時期、料金および適用要件を確認する。マドプロ出願には特則がある。",
+      "en": "The ordinary benchmark extension for filing an opposition is two months. A consensual cooling-off extension of up to seven months per party and other extensions may be available. Check timing, fee and eligibility; special rules apply to Protocol applications.",
+      "fr": "La prorogation de référence ordinaire pour déposer une opposition est de deux mois. Une prorogation consensuelle de réflexion pouvant atteindre sept mois par partie et d’autres prorogations peuvent être disponibles. Vérifier le délai, la taxe et les conditions; des règles particulières s’appliquent aux demandes du Protocole."
+    },
+    "averagePendency": {
+      "ja": "無拒絶・無異議の案件でも、現在の初回アクション目標14か月に2か月の異議期間等が続くため、概ね16か月以上を見込むのが実務的。これは目標値からの推計であり、補正、拒絶、異議があれば長期化する。",
+      "en": "Even a straightforward unopposed case should practically be budgeted at roughly 16 months or more, given the current 14-month first-action target followed by the two-month opposition period. This is an inference from targets, not an official average, and objections or opposition can add substantial time.",
+      "fr": "Même un dossier simple et non contesté devrait être planifié sur environ 16 mois ou davantage, compte tenu de l’objectif actuel de 14 mois pour la première mesure, suivi de la période d’opposition de deux mois. Il s’agit d’une estimation fondée sur les objectifs, non d’une moyenne officielle, et les objections ou oppositions peuvent prolonger sensiblement le délai."
+    },
+    "term": {
+      "ja": "10年。10年ごとに更新可能。",
+      "en": "10 years, renewable for successive 10-year periods.",
+      "fr": "10 ans, renouvelable par périodes successives de 10 ans."
+    },
+    "termStart": {
+      "ja": "登録日から",
+      "en": "From the registration date",
+      "fr": "À compter de la date d’enregistrement"
+    },
+    "renewalWindow": {
+      "ja": "原則として満了日の6か月前から更新可能。登録官からの通知後の期限にも注意する。",
+      "en": "Generally renewable beginning six months before expiry. Any deadline following the Registrar’s renewal notice must also be monitored.",
+      "fr": "Le renouvellement est généralement possible à partir de six mois avant l’expiration. Il faut aussi surveiller tout délai suivant l’avis de renouvellement du registraire."
+    },
+    "gracePeriod": {
+      "ja": "あり。原則として満了後6か月まで、追加料金を伴う更新が可能。個別の通知期限を確認する。",
+      "en": "Available. Late renewal is generally possible for six months after expiry with an additional fee; check the specific notice deadline.",
+      "fr": "Prévue. Le renouvellement tardif est généralement possible pendant six mois après l’expiration moyennant une taxe additionnelle; vérifier le délai indiqué dans l’avis."
+    },
+    "renewalEvidence": {
+      "ja": "更新時の使用証拠提出は通常不要。ただしSection 45手続や訴訟で使用を立証できるよう、商品・役務ごとの使用記録を継続保存する。",
+      "en": "Evidence of use is not ordinarily filed at renewal. Maintain continuous, goods-and-services-specific use records for possible section 45 proceedings or litigation.",
+      "fr": "La preuve d’emploi n’est normalement pas déposée au renouvellement. Conserver de façon continue des dossiers d’emploi propres à chaque produit et service en vue d’une éventuelle procédure fondée sur l’article 45 ou d’un litige."
+    },
+    "nonUseCancellation": {
+      "ja": "あり。商標法45条の行政的・簡易な抹消手続と、連邦裁判所での登録簿抹消手続がある。",
+      "en": "Available through the administrative summary expungement procedure under section 45 and through Federal Court expungement proceedings.",
+      "fr": "Prévue par la procédure administrative sommaire de radiation de l’article 45 et par une procédure de radiation devant la Cour fédérale."
+    },
+    "nonUsePeriod": {
+      "ja": "登録日から3年経過後にSection 45通知を請求でき、通知直前3年間に各指定商品・役務についてカナダで使用したことを登録名義人が示す。",
+      "en": "After three years from registration, a section 45 notice may be requested. The registered owner must show Canadian use for each relevant good or service during the three years immediately preceding the notice.",
+      "fr": "Après trois ans à compter de l’enregistrement, un avis fondé sur l’article 45 peut être demandé. Le propriétaire inscrit doit démontrer l’emploi au Canada pour chaque produit ou service pertinent pendant les trois années précédant immédiatement l’avis."
+    },
+    "nonUseDefenses": {
+      "ja": "通知直前3年間の使用を宣誓供述書・法定宣言で立証する。使用がなければ、最終使用日および不使用を免責する特別事情を立証する。立証責任は実質的に登録名義人側にあり、単なる使用の主張では不十分。",
+      "en": "Prove use during the relevant three years by affidavit or statutory declaration. If there was no use, establish the last-use date and special circumstances excusing non-use. The practical evidential burden lies on the registered owner, and bare assertions are insufficient.",
+      "fr": "Démontrer l’emploi pendant les trois années pertinentes par affidavit ou déclaration solennelle. À défaut d’emploi, établir la date du dernier emploi et les circonstances spéciales justifiant le défaut d’emploi. Le fardeau pratique de la preuve incombe au propriétaire inscrit et de simples affirmations ne suffisent pas."
+    },
+    "colourPriorityIdentity": {
+      "ja": "優先権は、先の出願と同一または実質的に同一の商標で、同種の商品・役務について主張する。先願が白黒でカナダ出願が色彩を権利要素として主張する場合などは実質的同一性が問題となるため、優先権主張前に個別評価する。",
+      "en": "Priority requires the same or substantially the same mark for the same kind of goods or services. Where the earlier filing is monochrome but the Canadian application claims colour as a feature, substantial identity should be assessed case by case before relying on priority.",
+      "fr": "La priorité exige la même marque ou une marque sensiblement identique pour le même genre de produits ou services. Lorsque le premier dépôt est monochrome mais que la demande canadienne revendique la couleur comme caractéristique, l’identité substantielle doit être évaluée au cas par cas."
+    },
+    "colourRelativeGrounds": {
+      "ja": "混同は商標の外観・音・観念、識別力、商品役務、取引経路その他すべての周囲事情により判断される。色彩クレームは外観と権利範囲に影響し得るが、色の違いだけで混同が否定されるとは限らない。",
+      "en": "Confusion is assessed in light of all surrounding circumstances, including appearance, sound, ideas suggested, distinctiveness, goods or services and channels of trade. A colour claim may affect appearance and scope, but colour differences alone do not necessarily avoid confusion.",
+      "fr": "La confusion est appréciée selon toutes les circonstances de l’espèce, notamment l’apparence, le son, les idées suggérées, le caractère distinctif, les produits ou services et les voies de commercialisation. Une revendication de couleur peut influer sur l’apparence et la portée, sans que la seule différence de couleur exclue nécessairement la confusion."
+    },
+    "colourGenuineUse": {
+      "ja": "Section 45では登録商標の使用を示す必要がある。実使用態様の色彩・デザイン変更が、登録標章の支配的特徴を維持し、公衆に同一商標として認識される程度かが問題となる。色彩が登録上重要な特徴なら変更リスクが高い。",
+      "en": "Section 45 requires use of the registered mark. A changed colour or design must preserve the dominant features so that the public would perceive substantially the same mark. Risk is higher where colour is an important registered feature.",
+      "fr": "L’article 45 exige l’emploi de la marque enregistrée. Une modification de couleur ou de dessin doit préserver les caractéristiques dominantes de sorte que le public perçoive sensiblement la même marque. Le risque est accru lorsque la couleur constitue une caractéristique importante de l’enregistrement."
+    },
+    "colourInfringementScope": {
+      "ja": "侵害・減価およびpassing offでは登録表示、混同または識別力・信用への影響を総合評価する。色彩を明示的に権利要素とした登録は色彩が範囲判断に影響し、色彩限定のない語商標は特定の表示態様に限られない可能性がある。",
+      "en": "In infringement, depreciation-of-goodwill and passing-off claims, the registration, confusion and effect on distinctiveness or goodwill are assessed as a whole. Expressly claimed colour affects scope, while a word-mark registration may not be confined to one presentation.",
+      "fr": "En matière de contrefaçon, de dépréciation de l’achalandage et de commercialisation trompeuse, l’enregistrement, la confusion et l’atteinte au caractère distinctif ou à l’achalandage sont appréciés globalement. Une couleur expressément revendiquée influe sur la portée, tandis qu’une marque nominale peut ne pas être limitée à une seule présentation."
+    },
+    "colourFilingStrategy": {
+      "ja": "色彩がブランドの本質でなければ、語商標・白黒または色彩非限定の図形と、重要な色彩態様を別出願する組合せを検討する。色彩を特徴として主張する場合は、カラー表示と各主要部分の色名による説明が必要。",
+      "en": "If colour is not essential to the brand, consider combining a word or non-colour-limited filing with a separate filing for the important colour presentation. When colour is claimed as a feature, submit a colour representation and describe by name the colour of each principal part.",
+      "fr": "Si la couleur n’est pas essentielle à la marque, envisager de combiner une demande de marque nominale ou non limitée à une couleur avec une demande distincte pour la présentation colorée importante. Lorsque la couleur est revendiquée, fournir une représentation en couleur et décrire par leur nom les couleurs des parties principales."
+    },
+    "otherCancellation": {
+      "ja": "あり。連邦裁判所は登録時の登録不能、現時点の識別力欠如、放棄、権原欠如、悪意等を理由に登録簿の記載を抹消・修正できる。芸術・産業の発展を不当に制限する登録の抹消規定もある。",
+      "en": "Available. The Federal Court may expunge or amend a registration for non-registrability at registration, current non-distinctiveness, abandonment, lack of entitlement, bad faith and other grounds. A mark unreasonably limiting the development of an art or industry may also be expunged.",
+      "fr": "Prévue. La Cour fédérale peut radier ou modifier un enregistrement pour non-enregistrabilité lors de l’enregistrement, absence actuelle de caractère distinctif, abandon, absence de droit, mauvaise foi et autres motifs. Une marque limitant déraisonnablement le développement d’un art ou d’une industrie peut aussi être radiée."
+    },
+    "invalidation": {
+      "ja": "あり。主としてカナダ連邦裁判所が商標法57条に基づき登録簿の抹消・修正を扱う。Section 45は不使用に特化した別の簡易手続。",
+      "en": "Available, principally by application to the Federal Court under section 57 to strike or amend the register. Section 45 is a separate summary procedure focused on non-use.",
+      "fr": "Prévue, principalement par demande à la Cour fédérale en vertu de l’article 57 pour radier ou modifier le registre. L’article 45 constitue une procédure sommaire distincte axée sur le défaut d’emploi."
+    },
+    "civilInjunction": {
+      "ja": "あり。暫定的・終局的差止めを含め、裁判所が状況に適切な命令を発することができる。",
+      "en": "Available. Courts may grant appropriate orders, including interlocutory and permanent injunctions.",
+      "fr": "Prévue. Les tribunaux peuvent rendre les ordonnances appropriées, y compris des injonctions interlocutoires et permanentes."
+    },
+    "civilDamages": {
+      "ja": "あり。損害賠償または侵害者利益の返還、懲罰的損害賠償が認められ得る。成立要件と算定は請求原因・事案により異なる。",
+      "en": "Available. Damages or an accounting of profits, and punitive damages, may be awarded. Entitlement and calculation depend on the cause of action and facts.",
+      "fr": "Prévus. Des dommages-intérêts ou la restitution des bénéfices, ainsi que des dommages-intérêts punitifs, peuvent être accordés. Le droit et le calcul dépendent du fondement et des faits."
+    },
+    "civilEvidencePreservation": {
+      "ja": "文書開示、口頭証拠開示、査察、Anton Piller命令等が事案に応じて利用可能。緊急命令は厳格な要件を満たす必要がある。",
+      "en": "Documentary and oral discovery, inspection and, in suitable cases, Anton Piller orders may be available. Extraordinary preservation orders have strict requirements.",
+      "fr": "La communication de documents, les interrogatoires préalables, l’inspection et, dans les cas appropriés, les ordonnances Anton Piller peuvent être disponibles. Les ordonnances extraordinaires de préservation sont soumises à des conditions strictes."
+    },
+    "civilOther": {
+      "ja": "侵害品・包装・ラベル・広告物および製造設備の廃棄その他の処分、宣言的救済、訴訟費用等。未登録標章についてpassing offを請求できる場合がある。",
+      "en": "Destruction or other disposition of offending goods, packaging, labels, advertising and production equipment, declaratory relief and costs may be available. Passing off may protect qualifying unregistered marks.",
+      "fr": "La destruction ou autre disposition des produits, emballages, étiquettes, publicités et équipements de production litigieux, un jugement déclaratoire et les dépens peuvent être accordés. La commercialisation trompeuse peut protéger certaines marques non enregistrées."
+    },
+    "borderMeasures": {
+      "ja": "あり。登録商標権者はCBSAの知的財産権プログラムにRequest for Assistanceを提出し、国境で発見された疑義ある模倣品の一時留置と情報提供を受け得る。",
+      "en": "Available. A registered trademark owner may file a Request for Assistance under the CBSA IPR Program so suspected counterfeit goods encountered at the border may be temporarily detained and information provided.",
+      "fr": "Prévues. Le propriétaire d’une marque enregistrée peut déposer une demande d’aide dans le cadre du programme des DPI de l’ASFC afin que les marchandises soupçonnées de contrefaçon repérées à la frontière puissent être retenues temporairement et que des renseignements lui soient fournis."
+    },
+    "administrativeRaid": {
+      "ja": "一般的なCIPO主導の行政摘発制度ではない。模倣品事案では警察・刑事当局への通報、CBSA水際措置および民事訴訟を組み合わせる。",
+      "en": "There is no general CIPO-led administrative raid remedy. Counterfeit matters may involve police or criminal authorities, CBSA border measures and civil proceedings.",
+      "fr": "Il n’existe pas de mesure générale de perquisition administrative dirigée par l’OPIC. Les affaires de contrefaçon peuvent mobiliser la police ou les autorités pénales, les mesures frontalières de l’ASFC et les recours civils."
+    },
+    "administrativeOther": {
+      "ja": "TMOBによる異議、Section 45抹消、地理的表示に対する異議等。これらは登録・登録簿に関する行政手続であり、侵害行為を直接差し止めるものではない。",
+      "en": "Administrative proceedings include TMOB opposition, section 45 expungement and geographical-indication objection proceedings. They concern registration or the register and do not themselves enjoin marketplace infringement.",
+      "fr": "Les procédures administratives comprennent l’opposition devant la Commission, la radiation selon l’article 45 et les objections relatives aux indications géographiques. Elles concernent l’enregistrement ou le registre et n’interdisent pas elles-mêmes la contrefaçon sur le marché."
+    },
+    "criminalAvailability": {
+      "ja": "あり。登録商標と同一または本質的に識別できない標章を付した商品等の故意かつ商業規模での販売・流通・製造・輸出入などが犯罪となり得る。",
+      "en": "Available. Knowing commercial-scale sale, distribution, manufacture, import or export of goods bearing a mark identical to, or indistinguishable in essential aspects from, a registered mark may constitute an offence.",
+      "fr": "Prévue. La vente, distribution, fabrication, importation ou exportation délibérée à l’échelle commerciale de produits portant une marque identique ou impossible à distinguer dans ses aspects essentiels d’une marque enregistrée peut constituer une infraction."
+    },
+    "criminalFine": {
+      "ja": "正式起訴による有罪判決では最高100万カナダドル、略式有罪判決では最高2万5,000カナダドルの罰金。適用条文と改正の有無を事件時に確認する。",
+      "en": "Up to CAD 1,000,000 on conviction by indictment, or CAD 25,000 on summary conviction. Confirm the applicable provision and any amendment at the time of the case.",
+      "fr": "Jusqu’à 1 000 000 CAD sur déclaration de culpabilité par mise en accusation, ou 25 000 CAD sur déclaration de culpabilité par procédure sommaire. Vérifier la disposition applicable et toute modification au moment de l’affaire."
+    },
+    "criminalImprisonment": {
+      "ja": "正式起訴では最高5年、略式有罪判決では最高6か月の拘禁刑。罰金との併科が可能。",
+      "en": "Up to five years on indictment, or six months on summary conviction; imprisonment may be combined with a fine.",
+      "fr": "Jusqu’à cinq ans sur mise en accusation, ou six mois sur déclaration de culpabilité par procédure sommaire; l’emprisonnement peut être assorti d’une amende."
+    },
+    "criminalOther": {
+      "ja": "模倣品、ラベル、包装、製造関連物品の押収・没収・廃棄等が問題となり得る。刑事立件には故意、商業規模その他の法定要件の検討が必要。",
+      "en": "Seizure, forfeiture and destruction of counterfeit goods, labels, packaging and related production items may follow. Criminal enforcement requires analysis of knowledge, commercial scale and other statutory elements.",
+      "fr": "La saisie, la confiscation et la destruction des produits contrefaits, étiquettes, emballages et articles de production connexes peuvent s’ensuivre. L’application pénale exige l’analyse de la connaissance, de l’échelle commerciale et des autres éléments légaux."
+    }
+  },
+  "notablePoints": [
+    {
+      "id": "bilingual-descriptiveness-examination",
+      "category": "examination",
+      "importance": "high",
+      "title": {
+        "ja": "記述性は英語・フランス語の双方で審査",
+        "en": "Descriptiveness is examined in both English and French",
+        "fr": "Le caractère descriptif est examiné en français et en anglais"
+      },
+      "summary": {
+        "ja": "商標が英語またはフランス語で商品・役務の特徴、品質、原産地等を明確に記述し、または誤認的に記述する場合、拒絶理由となり得る。片方の言語だけで問題があっても足りる。",
+        "en": "A mark may be refused if it is clearly descriptive or deceptively misdescriptive in either English or French of characteristics, quality, origin or related matters. A problem in only one official language can be sufficient.",
+        "fr": "Une marque peut être refusée si, en français ou en anglais, elle décrit clairement ou de façon faussement descriptive les caractéristiques, la qualité, l’origine ou des éléments connexes. Un problème dans une seule langue officielle peut suffire."
+      },
+      "practicalImpact": {
+        "ja": "英語話者に造語的に見える語でも、フランス語では記述的となる可能性があり、その逆もある。",
+        "en": "A term that appears coined to an English speaker may be descriptive in French, and vice versa.",
+        "fr": "Un terme qui paraît inventé à un anglophone peut être descriptif en français, et inversement."
+      },
+      "recommendedAction": {
+        "ja": "出願前調査に英仏両言語の辞書、業界用語およびカナダでの通常の語法を含める。",
+        "en": "Include English and French dictionaries, trade terminology and ordinary Canadian usage in pre-filing clearance.",
+        "fr": "Inclure dans la recherche préalable les dictionnaires français et anglais, la terminologie du secteur et l’usage canadien ordinaire."
+      },
+      "agentQuestion": {
+        "ja": "本商標は英語またはフランス語のいずれかで、記述的・誤認的記述または商品役務名称に当たりませんか。",
+        "en": "Could this mark be descriptive, deceptively misdescriptive, or the name of the goods or services in either English or French?",
+        "fr": "Cette marque pourrait-elle être descriptive, faussement descriptive ou constituer le nom des produits ou services en français ou en anglais?"
+      },
+      "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/t-13/FullText.html",
+      "checkedAt": "2026-09-12",
+      "status": "verified"
+    },
+    {
+      "id": "section-45-summary-expungement",
+      "category": "maintenance",
+      "importance": "high",
+      "title": {
+        "ja": "Section 45は登録名義人側が使用を立証する簡易手続",
+        "en": "Section 45 is a summary procedure requiring the owner to prove use",
+        "fr": "L’article 45 est une procédure sommaire exigeant du propriétaire la preuve de l’emploi"
+      },
+      "summary": {
+        "ja": "登録後3年を経過すると、第三者は所定料金によりSection 45通知を請求できる。登録名義人は通知前3年間の各商品・役務について、宣誓供述書または法定宣言で使用を示す。第三者は使用不存在を最初から全面立証する必要がない。",
+        "en": "Once a registration is more than three years old, any person may request a section 45 notice for the prescribed fee. The owner must show use for each relevant good or service during the preceding three years by affidavit or statutory declaration; the requester need not first prove the negative comprehensively.",
+        "fr": "Après trois ans d’enregistrement, toute personne peut demander un avis fondé sur l’article 45 moyennant la taxe prescrite. Le propriétaire doit démontrer par affidavit ou déclaration solennelle l’emploi pour chaque produit ou service pertinent durant les trois années précédentes; le requérant n’a pas à prouver d’emblée de façon exhaustive l’absence d’emploi."
+      },
+      "practicalImpact": {
+        "ja": "登録時や更新時に使用証拠を提出しなくても、後日のSection 45に備え、請求書、包装、広告、ウェブ資料およびカナダとの取引関係を商品・役務別に保存する必要がある。",
+        "en": "Although use evidence is not filed at registration or renewal, invoices, packaging, advertising, web materials and Canadian trade connections should be preserved by good and service for a later section 45 challenge.",
+        "fr": "Même si aucune preuve d’emploi n’est déposée lors de l’enregistrement ou du renouvellement, il faut conserver, par produit et service, les factures, emballages, publicités, documents web et liens commerciaux avec le Canada en vue d’une contestation fondée sur l’article 45."
+      },
+      "recommendedAction": {
+        "ja": "登録後3年を待たず、毎年、指定商品・役務ごとのカナダ使用証拠を整理し、ライセンス使用では品質管理を文書化する。",
+        "en": "Without waiting for the third anniversary, organize Canadian use evidence annually for each listed good and service and document control where use is licensed.",
+        "fr": "Sans attendre le troisième anniversaire, organiser chaque année la preuve d’emploi au Canada pour chaque produit et service et documenter le contrôle lorsque l’emploi est sous licence."
+      },
+      "agentQuestion": {
+        "ja": "各指定商品・役務について、Section 45を耐えられる証拠は揃っていますか。使用態様の変更は登録標章との同一性を害しませんか。",
+        "en": "For each listed good and service, do we have evidence sufficient for section 45, and could any variation in the mark jeopardize proof of the registered mark?",
+        "fr": "Pour chaque produit et service énuméré, disposons-nous d’une preuve suffisante au regard de l’article 45, et une variation de la marque pourrait-elle compromettre la preuve de la marque enregistrée?"
+      },
+      "sourceUrl": "https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/trademarks-opposition-board/practice-section-45-proceedings",
+      "checkedAt": "2026-09-12",
+      "status": "verified"
+    },
+    {
+      "id": "official-marks-risk",
+      "category": "clearance",
+      "importance": "high",
+      "title": {
+        "ja": "カナダ特有のofficial marksを事前調査",
+        "en": "Clear Canada-specific official marks before filing",
+        "fr": "Vérifier les marques officielles propres au Canada avant le dépôt"
+      },
+      "summary": {
+        "ja": "公的機関が採用・使用し登録官が公告したofficial markと同一または酷似する標章には、商標法9条上の広い禁止が及び得る。通常の指定商品・役務の類似性だけでは処理できない点が重要。",
+        "en": "Section 9 may broadly prohibit marks identical or closely resembling an official mark adopted and used by a public authority and publicly notified by the Registrar. The issue is not resolved merely by comparing goods and services.",
+        "fr": "L’article 9 peut interdire largement une marque identique ou ressemblant étroitement à une marque officielle adoptée et employée par une autorité publique et publiée par le registraire. La seule comparaison des produits et services ne règle pas la question."
+      },
+      "practicalImpact": {
+        "ja": "遠い分野のofficial markでも障害となる可能性があり、通常の商標類似調査だけでは見落としやすい。",
+        "en": "An official mark in a remote field may still create an obstacle and can be missed by a conventional similarity search.",
+        "fr": "Une marque officielle dans un domaine éloigné peut néanmoins créer un obstacle et échapper à une recherche classique de similitude."
+      },
+      "recommendedAction": {
+        "ja": "CIPOデータベースでofficial marksを含めて検索し、障害候補について公的機関性、採用・使用、同意または法定救済の可能性を現地代理人と検討する。",
+        "en": "Search official marks in the CIPO database and ask Canadian counsel to assess public-authority status, adoption and use, consent, and any statutory relief for a blocking mark.",
+        "fr": "Rechercher les marques officielles dans la base de l’OPIC et demander au conseil canadien d’évaluer le statut d’autorité publique, l’adoption et l’emploi, le consentement et tout recours légal possible."
+      },
+      "agentQuestion": {
+        "ja": "本件標章に近いofficial markはありますか。ある場合、同意取得または商標法9条4項の手続は現実的ですか。",
+        "en": "Are there any similar official marks, and if so, is consent or a subsection 9(4) route realistic?",
+        "fr": "Existe-t-il des marques officielles similaires et, dans l’affirmative, le consentement ou une démarche fondée sur le paragraphe 9(4) est-il réaliste?"
+      },
+      "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/t-13/FullText.html",
+      "checkedAt": "2026-09-12",
+      "status": "verified"
+    },
+    {
+      "id": "tmob-2025-new-powers",
+      "category": "disputes",
+      "importance": "medium",
+      "title": {
+        "ja": "2025年4月からTMOBに費用裁定・秘密保持・事件管理権限",
+        "en": "TMOB gained costs, confidentiality and case-management powers in April 2025",
+        "fr": "La Commission dispose depuis avril 2025 de pouvoirs relatifs aux dépens, à la confidentialité et à la gestion des instances"
+      },
+      "summary": {
+        "ja": "2025年4月1日施行の改正により、異議、Section 45および地理的表示手続で、一定の場合の費用裁定、証拠の秘密保持命令および事件管理が導入された。悪意による拒絶や不合理な遅延行為には費用リスクがある。",
+        "en": "Amendments effective 1 April 2025 introduced costs awards in specified circumstances, confidentiality orders for evidence and case management in opposition, section 45 and geographical-indication proceedings. Bad-faith refusal and unreasonable delay can create costs exposure.",
+        "fr": "Les modifications entrées en vigueur le 1er avril 2025 ont introduit, dans certaines circonstances, l’adjudication de dépens, les ordonnances de confidentialité visant la preuve et la gestion des instances d’opposition, de l’article 45 et d’indications géographiques. Un refus pour mauvaise foi et un retard déraisonnable peuvent entraîner des dépens."
+      },
+      "practicalImpact": {
+        "ja": "従前よりも手続行動、証拠提出時期、機密資料の扱いおよび分割出願の戦略に費用面の注意が必要。",
+        "en": "Procedural conduct, timing of evidence, handling of confidential materials and post-advertisement division strategy now require greater costs awareness.",
+        "fr": "La conduite procédurale, le calendrier de la preuve, le traitement des renseignements confidentiels et la stratégie de division après annonce exigent désormais une attention accrue aux dépens."
+      },
+      "recommendedAction": {
+        "ja": "TMOB案件開始時に秘密保持命令の必要性と費用裁定リスクを評価し、提出直前ではなく早期に申請方針を決める。",
+        "en": "At the outset of a TMOB matter, assess the need for a confidentiality order and potential costs exposure, and decide the filing strategy early.",
+        "fr": "Dès le début d’une affaire devant la Commission, évaluer la nécessité d’une ordonnance de confidentialité et le risque de dépens, puis arrêter rapidement la stratégie de dépôt."
+      },
+      "agentQuestion": {
+        "ja": "本件で秘密保持命令または費用裁定が問題となる可能性と、先に講ずべき手続を教えてください。",
+        "en": "Please assess whether a confidentiality order or costs award may arise and what procedural steps should be taken first.",
+        "fr": "Veuillez évaluer si une ordonnance de confidentialité ou une adjudication de dépens pourrait être en cause et quelles mesures procédurales devraient être prises en premier."
+      },
+      "sourceUrl": "https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/trademarks/legislative-and-regulatory-amendments-resulting-canadas-intellectual-property-strategy",
+      "checkedAt": "2026-09-12",
+      "status": "verified"
+    },
+    {
+      "id": "use-restriction-first-three-years-enforcement",
+      "category": "enforcement",
+      "importance": "high",
+      "title": {
+        "ja": "登録後3年以内の権利行使にも使用要件が影響",
+        "en": "Use affects enforcement during the first three years after registration",
+        "fr": "L’emploi influe sur l’exercice des droits pendant les trois premières années suivant l’enregistrement"
+      },
+      "summary": {
+        "ja": "登録後3年以内に商標法19条、20条または22条違反を理由に救済を求める場合、原則としてその期間中のカナダ使用、または不使用を免責する特別事情がなければ救済を受けられない。登録のみで直ちにあらゆる救済が確保されるわけではない。",
+        "en": "Where an owner seeks relief under sections 19, 20 or 22 within the first three years after registration, relief is generally unavailable unless the mark was used in Canada during that period or special circumstances excuse non-use. Registration alone does not automatically secure every remedy.",
+        "fr": "Lorsqu’un propriétaire demande une réparation fondée sur les articles 19, 20 ou 22 pendant les trois premières années suivant l’enregistrement, celle-ci est généralement indisponible à moins que la marque ait été employée au Canada durant cette période ou que des circonstances spéciales justifient le défaut d’emploi. L’enregistrement seul ne garantit pas automatiquement tous les recours."
+      },
+      "practicalImpact": {
+        "ja": "防御目的の出願で実際のカナダ使用計画がない場合、登録直後の侵害訴訟戦略に制約が生じ得る。",
+        "en": "A defensive filing without a genuine Canadian-use plan may face constraints in an infringement strategy shortly after registration.",
+        "fr": "Un dépôt défensif sans véritable projet d’emploi au Canada peut limiter une stratégie de contrefaçon peu après l’enregistrement."
+      },
+      "recommendedAction": {
+        "ja": "出願時からカナダでの使用開始計画と証拠保存方法を作り、訴訟前に商品・役務ごとの使用状況を精査する。",
+        "en": "Plan Canadian launch and evidence retention from filing, and audit use for each good and service before enforcement.",
+        "fr": "Planifier dès le dépôt le lancement au Canada et la conservation de la preuve, puis vérifier l’emploi pour chaque produit et service avant toute action."
+      },
+      "agentQuestion": {
+        "ja": "登録後3年以内の本件権利行使に必要なカナダ使用を立証できますか。特別事情の主張は可能ですか。",
+        "en": "Can we prove the Canadian use needed for enforcement during the first three years after registration, or rely on special circumstances?",
+        "fr": "Pouvons-nous démontrer l’emploi au Canada requis pour exercer les droits pendant les trois premières années, ou invoquer des circonstances spéciales?"
+      },
+      "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/t-13/Section-53.2.html",
+      "checkedAt": "2026-09-12",
+      "status": "verified"
+    }
+  ],
+  "statistics": {
+    "coverage": "2016–2025",
+    "status": "pending",
+    "series": []
+  },
+  "news": [
+    {
+      "id": "registrar-initiated-section-45-pilot-2026",
+      "type": "practice",
+      "date": "2026-04-10",
+      "title": {
+        "ja": "登録官職権によるSection 45抹消パイロット",
+        "en": "Pilot for Registrar-initiated section 45 expungement",
+        "fr": "Projet pilote de radiation fondée sur l’article 45 à l’initiative du registraire"
+      },
+      "summary": {
+        "ja": "CIPOは、登録簿を現に使用される商標へ近づけるため、登録官が職権でSection 45手続を開始するパイロットを実施。選定基準・手続および今後の運用を継続確認する。",
+        "en": "CIPO is piloting Registrar-initiated section 45 proceedings to help align the register with marks actually in use. Selection criteria, procedure and future operation should be monitored.",
+        "fr": "L’OPIC mène un projet pilote de procédures fondées sur l’article 45 à l’initiative du registraire afin de mieux aligner le registre sur les marques effectivement employées. Il convient de surveiller les critères de sélection, la procédure et l’évolution du programme."
+      },
+      "sourceUrl": "https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/trademarks-opposition-board/pilot-project-registrar-initiated-section-45-expungement-proceeding"
+    },
+    {
+      "id": "tmob-regulatory-amendments-2025",
+      "type": "law",
+      "date": "2025-04-01",
+      "title": {
+        "ja": "TMOB手続に費用裁定・秘密保持命令・事件管理を導入",
+        "en": "Costs, confidentiality orders and case management introduced for TMOB proceedings",
+        "fr": "Introduction des dépens, des ordonnances de confidentialité et de la gestion des instances devant la Commission"
+      },
+      "summary": {
+        "ja": "2025年4月1日施行の商標法・規則改正により、異議、Section 45および地理的表示手続の効率化と濫用抑止を目的とする新権限が発効した。",
+        "en": "Trademark Act and Regulations amendments effective 1 April 2025 introduced new powers intended to improve efficiency and deter abusive conduct in oppositions, section 45 and geographical-indication proceedings.",
+        "fr": "Les modifications de la Loi et du Règlement entrées en vigueur le 1er avril 2025 ont introduit de nouveaux pouvoirs visant à améliorer l’efficacité et à décourager les comportements abusifs dans les oppositions et les procédures fondées sur l’article 45 ou relatives aux indications géographiques."
+      },
+      "sourceUrl": "https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/trademarks/legislative-and-regulatory-amendments-resulting-canadas-intellectual-property-strategy"
+    },
+    {
+      "id": "cipo-trademark-recovery-2025",
+      "type": "practice",
+      "date": "2025-11-20",
+      "title": {
+        "ja": "CIPOが商標審査滞貨削減の進展を報告",
+        "en": "CIPO reports progress reducing the trademark examination backlog",
+        "fr": "L’OPIC fait état de progrès dans la réduction de l’arriéré d’examen des marques"
+      },
+      "summary": {
+        "ja": "CIPOの2024–2025年次報告は、2025年3月時点で審査待ち在庫が前年比42%減少し、初回アクションまでの時間が18%改善したと報告した。2026–2027年度の初回アクション目標は国内・マドプロとも14か月。",
+        "en": "CIPO’s 2024–2025 annual report stated that, by March 2025, the examination inventory had fallen 42% year over year and first-action turnaround had improved 18%. The 2026–2027 first-action target is 14 months for both national and Protocol applications.",
+        "fr": "Le rapport annuel 2024–2025 de l’OPIC indiquait qu’en mars 2025 l’inventaire en attente d’examen avait diminué de 42 % sur un an et que le délai de première mesure s’était amélioré de 18 %. L’objectif 2026–2027 est de 14 mois pour les demandes nationales et du Protocole."
+      },
+      "sourceUrl": "https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/2024-2025-annual-report-canadian-intellectual-property-office"
+    }
+  ],
+  "faqs": [
+    {
+      "tag": "Filing",
+      "question": {
+        "ja": "商品・役務の記載はCIPOのGoods and Services Manualに照らして十分具体的ですか。",
+        "en": "Is the goods and services wording sufficiently specific under CIPO’s Goods and Services Manual?",
+        "fr": "Le libellé des produits et services est-il suffisamment précis au regard du Manuel des produits et des services de l’OPIC?"
+      },
+      "followUp": {
+        "ja": "事前承認用語に置き換えた場合、権利範囲または事業上必要な商品・役務を失いませんか。",
+        "en": "Would substituting pre-approved terms omit commercially necessary goods or services or materially narrow protection?",
+        "fr": "Le remplacement par des termes préapprouvés omettrait-il des produits ou services commercialement nécessaires ou réduirait-il sensiblement la protection?"
+      }
+    },
+    {
+      "tag": "Clearance",
+      "question": {
+        "ja": "通常の先行商標に加えて、official marks、商号および未登録の先使用標章を調査しましたか。",
+        "en": "In addition to ordinary prior marks, have we searched official marks, trade names and earlier unregistered marks?",
+        "fr": "Outre les marques antérieures ordinaires, avons-nous recherché les marques officielles, les noms commerciaux et les marques antérieures non enregistrées?"
+      },
+      "followUp": {
+        "ja": "障害候補について同意、共存、商品役務限定またはSection 9対応のどれが現実的ですか。",
+        "en": "For each obstacle, is consent, coexistence, narrowing, or a section 9 solution realistic?",
+        "fr": "Pour chaque obstacle, le consentement, la coexistence, une limitation ou une solution fondée sur l’article 9 est-il réaliste?"
+      }
+    },
+    {
+      "tag": "Examination",
+      "question": {
+        "ja": "本商標は英語・フランス語のどちらかで記述的、誤認的記述または商品役務名称に当たりませんか。",
+        "en": "Is the mark descriptive, deceptively misdescriptive, or the name of the goods or services in either English or French?",
+        "fr": "La marque est-elle descriptive, faussement descriptive ou le nom des produits ou services en français ou en anglais?"
+      },
+      "followUp": {
+        "ja": "拒絶可能性がある場合、識別力証拠、指定限定または別商標への変更のどれを推奨しますか。",
+        "en": "If an objection is likely, do you recommend acquired-distinctiveness evidence, narrowing, or adopting a different mark?",
+        "fr": "Si une objection est probable, recommandez-vous une preuve de caractère distinctif acquis, une limitation ou l’adoption d’une autre marque?"
+      }
+    },
+    {
+      "tag": "Madrid",
+      "question": {
+        "ja": "カナダ指定の暫定拒絶に応答するため、いつまでにカナダ商標代理人を選任する必要がありますか。",
+        "en": "By what date must a Canadian trademark agent be appointed to respond to this provisional refusal?",
+        "fr": "À quelle date devons-nous nommer un agent de marques de commerce canadien pour répondre à ce refus provisoire?"
+      },
+      "followUp": {
+        "ja": "国際登録の商品役務をカナダ基準に適合させるため、どの表現をどこまで限定すべきですか。",
+        "en": "Which terms should be narrowed, and to what extent, to satisfy Canadian specificity requirements without unnecessary loss of scope?",
+        "fr": "Quels termes devraient être limités, et dans quelle mesure, pour satisfaire aux exigences canadiennes de précision sans perte inutile de portée?"
+      }
+    },
+    {
+      "tag": "Non-use",
+      "question": {
+        "ja": "各指定商品・役務について、Section 45通知前3年間のカナダ使用を示す証拠がありますか。",
+        "en": "For each listed good and service, do we have evidence of Canadian use during the three years preceding a section 45 notice?",
+        "fr": "Pour chaque produit et service énuméré, disposons-nous d’une preuve d’emploi au Canada pendant les trois années précédant un avis fondé sur l’article 45?"
+      },
+      "followUp": {
+        "ja": "ライセンシー使用の管理、および登録態様と実使用態様の差異に問題はありませんか。",
+        "en": "Are control over licensed use and any differences between the registered and used forms adequately documented?",
+        "fr": "Le contrôle de l’emploi sous licence et les différences entre la forme enregistrée et la forme employée sont-ils suffisamment documentés?"
+      }
+    },
+    {
+      "tag": "Enforcement",
+      "question": {
+        "ja": "CBSAへのRequest for Assistanceを今提出すべきですか。対象登録と真正品・模倣品識別資料は十分ですか。",
+        "en": "Should we file a CBSA Request for Assistance now, and are the relevant registrations and genuine-versus-counterfeit identification materials sufficient?",
+        "fr": "Devons-nous déposer dès maintenant une demande d’aide auprès de l’ASFC, et les enregistrements pertinents ainsi que les documents permettant de distinguer les produits authentiques des contrefaçons sont-ils suffisants?"
+      },
+      "followUp": {
+        "ja": "留置通知後に必要となる訴訟、担保、保管・廃棄費用および対応期限を教えてください。",
+        "en": "What litigation, security, storage or destruction costs and response deadlines would follow a detention notice?",
+        "fr": "Quels litiges, garanties, frais d’entreposage ou de destruction et délais de réponse suivraient un avis de retenue?"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "Justice Laws — Trademarks Act",
+      "url": "https://laws-lois.justice.gc.ca/eng/acts/t-13/FullText.html",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "CIPO — Trademarks guide",
+      "url": "https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/trademarks/trademarks-guide",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "CIPO — IP roadmap: trademark registration",
+      "url": "https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/ip-roadmap-your-path-trademark-registration",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "CIPO — Performance targets 2026–2027",
+      "url": "https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/corporate-information/performance-targets",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "CIPO — Goods and Services Manual",
+      "url": "https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/trademarks/goods-and-services-manual",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "CIPO — Nice Classification questions and answers",
+      "url": "https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/trademarks/using-nice-classification-canada-questions-and-answers",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "CIPO — Non-traditional trademarks",
+      "url": "https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/trademarks/practice-notices/non-traditional-trademarks",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "CIPO — Describing colour",
+      "url": "https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/trademarks/practice-notices/draft-resources-upcoming-trademarks-legislative-changes/describing-colour",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "CIPO — Priority claims",
+      "url": "https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/trademarks/practice-notices/priority-claims",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "CIPO — Requests for expedited examination",
+      "url": "https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/trademarks/practice-notices/requests-expedited-examination",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "CIPO — Extensions of time in examination",
+      "url": "https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/trademarks/practice-notices/extensions-time-examination-and-respond-section-441-notice",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "CIPO — Practice in trademark opposition proceedings",
+      "url": "https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/trademarks-opposition-board/practice-trademark-opposition-proceedings",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "CIPO — Practice in section 45 proceedings",
+      "url": "https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/trademarks-opposition-board/practice-section-45-proceedings",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "CIPO — 2025 legislative and regulatory amendments",
+      "url": "https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/trademarks/legislative-and-regulatory-amendments-resulting-canadas-intellectual-property-strategy",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "CIPO — Registrar-initiated section 45 pilot",
+      "url": "https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/trademarks-opposition-board/pilot-project-registrar-initiated-section-45-expungement-proceeding",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "Canadian Trademarks Database",
+      "url": "https://ised-isde.canada.ca/cipo/trademark-search/srch?lang=eng",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "CBSA — Intellectual Property Rights Program",
+      "url": "https://www.cbsa-asfc.gc.ca/security-securite/ipr-dpi/menu-eng.html",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "label": "WIPO — Canada joins trademark treaties",
+      "url": "https://www.wipo.int/portal/en/news/2019/article_0012.html",
+      "type": "official",
+      "checkedAt": "2026-09-12"
+    }
+  ]
+}
