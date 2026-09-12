@@ -36,6 +36,10 @@
     "path": "./data/jurisdictions/my.json"
   },
   {
+    "id": "sg",
+    "path": "./data/jurisdictions/sg.json"
+  },
+  {
     "id": "euipo",
     "path": "./data/jurisdictions/euipo.json"
   },
