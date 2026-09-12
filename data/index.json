@@ -88,6 +88,10 @@
     "path": "./data/jurisdictions/it.json"
   },
   {
+    "id": "ie",
+    "path": "./data/jurisdications/ie.json"
+  },
+  {
     "id": "za",
     "path": "./data/jurisdictions/za.json"
   }
