@@ -12,6 +12,10 @@
     "path": "./data/jurisdictions/au.json"
   },
   {
+    "id": "nz",
+    "path": "./data/jurisdictions/nz.json"
+  },
+  {
     "id": "euipo",
     "path": "./data/jurisdictions/euipo.json"
   },
