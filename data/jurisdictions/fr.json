@@ -1,0 +1,480 @@
+{
+  "id": "fr",
+  "type": "country",
+  "flag": "🇫🇷",
+  "region": "europe",
+  "names": { "ja": "フランス", "en": "France", "fr": "France" },
+  "office": {
+    "ja": "フランス国立産業財産庁（INPI）",
+    "en": "French National Institute of Industrial Property (INPI)",
+    "fr": "Institut national de la propriété industrielle (INPI)"
+  },
+  "availableLanguages": ["fr"],
+  "createdAt": "2026-09-12",
+  "updatedAt": "2026-09-12",
+  "status": "review",
+  "facts": {
+    "authority": {
+      "ja": "フランス国立産業財産庁（INPI）。フランス商標の出願・登録、異議、行政上の無効・取消手続を扱う。侵害訴訟等は指定司法裁判所が扱う。",
+      "en": "The French National Institute of Industrial Property (INPI) handles French trademark filing, registration, opposition, and administrative invalidity and revocation proceedings. Designated courts hear infringement and related litigation.",
+      "fr": "L’Institut national de la propriété industrielle (INPI) traite le dépôt, l’enregistrement, l’opposition ainsi que les procédures administratives en nullité et en déchéance. Les tribunaux judiciaires désignés connaissent notamment de la contrefaçon."
+    },
+    "protectionScope": {
+      "ja": "登録商標は、指定商品・役務についてフランス領域内で排他的権利を与える。著名商標には非類似商品・役務にも及び得る拡張保護があり、未登録標識は商号、不正競争その他の法理で保護される場合がある。",
+      "en": "Registration grants exclusive rights in France for the designated goods and services. Reputed marks may receive extended protection beyond similar goods or services, while unregistered signs may sometimes be protected through trade-name, unfair-competition or other rules.",
+      "fr": "L’enregistrement confère un droit exclusif en France pour les produits et services désignés. Les marques renommées peuvent bénéficier d’une protection élargie, tandis que les signes non enregistrés peuvent parfois être protégés au titre du nom commercial, de la concurrence déloyale ou d’autres règles."
+    },
+    "markTypes": {
+      "ja": "文字、図形、形状、位置、模様、色彩、音、動き、マルチメディア、ホログラムその他、明確かつ正確に表示できる標識。団体商標および保証商標もある。香り・味等は表示要件を満たすことが難しい。",
+      "en": "Word, figurative, shape, position, pattern, colour, sound, motion, multimedia, hologram and other signs capable of clear and precise representation. Collective and guarantee marks are available. Smell and taste marks remain difficult under the representation requirement.",
+      "fr": "Marques verbales, figuratives, de forme, de position, de motif, de couleur, sonores, de mouvement, multimédias, hologrammes et autres signes représentables de manière claire et précise. Les marques collectives et de garantie sont prévues. Les odeurs et goûts restent difficiles à représenter."
+    },
+    "madridAccessionDate": {
+      "ja": "1997年11月7日（マドリッド協定議定書の発効日）",
+      "en": "7 November 1997 (entry into force of the Madrid Protocol for France)",
+      "fr": "7 novembre 1997 (entrée en vigueur du Protocole de Madrid pour la France)"
+    },
+    "niceClassification": {
+      "ja": "採用。商品・役務をニース国際分類に従って区分する。",
+      "en": "Adopted. Goods and services are classified under the Nice Classification.",
+      "fr": "Adoptée. Les produits et services sont classés selon la classification de Nice."
+    },
+    "classHeadingPractice": {
+      "ja": "類見出しの文言は、その通常の意味で明確かつ正確に特定される商品・役務のみを対象とする。類見出しを記載しただけで当該類の全商品・役務を包含しない。",
+      "en": "Class-heading wording covers only goods and services clearly and precisely identified by its ordinary meaning. Using a class heading does not automatically cover all goods or services in that class.",
+      "fr": "Le libellé d’un intitulé de classe ne couvre que les produits et services identifiés de façon claire et précise selon son sens ordinaire. Il ne couvre pas automatiquement l’ensemble de la classe."
+    },
+    "retailServices": {
+      "ja": "可。第35類で、小売・オンライン小売等の役務と対象商品を具体的に記載する。単なる商品の販売それ自体は役務として扱われない。",
+      "en": "Available in class 35. Specify the retail, online-retail or related service and the goods concerned; the mere sale of goods is not itself treated as a service.",
+      "fr": "Admis en classe 35. Il convient de préciser le service de vente au détail, en ligne ou connexe ainsi que les produits concernés; la simple vente de produits ne constitue pas en soi un service."
+    },
+    "multiClassApplication": {
+      "ja": "可。1出願で複数区分を指定でき、追加区分には追加料金が生じる。",
+      "en": "Available. One application may cover multiple classes, with additional fees for additional classes.",
+      "fr": "Admis. Une demande peut viser plusieurs classes, avec des taxes supplémentaires pour les classes additionnelles."
+    },
+    "applicationForm": {
+      "ja": "INPIのe-procéduresによるオンライン出願。出願人、標章の表示、商品・役務、区分、必要な説明・色彩指定、優先権その他の情報を入力し、料金を納付する。",
+      "en": "Filing is made online through INPI's e-procédures portal, identifying the applicant, representation of the mark, goods and services, classes, any required description or colour claim, priority and other particulars, with payment of the fee.",
+      "fr": "Le dépôt s’effectue en ligne sur le portail e-procédures de l’INPI, avec l’identité du déposant, la représentation du signe, les produits et services, les classes, les descriptions ou revendications de couleur nécessaires, la priorité et les autres renseignements, ainsi que le paiement de la taxe."
+    },
+    "powerOfAttorney": {
+      "ja": "通常、弁理士等の資格代理人による手続で個別の委任状提出は不要。資格のない受任者には委任状が必要となり得る。一定の外国出願人はフランス／EU・EEA域内の適格代理人を必要とするため、最新要件を確認する。",
+      "en": "A separate power of attorney is generally unnecessary when an authorized industrial-property attorney or lawyer acts. It may be required for another agent. Certain foreign applicants must appoint an eligible representative established in France or the EU/EEA; confirm the current rule.",
+      "fr": "Une procuration distincte n’est généralement pas requise lorsqu’un conseil en propriété industrielle ou un avocat intervient. Elle peut l’être pour un autre mandataire. Certains déposants étrangers doivent désigner un mandataire habilité établi en France ou dans l’UE/EEE; vérifier la règle actuelle."
+    },
+    "priorityDocuments": {
+      "ja": "パリ条約・WTO上の先の出願から6か月以内に優先権を主張する。先願の国、日付、番号を示し、INPIの要求に応じて証明書類および必要なフランス語訳を提出する。",
+      "en": "Claim priority within six months of the first Paris Convention or WTO filing, identifying its country, date and number. Submit supporting documents and any required French translation if requested by INPI.",
+      "fr": "La priorité doit être revendiquée dans les six mois du premier dépôt effectué dans un pays de l’Union de Paris ou membre de l’OMC, avec indication du pays, de la date et du numéro. Fournir, sur demande de l’INPI, les justificatifs et leur traduction française si nécessaire."
+    },
+    "homeRegistrationCertificate": {
+      "ja": "通常不要。フランス直接出願は本国登録を基礎とする必要がない。パリ条約6条の5に基づく特別な主張では本国登録証明が問題となり得る。",
+      "en": "Generally not required; a direct French application need not be based on a home registration. A home-registration certificate may become relevant to a special claim under Article 6quinquies of the Paris Convention.",
+      "fr": "Généralement non requis; une demande française directe n’a pas à être fondée sur un enregistrement au pays d’origine. Un certificat peut devenir pertinent pour une revendication particulière au titre de l’article 6quinquies de la Convention de Paris."
+    },
+    "useEvidenceAtFiling": {
+      "ja": "不要。出願時の使用宣誓・使用見本は登録要件ではない。ただし悪意出願は無効理由となり、登録後は5年の不使用期間に注意する。",
+      "en": "Not required. No declaration or specimen of use is a filing condition. Bad-faith filing may nevertheless invalidate a mark, and the five-year non-use period must be monitored after registration.",
+      "fr": "Non requis. Aucune déclaration ni preuve d’usage n’est une condition de dépôt. Le dépôt de mauvaise foi peut toutefois entraîner la nullité et la période de cinq ans sans usage doit être surveillée après l’enregistrement."
+    },
+    "notarizationCertification": {
+      "ja": "通常の出願書類に公証、領事認証または出願人印章は不要。証拠手続・譲渡等では個別要件を確認する。",
+      "en": "No notarization, legalization or applicant seal is normally required for filing. Check case-specific requirements for evidence, assignments or other recordal matters.",
+      "fr": "Aucune notarisation, légalisation ni apposition du sceau du déposant n’est normalement requise au dépôt. Vérifier les exigences propres aux preuves, cessions ou inscriptions."
+    },
+    "otherDocuments": {
+      "ja": "非伝統的商標の表示・説明、団体・保証商標の使用規則、外国文字の翻訳・音訳、色彩の表示、優先権情報その他を標章の種類に応じて提出する。",
+      "en": "Depending on the mark, provide representations and descriptions for non-traditional marks, regulations governing collective or guarantee marks, translations or transliterations of foreign characters, colour indications, priority details and other required material.",
+      "fr": "Selon la marque, fournir les représentations et descriptions des marques non traditionnelles, le règlement d’usage des marques collectives ou de garantie, les traductions ou translittérations de caractères étrangers, les indications de couleur, les données de priorité et les autres éléments requis."
+    },
+    "absoluteGroundsExamination": {
+      "ja": "あり。INPIが識別力、記述性、欺瞞性、公序・法令違反、保護された表示等を職権審査する。",
+      "en": "Yes. INPI examines distinctiveness, descriptiveness, deceptiveness, public policy, statutory prohibitions, protected designations and other absolute grounds ex officio.",
+      "fr": "Oui. L’INPI examine d’office le caractère distinctif ou descriptif, la tromperie, l’ordre public, les interdictions légales, les désignations protégées et les autres motifs absolus."
+    },
+    "distinctivenessGrounds": {
+      "ja": "商品・役務の普通名称・通常表示、特徴・品質・数量・用途・価値・地理的出所等を示す記述的標識、専ら商品の性質・機能等に由来する形状その他、識別力を欠く標識は拒絶される。出願前の使用による識別力獲得が考慮される場合がある。",
+      "en": "Signs that are generic or customary, descriptive of characteristics such as quality, quantity, purpose, value or geographical origin, shapes dictated exclusively by the nature or function of goods, and other non-distinctive signs are refused. Acquired distinctiveness through pre-filing use may be relevant.",
+      "fr": "Sont refusés les signes génériques ou usuels, descriptifs notamment de la qualité, quantité, destination, valeur ou provenance géographique, les formes exclusivement imposées par la nature ou la fonction du produit et les autres signes dépourvus de caractère distinctif. Le caractère acquis par l’usage antérieur peut être pertinent."
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "公序良俗に反する標識、法令・国際協定で禁止された標識、国家・国際機関の紋章等、需要者を欺く標識、保護原産地名称・地理的表示・伝統的用語・植物品種名称と抵触する標識、悪意による出願等。",
+      "en": "Grounds include signs contrary to public policy or morality; signs prohibited by law or treaty; protected state or international-organization emblems; deceptive signs; conflicts with protected designations of origin, geographical indications, traditional terms or plant-variety denominations; and applications made in bad faith.",
+      "fr": "Sont notamment visés les signes contraires à l’ordre public ou aux bonnes mœurs, interdits par la loi ou un traité, comportant des emblèmes protégés, trompeurs, en conflit avec une appellation d’origine, une indication géographique, une mention traditionnelle ou une dénomination variétale protégée, ainsi que les dépôts de mauvaise foi."
+    },
+    "relativeGroundsExamination": {
+      "ja": "原則としてなし。INPIは通常、先行商標等との抵触を職権で拒絶せず、権利者が公告後2か月以内の異議申立てまたは無効手続で主張する。出願前のクリアランス調査が重要。",
+      "en": "Generally no. INPI does not ordinarily refuse an application ex officio because of earlier trademark rights; owners must invoke them through opposition within two months of publication or through invalidity proceedings. Pre-filing clearance is therefore important.",
+      "fr": "En principe, non. L’INPI ne refuse généralement pas d’office une demande en raison de droits de marque antérieurs; leurs titulaires doivent les invoquer par opposition dans les deux mois de la publication ou par une demande en nullité. La recherche préalable est donc essentielle."
+    },
+    "disclaimer": {
+      "ja": "一般的なディスクレーム制度はない。商標は全体として登録されるが、識別力のない構成要素それ自体に独占権が生じるわけではなく、保護範囲は全体的評価で決まる。",
+      "en": "There is no general disclaimer practice. The mark is registered as a whole, but registration does not create a monopoly in a non-distinctive element by itself; scope is assessed globally.",
+      "fr": "Il n’existe pas de pratique générale de disclaimer. La marque est enregistrée dans son ensemble, sans conférer un monopole autonome sur un élément dépourvu de caractère distinctif; la portée s’apprécie globalement."
+    },
+    "consent": {
+      "ja": "同意・共存契約は異議の取下げや紛争解決に有用だが、絶対的拒絶理由を解消せず、第三者・裁判所を当然には拘束しない。INPIが先行権を職権引用する制度ではない点にも注意。",
+      "en": "Consent or coexistence agreements can support withdrawal or settlement of an opposition but do not cure absolute grounds and do not automatically bind third parties or courts. INPI does not operate an ordinary ex officio citation system for earlier rights.",
+      "fr": "Un consentement ou accord de coexistence peut permettre le retrait ou le règlement d’une opposition, mais ne remédie pas aux motifs absolus et ne lie pas automatiquement les tiers ou les tribunaux. L’INPI ne cite pas normalement d’office les droits antérieurs."
+    },
+    "acceleratedExamination": {
+      "ja": "通常のフランス商標について一般的な早期審査制度は確認できない。出願はオンラインで処理されるが、公告・異議期間は省略できない。緊急案件は現地代理人に個別策を確認する。",
+      "en": "No general accelerated-examination program has been identified for ordinary French trademark applications. Filing is processed online, but publication and opposition stages cannot simply be bypassed. Ask French counsel about case-specific urgent options.",
+      "fr": "Aucune procédure générale d’examen accéléré n’a été identifiée pour les demandes françaises ordinaires. Le traitement est dématérialisé, mais la publication et l’opposition ne peuvent être écartées. Consulter un conseil français en cas d’urgence."
+    },
+    "thirdPartyObservation": {
+      "ja": "あり。出願公告後2か月以内に、利害関係人は絶対的登録要件等についてINPIへ第三者意見を提出できる。これは先行権に基づく当事者系の異議申立てとは別制度。",
+      "en": "Available. During the two months after publication, any interested person may submit observations to INPI, principally concerning registrability matters. This is distinct from an inter partes opposition based on earlier rights.",
+      "fr": "Prévu. Pendant les deux mois suivant la publication, toute personne intéressée peut présenter des observations à l’INPI, notamment sur les conditions d’enregistrabilité. Cette démarche est distincte de l’opposition inter partes fondée sur des droits antérieurs."
+    },
+    "directExaminationPeriod": {
+      "ja": "公式の一律な平均値は確認できない。問題のない直接出願は、INPI案内上、審査完了後の登録公告まで最短約5か月。法令上の決定枠は原則6か月だが、不備通知・異議等で停止・延長する。",
+      "en": "No uniform official average has been identified. INPI states that a straightforward direct filing reaches publication of registration only after a minimum of about five months. The ordinary regulatory decision framework is six months, but irregularities, opposition and other events interrupt or extend it.",
+      "fr": "Aucune moyenne officielle uniforme n’a été identifiée. Selon l’INPI, un dépôt direct sans difficulté n’aboutit à la publication de l’enregistrement qu’après un délai minimal d’environ cinq mois. Le cadre réglementaire ordinaire est de six mois, interrompu ou prolongé notamment par une irrégularité ou une opposition."
+    },
+    "madridExaminationPeriod": {
+      "ja": "公表された一律の平均値は確認できない。フランス指定は国内基準で審査され、WIPOからの通報日を基準にマドプロ上の拒絶通報期限を管理する。実案件ではMadrid Monitorおよび暫定拒絶通知の期限を確認する。",
+      "en": "No uniform official average has been identified. A designation of France is examined under national standards, while the Madrid refusal-notification limit runs from WIPO's notification. Check Madrid Monitor and every provisional-refusal notice for the operative dates.",
+      "fr": "Aucune moyenne officielle uniforme n’a été identifiée. La désignation de la France est examinée selon les critères nationaux, tandis que le délai de notification d’un refus au titre de Madrid court à compter de la notification de l’OMPI. Vérifier Madrid Monitor et chaque refus provisoire."
+    },
+    "colourPriorityIdentity": {
+      "ja": "優先権には先願と後願の標章の同一性が必要で、相違は厳格に評価される。白黒の先願から色彩を権利要素とする後願へ変更する場合、同一性を失う可能性があるため、優先権に依存する前に個別確認する。",
+      "en": "Priority requires identity between the earlier and later marks, and differences are assessed strictly. Moving from an earlier black-and-white filing to a later application claiming colour as a feature may jeopardize identity and should be assessed before relying on priority.",
+      "fr": "La priorité exige l’identité entre les marques antérieure et ultérieure, appréciée strictement. Le passage d’un dépôt antérieur en noir et blanc à une demande revendiquant la couleur peut compromettre cette identité et doit être évalué avant de se prévaloir de la priorité."
+    },
+    "colourRelativeGrounds": {
+      "ja": "類否は標章の視覚・称呼・観念上の全体的印象、識別力の強い要素、商品役務等を総合評価する。色彩の一致・相違は視覚的類似性に影響するが、それだけで結論は決まらない。",
+      "en": "Similarity is assessed globally through visual, phonetic and conceptual impressions, distinctive and dominant elements, the goods and services and other relevant factors. Matching or differing colours can affect visual similarity but are not decisive by themselves.",
+      "fr": "La similitude s’apprécie globalement au regard des impressions visuelle, phonétique et conceptuelle, des éléments distinctifs et dominants, des produits et services et des autres facteurs pertinents. La couleur peut influer sur la similitude visuelle sans être seule décisive."
+    },
+    "colourGenuineUse": {
+      "ja": "登録態様と異なる色彩での使用も、登録商標の識別力を変更しない相違であれば真正な使用となり得る。色彩または色の組合せが商標の支配的・識別的特徴である場合、変更リスクが高い。",
+      "en": "Use in colours differing from the registration may qualify as genuine use if the differences do not alter the mark's distinctive character. Risk is higher where colour or a colour combination is a dominant or distinctive feature of the registered mark.",
+      "fr": "L’usage dans des couleurs différentes de l’enregistrement peut constituer un usage sérieux si les différences n’altèrent pas le caractère distinctif. Le risque augmente lorsque la couleur ou sa combinaison est un élément dominant ou distinctif de la marque enregistrée."
+    },
+    "colourInfringementScope": {
+      "ja": "侵害範囲は登録表示、識別力および混同のおそれ等により決まる。色彩を明示的に権利要素とした登録は色彩に範囲を限定し得る一方、著名性や標章全体の近似により異なる色でも侵害となる場合がある。",
+      "en": "Infringement scope depends on the registered representation, distinctiveness and likelihood of confusion. An express colour feature may narrow the registration toward that presentation, although a different colour may still infringe where reputation or the overall similarity supports the claim.",
+      "fr": "La portée de la contrefaçon dépend de la représentation enregistrée, du caractère distinctif et du risque de confusion. Une revendication expresse de couleur peut resserrer la portée, sans exclure qu’une couleur différente soit contrefaisante compte tenu de la renommée ou de la similitude globale."
+    },
+    "colourFilingStrategy": {
+      "ja": "ロゴを複数の配色で使う場合、白黒版と主要色彩版の併願を検討する。優先権、実使用態様、色彩自体の識別力、EU商標とのポートフォリオ整合を同時に確認する。",
+      "en": "If a logo will be used in several colourways, consider parallel monochrome and principal-colour filings. Coordinate priority, actual use, any distinctiveness of colour itself, and the corresponding EU trademark portfolio.",
+      "fr": "Si un logo est utilisé dans plusieurs coloris, envisager des dépôts parallèles en noir et blanc et dans les couleurs principales. Coordonner la priorité, l’usage réel, le caractère distinctif éventuel de la couleur et le portefeuille de marques de l’Union européenne."
+    },
+    "refusalResponseRoute": {
+      "ja": "INPIの不備・拒絶理由通知に対し、指定期限内に意見書、商品役務の限定、許容される表示補正、識別力獲得資料等をオンライン提出する。最終拒絶決定には管轄控訴院への取消訴訟を提起する。",
+      "en": "Respond online to INPI's irregularity or objection notice by the stated deadline with arguments, narrowing of goods or services, permissible amendments, acquired-distinctiveness evidence or other material. A final refusal is challenged before the competent Court of Appeal by an annulment action.",
+      "fr": "Répondre en ligne à la notification d’irrégularité ou d’objection de l’INPI dans le délai imparti par des observations, une limitation, une modification permise, une preuve de caractère distinctif acquis ou d’autres éléments. Le refus définitif fait l’objet d’un recours en annulation devant la cour d’appel compétente."
+    },
+    "responsePeriod": {
+      "ja": "通知ごとにINPIが指定する期間。通知の種類により異なるため、e-procédures上の通知日・満了日を優先して確認する。未応答では出願の全部または一部が拒絶され得る。",
+      "en": "The period is fixed in the individual INPI notice and varies by procedure. Verify the notification and expiry dates in e-procédures; failure to respond may result in total or partial refusal.",
+      "fr": "Le délai est fixé dans chaque notification de l’INPI et varie selon la procédure. Vérifier les dates de notification et d’échéance dans e-procédures; l’absence de réponse peut entraîner un rejet total ou partiel."
+    },
+    "extensionAvailable": {
+      "ja": "手続・通知により限定的に可能。延長不可の法定期限もあるため、自動的に延長可能とは考えない。",
+      "en": "Limited extensions may be available depending on the procedure and notice. Some statutory periods cannot be extended, so availability should never be assumed.",
+      "fr": "Des prorogations limitées peuvent être possibles selon la procédure et la notification. Certains délais légaux ne sont pas prorogeables; aucune prorogation ne doit être présumée."
+    },
+    "extensionLength": {
+      "ja": "一律ではない。通知・適用条文およびINPIが認める期間による。異議申立期間そのものは原則延長不可。",
+      "en": "Not uniform; it depends on the notice, applicable provision and period allowed by INPI. The opposition filing period itself is generally not extendable.",
+      "fr": "Aucune durée uniforme; elle dépend de la notification, du texte applicable et de la durée admise par l’INPI. Le délai pour former opposition n’est en principe pas prorogeable."
+    },
+    "extensionRequirements": {
+      "ja": "期限前の申請、理由の提示、場合により料金その他の要件が必要。権利回復制度は相当な注意を尽くした場合等の厳格な条件に限られるため、現地代理人に即時確認する。",
+      "en": "A request before expiry, reasons and sometimes a fee or other requirements may apply. Restoration is confined to strict conditions, such as due care, so obtain immediate advice from French counsel.",
+      "fr": "Une demande avant l’échéance, des motifs et parfois une taxe ou d’autres conditions peuvent être nécessaires. Le rétablissement est soumis à des conditions strictes, notamment la diligence requise; consulter immédiatement un conseil français."
+    },
+    "appealRoute": {
+      "ja": "INPI長官の登録・拒絶決定に対して管轄控訴院へ取消訴訟を提起する。異議、無効・取消決定への控訴は原則として変更訴訟で、事実・法律を含む紛争全体が移審する。",
+      "en": "Registration or refusal decisions of the INPI Director General are challenged before the competent Court of Appeal by annulment proceedings. Appeals from opposition, invalidity or revocation decisions are generally reformative and devolve the dispute on fact and law.",
+      "fr": "Les décisions d’enregistrement ou de rejet du directeur général de l’INPI font l’objet d’un recours en annulation devant la cour d’appel compétente. Les recours contre les décisions d’opposition, de nullité ou de déchéance sont en principe des recours en réformation portant sur l’ensemble du litige en fait et en droit."
+    },
+    "refusalAppealPeriod": {
+      "ja": "控訴提起期限は原則として決定通知から1か月。審理の公式な一律平均は確認できず、控訴院、争点、書面交換等により異なるため、現地代理人に最新見込みを確認する。",
+      "en": "The appeal must generally be filed within one month after notification of the decision. No reliable uniform average duration has been identified; timing varies by Court of Appeal, issues and briefing, so obtain a current estimate from French counsel.",
+      "fr": "Le recours doit en principe être formé dans le mois suivant la notification de la décision. Aucune durée moyenne uniforme et fiable n’a été identifiée; elle varie selon la cour d’appel, les questions en litige et les écritures. Demander une estimation actuelle à un conseil français."
+    },
+    "publicDatabase": {
+      "ja": "DATA INPI（商標検索）",
+      "en": "DATA INPI trademark database",
+      "fr": "Base marques DATA INPI",
+      "url": "https://data.inpi.fr/"
+    },
+    "publicationStage": {
+      "ja": "出願はBOPI（Bulletin officiel de la propriété industrielle）に公告され、2か月の第三者意見・異議申立期間が開始する。審査と異議が解決した後、登録がBOPIに公告される。",
+      "en": "The application is published in BOPI, opening the two-month period for observations and opposition. After examination and any opposition are resolved, registration is published in BOPI.",
+      "fr": "La demande est publiée au BOPI, ouvrant le délai de deux mois pour les observations et l’opposition. Après l’examen et le règlement de toute opposition, l’enregistrement est publié au BOPI."
+    },
+    "oppositionPeriod": {
+      "ja": "フランス出願はBOPI公告から2か月。フランスを指定する国際登録はWIPO Gazette公告から2か月。申立後、理由・証拠の補充に1か月が与えられる制度がある。",
+      "en": "Two months from BOPI publication for a French application, and two months from WIPO Gazette publication for an international registration designating France. The opponent has an additional month after filing to submit specified arguments and evidence.",
+      "fr": "Deux mois à compter de la publication au BOPI pour une demande française, et deux mois à compter de la publication à la Gazette de l’OMPI pour un enregistrement international désignant la France. L’opposant dispose d’un mois supplémentaire après le dépôt pour produire certains moyens et pièces."
+    },
+    "oppositionExtension": {
+      "ja": "異議申立て自体の2か月は原則延長不可。共同申請による手続停止等は可能な場合があるが、申立期限の代替にはならない。",
+      "en": "The two-month period for filing the opposition is generally not extendable. A joint suspension of the proceedings may be available later, but does not replace timely filing.",
+      "fr": "Le délai de deux mois pour former opposition n’est en principe pas prorogeable. Une suspension conjointe de la procédure peut être possible ensuite, sans remplacer le dépôt dans le délai."
+    },
+    "averagePendency": {
+      "ja": "無不備・無異議なら登録公告まで最短約5か月がINPIの目安。異議手続は交換回数により通常6か月～1年程度と案内されており、拒絶・停止・交渉があればさらに長期化する。",
+      "en": "INPI indicates a minimum of about five months to publication of registration for a straightforward, unopposed filing. Opposition proceedings are stated to take roughly six months to one year depending on exchanges, with objections, suspensions or settlement discussions adding time.",
+      "fr": "L’INPI indique un délai minimal d’environ cinq mois jusqu’à la publication de l’enregistrement pour un dossier simple sans opposition. Une opposition dure approximativement de six mois à un an selon les échanges, et les objections, suspensions ou négociations peuvent prolonger ce délai."
+    },
+    "term": {
+      "ja": "10年。10年ごとに回数制限なく更新可能。",
+      "en": "Ten years, renewable indefinitely for successive ten-year periods.",
+      "fr": "Dix ans, renouvelables indéfiniment par périodes successives de dix ans."
+    },
+    "termStart": {
+      "ja": "出願日から",
+      "en": "From the filing date",
+      "fr": "À compter de la date de dépôt"
+    },
+    "renewalWindow": {
+      "ja": "原則として満了日前1年間に更新する。対象商品・役務を拡張できず、不要な指定は更新時に削除できる。",
+      "en": "Renew during the year preceding expiry. Goods and services cannot be broadened at renewal, although unwanted items may be deleted.",
+      "fr": "Le renouvellement s’effectue durant l’année précédant l’expiration. Les produits et services ne peuvent être étendus, mais des éléments peuvent être supprimés."
+    },
+    "gracePeriod": {
+      "ja": "あり。満了後6か月以内に50%の割増料金を伴う更新が可能。個別満了日を確認する。",
+      "en": "Available. Late renewal is possible within six months after expiry with a 50% surcharge. Verify the exact expiry date.",
+      "fr": "Prévu. Le renouvellement tardif est possible dans les six mois suivant l’expiration, avec une surtaxe de 50 %. Vérifier la date exacte d’échéance."
+    },
+    "renewalEvidence": {
+      "ja": "更新時の使用証拠は通常不要。もっとも、不使用取消への備えとして指定商品・役務ごとの継続的な使用証拠を保存する。",
+      "en": "Use evidence is not normally filed at renewal. Preserve continuous, goods-and-services-specific evidence for possible non-use revocation proceedings.",
+      "fr": "Aucune preuve d’usage n’est normalement déposée lors du renouvellement. Conserver une preuve continue propre à chaque produit et service en vue d’une éventuelle déchéance pour défaut d’usage."
+    },
+    "nonUseCancellation": {
+      "ja": "あり。INPIへの行政上の取消請求、または一定の場合の裁判所手続がある。2020年以降、INPIが行政上の不使用取消の中心的機関となった。",
+      "en": "Available through an administrative revocation request before INPI and, in specified circumstances, court proceedings. Since 2020, INPI has been the central administrative forum for non-use revocation.",
+      "fr": "Prévue par une demande administrative en déchéance devant l’INPI et, dans certains cas, par une action judiciaire. Depuis 2020, l’INPI est l’instance administrative centrale pour la déchéance pour défaut d’usage."
+    },
+    "nonUsePeriod": {
+      "ja": "正当な理由なく継続5年間、登録商品・役務について真正な使用がない場合。原則として登録公告後5年経過後に取消リスクが生じる。",
+      "en": "Five continuous years without genuine use for the registered goods or services and without proper reasons. Exposure generally arises after five years from publication of registration.",
+      "fr": "Cinq années ininterrompues sans usage sérieux pour les produits ou services enregistrés et sans juste motif. Le risque naît en principe après cinq ans à compter de la publication de l’enregistrement."
+    },
+    "nonUseDefenses": {
+      "ja": "登録名義人が、関連5年間のフランスでの真正な使用または不使用の正当理由を立証する。異議でも請求により先行商標の過去5年間の使用証明が必要となり得る。使用態様の変更は識別力を変えない範囲で許容される。",
+      "en": "The owner must prove genuine use in France during the relevant five years or proper reasons for non-use. In opposition, proof of the earlier mark's use during the prior five years may also be required on request. Variants are accepted only if they do not alter distinctive character.",
+      "fr": "Le titulaire doit prouver l’usage sérieux en France pendant les cinq années pertinentes ou de justes motifs de non-usage. En opposition, l’usage de la marque antérieure pendant les cinq années précédentes peut aussi être exigé. Les variantes ne sont admises que si elles n’altèrent pas le caractère distinctif."
+    },
+    "otherCancellation": {
+      "ja": "あり。商標が所有者の行為・不作為により普通名称化した場合、使用により公衆を欺くものとなった場合、保証商標の規則違反等に取消があり得る。",
+      "en": "Available where, for example, the mark has become generic through the owner's acts or inactivity, has become misleading through use, or a guarantee mark no longer complies with its governing rules.",
+      "fr": "Prévue notamment lorsque la marque est devenue générique du fait du titulaire, est devenue trompeuse par son usage ou lorsqu’une marque de garantie ne respecte plus son règlement d’usage."
+    },
+    "invalidation": {
+      "ja": "あり。絶対的理由、先行権、悪意等に基づきINPIまたは一定の場合に裁判所で無効を請求できる。先行権者が5年間事情を知りつつ黙認した場合には制限が生じ得る。",
+      "en": "Available before INPI, or in specified cases a court, on absolute grounds, earlier rights, bad faith and other grounds. A five-year period of knowing acquiescence may bar some earlier-right claims.",
+      "fr": "La nullité peut être demandée devant l’INPI ou, dans certains cas, devant un tribunal, pour motifs absolus, droits antérieurs, mauvaise foi ou autres motifs. Une tolérance consciente de cinq ans peut faire obstacle à certaines demandes fondées sur un droit antérieur."
+    },
+    "civilInjunction": {
+      "ja": "あり。仮処分・本案判決による差止め、侵害品の流通停止等を求められる。緊急性、明白な侵害、担保等の要件を個別検討する。",
+      "en": "Available through interim and final injunctions, including measures stopping circulation of infringing goods. Urgency, plausibility of infringement, security and other requirements are assessed case by case.",
+      "fr": "Prévue par des mesures provisoires et des injonctions au fond, notamment pour faire cesser la circulation des produits contrefaisants. L’urgence, la vraisemblance de la contrefaçon, la garantie et les autres conditions s’apprécient au cas par cas."
+    },
+    "civilDamages": {
+      "ja": "あり。逸失利益・被害者の損失・精神的損害、侵害者の利益等を別個に考慮し、代替的に一括額を請求できる場合がある。",
+      "en": "Available. Courts separately consider lost profits and other loss, moral prejudice and the infringer's profits, with a lump-sum alternative available in appropriate cases.",
+      "fr": "Prévus. Le juge prend distinctement en considération le manque à gagner et les pertes, le préjudice moral et les bénéfices du contrefacteur; une somme forfaitaire peut être demandée dans les cas appropriés."
+    },
+    "civilEvidencePreservation": {
+      "ja": "saisie-contrefaçon（侵害証拠差押え）が重要。裁判所の一方的命令により執行官が詳細な記述、資料・サンプルの押収等を行える。本案提訴期限を厳守する。",
+      "en": "Saisie-contrefaçon is a key evidence-preservation tool. On an ex parte court order, a bailiff may make a detailed description and seize documents or samples. The deadline for commencing the merits action must be strictly observed.",
+      "fr": "La saisie-contrefaçon est un outil probatoire majeur. Sur ordonnance non contradictoire, un commissaire de justice peut procéder à une description détaillée et saisir des documents ou échantillons. Le délai pour agir au fond doit être strictement respecté."
+    },
+    "civilOther": {
+      "ja": "侵害品・製造手段の回収・廃棄、判決公表、情報提供命令、訴訟費用等。必要性・比例性に従い裁判所が決定する。",
+      "en": "Other relief may include recall or destruction of infringing goods and production means, publication of the judgment, information orders and costs, subject to necessity and proportionality.",
+      "fr": "Les autres mesures peuvent comprendre le rappel ou la destruction des produits et moyens de fabrication, la publication du jugement, le droit d’information et les frais, sous réserve de nécessité et de proportionnalité."
+    },
+    "borderMeasures": {
+      "ja": "あり。税関への介入申請により、模倣品疑義貨物の留置・通知を求められる。EU申請または国内申請の範囲、担保、費用、留置後の行動期限を確認する。",
+      "en": "Available. A customs application for action can support detention and notification concerning suspected counterfeit goods. Check whether a Union or national application is appropriate, and the security, cost and post-detention deadlines.",
+      "fr": "Prévues. Une demande d’intervention douanière peut permettre la retenue et la notification de marchandises soupçonnées de contrefaçon. Vérifier le choix entre demande de l’Union ou nationale, la garantie, les coûts et les délais après retenue."
+    },
+    "administrativeRaid": {
+      "ja": "税関、警察・憲兵、DGCCRF等による押収・調査があり得る。権限と開始方法は輸入、店頭、オンライン等の事案により異なる。",
+      "en": "Seizure and investigation may involve Customs, police or gendarmerie, DGCCRF and other authorities. Powers and initiation routes vary for imports, physical retail, online sales and other situations.",
+      "fr": "Des saisies et enquêtes peuvent impliquer la douane, la police ou la gendarmerie, la DGCCRF et d’autres autorités. Les pouvoirs et modes de saisine varient selon l’importation, la vente physique, en ligne ou d’autres situations."
+    },
+    "administrativeOther": {
+      "ja": "税関留置、オンライン出品への対応、消費者保護・不正表示規制、INPIでの異議・無効・取消等を組み合わせる。行政機関による侵害損害賠償制度ではない。",
+      "en": "Strategies may combine customs detention, online-listing action, consumer-protection or misleading-practice enforcement, and INPI opposition, invalidity or revocation. These are not an administrative substitute for civil damages.",
+      "fr": "La stratégie peut combiner retenue douanière, action contre les offres en ligne, règles de protection du consommateur ou pratiques trompeuses, et procédures INPI d’opposition, nullité ou déchéance. Elles ne remplacent pas les dommages-intérêts civils."
+    },
+    "criminalAvailability": {
+      "ja": "あり。故意の輸入・販売・供給・所持、商標の不正複製等は刑事罰の対象となり得る。構成要件と故意を個別に確認する。",
+      "en": "Available. Intentional importation, sale, supply or possession of counterfeit-marked goods, unlawful reproduction of a mark and related conduct may be criminal. Elements and intent must be assessed case by case.",
+      "fr": "Prévus. L’importation, la vente, la fourniture ou la détention intentionnelle de produits revêtus d’une marque contrefaisante, la reproduction illicite de la marque et des faits connexes peuvent constituer des délits."
+    },
+    "criminalFine": {
+      "ja": "犯罪類型により、個人について30万ユーロまたは40万ユーロ等の罰金が定められる。組織的集団、法人、再犯等では加重・別基準があり得るため現行条文を確認する。",
+      "en": "Depending on the offence, fines for individuals include EUR 300,000 or EUR 400,000. Organized activity, legal persons, recidivism and other circumstances may produce enhanced or different amounts; verify the current provisions.",
+      "fr": "Selon l’infraction, les amendes encourues par les personnes physiques comprennent 300 000 ou 400 000 euros. La bande organisée, les personnes morales, la récidive et d’autres circonstances peuvent entraîner des montants aggravés ou distincts."
+    },
+    "criminalImprisonment": {
+      "ja": "犯罪類型により3年または4年等。組織的集団等では加重され得る。",
+      "en": "Depending on the offence, imprisonment may be three or four years, with possible enhancement for organized activity and other circumstances.",
+      "fr": "Selon l’infraction, l’emprisonnement peut être de trois ou quatre ans, avec aggravation possible notamment en bande organisée."
+    },
+    "criminalOther": {
+      "ja": "侵害品・設備の没収・廃棄、営業閉鎖、判決公表、法人に対する付加刑等があり得る。",
+      "en": "Other sanctions may include confiscation or destruction of goods and equipment, business closure, publication of the judgment and additional penalties for legal persons.",
+      "fr": "Les autres sanctions peuvent comprendre la confiscation ou destruction des produits et matériels, la fermeture d’établissement, la publication du jugement et des peines complémentaires pour les personnes morales."
+    }
+  },
+  "notablePoints": [
+    {
+      "id": "no-ex-officio-relative-rights-check",
+      "category": "clearance",
+      "importance": "high",
+      "title": { "ja": "先行権は原則として職権審査されない", "en": "Earlier rights are generally not examined ex officio", "fr": "Les droits antérieurs ne sont généralement pas examinés d’office" },
+      "summary": { "ja": "INPIの登録可能性審査を通過しても、先行商標等との抵触がないことを保証しない。権利者が2か月以内の異議または後日の無効を提起する。", "en": "Passing INPI examination does not certify freedom from earlier rights. Their owners must use the two-month opposition period or later invalidity proceedings.", "fr": "La réussite de l’examen de l’INPI ne garantit pas l’absence de droits antérieurs. Leurs titulaires doivent agir par opposition dans les deux mois ou ultérieurement en nullité." },
+      "practicalImpact": { "ja": "同一検索だけでなく、視覚・称呼・観念の類似、会社名、商号、ドメイン、著名標章等を含む事前調査が必要。", "en": "Clearance should go beyond exact matches and include visual, phonetic and conceptual similarity, company and trade names, domains and reputed signs.", "fr": "La recherche doit dépasser les identités et couvrir les similitudes visuelles, phonétiques et conceptuelles, dénominations sociales, noms commerciaux, domaines et signes renommés." },
+      "recommendedAction": { "ja": "出願前にDATA INPI、TMview、EUIPO等で類似調査を行い、障害候補を現地代理人と評価する。", "en": "Before filing, conduct similarity searches in DATA INPI, TMview, EUIPO and relevant sources, then assess candidates with French counsel.", "fr": "Avant le dépôt, effectuer des recherches de similitude dans DATA INPI, TMview, EUIPO et les sources pertinentes, puis analyser les obstacles avec un conseil français." },
+      "agentQuestion": { "ja": "本件についてフランス商標、EU商標、フランス指定国際登録および未登録先行権をどこまで調査すべきですか。", "en": "How broadly should we search French marks, EU marks, international registrations designating France and unregistered earlier rights?", "fr": "Quelle étendue de recherche recommandez-vous pour les marques françaises, de l’Union, les enregistrements internationaux désignant la France et les droits antérieurs non enregistrés?" },
+      "sourceUrl": "https://www.inpi.fr/realiser-demarches/propriete-intellectuelle/etapes-cles-du-depot-de-marque",
+      "checkedAt": "2026-09-12",
+      "status": "verified"
+    },
+    {
+      "id": "inpi-administrative-nullity-revocation",
+      "category": "disputes",
+      "importance": "high",
+      "title": { "ja": "無効・取消の多くはINPIで行政手続化", "en": "Many invalidity and revocation cases are administrative INPI proceedings", "fr": "De nombreuses nullités et déchéances relèvent d’une procédure administrative devant l’INPI" },
+      "summary": { "ja": "PACTE改革後、2020年からINPIが無効・取消請求を扱い、裁判所専属だった制度が大きく変わった。関連訴訟がある場合など管轄例外がある。", "en": "Following the PACTE reform, INPI has handled invalidity and revocation requests since 2020, materially changing a system previously centered on courts. Jurisdictional exceptions apply where related litigation exists.", "fr": "Depuis 2020, à la suite de la réforme PACTE, l’INPI traite les demandes en nullité et en déchéance, transformant un système auparavant centré sur les tribunaux. Des exceptions de compétence subsistent en cas de litige connexe." },
+      "practicalImpact": { "ja": "不使用取消や先行権無効の入口が比較的明確になった一方、並行侵害訴訟との関係で申立先を誤るリスクがある。", "en": "Non-use and earlier-right challenges have a clearer administrative route, but parallel infringement litigation can change the proper forum.", "fr": "La voie administrative est plus claire pour le défaut d’usage et les droits antérieurs, mais un litige parallèle en contrefaçon peut modifier la juridiction compétente." },
+      "recommendedAction": { "ja": "申立前に、係属訴訟、反訴可能性、権利の種類および求める救済からINPIと裁判所の管轄を整理する。", "en": "Before filing, map pending litigation, possible counterclaims, the rights invoked and requested relief to select INPI or the court correctly.", "fr": "Avant toute demande, analyser les litiges pendants, demandes reconventionnelles possibles, droits invoqués et mesures recherchées afin de choisir correctement l’INPI ou le tribunal." },
+      "agentQuestion": { "ja": "本件の取消・無効請求はINPIと裁判所のどちらが専属管轄ですか。並行訴訟で変わりますか。", "en": "Does INPI or a court have exclusive jurisdiction over this revocation or invalidity claim, and could parallel litigation change that?", "fr": "L’INPI ou le tribunal est-il exclusivement compétent pour cette demande en déchéance ou nullité, et un litige parallèle modifierait-il la réponse?" },
+      "sourceUrl": "https://www.inpi.fr/realiser-demarches/propriete-intellectuelle/demander-nullite-ou-decheance-dune-marque",
+      "checkedAt": "2026-09-12",
+      "status": "verified"
+    },
+    {
+      "id": "five-year-use-proof-burden",
+      "category": "maintenance",
+      "importance": "high",
+      "title": { "ja": "5年経過後は商品・役務別の使用立証が重要", "en": "Goods-and-services-specific use proof is critical after five years", "fr": "La preuve d’usage par produit et service devient essentielle après cinq ans" },
+      "summary": { "ja": "不使用取消では登録名義人が関連5年間の真正な使用を立証する。異議でも請求されれば、先行商標権者は基礎商標の使用を証明しなければならない。", "en": "In non-use revocation the owner must prove genuine use during the relevant five years. In opposition, the owner of an older mark may also be required, on request, to prove use of the relied-on registration.", "fr": "En déchéance, le titulaire doit prouver l’usage sérieux pendant les cinq années pertinentes. En opposition, le titulaire d’une marque antérieure peut également devoir prouver, sur demande, l’usage du titre invoqué." },
+      "practicalImpact": { "ja": "一部の商品・役務だけの使用では登録がその範囲に縮減され得る。請求書、包装、ウェブ、広告、ライセンス管理をフランス市場と結び付ける必要がある。", "en": "Use for only some goods or services may lead to partial revocation. Invoices, packaging, websites, advertising and licensed-use control must be linked to the French market.", "fr": "L’usage limité à certains produits ou services peut conduire à une déchéance partielle. Factures, emballages, sites web, publicité et contrôle des licences doivent être rattachés au marché français." },
+      "recommendedAction": { "ja": "登録後毎年、指定商品・役務別に日付・地域・取引量を示す使用証拠を保存し、標章変更も監査する。", "en": "Each year, retain dated use evidence by listed good and service showing territory and trade volume, and audit variations of the sign.", "fr": "Chaque année, conserver une preuve datée par produit et service indiquant le territoire et le volume commercial, et contrôler les variantes du signe." },
+      "agentQuestion": { "ja": "各指定商品・役務についてフランスでの真正な使用を立証できますか。登録態様との差異は許容範囲ですか。", "en": "Can we prove genuine use in France for every listed good and service, and are differences from the registered form acceptable?", "fr": "Pouvons-nous prouver l’usage sérieux en France pour chaque produit et service, et les différences avec la forme enregistrée sont-elles acceptables?" },
+      "sourceUrl": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039381435",
+      "checkedAt": "2026-09-12",
+      "status": "verified"
+    },
+    {
+      "id": "saisie-contrefacon-evidence",
+      "category": "enforcement",
+      "importance": "high",
+      "title": { "ja": "saisie-contrefaçonが強力な証拠収集手段", "en": "Saisie-contrefaçon is a powerful evidence tool", "fr": "La saisie-contrefaçon est un puissant outil de preuve" },
+      "summary": { "ja": "本案前に一方的命令を得て、執行官が侵害疑義の現場で詳細記述、書類・サンプルの押収等を行うフランス実務上の重要手段。", "en": "A rights holder may obtain an ex parte order before the merits action so a bailiff can describe suspected infringement and seize documents or samples. It is a central feature of French enforcement.", "fr": "Le titulaire peut obtenir avant l’action au fond une ordonnance non contradictoire autorisant un commissaire de justice à décrire la contrefaçon alléguée et saisir des documents ou échantillons. C’est un outil central en France." },
+      "practicalImpact": { "ja": "迅速かつ有効だが、命令の範囲、秘密情報、執行方法、本案提訴期限の不遵守は証拠無効や責任の原因になり得る。", "en": "It is fast and effective, but errors concerning scope, confidential information, execution or the merits-action deadline can invalidate evidence or create liability.", "fr": "Rapide et efficace, elle exige de respecter la portée de l’ordonnance, les informations confidentielles, l’exécution et le délai pour agir au fond, à défaut de quoi la preuve peut être annulée ou la responsabilité engagée." },
+      "recommendedAction": { "ja": "証拠対象、場所、サンプル、デジタル資料を事前に特定し、執行日からの本案期限を即日管理する。", "en": "Identify targets, locations, samples and digital material in advance, and docket the merits deadline from the day of execution.", "fr": "Identifier à l’avance les cibles, lieux, échantillons et données numériques, puis inscrire immédiatement le délai pour agir au fond à compter de l’exécution." },
+      "agentQuestion": { "ja": "本件でsaisie-contrefaçonを使うべきですか。命令範囲と本案提訴期限は何ですか。", "en": "Should we use saisie-contrefaçon here, and what scope and merits-action deadline would apply?", "fr": "Devons-nous recourir à une saisie-contrefaçon, et quels seraient sa portée et le délai pour agir au fond?" },
+      "sourceUrl": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039381736",
+      "checkedAt": "2026-09-12",
+      "status": "verified"
+    },
+    {
+      "id": "france-and-eutm-layering",
+      "category": "strategy",
+      "importance": "medium",
+      "title": { "ja": "フランス商標とEU商標の二層戦略", "en": "Layer French and EU trademark strategies", "fr": "Articuler les stratégies de marque française et de l’Union" },
+      "summary": { "ja": "EU商標はフランスを含むEU全域を単一権利で保護する一方、EU全体に及ぶ絶対・相対的障害の影響を受ける。フランス商標は地域的に狭いが、障害・使用・紛争をフランスに限定できる場合がある。", "en": "An EU trademark covers France and the EU through one unitary right but is exposed to absolute and relative obstacles across the Union. A French mark is geographically narrower but can confine clearance, use and disputes to France.", "fr": "La marque de l’Union couvre la France et l’UE par un titre unitaire, mais subit les obstacles absolus et relatifs de toute l’Union. La marque française est plus étroite géographiquement, mais peut limiter la recherche, l’usage et les litiges à la France." },
+      "practicalImpact": { "ja": "主要市場、先行権、使用計画、取消リスクにより、フランス出願、EU出願、または併願の費用対効果が変わる。", "en": "Key markets, earlier rights, use plans and revocation exposure determine whether French, EU or parallel filings are cost-effective.", "fr": "Les marchés clés, droits antérieurs, projets d’usage et risques de déchéance déterminent l’intérêt d’un dépôt français, de l’Union ou parallèle." },
+      "recommendedAction": { "ja": "EU全域での障害と使用見込みを比較し、必要ならフランス商標をEU商標の補完・予備権利として配置する。", "en": "Compare obstacles and expected use across the EU, and where appropriate use a French mark as a complementary or fallback right alongside the EUTM.", "fr": "Comparer les obstacles et l’usage prévu dans l’UE et, le cas échéant, utiliser la marque française comme titre complémentaire ou de repli à côté de la marque de l’Union." },
+      "agentQuestion": { "ja": "本件ではフランス国内出願、EU商標、マドプロ指定または併願のどれが最適ですか。", "en": "For this matter, should we use a French national filing, an EUTM, a Madrid designation or parallel filings?", "fr": "Pour ce dossier, faut-il choisir un dépôt national français, une marque de l’Union, une désignation Madrid ou des dépôts parallèles?" },
+      "sourceUrl": "https://www.inpi.fr/realiser-demarches/propriete-intellectuelle/deposer-sa-marque",
+      "checkedAt": "2026-09-12",
+      "status": "verified"
+    }
+  ],
+  "statistics": { "coverage": "2016–2025", "status": "pending", "series": [] },
+  "news": [
+    {
+      "id": "inpi-procedure-simplification-2026",
+      "type": "law",
+      "date": "2026-07-02",
+      "title": { "ja": "INPI手続簡素化令が商標事件の決定期間を改定", "en": "INPI procedural simplification decree changes decision periods in trademark cases", "fr": "Le décret de simplification des procédures INPI modifie les délais de décision en matière de marques" },
+      "summary": { "ja": "2026年6月30日デクレ（7月2日施行）は、商標の異議および無効・取消手続における審理終結後の決定期間を3か月から4か月へ統一し、係属事件にも即時適用した。", "en": "The decree of 30 June 2026, effective 2 July, aligned the post-instruction decision period for trademark opposition, invalidity and revocation proceedings at four months instead of three, including pending matters.", "fr": "Le décret du 30 juin 2026, entré en vigueur le 2 juillet, a porté de trois à quatre mois le délai de décision après la clôture de l’instruction pour les oppositions, nullités et déchéances de marques, y compris les affaires en cours." },
+      "sourceUrl": "https://www.inpi.fr/a-la-une/publication-dun-decret-de-simplification-du-code-de-la-propriete-intellectuelle"
+    },
+    {
+      "id": "inpi-trademark-directives-july-2026",
+      "type": "practice",
+      "date": "2026-07-01",
+      "title": { "ja": "INPIが商標手続指針を更新", "en": "INPI updates trademark procedure guidelines", "fr": "L’INPI met à jour les directives relatives aux procédures de marques" },
+      "summary": { "ja": "INPIは2026年7月版として、登録、更新、異議、無効・取消等の商標手続指針を公表した。実務期限・証拠・オンライン提出は最新版を参照する。", "en": "INPI published July 2026 versions of its guidelines for trademark registration, renewal, opposition, invalidity and revocation. Current deadlines, evidence and online-filing practice should be checked against these versions.", "fr": "L’INPI a publié en juillet 2026 de nouvelles versions de ses directives sur l’enregistrement, le renouvellement, l’opposition, la nullité et la déchéance. Les délais, preuves et dépôts en ligne doivent être vérifiés dans ces versions." },
+      "sourceUrl": "https://www.inpi.fr/ressources/propriete-intellectuelle/directives"
+    },
+    {
+      "id": "cassation-autonomous-subcategories-use-2025",
+      "type": "case",
+      "date": "2025-05-14",
+      "title": { "ja": "破毀院が不使用取消における独立した商品・役務サブカテゴリーを重視", "en": "Court of Cassation emphasizes autonomous subcategories in genuine-use analysis", "fr": "La Cour de cassation souligne les sous-catégories autonomes dans l’analyse de l’usage sérieux" },
+      "summary": { "ja": "破毀院商事部は、広い商品・役務カテゴリーに独立して考えられる複数のサブカテゴリーがある場合、一部の使用がカテゴリー全体を維持するとは限らず、各サブカテゴリーを検討すべき旨を示した。", "en": "The Commercial Chamber held that where a broad category contains several independently conceivable subcategories, use for part of it does not necessarily preserve the whole category and the autonomous subcategories must be examined.", "fr": "La chambre commerciale a jugé que lorsqu’une catégorie large comprend plusieurs sous-catégories autonomes, l’usage pour une partie ne maintient pas nécessairement toute la catégorie et les sous-catégories doivent être examinées." },
+      "sourceUrl": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000051617800"
+    }
+  ],
+  "faqs": [
+    {
+      "tag": "Filing",
+      "question": { "ja": "フランス商標、EU商標、マドプロでのフランス指定のどれが本件に適しますか。", "en": "Should this matter use a French national mark, an EUTM, or a Madrid designation of France?", "fr": "Ce dossier doit-il utiliser une marque française, une marque de l’Union ou une désignation de la France par Madrid?" },
+      "followUp": { "ja": "先行権、使用予定、費用およびEU商標の単一性リスクを比較した推奨案を教えてください。", "en": "Please recommend an option after comparing earlier rights, expected use, cost and the unitary-risk profile of an EUTM.", "fr": "Veuillez recommander une option après comparaison des droits antérieurs, de l’usage prévu, du coût et du risque unitaire de la marque de l’Union." }
+    },
+    {
+      "tag": "Clearance",
+      "question": { "ja": "INPIが先行権を職権審査しないことを踏まえ、どのデータベース・未登録権利まで調査すべきですか。", "en": "Given that INPI does not examine earlier rights ex officio, which databases and unregistered rights should our clearance cover?", "fr": "Puisque l’INPI n’examine pas d’office les droits antérieurs, quelles bases et quels droits non enregistrés devons-nous rechercher?" },
+      "followUp": { "ja": "障害候補について異議リスク、共存交渉または指定限定の優先順位を教えてください。", "en": "For each candidate obstacle, how should we prioritize opposition risk, coexistence discussions and narrowing?", "fr": "Pour chaque obstacle potentiel, comment hiérarchiser le risque d’opposition, la coexistence et la limitation du libellé?" }
+    },
+    {
+      "tag": "Examination",
+      "question": { "ja": "識別力または公益的拒絶理由が予想されますか。使用による識別力獲得資料は必要ですか。", "en": "Do you expect a distinctiveness or public-interest objection, and will acquired-distinctiveness evidence be needed?", "fr": "Prévoyez-vous une objection fondée sur le caractère distinctif ou l’intérêt général, et une preuve de distinctivité acquise sera-t-elle nécessaire?" },
+      "followUp": { "ja": "INPI通知への正確な応答期限、延長可否および推奨補正を確認してください。", "en": "Please confirm the exact response deadline, whether it can be extended, and the recommended amendment.", "fr": "Veuillez confirmer le délai exact de réponse, sa prorogeabilité et la modification recommandée." }
+    },
+    {
+      "tag": "Colour",
+      "question": { "ja": "白黒版と色彩版のどちらを出願すべきですか。優先権・類否・使用証明への影響は何ですか。", "en": "Should we file the monochrome or colour version, and how will that affect priority, similarity and genuine-use proof?", "fr": "Devons-nous déposer la version en noir et blanc ou en couleur, et quel sera l’effet sur la priorité, la similitude et la preuve d’usage sérieux?" },
+      "followUp": { "ja": "複数配色を使う場合、白黒版と主要配色版の併願を推奨しますか。", "en": "If several colourways will be used, do you recommend parallel filings for monochrome and principal colours?", "fr": "Si plusieurs coloris seront utilisés, recommandez-vous des dépôts parallèles en noir et blanc et dans les couleurs principales?" }
+    },
+    {
+      "tag": "Non-use",
+      "question": { "ja": "各指定商品・役務について関連5年間のフランスでの真正な使用を立証できますか。", "en": "Can we prove genuine use in France during the relevant five years for each listed good and service?", "fr": "Pouvons-nous prouver un usage sérieux en France pendant les cinq années pertinentes pour chaque produit et service?" },
+      "followUp": { "ja": "証拠の地域性、ライセンス管理、登録態様との差異、独立サブカテゴリーに問題はありませんか。", "en": "Are there issues with territorial nexus, licensed-use control, variation from the registration, or autonomous subcategories?", "fr": "Existe-t-il un problème de rattachement territorial, de contrôle des licences, de variation de la marque ou de sous-catégories autonomes?" }
+    },
+    {
+      "tag": "Enforcement",
+      "question": { "ja": "本件ではsaisie-contrefaçon、仮差止め、税関介入申請のどれを先に使うべきですか。", "en": "Should we begin with saisie-contrefaçon, interim relief or a customs application for action?", "fr": "Devons-nous commencer par une saisie-contrefaçon, une mesure provisoire ou une demande d’intervention douanière?" },
+      "followUp": { "ja": "証拠保全後の本案提訴期限、担保、翻訳、執行官および費用見積りを確認してください。", "en": "Please confirm the merits-action deadline, security, translations, bailiff arrangements and estimated cost after evidence preservation.", "fr": "Veuillez confirmer le délai pour agir au fond, la garantie, les traductions, l’organisation avec le commissaire de justice et le coût estimatif après la mesure probatoire." }
+    }
+  ],
+  "sources": [
+    { "label": "INPI — Déposer sa marque", "url": "https://www.inpi.fr/realiser-demarches/propriete-intellectuelle/deposer-sa-marque", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "INPI — Étapes clés du dépôt de marque", "url": "https://www.inpi.fr/realiser-demarches/propriete-intellectuelle/etapes-cles-du-depot-de-marque", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "INPI — Différents types de marque", "url": "https://www.inpi.fr/realiser-demarches/propriete-intellectuelle/differents-types-de-marque", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "INPI — Opposition à une marque", "url": "https://www.inpi.fr/realiser-demarches/propriete-intellectuelle/sopposer-lenregistrement-dune-marque", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "INPI — Nullité ou déchéance d’une marque", "url": "https://www.inpi.fr/realiser-demarches/propriete-intellectuelle/demander-nullite-ou-decheance-dune-marque", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "INPI — Renouveler une marque", "url": "https://www.inpi.fr/realiser-demarches/propriete-intellectuelle/prolonger-validite-de-sa-marque", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "INPI — Directives marques", "url": "https://www.inpi.fr/ressources/propriete-intellectuelle/directives", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "INPI — DATA INPI", "url": "https://data.inpi.fr/", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "INPI — Base de jurisprudence en propriété industrielle", "url": "https://www.inpi.fr/ressources/propriete-intellectuelle/consulter-base-de-jurisprudence-en-propriete-industrielle", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "INPI — Décret de simplification du CPI (2026)", "url": "https://www.inpi.fr/a-la-une/publication-dun-decret-de-simplification-du-code-de-la-propriete-intellectuelle", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "Legifrance — Code de la propriété intellectuelle, marques", "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006161735", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "Legifrance — Article L711-2 (absolute grounds)", "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039381425", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "Legifrance — Article L714-5 (genuine use)", "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039381435", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "Legifrance — Article R411-21 (one-month appeal period)", "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039490599", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "Legifrance — Cour de cassation, 14 May 2025, No. 23-21.296", "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000051617800", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "French Customs — Counterfeiting", "url": "https://www.douane.gouv.fr/dossier/contrefacon", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "WIPO — Madrid System member declarations", "url": "https://www.wipo.int/en/web/madrid-system/members/declarations", "type": "official", "checkedAt": "2026-09-12" },
+    { "label": "WIPO — France and the Madrid Protocol", "url": "https://www.wipo.int/treaties/en/notifications/madridp-gp/treaty_madridp_gp_49.html", "type": "official", "checkedAt": "2026-09-12" }
+  ]
+}
