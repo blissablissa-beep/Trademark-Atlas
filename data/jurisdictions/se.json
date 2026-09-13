@@ -1,0 +1,611 @@
+{
+  "id": "se",
+  "type": "country",
+  "flag": "🇸🇪",
+  "region": "europe",
+  "names": {
+    "ja": "スウェーデン王国",
+    "en": "Kingdom of Sweden",
+    "sv": "Konungariket Sverige"
+  },
+  "office": {
+    "ja": "スウェーデン特許登録庁（PRV）",
+    "en": "Swedish Intellectual Property Office (PRV)",
+    "sv": "Patent- och registreringsverket (PRV)"
+  },
+  "availableLanguages": [
+    "sv"
+  ],
+  "createdAt": "2026-09-13",
+  "updatedAt": "2026-09-13",
+  "status": "review",
+  "facts": {
+    "authority": {
+      "ja": "スウェーデン特許登録庁（PRV）。国内出願、登録、異議および行政取消を担当する。",
+      "en": "The Swedish Intellectual Property Office (PRV), responsible for national applications, registration, opposition and administrative revocation.",
+      "sv": "Patent- och registreringsverket (PRV) handlägger nationella ansökningar, registreringar, invändningar och administrativ hävning."
+    },
+    "protectionScope": {
+      "ja": "商品・役務の個別商標、団体商標、保証・証明商標、周知・定着商標。EU商標もスウェーデンで効力を有する。",
+      "en": "Individual marks for goods/services, collective and guarantee/certification marks, and established or well-known signs. EUTMs also have effect in Sweden.",
+      "sv": "Individuella varu- och tjänstevarumärken, kollektiv-, garanti- och kontrollmärken samt inarbetade eller välkända kännetecken. EU-varumärken gäller också i Sverige."
+    },
+    "markTypes": {
+      "ja": "文字、図形、結合、立体、位置、模様、色彩、音、動き、マルチメディア、ホログラム等。明確かつ正確に表示できることが必要。",
+      "en": "Word, figurative, composite, 3D, position, pattern, color, sound, motion, multimedia and hologram marks, provided the subject matter can be represented clearly and precisely.",
+      "sv": "Ord-, figur-, kombinations-, form-, positions-, mönster-, färg-, ljud-, rörelse-, multimedie- och hologrammärken, om skyddsföremålet kan återges klart och precist."
+    },
+    "madridAccessionDate": {
+      "ja": "1995年12月1日（マドリッド協定議定書の効力発生日）。",
+      "en": "1 December 1995 (entry into force of the Madrid Protocol for Sweden).",
+      "sv": "Den 1 december 1995 (Madridprotokollet trädde i kraft för Sverige)."
+    },
+    "niceClassification": {
+      "ja": "採用。出願時のニース分類最新版およびPRVの商品・役務検索を確認する。",
+      "en": "Adopted; consult the current Nice edition and PRV goods-and-services tools at filing.",
+      "sv": "Niceklassificeringen används; kontrollera aktuell utgåva och PRV:s verktyg för varor och tjänster vid ansökan."
+    },
+    "classHeadingPractice": {
+      "ja": "類見出しは通常の字義範囲に限られ、区分全体を当然には包含しない。商品・役務を明確かつ具体的に記載する。",
+      "en": "Class headings cover their ordinary literal meaning and do not automatically cover the whole class; identify goods and services clearly and precisely.",
+      "sv": "Klassrubriker omfattar sin normala ordalydelse och inte automatiskt hela klassen; ange varor och tjänster klart och precist."
+    },
+    "retailServices": {
+      "ja": "第35類で可。小売・卸売の対象商品を具体的に記載する。",
+      "en": "Available in Class 35; specify the goods to which retail or wholesale services relate.",
+      "sv": "Möjligt i klass 35; de varor som detalj- eller partihandelstjänsterna avser ska anges."
+    },
+    "multiClassApplication": {
+      "ja": "可。追加区分ごとに料金。分割および一部拒絶も可能。",
+      "en": "Available, with fees for additional classes; division and partial refusal are possible.",
+      "sv": "Möjligt, med avgift för tilläggsklasser; delning och partiellt avslag kan förekomma."
+    },
+    "applicationForm": {
+      "ja": "PRVへオンラインまたは所定様式で、出願人、標章、商品・役務、区分、優先権、代理人等を提出する。手続言語は原則スウェーデン語。",
+      "en": "File online or on the prescribed form with PRV, identifying the applicant, mark, goods/services, classes, priority and representative. Proceedings are generally in Swedish.",
+      "sv": "Ansökan lämnas elektroniskt eller på föreskriven blankett till PRV med sökande, märke, varor/tjänster, klasser, prioritet och ombud. Handläggningsspråket är normalt svenska."
+    },
+    "powerOfAttorney": {
+      "ja": "代理人選任時も委任状は通常の出願では常時提出を要しないことがあるが、PRVの請求、権限争い、譲渡等では確認する。",
+      "en": "A power of attorney may not be routinely filed in every represented application, but PRV may request it and authority disputes or assignments require separate review.",
+      "sv": "Fullmakt behöver inte alltid ges in rutinmässigt, men PRV kan begära den och behörighetsfrågor eller överlåtelser måste bedömas särskilt."
+    },
+    "priorityDocuments": {
+      "ja": "パリ優先権は最初の出願から6か月以内に主張する。PRVが求める優先権証明・翻訳の提出期限を確認する。",
+      "en": "Claim Paris priority within six months from the first filing and verify deadlines for any priority certificate or translation requested by PRV.",
+      "sv": "Parisprioritet åberopas inom sex månader från den första ansökan; kontrollera frister för prioritetsbevis och eventuell översättning som PRV begär."
+    },
+    "homeRegistrationCertificate": {
+      "ja": "通常の直接出願には不要。パリ条約第6条の5に基づく本国登録援用等では別途確認する。",
+      "en": "Not normally required for a direct filing; verify separately when relying on home-country registration under Paris Convention Article 6quinquies.",
+      "sv": "Krävs normalt inte för en direkt ansökan; kontrollera särskilt när hemlandsregistrering åberopas enligt Pariskonventionen artikel 6quinquies."
+    },
+    "useEvidenceAtFiling": {
+      "ja": "通常不要。使用による識別力、定着、周知・名声または先使用を主張する場合はスウェーデンでの証拠を提出する。",
+      "en": "Not normally required; Swedish evidence is needed for acquired distinctiveness, establishment, reputation or prior-use claims.",
+      "sv": "Krävs normalt inte; svensk bevisning behövs vid förvärvad särskiljningsförmåga, inarbetning, renommé eller äldre användning."
+    },
+    "notarizationCertification": {
+      "ja": "通常の委任状に公証・アポスティーユは原則不要。譲渡、合併、外国公文書等は手続別に確認する。",
+      "en": "An ordinary power generally requires no notarization or apostille; assignments, mergers and foreign official documents should be checked separately.",
+      "sv": "Vanlig fullmakt kräver normalt inte notarisering eller apostille; överlåtelse, fusion och utländska officiella handlingar kontrolleras särskilt."
+    },
+    "otherDocuments": {
+      "ja": "商標表示、優先権証明、団体・保証・証明商標の使用規則、非伝統的商標ファイル、使用による識別力・名声の証拠等。",
+      "en": "Representation, priority document, regulations governing collective/guarantee/certification marks, non-traditional mark files and evidence of acquired distinctiveness or reputation.",
+      "sv": "Återgivning, prioritetsbevis, bestämmelser för kollektiv-, garanti- eller kontrollmärke, filer för okonventionella märken samt bevis om inarbetning eller renommé."
+    },
+    "absoluteGroundsExamination": {
+      "ja": "あり。PRVが職権審査する。",
+      "en": "Yes; examined ex officio by PRV.",
+      "sv": "Ja; PRV prövar absoluta registreringshinder ex officio."
+    },
+    "distinctivenessGrounds": {
+      "ja": "識別力欠如、普通名称、商品・役務の種類・品質・用途・価値・産地等の記述、慣用表示、単純な色彩・形状等。使用による識別力を立証できる場合がある。",
+      "en": "Non-distinctive, generic, descriptive or customary signs and simple colors or shapes may be refused; acquired distinctiveness may be established.",
+      "sv": "Tecken som saknar särskiljningsförmåga eller är generiska, beskrivande eller sedvanliga samt enkla färger eller former kan vägras; inarbetning kan visas."
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "法令、公序良俗、欺瞞性、国旗・紋章・公的記章、人道法上の標章、機能的・本質的形状、地理的表示、伝統的用語、植物品種名称、悪意等。",
+      "en": "Grounds include illegality, public order or morality, deception, official and humanitarian emblems, functional or inherent shapes, GIs, traditional terms, plant-variety names and bad faith.",
+      "sv": "Hinder omfattar lagstridighet, allmän ordning eller goda seder, vilseledande, officiella och humanitära kännetecken, funktionella former, geografiska beteckningar, traditionella uttryck, växtsortsnamn och ond tro."
+    },
+    "relativeGroundsExamination": {
+      "ja": "あり。PRVは先行する国内商標、スウェーデン指定の国際登録、EU商標、一定の商号・氏名・著作権等との抵触を職権審査する。",
+      "en": "Yes. PRV examines conflicts with earlier national marks, international registrations designating Sweden, EUTMs and certain trade-name, name, copyright and other rights ex officio.",
+      "sv": "Ja. PRV prövar konflikter med äldre nationella märken, internationella registreringar som gäller i Sverige, EU-varumärken samt vissa firma-, namn-, upphovs- och andra rättigheter."
+    },
+    "disclaimer": {
+      "ja": "あり得る。非識別部分について保護対象外の注記を付す場合があるが、標章全体の識別力不足を当然には解消しない。",
+      "en": "A disclaimer may be entered for non-distinctive matter, but does not automatically cure lack of distinctiveness of the mark as a whole.",
+      "sv": "En disclaimer kan antecknas för en beståndsdel utan särskiljningsförmåga men avhjälper inte automatiskt bristande särskiljningsförmåga i märket som helhet."
+    },
+    "consent": {
+      "ja": "先行権利者の同意により相対的拒絶理由を解消できる制度あり。対象権利・商品役務・同意範囲を明確にする。",
+      "en": "Earlier-owner consent can remove certain relative-ground obstacles; clearly identify the right, goods/services and scope of consent.",
+      "sv": "Samtycke från innehavaren av den äldre rättigheten kan undanröja vissa relativa hinder; rättigheten, varorna/tjänsterna och samtyckets omfattning ska anges tydligt."
+    },
+    "acceleratedExamination": {
+      "ja": "一般的な自動ファストトラックの有無・要件は最新PRV実務を確認する。緊急事情がある場合は理由と証拠を付して優先処理を相談する。",
+      "en": "Verify current PRV practice for any general fast track. Where urgency exists, consult PRV about priority handling with reasons and evidence.",
+      "sv": "Kontrollera PRV:s aktuella praxis för snabbspår. Vid brådska bör prioriterad handläggning diskuteras med PRV och skäl samt bevis anges."
+    },
+    "thirdPartyObservation": {
+      "ja": "登録後3か月以内の正式異議が中心。審査中の第三者情報提出の可否・対象理由は最新PRV実務を確認する。",
+      "en": "Formal opposition within three months after registration is the main route; verify current PRV practice for third-party observations during examination.",
+      "sv": "Formell invändning inom tre månader efter registrering är huvudvägen; kontrollera aktuell PRV-praxis för tredjemansyttranden under granskningen."
+    },
+    "directExaminationPeriod": {
+      "ja": "PRV公表の現行目安では、新規出願の最初の結果は約6週間。拒絶、補正、滞貨等により変動する。",
+      "en": "PRV currently indicates about six weeks to first feedback on a new application; objections, amendments and workload may change this.",
+      "sv": "PRV anger för närvarande cirka sex veckor till första besked för en ny ansökan; förelägganden, ändringar och arbetsbelastning kan påverka tiden."
+    },
+    "madridExaminationPeriod": {
+      "ja": "PRVはWIPO通報から原則18か月以内に暫定拒絶を通報し得る。最終保護認容は応答・異議の有無により異なる。",
+      "en": "PRV may generally notify provisional refusal within 18 months from WIPO notification; final protection depends on response and opposition.",
+      "sv": "PRV kan som huvudregel meddela provisoriskt avslag inom 18 månader från WIPO:s underrättelse; slutligt skydd beror på svar och invändning."
+    },
+    "colourPriorityIdentity": {
+      "ja": "優先権基礎とスウェーデン出願の標章の同一性を確認する。白黒・カラー間や配色変更が同一性を損なうかはEU共通実務と個別事情を踏まえる。",
+      "en": "Confirm identity between the priority and Swedish marks; assess black-and-white/color or color-scheme changes under EU convergence practice and the facts.",
+      "sv": "Kontrollera identitet mellan prioritetsmärket och den svenska ansökan; bedöm svartvitt/färg och ändrad färgsättning enligt EU:s konvergenspraxis och omständigheterna."
+    },
+    "colourRelativeGrounds": {
+      "ja": "色彩は外観の一要素。称呼・観念・構成・識別的要素・商品役務を総合比較し、色違いのみで混同が解消するとは限らない。",
+      "en": "Color is one visual factor; compare sound, concept, composition, distinctive elements and goods/services overall. Color difference alone may not avoid confusion.",
+      "sv": "Färg är ett visuellt moment; ljud, begrepp, uppbyggnad, särskiljande delar och varor/tjänster bedöms samlat. Färgskillnad utesluter inte alltid förväxling."
+    },
+    "colourGenuineUse": {
+      "ja": "登録態様と使用態様の色彩差が識別的性格を変更するかを確認する。主要配色の変更は使用立証上のリスクとなり得る。",
+      "en": "Assess whether color differences between registration and use alter distinctive character; changing a principal color scheme may create proof-of-use risk.",
+      "sv": "Bedöm om färgskillnaden mellan registrering och användning ändrar särskiljningsförmågan; ändrad huvudfärgsättning kan innebära risk vid bevisning om bruk."
+    },
+    "colourInfringementScope": {
+      "ja": "登録表示、色彩の識別力、標章全体、商品・役務、関連需要者、混同のおそれを総合判断する。",
+      "en": "Assess the registration, color distinctiveness, signs as a whole, goods/services, relevant public and likelihood of confusion.",
+      "sv": "Bedöm registreringen, färgens särskiljningsförmåga, märkena som helhet, varor/tjänster, omsättningskretsen och förväxlingsrisken."
+    },
+    "colourFilingStrategy": {
+      "ja": "ブランド色が重要ならカラー版を、変更運用があるなら白黒版・主要配色を別出願する。スウェーデン語での意味・称呼も確認する。",
+      "en": "If brand color matters, file in color; if branding varies, consider separate black-and-white and key-color filings and check Swedish meaning and pronunciation.",
+      "sv": "Om varumärkesfärgen är viktig, ansök i färg; vid varierande användning överväg separata svartvita och centrala färgversioner samt kontrollera svensk betydelse och uttal."
+    },
+    "refusalResponseRoute": {
+      "ja": "PRVの通知に意見書、補正、指定限定、同意書、使用証拠等で応答する。最終拒絶は特許市場裁判所（PMD）へ不服申立てする。",
+      "en": "Respond to a PRV order with arguments, amendment, limitation, consent or use evidence. Appeal a final refusal to the Patent and Market Court (PMD).",
+      "sv": "Besvara PRV:s föreläggande med argument, ändring, begränsning, samtycke eller bruksbevis. Ett slutligt avslag överklagas till Patent- och marknadsdomstolen (PMD)."
+    },
+    "responsePeriod": {
+      "ja": "通知に記載された期限が支配する。案件・通知類型ごとに直ちに期限を確認し、未応答による却下を避ける。",
+      "en": "The deadline stated in the PRV order controls; verify it immediately for each case and avoid dismissal for non-response.",
+      "sv": "Fristen i PRV:s föreläggande gäller; kontrollera den omedelbart i varje ärende och undvik avskrivning på grund av uteblivet svar."
+    },
+    "extensionAvailable": {
+      "ja": "指定応答期間は期限前申請により延長できる場合がある。異議・不服申立て等の法定期限は別途厳格管理する。",
+      "en": "A designated response period may sometimes be extended on a timely request; statutory opposition and appeal periods require separate strict docketing.",
+      "sv": "En förelagd svarsfrist kan ibland förlängas efter begäran i tid; lagstadgade invändnings- och överklagandefrister måste bevakas strikt."
+    },
+    "extensionLength": {
+      "ja": "延長期間・回数は通知および手続により異なるため、PRVに確認する。",
+      "en": "The length and number of extensions vary by notice and procedure; confirm with PRV.",
+      "sv": "Förlängningens längd och antal varierar med föreläggandet och förfarandet; kontrollera med PRV."
+    },
+    "extensionRequirements": {
+      "ja": "期限前の申請、理由および手数料の有無を確認する。却下後は期限満了から2か月以内の再開制度が利用できる場合がある。",
+      "en": "Verify a pre-expiry request, reasons and any fee. Reinstatement may be available within two months after expiry following dismissal.",
+      "sv": "Kontrollera begäran före fristen, skäl och eventuell avgift. Återupptagande kan vara möjligt inom två månader efter fristens utgång efter avskrivning."
+    },
+    "appealRoute": {
+      "ja": "PRVの最終決定は特許市場裁判所（PMD）へ、同裁判所の判断は許可を得て特許市場上訴裁判所（PMÖD）へ不服申立てる。",
+      "en": "Appeal PRV final decisions to the Patent and Market Court (PMD), and PMD decisions, with leave, to the Patent and Market Court of Appeal (PMÖD).",
+      "sv": "PRV:s slutliga beslut överklagas till Patent- och marknadsdomstolen (PMD), och PMD:s avgöranden kan med prövningstillstånd överklagas till Patent- och marknadsöverdomstolen (PMÖD)."
+    },
+    "refusalAppealPeriod": {
+      "ja": "PRV決定日から2か月以内に、PMD宛ての不服申立書をPRVへ提出する。平均審理期間は裁判所の最新統計・代理人見積りを確認する。",
+      "en": "File the appeal addressed to PMD through PRV within two months from the decision. Check current court statistics or local counsel for average duration.",
+      "sv": "Överklagandet, ställt till PMD, ges in till PRV inom två månader från beslutet. Kontrollera aktuell handläggningstid hos domstolen eller lokalt ombud."
+    },
+    "publicDatabase": {
+      "ja": "PRV商標データベース",
+      "en": "PRV Trademark Database",
+      "sv": "PRV:s varumärkesdatabas",
+      "url": "https://search.prv.se/"
+    },
+    "publicationStage": {
+      "ja": "絶対的・相対的理由の審査を通過すると登録され、公報に公告される。その公告から3か月の登録後異議期間が始まる。",
+      "en": "After absolute and relative examination, the mark is registered and published; a three-month post-registration opposition period then begins.",
+      "sv": "Efter prövning av absoluta och relativa hinder registreras och kungörs märket; därefter börjar en tre månader lång invändningsfrist."
+    },
+    "oppositionPeriod": {
+      "ja": "登録公告日から3か月以内。",
+      "en": "Within three months from announcement of registration.",
+      "sv": "Inom tre månader från kungörelsen av registreringen."
+    },
+    "oppositionExtension": {
+      "ja": "法定3か月の異議申立期間は原則延長不可。異議後の答弁・証拠提出期限は別途確認する。",
+      "en": "The statutory three-month opposition filing period is generally non-extendible; verify subsequent response and evidence deadlines.",
+      "sv": "Den lagstadgade invändningsfristen på tre månader kan normalt inte förlängas; senare svars- och bevisfrister kontrolleras separat."
+    },
+    "averagePendency": {
+      "ja": "障害がなければ最初の結果は現在約6週間、その後登録される。拒絶、補正、異議、不服申立てがあると長期化する。",
+      "en": "Current first feedback is about six weeks where straightforward, followed by registration; objections, amendments, opposition or appeal extend the case.",
+      "sv": "Första besked lämnas för närvarande efter cirka sex veckor i okomplicerade fall, följt av registrering; förelägganden, ändringar, invändning eller överklagande förlänger tiden."
+    },
+    "term": {
+      "ja": "出願日から10年。10年ごとに回数制限なく更新可能。",
+      "en": "Ten years from the filing date, renewable indefinitely in ten-year periods.",
+      "sv": "Tio år från ansökningsdagen och kan förnyas obegränsat med tio år i taget."
+    },
+    "termStart": {
+      "ja": "出願日から。",
+      "en": "From the filing date.",
+      "sv": "Från ansökningsdagen."
+    },
+    "renewalWindow": {
+      "ja": "満了前6か月から更新申請可能。",
+      "en": "Renewal may be filed from six months before expiry.",
+      "sv": "Förnyelse kan sökas från sex månader före utgången."
+    },
+    "gracePeriod": {
+      "ja": "あり。満了後6か月以内は追加料金を伴う遅延更新が可能。",
+      "en": "Yes; late renewal is available within six months after expiry with a surcharge.",
+      "sv": "Ja; sen förnyelse kan ske inom sex månader efter utgången mot tilläggsavgift."
+    },
+    "renewalEvidence": {
+      "ja": "更新時の使用証拠は通常不要。ただし5年不使用取消・異議等に備え、真正使用証拠を保存する。",
+      "en": "No use evidence is normally required at renewal; preserve genuine-use evidence for non-use revocation, opposition and enforcement.",
+      "sv": "Bruksbevis krävs normalt inte vid förnyelse; bevara bevis om verkligt bruk för hävning, invändning och intrångsmål."
+    },
+    "nonUseCancellation": {
+      "ja": "あり。継続5年の不使用を理由に、PRVの行政取消または特許市場裁判所で請求可能。行政取消は権利者が争うと裁判所へ移送され得る。",
+      "en": "Available after five continuous years of non-use through PRV administrative revocation or the Patent and Market Court. A contested administrative case may be transferred to court.",
+      "sv": "Möjligt efter fem års sammanhängande uteblivet bruk genom administrativ hävning hos PRV eller vid Patent- och marknadsdomstolen. Ett bestritt administrativt ärende kan överlämnas till domstol."
+    },
+    "nonUsePeriod": {
+      "ja": "登録手続終了後、正当理由なく継続5年間スウェーデンで真正使用されていない場合。使用開始後の5年中断も対象。",
+      "en": "Five continuous years without genuine use in Sweden after completion of registration, absent proper reasons; a later five-year interruption also counts.",
+      "sv": "Fem sammanhängande år utan verkligt bruk i Sverige efter avslutat registreringsförfarande, utan giltiga skäl; även ett senare femårigt avbrott omfattas."
+    },
+    "nonUseDefenses": {
+      "ja": "権利者が対象期間・商品役務について真正使用または正当理由を立証する。EU商標の場合はEU域内使用、国内商標の場合はスウェーデン使用を区別する。",
+      "en": "The owner proves genuine use or proper reasons for the relevant period and goods/services. Distinguish EU-wide use for an EUTM from Swedish use for a national mark.",
+      "sv": "Innehavaren visar verkligt bruk eller giltiga skäl för perioden och varorna/tjänsterna. Skilj unionsbruk för EU-varumärke från bruk i Sverige för nationellt märke."
+    },
+    "otherCancellation": {
+      "ja": "普通名称化、権利者の使用による誤認、公序良俗違反、更新欠缺等により取消・失効し得る。",
+      "en": "Revocation or lapse may result from genericide, misleading use by the owner, conflict with public order or morality, or non-renewal.",
+      "sv": "Hävning eller upphörande kan följa av degeneration, vilseledande användning, strid mot allmän ordning eller goda seder eller utebliven förnyelse."
+    },
+    "invalidation": {
+      "ja": "あり。絶対的・相対的理由、悪意、先行権利等に基づき異議、行政取消または裁判手続を検討する。黙認等の制限も確認する。",
+      "en": "Available on absolute or relative grounds, bad faith or earlier rights through opposition, administrative revocation or court proceedings; check acquiescence limits.",
+      "sv": "Möjligt på absoluta eller relativa grunder, ond tro eller äldre rättigheter genom invändning, administrativ hävning eller domstol; kontrollera passivitetsregler."
+    },
+    "civilInjunction": {
+      "ja": "特許市場裁判所で暫定的・終局的差止めを請求可能。暫定差止めでは侵害蓋然性、損害リスク、比例性、担保等を確認する。",
+      "en": "Interim and final injunctions are available before the Patent and Market Court; assess likelihood of infringement, risk of harm, proportionality and security.",
+      "sv": "Interimistiskt och slutligt vitesförbud kan begäras vid Patent- och marknadsdomstolen; bedöm sannolika skäl, skaderisk, proportionalitet och säkerhet."
+    },
+    "civilDamages": {
+      "ja": "合理的使用料相当額および追加損害（逸失利益、侵害者利益、信用損害、精神的損害等）の賠償を請求し得る。",
+      "en": "Reasonable compensation for use and additional damages, including lost profit, infringer profit, reputational and non-economic harm, may be recovered.",
+      "sv": "Skälig ersättning för utnyttjandet och ytterligare skada, bland annat utebliven vinst, intrångsgörarens vinst, anseendeskada och ideell skada, kan ersättas."
+    },
+    "civilEvidencePreservation": {
+      "ja": "侵害調査命令、情報命令、文書提出、専門家意見、テスト購入、オンライン証拠保存等を検討する。",
+      "en": "Consider infringement investigation orders, information orders, document production, expert evidence, test purchases and preservation of online evidence.",
+      "sv": "Överväg intrångsundersökning, informationsföreläggande, editionsföreläggande, sakkunnigbevisning, testköp och säkring av digital bevisning."
+    },
+    "civilOther": {
+      "ja": "侵害品・材料・器具の回収、変更、廃棄、判決公表、訴訟費用等があり得る。",
+      "en": "Recall, alteration or destruction of infringing goods, materials and tools, publication of judgment and costs may be available.",
+      "sv": "Återkallelse, ändring eller förstöring av intrångsvaror, material och hjälpmedel, offentliggörande av dom samt rättegångskostnader kan aktualiseras."
+    },
+    "borderMeasures": {
+      "ja": "スウェーデン税関へ知的財産権行使申請を行い、疑義貨物の留置を求める。EU税関規則上の連合申請も検討する。",
+      "en": "Apply to Swedish Customs for detention of suspected goods and consider a Union application under the EU customs regime.",
+      "sv": "Ansök hos Tullverket om kvarhållande av misstänkta varor och överväg en unionsansökan enligt EU:s tullregler."
+    },
+    "administrativeRaid": {
+      "ja": "税関、警察、検察による捜索・押収等を刑事告訴・裁判所措置と組み合わせる。PRVは一般的な市場摘発主体ではない。",
+      "en": "Combine customs, police and prosecutor searches or seizures with criminal complaint and court relief. PRV is not the general market-raid authority.",
+      "sv": "Kombinera tullens, polisens och åklagarens husrannsakan eller beslag med anmälan och domstolsåtgärder. PRV är inte allmän marknadskontrollmyndighet."
+    },
+    "administrativeOther": {
+      "ja": "オンライン削除、.seドメイン紛争、消費者・広告・製品安全・不正競争上の措置等を併用する。",
+      "en": "Use platform takedowns, .se domain disputes and consumer, advertising, product-safety or unfair-marketing measures where appropriate.",
+      "sv": "Använd plattformsnedtagning, .se-domäntvist och åtgärder enligt konsument-, marknadsförings- eller produktsäkerhetsregler när det är lämpligt."
+    },
+    "criminalAvailability": {
+      "ja": "あり。故意または重大な過失による侵害は商標犯罪となり得る。公訴には公益上の理由が必要。",
+      "en": "Available. Intentional or grossly negligent infringement may constitute a trademark offense; public prosecution requires public-interest justification.",
+      "sv": "Ja. Uppsåtligt eller grovt oaktsamt intrång kan utgöra varumärkesbrott; allmänt åtal kräver att det är motiverat från allmän synpunkt."
+    },
+    "criminalFine": {
+      "ja": "あり。通常の商標犯罪は罰金または拘禁刑の対象となり得る。",
+      "en": "Available; an ordinary trademark offense may be punished by a fine or imprisonment.",
+      "sv": "Ja; varumärkesbrott kan leda till böter eller fängelse."
+    },
+    "criminalImprisonment": {
+      "ja": "通常罪は最長2年、故意の重大犯罪は6か月以上6年以下となり得る。最新法および事案を確認する。",
+      "en": "An ordinary offense may carry up to two years; an intentional gross offense may carry six months to six years. Verify current law and facts.",
+      "sv": "Normalgraden kan ge fängelse i högst två år; grovt uppsåtligt brott kan ge fängelse i lägst sex månader och högst sex år. Kontrollera aktuell lag och omständigheter."
+    },
+    "criminalOther": {
+      "ja": "侵害品、包装、製造器具および犯罪収益の押収・没収・廃棄等があり得る。",
+      "en": "Seizure, forfeiture and destruction of infringing goods, packaging, equipment and criminal proceeds may apply.",
+      "sv": "Beslag, förverkande och förstöring av intrångsvaror, förpackningar, utrustning och brottsvinster kan förekomma."
+    }
+  },
+  "notablePoints": [
+    {
+      "title": {
+        "ja": "EU商標が直接効力を有する",
+        "en": "EUTMs directly cover Sweden",
+        "sv": "EU-varumärken gäller direkt i Sverige"
+      },
+      "detail": {
+        "ja": "スウェーデンはEU加盟国。国内PRV出願、EUIPO出願、マドプロのスウェーデンまたはEU指定をポートフォリオ目的に応じて選択する。",
+        "en": "Sweden is an EU Member State; choose national PRV filing, EUIPO filing, or Madrid designation of Sweden or the EU according to portfolio needs.",
+        "sv": "Sverige är EU-medlem; välj nationell PRV-ansökan, EUIPO-ansökan eller Madridutpekande av Sverige eller EU efter portföljens behov."
+      }
+    },
+    {
+      "title": {
+        "ja": "先行権利を職権審査",
+        "en": "Earlier rights examined ex officio",
+        "sv": "Äldre rättigheter prövas ex officio"
+      },
+      "detail": {
+        "ja": "EUIPOと異なり、PRVは先行する国内商標・国際登録・EU商標等との抵触を審査する。ただし未登録権利等を含む事前調査はなお必要。",
+        "en": "Unlike EUIPO, PRV examines conflicts with earlier national marks, international registrations and EUTMs, although clearance should still cover unregistered rights.",
+        "sv": "Till skillnad från EUIPO prövar PRV konflikter med äldre nationella märken, internationella registreringar och EU-varumärken; sökning bör ändå omfatta oregistrerade rättigheter."
+      }
+    },
+    {
+      "title": {
+        "ja": "登録後3か月の異議",
+        "en": "Three-month post-registration opposition",
+        "sv": "Tre månaders invändning efter registrering"
+      },
+      "detail": {
+        "ja": "審査後に登録・公告され、その後3か月の異議期間が始まる。登録直後も異議リスクを残す点に注意する。",
+        "en": "Registration and publication occur before the three-month opposition period, so opposition risk remains immediately after registration.",
+        "sv": "Registrering och kungörelse sker före den tre månader långa invändningsfristen; invändningsrisken kvarstår direkt efter registrering."
+      }
+    },
+    {
+      "title": {
+        "ja": "行政取消は争われると裁判所へ",
+        "en": "Contested administrative revocation moves to court",
+        "sv": "Bestridd administrativ hävning går till domstol"
+      },
+      "detail": {
+        "ja": "PRVの行政取消は簡易な入口だが、権利者が争う場合、請求人が移送を求めなければ終了し、求めれば特許市場裁判所で審理される。",
+        "en": "PRV administrative revocation is a simplified entry route, but if contested the applicant must request transfer for determination by the Patent and Market Court.",
+        "sv": "Administrativ hävning hos PRV är en förenklad väg, men om innehavaren bestrider måste sökanden begära överlämnande till Patent- och marknadsdomstolen."
+      }
+    },
+    {
+      "title": {
+        "ja": "PMD・PMÖDの専門裁判所制度",
+        "en": "Specialist PMD and PMÖD courts",
+        "sv": "Specialdomstolarna PMD och PMÖD"
+      },
+      "detail": {
+        "ja": "PRV最終決定の不服および主要な侵害・無効事件は特許市場裁判所が扱い、許可制で特許市場上訴裁判所へ進む。",
+        "en": "The Patent and Market Court handles PRV appeals and principal infringement/validity cases, with leave-based appeal to PMÖD.",
+        "sv": "Patent- och marknadsdomstolen handlägger PRV-överklaganden och centrala intrångs- och giltighetsmål, med prövningstillstånd till PMÖD."
+      }
+    }
+  ],
+  "statistics": {
+    "coverage": "2016–2025",
+    "status": "pending",
+    "series": []
+  },
+  "news": [
+    {
+      "id": "prv-processing-time-2026",
+      "type": "practice",
+      "date": "2026-04-29",
+      "title": {
+        "ja": "PRVが新規商標出願の処理目安を約6週間と公表",
+        "en": "PRV reports about six weeks to first feedback",
+        "sv": "PRV anger cirka sex veckor till första besked"
+      },
+      "summary": {
+        "ja": "単純な新規出願について、登録または通知までの現行目安が約6週間と案内されている。滞貨や拒絶対応により変動する。",
+        "en": "PRV currently indicates about six weeks for a new application to receive registration or an order; workload and objections may change this.",
+        "sv": "PRV anger för närvarande cirka sex veckor till registrering eller föreläggande för en ny ansökan; arbetsbelastning och hinder kan påverka tiden."
+      },
+      "sourceUrl": "https://www.prv.se/en/trademarks/trademark-processing-time/"
+    },
+    {
+      "id": "trademark-act-2024-866",
+      "type": "law",
+      "date": "2025-01-01",
+      "title": {
+        "ja": "商標法の刑事・EU商標関連規定を更新",
+        "en": "Trademark Act criminal and EUTM provisions updated",
+        "sv": "Varumärkeslagens straff- och EU-bestämmelser uppdaterades"
+      },
+      "summary": {
+        "ja": "2024年法律第866号による改正を含む現行法を参照し、刑事責任、輸送中貨物、没収等は最新版で確認する。",
+        "en": "Consult the consolidated Act including Law 2024:866 and verify current criminal liability, transit-goods and forfeiture rules.",
+        "sv": "Använd den konsoliderade lagen inklusive lag 2024:866 och kontrollera aktuella regler om straffansvar, transitvaror och förverkande."
+      },
+      "sourceUrl": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/varumarkeslag-20101877_sfs-2010-1877/"
+    },
+    {
+      "id": "nice-13-2026",
+      "type": "practice",
+      "date": "2026-01-01",
+      "title": {
+        "ja": "ニース国際分類第13版への対応",
+        "en": "Implementation of the 13th Nice edition",
+        "sv": "Tillämpning av Niceklassificeringens 13:e utgåva"
+      },
+      "summary": {
+        "ja": "2026年出願では第13版とPRVの商品・役務分類支援を併せて確認する。",
+        "en": "For 2026 filings, consult the 13th edition together with PRV classification tools.",
+        "sv": "För ansökningar under 2026 ska den 13:e utgåvan användas tillsammans med PRV:s klassificeringsverktyg."
+      },
+      "sourceUrl": "https://www.wipo.int/classifications/nice/en/"
+    }
+  ],
+  "faqs": [
+    {
+      "tag": "Route",
+      "question": {
+        "ja": "国内PRV出願、EU商標、マドプロのスウェーデン指定・EU指定のどれが適切ですか。",
+        "en": "Should we use a PRV filing, EUTM, Madrid-Sweden designation or Madrid-EU designation?",
+        "sv": "Bör vi välja PRV-ansökan, EU-varumärke, Madridutpekande av Sverige eller av EU?"
+      },
+      "followUp": {
+        "ja": "費用、地理的範囲、先行権利リスク、使用立証、攻撃耐性の違いは。",
+        "en": "How do cost, territory, earlier-right risk, use proof and vulnerability differ?",
+        "sv": "Hur skiljer sig kostnad, territorium, äldre-rättighetsrisk, bruksbevis och sårbarhet?"
+      }
+    },
+    {
+      "tag": "Examination",
+      "question": {
+        "ja": "PRVが職権で審査する先行権利の範囲は。",
+        "en": "Which earlier rights does PRV examine ex officio?",
+        "sv": "Vilka äldre rättigheter prövar PRV ex officio?"
+      },
+      "followUp": {
+        "ja": "商号、未登録商標、氏名、著作権、ドメインも別途調査すべきですか。",
+        "en": "Should trade names, unregistered marks, names, copyright and domains be searched separately?",
+        "sv": "Bör firma, oregistrerade märken, namn, upphovsrätt och domäner sökas separat?"
+      }
+    },
+    {
+      "tag": "Opposition",
+      "question": {
+        "ja": "登録後3か月の異議で必要な理由・証拠・翻訳は。",
+        "en": "What grounds, evidence and translations are needed for the three-month post-registration opposition?",
+        "sv": "Vilka grunder, bevis och översättningar behövs för invändning inom tre månader efter registrering?"
+      },
+      "followUp": {
+        "ja": "旧商標が5年以上経過している場合、使用証明請求をどう行いますか。",
+        "en": "How should proof of use be requested where the earlier mark is over five years old?",
+        "sv": "Hur begärs bevis om bruk när det äldre märket är mer än fem år gammalt?"
+      }
+    },
+    {
+      "tag": "Appeal",
+      "question": {
+        "ja": "PRV拒絶をPMDへ争う期限、証拠提出範囲、平均審理期間は。",
+        "en": "What deadline, evidence scope and average duration apply to a PRV refusal appeal to PMD?",
+        "sv": "Vilken frist, bevisram och handläggningstid gäller vid överklagande av PRV-avslag till PMD?"
+      },
+      "followUp": {
+        "ja": "PMÖDへの上訴許可基準と概算費用は。",
+        "en": "What are the leave-to-appeal standard and estimated cost before PMÖD?",
+        "sv": "Vilka krav gäller för prövningstillstånd och vad är uppskattad kostnad i PMÖD?"
+      }
+    },
+    {
+      "tag": "Non-use",
+      "question": {
+        "ja": "国内登録の5年不使用取消に対抗するスウェーデン使用証拠は何ですか。",
+        "en": "What Swedish use evidence defends a five-year non-use action against a national registration?",
+        "sv": "Vilken svensk bruksbevisning krävs mot hävning på grund av fem års uteblivet bruk?"
+      },
+      "followUp": {
+        "ja": "EU商標の使用、輸出、オンライン販売、ライセンシー使用、色彩・ロゴ変更はどこまで認められますか。",
+        "en": "How are EUTM use, exports, online sales, licensee use and color/logo variations treated?",
+        "sv": "Hur bedöms bruk av EU-varumärke, export, nätförsäljning, licenstagarbruk och ändrad färg eller logotyp?"
+      }
+    },
+    {
+      "tag": "Enforcement",
+      "question": {
+        "ja": "PMDの仮処分、Tullverketの水際措置、刑事告訴をどう組み合わせますか。",
+        "en": "How should PMD interim relief, Swedish Customs measures and criminal complaint be combined?",
+        "sv": "Hur kombineras interimistiskt förbud vid PMD, Tullverkets åtgärder och polisanmälan?"
+      },
+      "followUp": {
+        "ja": "侵害調査命令、担保、管轄、概算費用・期間は。",
+        "en": "What investigation order, security, venue, estimated cost and duration apply?",
+        "sv": "Vad gäller för intrångsundersökning, säkerhet, forum, uppskattad kostnad och tid?"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "PRV — Trademarks",
+      "url": "https://www.prv.se/en/trademarks/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "PRV — Processing of Trademark Applications",
+      "url": "https://www.prv.se/en/trademarks/prepare-for-the-trademark-application/processing-of-applications-of-trademarks/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "PRV — Trademark Processing Time",
+      "url": "https://www.prv.se/en/trademarks/trademark-processing-time/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "PRV — Opposition",
+      "url": "https://www.prv.se/en/trademarks/prepare-for-the-trademark-application/processing-of-applications-of-trademarks/opposition-to-new-registrations-of-trademarks/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "PRV — Revocation",
+      "url": "https://www.prv.se/en/trademarks/when-you-have-a-registered-trademark/revocation-of-trademark-registration/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Swedish Parliament — Trademarks Act (2010:1877)",
+      "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/varumarkeslag-20101877_sfs-2010-1877/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Swedish Courts — Patent and Market Courts",
+      "url": "https://www.domstol.se/en/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Swedish Customs — Intellectual Property",
+      "url": "https://www.tullverket.se/en/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO Lex — Sweden Member Profile",
+      "url": "https://www.wipo.int/wipolex/en/legislation/members/profile/SE",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO Madrid Monitor",
+      "url": "https://www3.wipo.int/madrid/monitor/en/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "TMview",
+      "url": "https://www.tmdn.org/tmview/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO Nice Classification",
+      "url": "https://www.wipo.int/classifications/nice/en/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    }
+  ]
+}
