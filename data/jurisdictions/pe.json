@@ -1,0 +1,599 @@
+{
+  "id": "pe",
+  "type": "country",
+  "flag": "🇵🇪",
+  "region": "americas",
+  "names": {
+    "ja": "ペルー共和国",
+    "en": "Republic of Peru",
+    "es": "República del Perú"
+  },
+  "office": {
+    "ja": "国家競争・知的財産保護庁（INDECOPI）識別標識局",
+    "en": "Directorate of Distinctive Signs, National Institute for the Defense of Competition and Protection of Intellectual Property (INDECOPI)",
+    "es": "Dirección de Signos Distintivos del Instituto Nacional de Defensa de la Competencia y de la Protección de la Propiedad Intelectual (INDECOPI)"
+  },
+  "availableLanguages": [
+    "es"
+  ],
+  "createdAt": "2026-09-13",
+  "updatedAt": "2026-09-13",
+  "status": "review",
+  "facts": {
+    "authority": {
+      "ja": "INDECOPI識別標識局。アンデス共同体決定486号およびペルー国内法に基づき、出願・登録・異議・取消・侵害行政手続を担当する。",
+      "en": "INDECOPI’s Directorate of Distinctive Signs, applying Andean Community Decision 486 and Peruvian law to filing, registration, opposition, revocation and administrative infringement proceedings.",
+      "es": "La Dirección de Signos Distintivos del INDECOPI aplica la Decisión 486 de la Comunidad Andina y la legislación peruana a registros, oposiciones, cancelaciones e infracciones administrativas."
+    },
+    "protectionScope": {
+      "ja": "商品・役務の商標、団体商標、証明商標、商号、スローガン、周知標識。原産地名称・地理的表示は関連する別制度。",
+      "en": "Marks for goods/services, collective and certification marks, trade names, commercial slogans and well-known signs; appellations of origin/GIs follow related regimes.",
+      "es": "Marcas de productos y servicios, colectivas y de certificación, nombres comerciales, lemas comerciales y signos notoriamente conocidos; las denominaciones de origen e IG siguen regímenes relacionados."
+    },
+    "markTypes": {
+      "ja": "文字、図形、結合、立体、位置、色彩の組合せ、音、匂い等、商品・役務を識別でき、表示可能な標識。単一色は境界・組合せ等の要件を確認する。",
+      "en": "Word, figurative, composite, 3D, position, color-combination, sound, scent and other signs capable of distinguishing and representation; check requirements for single colors.",
+      "es": "Signos denominativos, figurativos, mixtos, tridimensionales, de posición, combinaciones de colores, sonoros, olfativos y otros capaces de distinguir y representarse; confirmar requisitos para colores aislados."
+    },
+    "madridAccessionDate": {
+      "ja": "未加盟。ペルーをマドプロで指定することはできず、INDECOPIへ直接出願する。",
+      "en": "Not a member. Peru cannot be designated through Madrid; file directly with INDECOPI.",
+      "es": "No es miembro. El Perú no puede designarse mediante el Sistema de Madrid; debe presentarse una solicitud directa ante el INDECOPI."
+    },
+    "niceClassification": {
+      "ja": "採用。ニース分類最新版とINDECOPIの商品・役務検索・受理名称を確認する。",
+      "en": "Adopted; consult the current Nice edition and INDECOPI’s accepted goods/services tools.",
+      "es": "Adoptada; consultar la edición vigente de Niza y las herramientas y términos aceptados por el INDECOPI."
+    },
+    "classHeadingPractice": {
+      "ja": "類見出しのみで区分全体を当然に包含しない。明確・具体的な商品・役務をスペイン語で記載する。",
+      "en": "Class headings do not automatically cover the whole class; specify goods/services clearly and precisely in Spanish.",
+      "es": "Los títulos de clase no abarcan automáticamente toda la clase; los productos y servicios deben indicarse clara y precisamente en español."
+    },
+    "retailServices": {
+      "ja": "第35類で可。小売・卸売の対象商品または業務分野を具体化する。",
+      "en": "Available in Class 35; specify the goods or business sector concerned by retail/wholesale services.",
+      "es": "Disponibles en la clase 35; deben especificarse los productos o el sector al que se refieren los servicios minoristas o mayoristas."
+    },
+    "multiClassApplication": {
+      "ja": "可。追加区分ごとに料金。区分ごとの補正、分割、一部拒絶・更新を管理する。",
+      "en": "Available, with fees for additional classes; manage amendments, division, partial refusal and renewal by class.",
+      "es": "Es posible la solicitud multiclase, con tasas por clases adicionales; deben gestionarse modificaciones, división, rechazo parcial y renovación por clase."
+    },
+    "applicationForm": {
+      "ja": "INDECOPIのオンラインまたは所定様式で、出願人、標章、指定商品・役務、区分、優先権、代理人等をスペイン語で提出する。",
+      "en": "File online or on the prescribed INDECOPI form in Spanish, identifying the applicant, mark, goods/services, classes, priority and representative.",
+      "es": "La solicitud se presenta en línea o en formulario del INDECOPI, en español, indicando solicitante, signo, productos o servicios, clases, prioridad y representante."
+    },
+    "powerOfAttorney": {
+      "ja": "外国出願人はペルーの代理人を選任するのが通常。単純署名の委任状で足りる場合が多いが、公証・アポスティーユ、権限、提出期限を確認する。",
+      "en": "Foreign applicants normally appoint a Peruvian representative. A simply signed power often suffices, but verify notarization/apostille, authority and filing deadline.",
+      "es": "El solicitante extranjero normalmente designa representante en el Perú. Suele bastar poder con firma simple, pero deben verificarse legalización, facultades y plazo."
+    },
+    "priorityDocuments": {
+      "ja": "パリ優先権は最初の出願から6か月以内。出願時に主張し、証明書・スペイン語訳の提出期限を決定486号およびINDECOPI通知で確認する。",
+      "en": "Paris priority must be claimed within six months and declared at filing; verify the deadline for the certificate and Spanish translation under Decision 486 and INDECOPI practice.",
+      "es": "La prioridad unionista debe reivindicarse dentro de seis meses y declararse al solicitar; verificar el plazo del certificado y traducción según la Decisión 486 y el INDECOPI."
+    },
+    "homeRegistrationCertificate": {
+      "ja": "通常の直接出願には不要。パリ条約第6条の5の援用、出願人資格、団体・証明商標等では別途確認する。",
+      "en": "Not normally required for a direct filing; verify separately for Paris Convention Article 6quinquies, applicant status and collective/certification marks.",
+      "es": "No se exige normalmente en una solicitud directa; verificar por separado el artículo 6quinquies de París, legitimación y marcas colectivas o de certificación."
+    },
+    "useEvidenceAtFiling": {
+      "ja": "通常不要。使用による識別力、周知性、商号・先使用等を主張する場合はペルーまたは関連アンデス域内の証拠が必要。",
+      "en": "Not normally required; Peruvian or relevant Andean evidence is needed for acquired distinctiveness, well-known status, trade-name or prior-use claims.",
+      "es": "No se exige normalmente; para distintividad adquirida, notoriedad, nombre comercial o uso anterior se requieren pruebas del Perú o, cuando proceda, de la región andina."
+    },
+    "notarizationCertification": {
+      "ja": "通常の出願委任状は公証・領事認証不要の場合が多い。譲渡、取消請求、宣誓・外国公文書は手続別に確認する。",
+      "en": "An ordinary filing power often needs no notarization/legalization; confirm assignments, cancellation requests, declarations and foreign official documents separately.",
+      "es": "El poder ordinario suele no requerir legalización; confirmar por separado cesiones, cancelaciones, declaraciones y documentos públicos extranjeros."
+    },
+    "otherDocuments": {
+      "ja": "商標表示、委任情報、優先権証明、団体・証明商標規則、非伝統的商標ファイル、識別力・周知性証拠等。",
+      "en": "Representation, authority details, priority document, collective/certification regulations, non-traditional mark files and distinctiveness/reputation evidence.",
+      "es": "Representación del signo, poder, prioridad, reglamentos de marcas colectivas o de certificación, archivos de marcas no tradicionales y pruebas de distintividad o notoriedad."
+    },
+    "absoluteGroundsExamination": {
+      "ja": "あり。INDECOPIが職権審査する。",
+      "en": "Yes; examined ex officio by INDECOPI.",
+      "es": "Sí; el INDECOPI los examina de oficio."
+    },
+    "distinctivenessGrounds": {
+      "ja": "識別力欠如、普通名称、記述的・慣用的表示、一般的な形状・色彩等。使用による識別力をアンデス共同体の基準に従って証明できる場合がある。",
+      "en": "Non-distinctive, generic, descriptive or customary signs and common shapes/colors may be refused; acquired distinctiveness may be established under Andean standards.",
+      "es": "Pueden rechazarse signos sin distintividad, genéricos, descriptivos o usuales y formas o colores comunes; puede probarse distintividad adquirida según criterios andinos."
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "公序良俗、法令違反、欺瞞性、国旗・紋章・公的記章、商品に本質的・機能的な形状、植物品種、地理的表示・原産地名称、文化的表現等を確認する。",
+      "en": "Check public order/morality, illegality, deception, flags/emblems/official signs, essential or functional shapes, plant varieties, GIs/appellations and cultural expressions.",
+      "es": "Deben verificarse orden público, legalidad, engaño, banderas y emblemas oficiales, formas esenciales o funcionales, variedades vegetales, IG o denominaciones de origen y expresiones culturales."
+    },
+    "relativeGroundsExamination": {
+      "ja": "あり。先行ペルー出願・登録、アンデス域内権利に基づく適格な異議、周知標識、商号、氏名・肖像、著作権等との抵触を審査する。",
+      "en": "Yes. INDECOPI examines earlier Peruvian rights, eligible Andean oppositions, well-known signs, trade names, names/portraits and copyright conflicts.",
+      "es": "Sí. Se examinan derechos peruanos anteriores, oposiciones andinas admisibles, signos notorios, nombres comerciales, nombres o retratos y derechos de autor."
+    },
+    "disclaimer": {
+      "ja": "一般的な任意ディスクレーム制度は通常中心ではない。非識別部分は単独で独占できず、標章全体の識別力・保護範囲を評価する。",
+      "en": "A general elective disclaimer is not ordinarily central; non-distinctive elements are not monopolized alone and the mark is assessed as a whole.",
+      "es": "La renuncia voluntaria general no es central; los elementos no distintivos no se monopolizan aisladamente y la marca se aprecia en conjunto."
+    },
+    "consent": {
+      "ja": "同意書・共存契約は考慮され得るが、消費者の混同を防ぐ公益判断を拘束しない。市場分離、表示方法等の措置を含めINDECOPI実務を確認する。",
+      "en": "Consent/coexistence may be considered but does not bind the public-interest assessment of consumer confusion; check market-separation and presentation safeguards.",
+      "es": "El consentimiento o acuerdo de coexistencia puede considerarse, pero no vincula el análisis de interés público sobre confusión; verificar separación de mercados y otras salvaguardas."
+    },
+    "acceleratedExamination": {
+      "ja": "一般的な自動ファストトラックは限定的。訴訟、侵害、公共調達等の緊急性による優先処理の可否をINDECOPI・現地代理人に確認する。",
+      "en": "A general automatic fast track is limited; ask INDECOPI/local counsel whether litigation, infringement, procurement or other urgency supports priority treatment.",
+      "es": "La vía rápida general es limitada; debe consultarse si litigio, infracción, contratación u otra urgencia permite trámite prioritario."
+    },
+    "thirdPartyObservation": {
+      "ja": "電子公報公告後30営業日以内に正式異議を提出可能。絶対的理由の情報提供も含め、提出資格・証拠・補充期間を確認する。",
+      "en": "Formal opposition may be filed within 30 working days after electronic publication; verify standing, evidence and supplementation, including absolute-ground information.",
+      "es": "Puede presentarse oposición dentro de 30 días hábiles de la publicación electrónica; verificar legitimación, pruebas y ampliación, incluso información sobre motivos absolutos."
+    },
+    "directExaminationPeriod": {
+      "ja": "異議のない直接出願は概ね4～8か月程度となることがある。方式不備、異議、拒絶、審判で変動するため最新INDECOPI統計を確認する。",
+      "en": "An unopposed direct filing may take roughly four to eight months; formal defects, opposition, refusal and appeal may change this.",
+      "es": "Una solicitud directa sin oposición puede tardar aproximadamente cuatro a ocho meses; defectos, oposición, rechazo y apelación pueden modificar el plazo."
+    },
+    "madridExaminationPeriod": {
+      "ja": "適用なし。ペルーはマドリッド協定議定書の締約国ではない。",
+      "en": "Not applicable because Peru is not a Madrid Protocol contracting party.",
+      "es": "No aplicable porque el Perú no es parte del Protocolo de Madrid."
+    },
+    "colourPriorityIdentity": {
+      "ja": "優先権基礎とペルー出願の標章が同一であるかを確認する。白黒・カラー間、配色・配置変更が同一性を損なうかを個別評価する。",
+      "en": "Confirm identity between the priority and Peruvian marks; assess whether black-and-white/color or arrangement changes impair identity.",
+      "es": "Debe verificarse la identidad entre la solicitud prioritaria y la peruana; evaluar si cambios entre blanco y negro y color, o de disposición, afectan la identidad."
+    },
+    "colourRelativeGrounds": {
+      "ja": "色彩は外観の一要素。称呼・観念・構成・支配的要素・商品役務・需要者を総合比較し、色違いのみで非類似とは限らない。",
+      "en": "Color is one visual factor; compare sound, concept, composition, dominant elements, goods/services and consumers overall. Color change alone may not avoid similarity.",
+      "es": "El color es un elemento visual; se comparan sonido, concepto, composición, elementos dominantes, productos o servicios y consumidores. El cambio de color por sí solo puede no excluir semejanza."
+    },
+    "colourGenuineUse": {
+      "ja": "登録態様と使用態様の色彩差が商標の識別的性格を変更するかを確認する。主要配色変更は不使用取消防御のリスクとなる。",
+      "en": "Assess whether color differences between registration and use alter distinctive character; changing a principal color scheme may create non-use risk.",
+      "es": "Debe evaluarse si la diferencia de color entre registro y uso altera el carácter distintivo; cambiar la combinación principal puede crear riesgo de cancelación."
+    },
+    "colourInfringementScope": {
+      "ja": "登録表示、色彩の識別力、標章全体、商品・役務、需要者、混同・関連付けのおそれを総合判断する。",
+      "en": "Assess the registration, color distinctiveness, signs as a whole, goods/services, consumers and likelihood of confusion/association.",
+      "es": "Se valoran el registro, distintividad del color, signos en conjunto, productos o servicios, consumidores y riesgo de confusión o asociación."
+    },
+    "colourFilingStrategy": {
+      "ja": "ブランド色が重要ならカラー版を、変更運用があるなら白黒版・主要配色を別出願する。スペイン語訳・音写、先住民言語での意味も確認する。",
+      "en": "If brand color matters, file in color; if branding varies, consider separate black-and-white/key-color filings and check Spanish and Indigenous-language meanings.",
+      "es": "Si el color es importante, presentar versión a color; si varía, considerar solicitudes separadas en blanco y negro y colores principales, y revisar significados en español y lenguas indígenas."
+    },
+    "refusalResponseRoute": {
+      "ja": "INDECOPI通知に意見書、補正、指定限定、同意・共存資料、使用証拠等で応答する。第一審決定には再検討または知的財産専門部への行政上訴を検討する。",
+      "en": "Respond to INDECOPI with arguments, amendment, limitation, coexistence material or use evidence. Consider reconsideration or administrative appeal to the Specialized IP Chamber.",
+      "es": "Responder al INDECOPI con argumentos, modificaciones, limitaciones, coexistencia o pruebas de uso. Considerar reconsideración o apelación ante la Sala Especializada en Propiedad Intelectual."
+    },
+    "responsePeriod": {
+      "ja": "通知記載期限が支配する。異議答弁は通常、通知後30営業日が重要。方式補正・実体応答は通知ごとに確認する。",
+      "en": "The notice controls. A reply to opposition commonly has a 30-working-day period; verify formality and substantive response periods in each notice.",
+      "es": "Prevalece el plazo notificado. La contestación de oposición suele tener 30 días hábiles; verificar cada plazo formal y sustantivo."
+    },
+    "extensionAvailable": {
+      "ja": "手続により限定的に可能。異議・答弁の証拠提出について追加30営業日を申請できる場合があるが、申立期限自体と区別する。",
+      "en": "Limited extensions may apply. An additional 30 working days for evidence may be requestable in opposition/reply, distinct from the filing deadline.",
+      "es": "Puede haber prórroga limitada. En oposición o contestación puede solicitarse 30 días hábiles adicionales para pruebas, distinta del plazo para presentar el acto."
+    },
+    "extensionLength": {
+      "ja": "典型的には証拠補充の30営業日。各手続の法定期限、申請時期、対象を確認する。",
+      "en": "A typical extension is 30 working days for evidence; verify the statutory period, request timing and scope for each procedure.",
+      "es": "Una extensión típica es de 30 días hábiles para pruebas; verificar plazo legal, momento de solicitud y alcance en cada procedimiento."
+    },
+    "extensionRequirements": {
+      "ja": "期限内の申請、手数料・理由の要否を確認する。行政上訴等の法定期限は原則厳格に管理する。",
+      "en": "Verify a timely request and any fee or reasons; docket statutory administrative-appeal periods strictly.",
+      "es": "Verificar solicitud oportuna y si exige tasa o fundamento; controlar rigurosamente los plazos legales de recursos administrativos."
+    },
+    "appealRoute": {
+      "ja": "第一審の識別標識委員会・局の決定に対し、INDECOPI競争・知的財産権保護審判所の知的財産専門部へ上訴。行政確定後は司法審査を検討する。",
+      "en": "Appeal first-instance Directorate/Commission decisions to INDECOPI Tribunal’s Specialized Chamber for Intellectual Property, followed by judicial review after final agency action.",
+      "es": "Las decisiones de primera instancia se apelan ante la Sala Especializada en Propiedad Intelectual del Tribunal del INDECOPI; agotada la vía administrativa, procede control judicial."
+    },
+    "refusalAppealPeriod": {
+      "ja": "決定通知から通常15営業日が重要な目安。再検討・上訴の選択、新証拠、起算点を現地代理人と確認する。平均審理期間は最新統計を参照する。",
+      "en": "A 15-working-day period from notification is commonly critical. Confirm reconsideration versus appeal, new evidence and trigger; check current duration statistics.",
+      "es": "El plazo de 15 días hábiles desde la notificación suele ser decisivo. Confirmar reconsideración o apelación, nueva prueba y cómputo; consultar duración actual."
+    },
+    "publicDatabase": {
+      "ja": "INDECOPI「Busca tu marca」商標検索",
+      "en": "INDECOPI “Busca tu marca” Trademark Search",
+      "es": "Buscador de marcas “Busca tu marca” del INDECOPI",
+      "url": "https://enlinea.indecopi.gob.pe/buscatumarca/"
+    },
+    "publicationStage": {
+      "ja": "方式審査後、INDECOPI電子工業所有権公報に出願公告され、30営業日の異議期間に入る。その後実体審査・登録または拒絶。",
+      "en": "After formality review, the application is published in INDECOPI’s electronic IP gazette for a 30-working-day opposition period, followed by substantive examination.",
+      "es": "Tras el examen formal, la solicitud se publica en la Gaceta Electrónica de Propiedad Industrial por 30 días hábiles para oposición y luego se examina el fondo."
+    },
+    "oppositionPeriod": {
+      "ja": "電子公報公告日から30営業日以内。ペルーの先行権および要件を満たすアンデス共同体加盟国の権利等に基づく。",
+      "en": "Within 30 working days from electronic publication, based on Peruvian rights and qualifying rights in other Andean Community countries.",
+      "es": "Dentro de 30 días hábiles desde la publicación electrónica, con base en derechos peruanos y derechos admisibles de otros países de la Comunidad Andina."
+    },
+    "oppositionExtension": {
+      "ja": "異議申立期限自体は原則延長不可。証拠提出について一度30営業日の追加期間が認められる場合を決定486号・実務で確認する。",
+      "en": "The opposition filing period is generally non-extendible; verify the possible single additional 30-working-day evidence period under Decision 486.",
+      "es": "El plazo para formular oposición es en principio improrrogable; verificar el período adicional único de 30 días hábiles para pruebas conforme a la Decisión 486."
+    },
+    "averagePendency": {
+      "ja": "異議なしで概ね4～8か月。異議・拒絶・行政上訴があると大幅に長期化するため最新INDECOPI統計を確認する。",
+      "en": "Roughly four to eight months if unopposed; opposition, refusal and administrative appeal can materially extend the case.",
+      "es": "Aproximadamente cuatro a ocho meses sin oposición; oposición, rechazo y apelación administrativa pueden prolongar sustancialmente el trámite."
+    },
+    "term": {
+      "ja": "登録許可日から10年。10年ごとに更新可能。",
+      "en": "10 years from the grant date, renewable for successive ten-year periods.",
+      "es": "10 años desde la fecha de concesión, renovables por períodos sucesivos de 10 años."
+    },
+    "termStart": {
+      "ja": "登録許可日から。",
+      "en": "From the date of grant.",
+      "es": "Desde la fecha de concesión."
+    },
+    "renewalWindow": {
+      "ja": "満了前6か月以内に更新申請可能。",
+      "en": "Renewal may be filed within six months before expiry.",
+      "es": "La renovación puede solicitarse dentro de los seis meses anteriores al vencimiento."
+    },
+    "gracePeriod": {
+      "ja": "あり。満了後6か月以内は追加料金を伴う遅延更新が可能。",
+      "en": "Yes; late renewal is available within six months after expiry with an additional fee.",
+      "es": "Sí; puede renovarse dentro de los seis meses posteriores al vencimiento con tasa adicional."
+    },
+    "renewalEvidence": {
+      "ja": "更新時の使用宣誓・使用証拠は通常不要。ただし3年不使用取消に備え、ペルーまたは他のアンデス加盟国での使用証拠を保存する。",
+      "en": "No use declaration/evidence is normally required at renewal; preserve use evidence from Peru or another Andean member against three-year non-use cancellation.",
+      "es": "No suele exigirse prueba de uso al renovar; conservar pruebas de uso en el Perú u otro país andino frente a cancelación por tres años."
+    },
+    "nonUseCancellation": {
+      "ja": "あり。INDECOPIへの行政上の不使用取消。登録決定の通知から3年経過後に請求可能。",
+      "en": "Available as an administrative non-use cancellation before INDECOPI, requestable after three years from notification of the final registration decision.",
+      "es": "Disponible como cancelación administrativa por falta de uso ante el INDECOPI, una vez transcurridos tres años desde la notificación de la resolución de registro."
+    },
+    "nonUsePeriod": {
+      "ja": "請求日前の継続3年間、正当理由なくアンデス共同体加盟国のいずれでも指定商品・役務について使用されていない場合。",
+      "en": "Three continuous years before the request without use for the goods/services in any Andean Community member country, absent justified reasons.",
+      "es": "Tres años continuos anteriores a la solicitud sin uso para los productos o servicios en ningún país miembro de la Comunidad Andina, salvo motivo justificado."
+    },
+    "nonUseDefenses": {
+      "ja": "商標権者がペルー、ボリビア、コロンビアまたはエクアドルでの真正使用または正当理由を立証する。請求書、広告、輸入・輸出、流通、ライセンスの証拠連結が重要。",
+      "en": "The owner proves genuine use in Peru, Bolivia, Colombia or Ecuador, or justified non-use. Link invoices, advertising, trade, distribution and licensing to the relevant period/goods.",
+      "es": "El titular prueba uso real en Perú, Bolivia, Colombia o Ecuador, o motivo justificado. Debe vincular facturas, publicidad, comercio, distribución y licencias al período y productos."
+    },
+    "otherCancellation": {
+      "ja": "普通名称化、識別力喪失、誤認使用等の取消があり得る。決定486号と国内手続に従いINDECOPIへ請求する。",
+      "en": "Cancellation may arise from genericide, loss of distinctiveness or misleading use under Decision 486 and Peruvian procedure.",
+      "es": "Puede proceder cancelación por vulgarización, pérdida de distintividad o uso engañoso conforme a la Decisión 486 y al procedimiento peruano."
+    },
+    "invalidation": {
+      "ja": "あり。絶対的・相対的理由、悪意、先行権利等に基づきINDECOPIへ行政無効を請求可能。根拠別の期間制限を確認する。",
+      "en": "Available administratively before INDECOPI on absolute/relative grounds, bad faith and earlier rights; limitation periods vary by ground.",
+      "es": "La nulidad administrativa puede pedirse ante el INDECOPI por motivos absolutos o relativos, mala fe y derechos anteriores; los plazos varían según la causal."
+    },
+    "civilInjunction": {
+      "ja": "INDECOPIの行政侵害手続で差止め・暫定措置を求められるほか、司法上の救済も検討する。管轄・併行手続を確認する。",
+      "en": "Cessation and provisional measures are available in INDECOPI administrative infringement proceedings, alongside possible judicial relief; verify jurisdiction and parallel actions.",
+      "es": "Pueden solicitarse cese y medidas cautelares en el procedimiento administrativo de infracción del INDECOPI, además de tutela judicial; verificar competencia y paralelismo."
+    },
+    "civilDamages": {
+      "ja": "損害賠償は原則として司法裁判所で請求し、INDECOPIの侵害決定を基礎資料として用いることを検討する。実損・逸失利益・不当利益等を確認する。",
+      "en": "Damages are generally sought in court; consider using INDECOPI’s infringement decision as evidence and assess actual loss, lost profits and unjust enrichment.",
+      "es": "La indemnización suele reclamarse judicialmente; puede utilizarse la resolución de infracción del INDECOPI y evaluarse daño emergente, lucro cesante y enriquecimiento indebido."
+    },
+    "civilEvidencePreservation": {
+      "ja": "INDECOPIの査察・暫定措置、司法上の証拠保全、公証購入、オンライン証拠保存、会計・輸入資料等を検討する。",
+      "en": "Consider INDECOPI inspection/provisional measures, judicial preservation, notarized purchases, online evidence and accounting/import records.",
+      "es": "Considerar inspecciones y cautelares del INDECOPI, prueba anticipada judicial, compras documentadas, evidencia en línea y registros contables o aduaneros."
+    },
+    "civilOther": {
+      "ja": "侵害品・包装・器具の没収・廃棄、閉鎖、是正措置、決定公表、費用等があり得る。行政制裁と司法救済を区別する。",
+      "en": "Seizure/destruction, closure, corrective measures, publication and costs may apply; distinguish administrative sanctions from judicial remedies.",
+      "es": "Pueden imponerse decomiso o destrucción, cierre, medidas correctivas, publicación y costas; distinguir sanciones administrativas de remedios judiciales."
+    },
+    "borderMeasures": {
+      "ja": "SUNAT税関への商標登録・警告および貨物留置を検討する。保証、真贋判定、権利者回答、行政・司法手続期限を確認する。",
+      "en": "Consider customs recordal/alerts and detention through SUNAT; verify security, authentication and deadlines for rights-holder and merits actions.",
+      "es": "Considerar registro o alerta y suspensión aduanera ante SUNAT; verificar garantía, autenticación y plazos del titular y de acciones de fondo."
+    },
+    "administrativeRaid": {
+      "ja": "INDECOPIの立入検査・暫定措置、税関、国家警察、検察による摘発を事案に応じて組み合わせる。",
+      "en": "Combine INDECOPI inspections/provisional measures with customs, police and prosecutor action as appropriate.",
+      "es": "Combinar inspecciones y cautelares del INDECOPI con actuaciones de aduanas, Policía Nacional y Fiscalía según el caso."
+    },
+    "administrativeOther": {
+      "ja": "INDECOPIによる罰金・営業停止・是正措置、オンライン削除、.peドメイン、消費者・広告・衛生規制上の措置等を併用する。",
+      "en": "Use INDECOPI fines, closure/corrective orders, platform takedowns, .pe domain, consumer, advertising or health-regulation measures as appropriate.",
+      "es": "Utilizar multas, cierre o correctivas del INDECOPI, retiros en plataformas, dominios .pe y medidas de consumo, publicidad o sanidad según corresponda."
+    },
+    "criminalAvailability": {
+      "ja": "あり。故意の商標偽造・模倣品製造・流通等は刑事責任の対象となり得る。検察・警察への告訴と構成要件を確認する。",
+      "en": "Available for intentional counterfeiting and manufacture/distribution of counterfeit goods; verify offense elements and prosecutor/police complaint procedure.",
+      "es": "Existe responsabilidad penal por falsificación dolosa y producción o distribución de productos falsos; verificar elementos y denuncia ante Fiscalía o Policía."
+    },
+    "criminalFine": {
+      "ja": "あり。犯罪類型、自然人・法人、最新法定額を確認する。",
+      "en": "Available; verify current amounts by offense and individual/entity treatment.",
+      "es": "Hay multa; verificar montos actuales según delito y tratamiento de persona natural o jurídica."
+    },
+    "criminalImprisonment": {
+      "ja": "あり得る。故意、営利目的、組織性等を踏まえ最新の法定刑・量刑を確認する。",
+      "en": "Potentially available; verify current terms based on intent, commercial purpose and organized conduct.",
+      "es": "Puede haber pena privativa de libertad; verificar límites actuales según dolo, finalidad comercial y organización."
+    },
+    "criminalOther": {
+      "ja": "侵害品・ラベル・包装・製造器具の押収・没収・廃棄、営業上の措置、犯罪収益措置等があり得る。",
+      "en": "Seizure, forfeiture and destruction of goods, labels, packaging and equipment, business and proceeds measures may apply.",
+      "es": "Pueden aplicarse incautación, decomiso y destrucción de productos, etiquetas, envases y equipos, medidas comerciales y sobre ganancias ilícitas."
+    }
+  },
+  "notablePoints": [
+    {
+      "title": {
+        "ja": "アンデス共同体決定486号",
+        "en": "Andean Community Decision 486",
+        "es": "Decisión 486 de la Comunidad Andina"
+      },
+      "detail": {
+        "ja": "ペルー国内法だけでなくアンデス共同体共通規則とアンデス司法裁判所の先決解釈が審査・取消・侵害判断を左右する。",
+        "en": "Andean rules and preliminary interpretations of the Andean Court, not only Peruvian law, shape examination, cancellation and infringement.",
+        "es": "Las normas andinas y las interpretaciones prejudiciales del Tribunal de Justicia de la Comunidad Andina, no solo la ley peruana, inciden en examen, cancelación e infracción."
+      }
+    },
+    {
+      "title": {
+        "ja": "マドプロ非加盟",
+        "en": "Madrid unavailable",
+        "es": "Sistema de Madrid no disponible"
+      },
+      "detail": {
+        "ja": "ペルーはマドプロ指定国ではない。INDECOPIへの直接出願と現地代理人・スペイン語手続が必要。",
+        "en": "Peru cannot be designated through Madrid; direct INDECOPI filing, local representation and Spanish procedure are required.",
+        "es": "El Perú no puede designarse por Madrid; se requiere solicitud directa ante el INDECOPI, representación local y procedimiento en español."
+      }
+    },
+    {
+      "title": {
+        "ja": "アンデス異議",
+        "en": "Andean opposition",
+        "es": "Oposición andina"
+      },
+      "detail": {
+        "ja": "ボリビア、コロンビア、エクアドルの一定の先行権も異議に利用できる場合があるが、ペルーでの同時出願等により正当な利益を示す要件を確認する。",
+        "en": "Certain earlier rights in Bolivia, Colombia or Ecuador may support opposition, subject to legitimate-interest requirements such as filing in Peru.",
+        "es": "Ciertos derechos anteriores de Bolivia, Colombia o Ecuador pueden fundar oposición, sujeto al interés legítimo, como solicitar también la marca en el Perú."
+      }
+    },
+    {
+      "title": {
+        "ja": "3年不使用・アンデス域内使用",
+        "en": "Three-year non-use; Andean-wide use",
+        "es": "Tres años sin uso; uso en la región andina"
+      },
+      "detail": {
+        "ja": "不使用取消への防御では、ペルーだけでなくボリビア、コロンビア、エクアドルでの真正使用も原則考慮される。権利者が使用を立証する。",
+        "en": "Genuine use in Peru, Bolivia, Colombia or Ecuador may defend non-use cancellation; the owner bears the proof burden.",
+        "es": "El uso real en Perú, Bolivia, Colombia o Ecuador puede defender la cancelación; el titular soporta la carga de la prueba."
+      }
+    },
+    {
+      "title": {
+        "ja": "行政手続中心の権利行使",
+        "en": "Administrative-centered enforcement",
+        "es": "Observancia centrada en vía administrativa"
+      },
+      "detail": {
+        "ja": "INDECOPIで侵害認定、差止め、暫定措置、罰金等を求められる。損害賠償は別途司法手続となる点を区別する。",
+        "en": "INDECOPI can determine infringement and order cessation, interim measures and fines; damages generally require separate court action.",
+        "es": "El INDECOPI puede declarar infracción y ordenar cese, cautelares y multas; la indemnización suele requerir proceso judicial separado."
+      }
+    }
+  ],
+  "statistics": {
+    "coverage": "2016–2025",
+    "status": "pending",
+    "series": []
+  },
+  "news": [
+    {
+      "id": "digital-gazette-practice",
+      "type": "practice",
+      "date": "2024-01-01",
+      "title": {
+        "ja": "電子工業所有権公報を基準とする期限管理",
+        "en": "Deadline management through the electronic IP gazette",
+        "es": "Gestión de plazos mediante la Gaceta Electrónica"
+      },
+      "summary": {
+        "ja": "出願公告と30営業日の異議期間は電子公報を基準に管理する。公開日、検索対象、休日計算を現地代理人と確認する。",
+        "en": "Application publication and the 30-working-day opposition period are managed from the electronic gazette; confirm publication, searches and holidays.",
+        "es": "La publicación y los 30 días hábiles de oposición se controlan desde la Gaceta Electrónica; confirmar fecha, vigilancia y feriados."
+      },
+      "sourceUrl": "https://servicio.indecopi.gob.pe/gaceta/"
+    },
+    {
+      "id": "andean-case-law-current",
+      "type": "case-law",
+      "date": "2025-01-01",
+      "title": {
+        "ja": "アンデス司法裁判所の先決解釈を継続確認",
+        "en": "Continuing review of Andean preliminary interpretations",
+        "es": "Revisión continua de interpretaciones prejudiciales andinas"
+      },
+      "summary": {
+        "ja": "周知商標、混同、不使用、使用態様、アンデス異議について決定486号の統一解釈が更新されるため、案件時の最新判例を確認する。",
+        "en": "Current Andean interpretations should be checked for well-known marks, confusion, non-use, form of use and Andean opposition.",
+        "es": "Deben revisarse interpretaciones andinas actuales sobre notoriedad, confusión, falta y forma de uso y oposición andina."
+      },
+      "sourceUrl": "https://www.tribunalandino.org.ec/"
+    },
+    {
+      "id": "nice-13-2026",
+      "type": "practice",
+      "date": "2026-01-01",
+      "title": {
+        "ja": "ニース国際分類第13版への対応",
+        "en": "Implementation of the 13th Nice edition",
+        "es": "Aplicación de la 13.ª edición de Niza"
+      },
+      "summary": {
+        "ja": "2026年出願では第13版とINDECOPIの現行商品・役務名称を併せて確認する。",
+        "en": "For 2026 filings, consult the 13th edition together with INDECOPI’s current accepted goods/services terms.",
+        "es": "Para solicitudes de 2026, consultar la 13.ª edición y los términos de productos y servicios aceptados por el INDECOPI."
+      },
+      "sourceUrl": "https://www.wipo.int/classifications/nice/en/"
+    }
+  ],
+  "faqs": [
+    {
+      "tag": "Andean law",
+      "question": {
+        "ja": "本件には決定486号とアンデス司法裁判所のどの解釈が適用されますか。",
+        "en": "Which provisions of Decision 486 and Andean Court interpretations apply here?",
+        "es": "¿Qué disposiciones de la Decisión 486 e interpretaciones del Tribunal Andino se aplican?"
+      },
+      "followUp": {
+        "ja": "ペルー国内実務と他のアンデス加盟国の実務に差がありますか。",
+        "en": "Does Peruvian practice differ from other Andean member countries?",
+        "es": "¿Difiere la práctica peruana de la de otros países andinos?"
+      }
+    },
+    {
+      "tag": "Opposition",
+      "question": {
+        "ja": "コロンビア等の先行商標でアンデス異議を提起できますか。",
+        "en": "Can an Andean opposition be based on an earlier Colombian or other Andean mark?",
+        "es": "¿Puede presentarse oposición andina con una marca anterior colombiana u otro país andino?"
+      },
+      "followUp": {
+        "ja": "正当な利益を示すため、ペルーで同時出願する必要がありますか。",
+        "en": "Must an application be filed simultaneously in Peru to show legitimate interest?",
+        "es": "¿Debe presentarse simultáneamente una solicitud en el Perú para acreditar interés legítimo?"
+      }
+    },
+    {
+      "tag": "Procedure",
+      "question": {
+        "ja": "30営業日の異議・答弁期限と証拠補充30営業日はどう計算しますか。",
+        "en": "How are the 30-working-day opposition/reply and evidence-extension periods calculated?",
+        "es": "¿Cómo se calculan los 30 días hábiles de oposición o contestación y la ampliación probatoria?"
+      },
+      "followUp": {
+        "ja": "電子公報ウォッチングを誰が、どの頻度で行いますか。",
+        "en": "Who will monitor the electronic gazette and how often?",
+        "es": "¿Quién vigilará la Gaceta Electrónica y con qué frecuencia?"
+      }
+    },
+    {
+      "tag": "Appeal",
+      "question": {
+        "ja": "再検討と知的財産専門部への上訴はどちらを選ぶべきですか。",
+        "en": "Should we seek reconsideration or appeal to the Specialized IP Chamber?",
+        "es": "¿Conviene reconsideración o apelación ante la Sala Especializada?"
+      },
+      "followUp": {
+        "ja": "15営業日の期限、追加証拠、平均審理期間、費用は。",
+        "en": "What are the 15-working-day deadline, new-evidence scope, average duration and cost?",
+        "es": "¿Cuál es el plazo de 15 días hábiles, alcance de nueva prueba, duración y costo?"
+      }
+    },
+    {
+      "tag": "Non-use",
+      "question": {
+        "ja": "3年不使用取消に対し、どのアンデス加盟国の使用証拠を提出できますか。",
+        "en": "Which Andean-country use evidence may defend a three-year non-use cancellation?",
+        "es": "¿Qué pruebas de uso de países andinos sirven contra una cancelación por tres años?"
+      },
+      "followUp": {
+        "ja": "輸出、オンライン販売、ライセンシー使用、色彩・ロゴ変更は認められますか。",
+        "en": "Do exports, online sales, licensee use and color/logo variations count?",
+        "es": "¿Cuentan exportaciones, ventas en línea, uso por licenciatario y variaciones de color o logotipo?"
+      }
+    },
+    {
+      "tag": "Enforcement",
+      "question": {
+        "ja": "INDECOPI行政侵害、SUNAT税関、刑事告訴、損害賠償訴訟をどう組み合わせますか。",
+        "en": "How should INDECOPI infringement, SUNAT customs, criminal complaint and damages litigation be combined?",
+        "es": "¿Cómo combinar infracción ante INDECOPI, aduanas SUNAT, denuncia penal y demanda de daños?"
+      },
+      "followUp": {
+        "ja": "暫定措置、検査、公証証拠、保証、概算期間・費用は。",
+        "en": "What interim measures, inspections, notarized evidence, security, time and cost apply?",
+        "es": "¿Qué cautelares, inspecciones, prueba documentada, garantía, tiempo y costo corresponden?"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "INDECOPI — Marcas",
+      "url": "https://www.gob.pe/indecopi",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "INDECOPI — Busca tu marca",
+      "url": "https://enlinea.indecopi.gob.pe/buscatumarca/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "INDECOPI — Gaceta Electrónica de Propiedad Industrial",
+      "url": "https://servicio.indecopi.gob.pe/gaceta/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Comunidad Andina — Decisión 486",
+      "url": "https://www.comunidadandina.org/DocOficialesFiles/Gacetas/Gace600.pdf",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Tribunal de Justicia de la Comunidad Andina",
+      "url": "https://www.tribunalandino.org.ec/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Peru — Legal Information System",
+      "url": "https://spij.minjus.gob.pe/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "SUNAT — Customs",
+      "url": "https://www.sunat.gob.pe/aduanas.html",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO Lex — Peru",
+      "url": "https://www.wipo.int/wipolex/en/members/profile/PE",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "TMview",
+      "url": "https://www.tmdn.org/tmview/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO Nice Classification",
+      "url": "https://www.wipo.int/classifications/nice/en/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    }
+  ]
+}
