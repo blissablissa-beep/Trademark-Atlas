@@ -100,8 +100,8 @@
     "path": "./data/jurisdictions/euipo.json"
   },
   {
-    "id": "be",
-    "path": "./data/jurisdictions/be.json"
+    "id": "benelux",
+    "path": "./data/jurisdictions/benelux.json"
   },
   {
     "id": "at",
