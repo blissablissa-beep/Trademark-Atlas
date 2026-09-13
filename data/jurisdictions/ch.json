@@ -1,0 +1,793 @@
+{
+  "id": "ch",
+  "type": "country",
+  "flag": "🇨🇭",
+  "region": "europe",
+  "names": {
+    "ja": "スイス連邦",
+    "en": "Swiss Confederation",
+    "de": "Schweizerische Eidgenossenschaft",
+    "fr": "Confédération suisse",
+    "it": "Confederazione Svizzera"
+  },
+  "office": {
+    "ja": "スイス連邦知的財産庁（IPI）",
+    "en": "Swiss Federal Institute of Intellectual Property (IPI)",
+    "de": "Eidgenössisches Institut für Geistiges Eigentum (IGE)",
+    "fr": "Institut Fédéral de la Propriété Intellectuelle (IPI)",
+    "it": "Istituto Federale della Proprietà Intellettuale (IPI)"
+  },
+  "availableLanguages": [
+    "de",
+    "fr",
+    "it"
+  ],
+  "createdAt": "2026-09-13",
+  "updatedAt": "2026-09-13",
+  "status": "review",
+  "facts": {
+    "authority": {
+      "ja": "スイス連邦知的財産庁（IPI／ドイツ語略称IGE）。出願、登録、異議、不使用取消等を担当する。",
+      "en": "Swiss Federal Institute of Intellectual Property (IPI; IGE in German), responsible for filing, registration, opposition and administrative non-use cancellation.",
+      "de": "Eidgenössisches Institut für Geistiges Eigentum (IGE), zuständig für Anmeldung, Eintragung, Widerspruch und administrative Löschung wegen Nichtgebrauchs.",
+      "fr": "Institut Fédéral de la Propriété Intellectuelle (IPI), compétent pour dépôt, enregistrement, opposition et radiation administrative pour défaut d’usage.",
+      "it": "Istituto Federale della Proprietà Intellettuale (IPI), competente per deposito, registrazione, opposizione e cancellazione amministrativa per mancato uso."
+    },
+    "protectionScope": {
+      "ja": "商品・役務の個別商標、団体商標、保証商標、地理的商標、周知・名声商標。EU商標はスイスを保護しない。",
+      "en": "Individual marks for goods/services, collective, guarantee and geographical marks, and well-known/reputed marks. An EUTM does not cover Switzerland.",
+      "de": "Individualmarken für Waren/Dienstleistungen, Kollektiv-, Garantie- und geografische Marken sowie bekannte Marken. Eine Unionsmarke gilt nicht in der Schweiz.",
+      "fr": "Marques individuelles, collectives, de garantie et géographiques, ainsi que marques notoirement connues ou de haute renommée. Une MUE ne couvre pas la Suisse.",
+      "it": "Marchi individuali, collettivi, di garanzia e geografici, nonché marchi notori o rinomati. Un marchio UE non copre la Svizzera."
+    },
+    "markTypes": {
+      "ja": "文字、図形、結合、立体、位置、模様、色彩、音、動き等。登録簿上、保護対象を明確に表示できることが必要。",
+      "en": "Word, figurative, composite, 3D, position, pattern, color, sound, motion and other marks capable of clear register representation.",
+      "de": "Wort-, Bild-, kombinierte, Form-, Positions-, Muster-, Farb-, Klang- und Bewegungsmarken sowie andere klar darstellbare Zeichen.",
+      "fr": "Marques verbales, figuratives, combinées, 3D, de position, de motif, de couleur, sonores, de mouvement et autres signes clairement représentables.",
+      "it": "Marchi denominativi, figurativi, misti, tridimensionali, di posizione, a motivo, di colore, sonori, di movimento e altri segni chiaramente rappresentabili."
+    },
+    "madridAccessionDate": {
+      "ja": "マドリッド協定：1892年7月15日、マドリッド協定議定書：1997年5月1日（効力発生日はWIPOプロフィールで確認）。",
+      "en": "Madrid Agreement: 15 July 1892; Madrid Protocol: 1 May 1997. Confirm operative dates in WIPO’s current profile.",
+      "de": "Madrider Abkommen: 15. Juli 1892; Madrider Protokoll: 1. Mai 1997. Geltungsdaten im aktuellen WIPO-Profil prüfen.",
+      "fr": "Arrangement de Madrid: 15 juillet 1892; Protocole: 1er mai 1997. Vérifier les dates dans le profil OMPI actuel.",
+      "it": "Accordo di Madrid: 15 luglio 1892; Protocollo: 1º maggio 1997. Verificare le date nel profilo OMPI attuale."
+    },
+    "niceClassification": {
+      "ja": "採用。IPIの商品・役務分類支援およびニース分類最新版を確認する。",
+      "en": "Adopted; consult current Nice and IPI classification tools.",
+      "de": "Angewandt; aktuelle Nizza-Klassifikation und IGE-Klassifikationstools prüfen.",
+      "fr": "Adoptée; consulter la classification de Nice actuelle et les outils de l’IPI.",
+      "it": "Adottata; consultare la classificazione di Nizza vigente e gli strumenti IPI."
+    },
+    "classHeadingPractice": {
+      "ja": "類見出しは通常の字義範囲に限られ、区分全体を当然には包含しない。明確・具体的に指定する。",
+      "en": "Class headings cover their ordinary literal meaning, not automatically the whole class; specify clearly and precisely.",
+      "de": "Klassenüberschriften erfassen die gewöhnliche wörtliche Bedeutung, nicht automatisch die ganze Klasse; klar und genau angeben.",
+      "fr": "Les intitulés couvrent leur sens littéral normal, non automatiquement toute la classe; préciser clairement.",
+      "it": "I titoli delle classi coprono il significato letterale normale, non automaticamente l’intera classe; specificare con chiarezza."
+    },
+    "retailServices": {
+      "ja": "第35類で可。小売・卸売の対象商品を具体的に記載する。",
+      "en": "Available in Class 35; specify the goods concerned by retail/wholesale services.",
+      "de": "In Klasse 35 möglich; die vom Einzel- oder Großhandel erfassten Waren genau angeben.",
+      "fr": "Possible en classe 35; préciser les produits concernés par la vente au détail ou en gros.",
+      "it": "Disponibile nella classe 35; specificare i prodotti oggetto dei servizi al dettaglio o all’ingrosso."
+    },
+    "multiClassApplication": {
+      "ja": "可。追加区分ごとに料金。分割、一部拒絶・更新の管理を確認する。",
+      "en": "Available, with fees for additional classes; consider division, partial refusal and renewal.",
+      "de": "Möglich, mit Gebühren für weitere Klassen; Teilung, Teilzurückweisung und Verlängerung beachten.",
+      "fr": "Possible, avec taxes pour classes supplémentaires; gérer division, refus partiel et renouvellement.",
+      "it": "Possibile, con tasse per classi aggiuntive; gestire divisione, rifiuto parziale e rinnovo."
+    },
+    "applicationForm": {
+      "ja": "IPIへオンラインまたは所定様式で、出願人、標章、商品・役務、区分、優先権等をドイツ語・フランス語・イタリア語のいずれかで提出する。",
+      "en": "File online or on the IPI form with applicant, mark, goods/services, classes and priority in German, French or Italian.",
+      "de": "Online oder auf IGE-Formular mit Anmelder, Marke, Waren/Dienstleistungen, Klassen und Priorität auf Deutsch, Französisch oder Italienisch einreichen.",
+      "fr": "Déposer en ligne ou sur formulaire IPI avec demandeur, marque, produits/services, classes et priorité en allemand, français ou italien.",
+      "it": "Depositare online o su modulo IPI indicando richiedente, marchio, prodotti/servizi, classi e priorità in tedesco, francese o italiano."
+    },
+    "powerOfAttorney": {
+      "ja": "スイスに住所・本店を有しない者は、スイスの送達先または代理人を確保する必要がある。委任状は通常提出不要だが、IPI請求・権限争い等では確認する。",
+      "en": "A person without domicile or registered office in Switzerland needs a Swiss service address or representative. A power is not routinely filed but may be requested.",
+      "de": "Wer keinen Wohn- oder Geschäftssitz in der Schweiz hat, benötigt ein schweizerisches Zustellungsdomizil oder einen Vertreter. Vollmacht wird nicht routinemäßig eingereicht, kann aber verlangt werden.",
+      "fr": "La personne sans domicile ou siège en Suisse doit avoir une adresse de notification ou un mandataire en Suisse. Le pouvoir n’est pas déposé d’office mais peut être requis.",
+      "it": "Chi non ha domicilio o sede in Svizzera necessita di recapito o rappresentante svizzero. La procura non è normalmente depositata, ma può essere richiesta."
+    },
+    "priorityDocuments": {
+      "ja": "パリ優先権は最初の出願から6か月以内。出願時に主張し、IPIが求める優先権証明・翻訳の期限を確認する。",
+      "en": "Paris priority must be claimed within six months at filing; verify deadlines for any certificate or translation requested by IPI.",
+      "de": "Pariser Priorität innerhalb von sechs Monaten bei Anmeldung beanspruchen; Fristen für vom IGE verlangte Belege oder Übersetzungen prüfen.",
+      "fr": "Revendication de priorité de Paris dans les six mois au dépôt; vérifier les délais des justificatifs ou traductions requis par l’IPI.",
+      "it": "Rivendicare la priorità di Parigi entro sei mesi al deposito; verificare i termini di documenti o traduzioni richiesti dall’IPI."
+    },
+    "homeRegistrationCertificate": {
+      "ja": "通常の直接出願には不要。パリ条約第6条の5等を援用する場合は別途確認する。",
+      "en": "Not normally required for a direct filing; confirm separately if Paris Convention Article 6quinquies is invoked.",
+      "de": "Bei Direktanmeldung normalerweise nicht erforderlich; bei Art. 6quinquies PVÜ gesondert prüfen.",
+      "fr": "Normalement non requis pour dépôt direct; vérifier séparément si l’article 6quinquies de Paris est invoqué.",
+      "it": "Normalmente non richiesto per deposito diretto; verificare separatamente se si invoca l’articolo 6quinquies di Parigi."
+    },
+    "useEvidenceAtFiling": {
+      "ja": "通常不要。使用による識別力、周知・名声、先使用等を主張する場合はスイスでの証拠が必要。",
+      "en": "Not normally required; Swiss evidence is needed for acquired distinctiveness, reputation or prior-use claims.",
+      "de": "Normalerweise nicht erforderlich; für Verkehrsdurchsetzung, Bekanntheit oder Vorbenutzung sind Schweizer Nachweise nötig.",
+      "fr": "Normalement non requis; des preuves suisses sont nécessaires pour distinctivité acquise, renommée ou usage antérieur.",
+      "it": "Normalmente non richiesto; servono prove svizzere per distintività acquisita, rinomanza o uso anteriore."
+    },
+    "notarizationCertification": {
+      "ja": "通常の委任状は公証・アポスティーユ不要。譲渡、合併、外国公文書等は手続別に確認する。",
+      "en": "An ordinary power generally needs no notarization or apostille; verify assignments, mergers and foreign public documents separately.",
+      "de": "Übliche Vollmacht grundsätzlich ohne Beglaubigung oder Apostille; Übertragung, Fusion und ausländische Urkunden gesondert prüfen.",
+      "fr": "Pouvoir ordinaire généralement sans notarisation ni apostille; vérifier cession, fusion et actes publics étrangers.",
+      "it": "Procura ordinaria generalmente senza autentica o apostille; verificare cessione, fusione e atti pubblici esteri."
+    },
+    "otherDocuments": {
+      "ja": "商標表示、優先権証明、団体・保証・地理的商標規則、非伝統的商標ファイル、識別力・名声の証拠等。",
+      "en": "Representation, priority document, regulations for collective/guarantee/geographical marks, non-traditional files and distinctiveness/reputation evidence.",
+      "de": "Markendarstellung, Prioritätsbeleg, Reglement für Kollektiv-, Garantie- oder geografische Marken, Dateien nichttraditioneller Marken und Nachweise.",
+      "fr": "Représentation, priorité, règlements des marques collectives, de garantie ou géographiques, fichiers non traditionnels et preuves.",
+      "it": "Rappresentazione, priorità, regolamenti di marchi collettivi, di garanzia o geografici, file non tradizionali e prove."
+    },
+    "absoluteGroundsExamination": {
+      "ja": "あり。IPIが職権審査する。",
+      "en": "Yes; examined ex officio by IPI.",
+      "de": "Ja; von Amts wegen durch das IGE geprüft.",
+      "fr": "Oui; examinés d’office par l’IPI.",
+      "it": "Sì; esaminati d’ufficio dall’IPI."
+    },
+    "distinctivenessGrounds": {
+      "ja": "識別力欠如、普通名称、商品・役務の性質・品質・用途・産地等の記述、慣用表示、単純な色彩・形状等。使用による識別力を立証できる場合がある。",
+      "en": "Non-distinctive, generic, descriptive or customary signs and simple colors/shapes may be refused; acquired distinctiveness may be established.",
+      "de": "Nicht unterscheidungskräftige, generische, beschreibende oder übliche Zeichen sowie einfache Farben/Formen können zurückgewiesen werden; Verkehrsdurchsetzung ist möglich.",
+      "fr": "Les signes non distinctifs, génériques, descriptifs ou usuels et couleurs/formes simples peuvent être refusés; distinctivité acquise possible.",
+      "it": "Segni non distintivi, generici, descrittivi o usuali e colori/forme semplici possono essere rifiutati; possibile distintività acquisita."
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "公序良俗、欺瞞性、国旗・紋章・公的記章、機能的・本質的形状、地理的表示、「Swiss」等の出所表示規制、植物品種名称等を確認する。",
+      "en": "Check public order/morality, deception, official emblems, functional/inherent shapes, GIs, “Swissness” source-indication rules and plant varieties.",
+      "de": "Öffentliche Ordnung/gute Sitten, Täuschung, Hoheitszeichen, funktionale/wesensbedingte Formen, geografische Angaben, Swissness-Regeln und Sortenbezeichnungen prüfen.",
+      "fr": "Vérifier ordre public, tromperie, emblèmes officiels, formes fonctionnelles/essentielles, IG, règles «Swissness» et variétés végétales.",
+      "it": "Verificare ordine pubblico, inganno, emblemi ufficiali, forme funzionali/essenziali, IG, regole «Swissness» e varietà vegetali."
+    },
+    "relativeGroundsExamination": {
+      "ja": "なし。IPIは原則として先行権利を職権審査しない。登録後の異議・取消・民事訴訟に委ねられるため、スイス商標・国際登録を出願前に調査する。",
+      "en": "No. IPI generally does not examine earlier rights ex officio; owners must oppose after registration or seek cancellation/court relief. Search Swiss and international rights before filing.",
+      "de": "Nein. Das IGE prüft ältere Rechte grundsätzlich nicht von Amts wegen; Inhaber müssen nach Eintragung Widerspruch oder Löschung/Klage erheben. Vorher recherchieren.",
+      "fr": "Non. L’IPI n’examine généralement pas d’office les droits antérieurs; opposition après enregistrement ou annulation/action. Recherche préalable indispensable.",
+      "it": "No. L’IPI non esamina di regola d’ufficio i diritti anteriori; servono opposizione post-registrazione o cancellazione/azione. Necessaria ricerca preventiva."
+    },
+    "disclaimer": {
+      "ja": "一般的な任意ディスクレーム制度は通常利用しない。非識別部分は単独で独占できず、標章全体の識別力・保護範囲を評価する。",
+      "en": "A general elective disclaimer is not ordinarily used; non-distinctive elements are not monopolized alone and the mark is assessed as a whole.",
+      "de": "Ein allgemeines freiwilliges Disclaimer-System wird üblicherweise nicht genutzt; nicht unterscheidungskräftige Teile werden nicht isoliert monopolisiert.",
+      "fr": "Un système général de disclaimer volontaire n’est pas normalement utilisé; les éléments non distinctifs ne sont pas monopolisés seuls.",
+      "it": "Un sistema generale di disclaimer volontario non è normalmente usato; gli elementi non distintivi non sono monopolizzati isolatamente."
+    },
+    "consent": {
+      "ja": "先行権利を職権審査しないため、同意・共存契約は主に異議・取消・訴訟の解決に用いる。絶対的拒絶理由を解消しない。",
+      "en": "Because earlier rights are not examined ex officio, consent/coexistence mainly resolves opposition, cancellation or litigation; it does not cure absolute grounds.",
+      "de": "Da ältere Rechte nicht von Amts wegen geprüft werden, dient Zustimmung/Koexistenz vor allem zur Beilegung von Widerspruch, Löschung oder Klage; absolute Gründe bleiben.",
+      "fr": "Les droits antérieurs n’étant pas examinés d’office, consentement/coexistence règlent surtout opposition, annulation ou litige; ils ne corrigent pas les motifs absolus.",
+      "it": "Poiché i diritti anteriori non sono esaminati d’ufficio, consenso/coesistenza risolvono soprattutto opposizione, cancellazione o lite; non sanano motivi assoluti."
+    },
+    "acceleratedExamination": {
+      "ja": "迅速審査を追加料金で請求可能。方式・絶対的理由に問題がない場合の目標期間と、公告後異議による不安定性を確認する。",
+      "en": "Accelerated examination may be requested for an additional fee. Verify target timing and remember that post-registration opposition remains possible.",
+      "de": "Beschleunigte Prüfung kann gegen Zusatzgebühr beantragt werden. Zielzeit prüfen; Widerspruch nach Eintragung bleibt möglich.",
+      "fr": "Examen accéléré possible moyennant taxe supplémentaire. Vérifier le délai cible; l’opposition après enregistrement reste possible.",
+      "it": "Esame accelerato richiedibile con tassa supplementare. Verificare il tempo obiettivo; resta possibile opposizione dopo la registrazione."
+    },
+    "thirdPartyObservation": {
+      "ja": "正式な異議は登録公告後3か月以内。登録前の第三者意見制度の可否・範囲はIPI実務を確認する。",
+      "en": "Formal opposition is filed within three months after registration publication; verify any pre-registration third-party observation practice.",
+      "de": "Formeller Widerspruch innerhalb von drei Monaten nach Eintragungsveröffentlichung; etwaige Drittbeobachtung vor Eintragung beim IGE prüfen.",
+      "fr": "Opposition formelle dans les trois mois après publication de l’enregistrement; vérifier toute observation de tiers avant enregistrement.",
+      "it": "Opposizione formale entro tre mesi dalla pubblicazione della registrazione; verificare eventuali osservazioni pre-registrazione."
+    },
+    "directExaminationPeriod": {
+      "ja": "通常出願は概ね4～6か月程度、迅速審査は要件充足時により短期間となることがある。拒絶・補正で変動するため最新IPI情報を確認する。",
+      "en": "An ordinary filing may take roughly four to six months; accelerated examination can be shorter if requirements are met. Check current IPI timing.",
+      "de": "Normale Anmeldung etwa vier bis sechs Monate; beschleunigte Prüfung kann bei erfüllten Voraussetzungen kürzer sein. Aktuelle IGE-Zeiten prüfen.",
+      "fr": "Dépôt ordinaire environ quatre à six mois; examen accéléré plus court si conditions remplies. Vérifier délais IPI actuels.",
+      "it": "Domanda ordinaria circa quattro-sei mesi; esame accelerato più breve se i requisiti sono soddisfatti. Verificare tempi IPI."
+    },
+    "madridExaminationPeriod": {
+      "ja": "IPIは国際事務局の通報日から原則18か月以内に暫定拒絶を通報する。最終保護認容は異議・応答により異なる。",
+      "en": "IPI generally must notify provisional refusal within 18 months from WIPO notification; final protection depends on response and opposition.",
+      "de": "Das IGE teilt eine vorläufige Schutzverweigerung grundsätzlich innerhalb von 18 Monaten nach WIPO-Mitteilung mit; endgültiger Schutz hängt von Antwort und Widerspruch ab.",
+      "fr": "L’IPI notifie en principe un refus provisoire dans les 18 mois de la notification OMPI; protection finale selon réponse et opposition.",
+      "it": "L’IPI notifica in linea di principio un rifiuto provvisorio entro 18 mesi dalla notifica OMPI; protezione finale secondo risposta e opposizione."
+    },
+    "colourPriorityIdentity": {
+      "ja": "優先権基礎とスイス出願の標章が同一であるかを確認する。白黒・カラー間、配色・配置の差が同一性を損なうかを個別評価する。",
+      "en": "Confirm identity between the priority and Swiss marks; assess whether black-and-white/color or arrangement differences impair identity.",
+      "de": "Identität zwischen Prioritäts- und Schweizer Marke prüfen; Auswirkungen von Schwarz-Weiß/Farbe oder Anordnung im Einzelfall bewerten.",
+      "fr": "Vérifier l’identité entre marque prioritaire et suisse; apprécier les différences noir et blanc/couleur ou d’agencement.",
+      "it": "Verificare identità tra marchio prioritario e svizzero; valutare differenze bianco e nero/colore o disposizione."
+    },
+    "colourRelativeGrounds": {
+      "ja": "色彩は外観の一要素。称呼・観念・構成・識別力ある要素・商品役務を総合比較し、色違いのみで混同が解消するとは限らない。",
+      "en": "Color is one visual factor; compare sound, concept, composition, distinctive elements and goods/services overall. Color change alone may not avoid confusion.",
+      "de": "Farbe ist ein Bildelement; Klang, Bedeutung, Aufbau, prägende Elemente und Waren/Dienstleistungen insgesamt vergleichen. Farbwechsel allein beseitigt Verwechslung nicht zwingend.",
+      "fr": "La couleur est un élément visuel; comparer son, concept, structure, éléments distinctifs et produits/services. Le changement de couleur seul peut ne pas éviter la confusion.",
+      "it": "Il colore è elemento visivo; confrontare suono, concetto, struttura, elementi distintivi e prodotti/servizi. Il solo cambio di colore può non evitare confusione."
+    },
+    "colourGenuineUse": {
+      "ja": "登録態様と使用態様の色彩差が識別的性格を変更するかを確認する。主要配色の変更は不使用防御のリスクとなり得る。",
+      "en": "Assess whether color differences between registration and use alter distinctive character; changing a principal color scheme may create non-use risk.",
+      "de": "Prüfen, ob Farbunterschiede zwischen Eintragung und Benutzung den kennzeichnenden Charakter verändern; Änderung prägender Farben kann Nichtgebrauchsrisiko schaffen.",
+      "fr": "Vérifier si les différences de couleur entre enregistrement et usage altèrent le caractère distinctif; modifier les couleurs dominantes crée un risque.",
+      "it": "Valutare se differenze di colore tra registrazione e uso alterano il carattere distintivo; cambiare colori dominanti può creare rischio."
+    },
+    "colourInfringementScope": {
+      "ja": "登録表示、色彩の識別力、標章全体、商品・役務、需要者、混同のおそれを総合判断する。",
+      "en": "Assess the registration, color distinctiveness, signs as a whole, goods/services, consumers and likelihood of confusion.",
+      "de": "Eintragung, Kennzeichnungskraft der Farbe, Gesamtzeichen, Waren/Dienstleistungen, Verkehrskreise und Verwechslungsgefahr bewerten.",
+      "fr": "Évaluer enregistrement, distinctivité de la couleur, signes globalement, produits/services, public et confusion.",
+      "it": "Valutare registrazione, distintività del colore, segni nel complesso, prodotti/servizi, pubblico e confusione."
+    },
+    "colourFilingStrategy": {
+      "ja": "ブランド色が重要ならカラー版を、変更運用があるなら白黒版・主要配色を別出願する。ドイツ語・フランス語・イタリア語での意味も確認する。",
+      "en": "If brand color matters, file in color; if branding varies, consider separate black-and-white/key-color filings and check German, French and Italian meanings.",
+      "de": "Ist die Markenfarbe wichtig, farbig anmelden; bei Varianten Schwarz-Weiß und Hauptfarben getrennt erwägen und Bedeutungen auf Deutsch, Französisch und Italienisch prüfen.",
+      "fr": "Si la couleur est importante, déposer en couleurs; sinon envisager noir et blanc et couleurs principales séparément et vérifier les trois langues.",
+      "it": "Se il colore è importante, depositare a colori; per varianti considerare bianco e nero e colori principali separati e verificare le tre lingue."
+    },
+    "refusalResponseRoute": {
+      "ja": "IPIの暫定拒絶に意見書、補正、指定限定、使用による識別力証拠等で応答する。最終決定には連邦行政裁判所への不服申立てを検討する。",
+      "en": "Respond to IPI provisional refusal with arguments, amendment, limitation or acquired-distinctiveness evidence. Appeal final decisions to the Federal Administrative Court.",
+      "de": "Auf vorläufige IGE-Zurückweisung mit Argumenten, Änderung, Beschränkung oder Verkehrsdurchsetzungsnachweis reagieren. Beschwerde ans Bundesverwaltungsgericht.",
+      "fr": "Répondre au refus provisoire IPI par arguments, modification, limitation ou preuves d’acquisition. Recours au Tribunal administratif fédéral.",
+      "it": "Rispondere al rifiuto provvisorio IPI con argomenti, modifica, limitazione o prove di acquisizione. Ricorso al Tribunale amministrativo federale."
+    },
+    "responsePeriod": {
+      "ja": "通知記載期限が支配する。実務上3か月程度の応答期間が多いが、通知類型・マドプロ案件ごとに直ちに確認する。",
+      "en": "The notice controls. A period around three months is common, but verify immediately by notice type and Madrid status.",
+      "de": "Die Bescheidfrist gilt. Häufig etwa drei Monate, jedoch je Bescheid und Madrid-Fall sofort prüfen.",
+      "fr": "Le délai de la notification prévaut. Souvent environ trois mois, mais vérifier selon avis et dossier Madrid.",
+      "it": "Prevale il termine dell’avviso. Spesso circa tre mesi, ma verificare per tipo e pratica Madrid."
+    },
+    "extensionAvailable": {
+      "ja": "あり。指定期間について期限前に理由を付して申請可能な場合がある。法定不服期限は別管理。",
+      "en": "Available for designated periods by timely reasoned request in appropriate cases; docket statutory appeals separately.",
+      "de": "Für behördliche Fristen teils auf rechtzeitigen begründeten Antrag möglich; gesetzliche Rechtsmittelfristen getrennt überwachen.",
+      "fr": "Possible pour délais impartis sur demande motivée en temps utile; gérer séparément les recours légaux.",
+      "it": "Possibile per termini assegnati con richiesta motivata tempestiva; gestire separatamente i ricorsi legali."
+    },
+    "extensionLength": {
+      "ja": "通常1～2か月単位となる場合があるが、回数・最大期間は手続と理由により確認する。",
+      "en": "May be granted in one- or two-month increments; verify number and maximum by procedure and reason.",
+      "de": "Kann in Schritten von ein oder zwei Monaten gewährt werden; Anzahl und Höchstdauer je Verfahren/Grund prüfen.",
+      "fr": "Peut être accordée par périodes d’un ou deux mois; vérifier nombre et maximum selon procédure et motif.",
+      "it": "Può essere concessa per uno o due mesi; verificare numero e massimo secondo procedura e motivo."
+    },
+    "extensionRequirements": {
+      "ja": "期限前の申請、理由および手数料の有無を確認する。正当な不遵守には期間回復制度も個別検討する。",
+      "en": "Verify pre-expiry request, reasons and any fee; consider restoration for excusable failure separately.",
+      "de": "Rechtzeitigen Antrag, Gründe und Gebühr prüfen; Fristwiederherstellung bei entschuldbarer Säumnis gesondert erwägen.",
+      "fr": "Vérifier demande avant échéance, motifs et taxe; envisager restitution pour inexécution excusable.",
+      "it": "Verificare richiesta prima della scadenza, motivi e tassa; considerare restituzione per inosservanza scusabile."
+    },
+    "appealRoute": {
+      "ja": "IPIの最終決定を連邦行政裁判所へ不服申立て。案件により連邦最高裁判所への上訴が可能だが、異議事件では上訴制限を確認する。",
+      "en": "Appeal final IPI decisions to the Federal Administrative Court. Further appeal to the Federal Supreme Court may be available, but restrictions apply in opposition matters.",
+      "de": "Beschwerde gegen endgültige IGE-Entscheide ans Bundesverwaltungsgericht. Weiterzug ans Bundesgericht teils möglich; Beschränkungen bei Widerspruchssachen prüfen.",
+      "fr": "Recours contre décisions finales IPI au Tribunal administratif fédéral. Recours au Tribunal fédéral parfois possible; restrictions en matière d’opposition.",
+      "it": "Ricorso contro decisioni finali IPI al Tribunale amministrativo federale. Ulteriore ricorso al Tribunale federale talvolta possibile; limiti nelle opposizioni."
+    },
+    "refusalAppealPeriod": {
+      "ja": "決定通知から原則30日以内。平均審理期間は事件類型・証拠・言語により異なるため最新統計・現地見積りを確認する。",
+      "en": "Generally within 30 days from notification. Duration varies by case type, evidence and language; check current statistics/local estimates.",
+      "de": "Grundsätzlich innerhalb von 30 Tagen ab Eröffnung. Dauer je Verfahrensart, Beweisen und Sprache; aktuelle Werte prüfen.",
+      "fr": "En principe dans les 30 jours de la notification. Durée selon affaire, preuves et langue; vérifier les données actuelles.",
+      "it": "In principio entro 30 giorni dalla notifica. Durata secondo caso, prove e lingua; verificare dati attuali."
+    },
+    "publicDatabase": {
+      "ja": "Swissreg商標データベース",
+      "en": "Swissreg Trademark Database",
+      "de": "Swissreg Markendatenbank",
+      "fr": "Base de données des marques Swissreg",
+      "it": "Banca dati dei marchi Swissreg",
+      "url": "https://www.swissreg.ch/"
+    },
+    "publicationStage": {
+      "ja": "絶対的理由審査を通過すると登録されSwissregで公告される。公告後3か月の異議期間に入るため、登録後異議である点に注意する。",
+      "en": "After absolute-ground examination, the mark is registered and published in Swissreg, triggering a three-month post-registration opposition period.",
+      "de": "Nach Prüfung absoluter Gründe wird die Marke eingetragen und in Swissreg veröffentlicht; danach läuft eine dreimonatige Widerspruchsfrist.",
+      "fr": "Après examen absolu, la marque est enregistrée et publiée dans Swissreg; opposition postérieure pendant trois mois.",
+      "it": "Dopo esame assoluto, il marchio è registrato e pubblicato in Swissreg; segue opposizione post-registrazione di tre mesi."
+    },
+    "oppositionPeriod": {
+      "ja": "Swissregの登録公告から3か月以内。原則として先行商標・周知商標に基づく。",
+      "en": "Within three months from publication of registration in Swissreg, generally based on earlier marks or well-known marks.",
+      "de": "Innerhalb von drei Monaten ab Veröffentlichung der Eintragung in Swissreg, grundsätzlich gestützt auf ältere oder notorisch bekannte Marken.",
+      "fr": "Dans les trois mois de la publication de l’enregistrement dans Swissreg, en principe sur marques antérieures ou notoirement connues.",
+      "it": "Entro tre mesi dalla pubblicazione della registrazione in Swissreg, in genere su marchi anteriori o notori."
+    },
+    "oppositionExtension": {
+      "ja": "法定3か月の異議申立期間は原則延長不可。申立後の答弁・使用証明期限は別途確認する。",
+      "en": "The statutory three-month filing period is generally non-extendible; verify subsequent response and proof-of-use periods.",
+      "de": "Die gesetzliche dreimonatige Widerspruchsfrist ist grundsätzlich nicht verlängerbar; spätere Antwort- und Benutzungsfristen separat prüfen.",
+      "fr": "Le délai légal de trois mois est en principe non prorogeable; vérifier ensuite réponse et preuve d’usage.",
+      "it": "Il termine legale di tre mesi non è in genere prorogabile; verificare poi risposta e prova d’uso."
+    },
+    "averagePendency": {
+      "ja": "異議なしで概ね4～6か月。迅速審査では短縮可能。異議・拒絶・不服があると長期化する。",
+      "en": "Roughly four to six months if unopposed; accelerated examination may be shorter, while objections and appeals extend the case.",
+      "de": "Etwa vier bis sechs Monate ohne Widerspruch; beschleunigt kürzer, bei Beanstandung oder Beschwerde länger.",
+      "fr": "Environ quatre à six mois sans opposition; plus court en accéléré, plus long avec objection ou recours.",
+      "it": "Circa quattro-sei mesi senza opposizione; più breve in esame accelerato, più lungo con rilievi o ricorsi."
+    },
+    "term": {
+      "ja": "出願日から10年。10年ごとに更新可能。",
+      "en": "10 years from the filing date, renewable for successive ten-year periods.",
+      "de": "10 Jahre ab Anmeldetag, jeweils um 10 Jahre verlängerbar.",
+      "fr": "10 ans à compter du dépôt, renouvelables par périodes de 10 ans.",
+      "it": "10 anni dalla data di deposito, rinnovabili per periodi di 10 anni."
+    },
+    "termStart": {
+      "ja": "出願日から。",
+      "en": "From the filing date.",
+      "de": "Ab dem Anmeldetag.",
+      "fr": "À compter de la date de dépôt.",
+      "it": "Dalla data di deposito."
+    },
+    "renewalWindow": {
+      "ja": "満了前12か月以内に更新申請可能。",
+      "en": "Renewal may be filed within 12 months before expiry.",
+      "de": "Die Verlängerung kann innerhalb von zwölf Monaten vor Ablauf beantragt werden.",
+      "fr": "Le renouvellement peut être demandé dans les douze mois précédant l’expiration.",
+      "it": "Il rinnovo può essere richiesto nei dodici mesi precedenti la scadenza."
+    },
+    "gracePeriod": {
+      "ja": "あり。満了後6か月以内は追加料金を伴う遅延更新が可能。",
+      "en": "Yes; late renewal is available within six months after expiry with a surcharge.",
+      "de": "Ja; Nachfrist von sechs Monaten nach Ablauf gegen Zuschlag.",
+      "fr": "Oui; renouvellement tardif dans les six mois suivant l’expiration avec surtaxe.",
+      "it": "Sì; rinnovo tardivo entro sei mesi dalla scadenza con tassa aggiuntiva."
+    },
+    "renewalEvidence": {
+      "ja": "更新時の使用証拠は通常不要。ただし5年不使用取消・異議での使用証明に備え、スイスでの真正使用証拠を保存する。",
+      "en": "No use evidence is normally required at renewal; preserve genuine Swiss use evidence for non-use cancellation and proof-of-use defenses.",
+      "de": "Bei Verlängerung normalerweise kein Benutzungsnachweis; ernsthafte Schweizer Benutzung für Löschung und Widerspruch dokumentieren.",
+      "fr": "Aucune preuve d’usage normalement au renouvellement; conserver preuves d’usage sérieux suisse pour radiation et opposition.",
+      "it": "Nessuna prova d’uso normalmente al rinnovo; conservare prove d’uso serio svizzero per cancellazione e opposizione."
+    },
+    "nonUseCancellation": {
+      "ja": "あり。登録後5年の不使用についてIPIへの簡易行政取消手続または裁判上の取消が可能。",
+      "en": "Available through simplified administrative cancellation before IPI or court action after five years of non-use.",
+      "de": "Vereinfachtes administratives Löschungsverfahren beim IGE oder gerichtlicher Verfall nach fünfjährigem Nichtgebrauch.",
+      "fr": "Radiation administrative simplifiée devant l’IPI ou action judiciaire après cinq ans de non-usage.",
+      "it": "Cancellazione amministrativa semplificata davanti all’IPI o giudiziale dopo cinque anni di mancato uso."
+    },
+    "nonUsePeriod": {
+      "ja": "原則、異議期間経過または異議手続終了後、正当理由なく継続5年間真正使用されていない場合。",
+      "en": "Generally five continuous years without genuine use, absent proper reasons, after expiry of the opposition period or conclusion of opposition.",
+      "de": "Grundsätzlich fünf Jahre Nichtgebrauch ohne wichtigen Grund nach Ablauf der Widerspruchsfrist oder Abschluss des Widerspruchs.",
+      "fr": "En principe cinq années continues sans usage sérieux ni juste motif après l’opposition ou son délai.",
+      "it": "In genere cinque anni continui senza uso serio né motivo legittimo dopo il termine o la fine dell’opposizione."
+    },
+    "nonUseDefenses": {
+      "ja": "申請人が不使用を疎明し、権利者が対象期間・商品役務について真正使用または正当理由を示す。独瑞条約に基づくドイツでの使用算入は要件を個別確認する。",
+      "en": "The applicant makes non-use plausible and the owner shows genuine use or proper reasons. Check requirements for counting German use under the Swiss-German treaty.",
+      "de": "Antragsteller macht Nichtgebrauch glaubhaft; Inhaber zeigt ernsthafte Benutzung oder Gründe. Voraussetzungen der Anrechnung deutscher Benutzung nach deutsch-schweizerischem Vertrag prüfen.",
+      "fr": "Le requérant rend le non-usage vraisemblable; le titulaire prouve usage sérieux ou motifs. Vérifier la prise en compte de l’usage allemand selon le traité germano-suisse.",
+      "it": "Il richiedente rende plausibile il non uso; il titolare prova uso serio o motivi. Verificare il computo dell’uso tedesco secondo il trattato svizzero-tedesco."
+    },
+    "otherCancellation": {
+      "ja": "普通名称化、誤認を生じさせる使用、保証・団体・地理的商標規則違反、更新欠缺等による取消・失効があり得る。",
+      "en": "Revocation/lapse may result from genericide, misleading use, guarantee/collective/geographical mark failures or non-renewal.",
+      "de": "Verfall wegen Gattungsbezeichnung, Irreführung, Verstößen bei Garantie-, Kollektiv- oder geografischen Marken oder Nichtverlängerung möglich.",
+      "fr": "Déchéance pour dégénérescence, usage trompeur, manquements des marques de garantie, collectives ou géographiques, ou non-renouvellement.",
+      "it": "Decadenza per volgarizzazione, uso ingannevole, violazioni di marchi di garanzia, collettivi o geografici o mancato rinnovo."
+    },
+    "invalidation": {
+      "ja": "あり。絶対的・相対的理由、悪意、先行権利等に基づき民事裁判所で無効を請求する。異議制度で扱えない権利も含め確認する。",
+      "en": "Available before civil courts on absolute/relative grounds, bad faith and earlier rights, including rights outside opposition scope.",
+      "de": "Nichtigkeit vor Zivilgerichten wegen absoluter/relativer Gründe, Bösgläubigkeit und älterer Rechte, auch außerhalb des Widerspruchsumfangs.",
+      "fr": "Nullité devant les tribunaux civils pour motifs absolus/relatifs, mauvaise foi et droits antérieurs, y compris hors opposition.",
+      "it": "Nullità davanti ai tribunali civili per motivi assoluti/relativi, mala fede e diritti anteriori, anche oltre l’opposizione."
+    },
+    "civilInjunction": {
+      "ja": "州裁判所等で暫定的・終局的差止めを請求可能。管轄、緊急性、権利有効性、比例性、担保を確認する。",
+      "en": "Interim and final injunctions are available before cantonal courts; assess jurisdiction, urgency, validity, proportionality and security.",
+      "de": "Einstweilige und endgültige Unterlassung vor kantonalen Gerichten; Zuständigkeit, Dringlichkeit, Bestand, Verhältnismäßigkeit und Sicherheit prüfen.",
+      "fr": "Mesures provisoires et injonctions devant tribunaux cantonaux; vérifier compétence, urgence, validité, proportionnalité et sûreté.",
+      "it": "Misure cautelari e inibitorie davanti ai tribunali cantonali; verificare competenza, urgenza, validità, proporzionalità e cauzione."
+    },
+    "civilDamages": {
+      "ja": "実損・逸失利益、不当利得・利益返還、合理的ロイヤルティ等を検討する。故意・過失、立証、費用回収を確認する。",
+      "en": "Consider actual loss/lost profits, restitution/disgorgement and reasonable royalty; verify fault, proof and cost recovery.",
+      "de": "Tatsächlichen Schaden/entgangenen Gewinn, Bereicherung/Gewinnherausgabe und Lizenzanalogie prüfen; Verschulden, Nachweis und Kosten beachten.",
+      "fr": "Considérer pertes réelles/manque à gagner, enrichissement/remise des bénéfices et redevance; vérifier faute, preuve et frais.",
+      "it": "Considerare danno/lucro cessante, arricchimento/restituzione degli utili e royalty; verificare colpa, prova e spese."
+    },
+    "civilEvidencePreservation": {
+      "ja": "証拠保全、侵害品・帳簿の提出、現場確認、専門家意見、テスト購入、オンライン証拠保存等を検討する。",
+      "en": "Consider preservation, production of goods/accounts, inspection, expert evidence, test purchases and online evidence.",
+      "de": "Beweissicherung, Vorlage von Waren/Büchern, Besichtigung, Gutachten, Testkäufe und Online-Beweise erwägen.",
+      "fr": "Envisager conservation, production de produits/comptes, inspection, expertise, achats tests et preuve en ligne.",
+      "it": "Considerare conservazione, esibizione di prodotti/conti, ispezione, perizia, acquisti test e prova online."
+    },
+    "civilOther": {
+      "ja": "侵害品・材料・器具の回収・廃棄、判決公表、情報提供等があり得る。",
+      "en": "Recall/destruction of goods, materials and tools, publication of judgment and information orders may be available.",
+      "de": "Rückruf/Vernichtung von Waren, Materialien und Werkzeugen, Urteilsveröffentlichung und Auskunft können möglich sein.",
+      "fr": "Rappel/destruction des produits, matériaux et instruments, publication du jugement et information peuvent être disponibles.",
+      "it": "Ritiro/distruzione di prodotti, materiali e strumenti, pubblicazione della sentenza e informazioni possono essere disponibili."
+    },
+    "borderMeasures": {
+      "ja": "連邦税関・国境警備局（BAZG）へ支援申請し、輸出入・通過貨物の留置を求める。保証、真贋判定、回答・裁判期限を確認する。",
+      "en": "Apply to the Federal Office for Customs and Border Security (FOCBS) for detention of imports, exports or transit goods; verify security and deadlines.",
+      "de": "Beim Bundesamt für Zoll und Grenzsicherheit (BAZG) Hilfe für Ein-, Aus- oder Durchfuhr beantragen; Sicherheit und Fristen prüfen.",
+      "fr": "Demander l’intervention de l’Office fédéral de la douane et de la sécurité des frontières pour import, export ou transit; vérifier sûreté et délais.",
+      "it": "Chiedere l’intervento dell’Ufficio federale della dogana e della sicurezza dei confini per importazione, esportazione o transito; verificare garanzia e termini."
+    },
+    "administrativeRaid": {
+      "ja": "税関、州警察、検察による摘発を刑事告訴・裁判所措置と組み合わせる。IPI自体は一般的な市場摘発主体ではない。",
+      "en": "Combine customs, cantonal police and prosecutor action with criminal complaint and court relief. IPI is not the general market-raid authority.",
+      "de": "Zoll, Kantonspolizei und Staatsanwaltschaft mit Strafanzeige und Gerichtsschutz kombinieren. Das IGE ist keine allgemeine Marktaufsichtsbehörde.",
+      "fr": "Combiner douanes, police cantonale et parquet avec plainte pénale et mesures judiciaires. L’IPI n’est pas l’autorité générale de saisie de marché.",
+      "it": "Combinare dogana, polizia cantonale e procura con denuncia penale e misure giudiziarie. L’IPI non è autorità generale di raid."
+    },
+    "administrativeOther": {
+      "ja": "オンライン削除、.ch・.swissドメイン紛争、消費者・広告・製品安全、Swissness表示上の措置等を併用する。",
+      "en": "Use platform takedowns, .ch/.swiss domain disputes and consumer, advertising, product-safety or Swissness measures where appropriate.",
+      "de": "Plattform-Löschung, .ch/.swiss-Domainverfahren sowie Verbraucher-, Werbe-, Produktsicherheits- oder Swissness-Maßnahmen nutzen.",
+      "fr": "Utiliser retraits de plateformes, litiges .ch/.swiss et mesures de consommation, publicité, sécurité ou Swissness.",
+      "it": "Usare rimozioni online, dispute .ch/.swiss e misure su consumatori, pubblicità, sicurezza o Swissness."
+    },
+    "criminalAvailability": {
+      "ja": "あり。故意の商標権侵害・模倣品流通等は刑事責任の対象となり得る。告訴要件・期限を確認する。",
+      "en": "Available for intentional infringement and counterfeit trade; verify complaint requirements and deadlines.",
+      "de": "Bei vorsätzlicher Markenverletzung und Fälschungshandel möglich; Strafantrag und Fristen prüfen.",
+      "fr": "Disponible pour contrefaçon intentionnelle et commerce de faux; vérifier plainte et délais.",
+      "it": "Disponibile per contraffazione intenzionale e commercio di falsi; verificare querela e termini."
+    },
+    "criminalFine": {
+      "ja": "あり。自然人・法人、犯罪類型、最新法定額により異なる。",
+      "en": "Available; amounts vary by individual/entity, offense and current statutory levels.",
+      "de": "Möglich; Höhe je nach Person, Delikt und aktuellem Strafrahmen.",
+      "fr": "Possible; montant selon personne, infraction et plafond actuel.",
+      "it": "Possibile; importo secondo soggetto, reato e limiti attuali."
+    },
+    "criminalImprisonment": {
+      "ja": "あり得る。職業的・営利的侵害等について最新の刑期と告訴・公訴要件を確認する。",
+      "en": "Potentially available, especially for commercial-scale conduct; verify current terms and private/public prosecution requirements.",
+      "de": "Insbesondere bei gewerbsmäßigem Handeln möglich; Strafrahmen sowie Antrags-/Offizialdelikt prüfen.",
+      "fr": "Possible notamment à échelle commerciale; vérifier peines et poursuite sur plainte ou d’office.",
+      "it": "Possibile soprattutto su scala commerciale; verificare pene e procedibilità a querela o d’ufficio."
+    },
+    "criminalOther": {
+      "ja": "侵害品・包装・製造器具の押収・没収・廃棄、犯罪収益措置等があり得る。",
+      "en": "Seizure, forfeiture and destruction of goods, packaging and equipment and proceeds measures may apply.",
+      "de": "Beschlagnahme, Einziehung und Vernichtung von Waren, Verpackungen und Werkzeugen sowie Ertragsmaßnahmen möglich.",
+      "fr": "Saisie, confiscation et destruction des produits, emballages et outils et mesures sur les produits du crime possibles.",
+      "it": "Sequestro, confisca e distruzione di prodotti, imballaggi e strumenti e misure sui proventi possibili."
+    }
+  },
+  "notablePoints": [
+    {
+      "title": {
+        "ja": "EU商標はスイスを保護しない",
+        "en": "An EUTM does not cover Switzerland",
+        "de": "Die Unionsmarke gilt nicht in der Schweiz",
+        "fr": "La MUE ne couvre pas la Suisse",
+        "it": "Il marchio UE non copre la Svizzera"
+      },
+      "detail": {
+        "ja": "EUIPO登録があっても、スイス国内では別途スイス商標またはスイス指定の国際登録が必要。英国同様、EU域外として管理する。",
+        "en": "An EUIPO registration requires a separate Swiss filing or Madrid designation for Switzerland; manage Switzerland outside the EU portfolio.",
+        "de": "Trotz EUIPO-Eintragung ist eine Schweizer Anmeldung oder Madrid-Benennung nötig; Schweiz außerhalb des EU-Portfolios führen.",
+        "fr": "Malgré l’EUIPO, un dépôt suisse ou une désignation Madrid est nécessaire; gérer la Suisse hors portefeuille UE.",
+        "it": "Nonostante EUIPO, serve deposito svizzero o designazione Madrid; gestire la Svizzera fuori dal portafoglio UE."
+      }
+    },
+    {
+      "title": {
+        "ja": "先行権利を職権審査しない",
+        "en": "Earlier rights not examined ex officio",
+        "de": "Ältere Rechte werden nicht von Amts wegen geprüft",
+        "fr": "Droits antérieurs non examinés d’office",
+        "it": "Diritti anteriori non esaminati d’ufficio"
+      },
+      "detail": {
+        "ja": "登録されても先行権利リスクは残る。Swissregと国際登録の調査、登録公告後3か月の監視が重要。",
+        "en": "Registration does not remove earlier-right risk; search Swissreg/international registrations and monitor the three-month post-registration opposition period.",
+        "de": "Eintragung beseitigt ältere Rechte nicht; Swissreg/IR recherchieren und dreimonatige Widerspruchsfrist überwachen.",
+        "fr": "L’enregistrement n’élimine pas les droits antérieurs; rechercher Swissreg/IR et surveiller les trois mois d’opposition.",
+        "it": "La registrazione non elimina diritti anteriori; cercare Swissreg/IR e sorvegliare i tre mesi di opposizione."
+      }
+    },
+    {
+      "title": {
+        "ja": "独瑞条約による使用特則",
+        "en": "Swiss-German treaty use rule",
+        "de": "Benutzungsregel des deutsch-schweizerischen Vertrags",
+        "fr": "Règle d’usage du traité germano-suisse",
+        "it": "Regola d’uso del trattato svizzero-tedesco"
+      },
+      "detail": {
+        "ja": "一定条件下でドイツにおける使用がスイス商標の使用として考慮され得る。両国での対応登録、同一権利者、使用態様等の要件を個別確認する。",
+        "en": "German use may count for a Swiss mark under specific conditions. Verify corresponding protection, ownership and form-of-use requirements.",
+        "de": "Deutsche Benutzung kann unter Voraussetzungen für Schweizer Marke zählen. Korrespondierenden Schutz, Inhaberschaft und Benutzungsform prüfen.",
+        "fr": "L’usage allemand peut compter sous conditions. Vérifier protections correspondantes, titulaire et forme d’usage.",
+        "it": "L’uso tedesco può contare a condizioni specifiche. Verificare protezione corrispondente, titolarità e forma d’uso."
+      }
+    },
+    {
+      "title": {
+        "ja": "登録後3か月の異議",
+        "en": "Three-month post-registration opposition",
+        "de": "Dreimonatiger Widerspruch nach Eintragung",
+        "fr": "Opposition de trois mois après enregistrement",
+        "it": "Opposizione di tre mesi dopo la registrazione"
+      },
+      "detail": {
+        "ja": "絶対的理由審査後に登録・公告され、その後に異議。登録証取得を先行権利クリアランス完了と誤解しない。",
+        "en": "Registration/publication precedes opposition; receipt of a certificate does not mean earlier-right clearance is complete.",
+        "de": "Eintragung/Veröffentlichung erfolgt vor Widerspruch; Urkunde bedeutet nicht Abschluss der Rechteprüfung.",
+        "fr": "Enregistrement/publication précèdent l’opposition; le certificat ne signifie pas absence de droits antérieurs.",
+        "it": "Registrazione/pubblicazione precedono l’opposizione; il certificato non significa assenza di diritti anteriori."
+      }
+    },
+    {
+      "title": {
+        "ja": "三言語・Swissness審査",
+        "en": "Three languages and Swissness",
+        "de": "Drei Sprachen und Swissness",
+        "fr": "Trois langues et Swissness",
+        "it": "Tre lingue e Swissness"
+      },
+      "detail": {
+        "ja": "ドイツ語・フランス語・イタリア語での記述性を確認し、「Swiss」「Switzerland」、十字・国章、原産地表示の使用要件も調査する。",
+        "en": "Check descriptiveness in German, French and Italian and the source-use rules for “Swiss,” “Switzerland,” crosses and official signs.",
+        "de": "Beschreibungsgehalt auf Deutsch, Französisch und Italienisch sowie Swissness-Regeln für „Swiss“, Kreuz und Hoheitszeichen prüfen.",
+        "fr": "Vérifier descriptivité en allemand, français et italien et règles Swissness pour «Swiss», croix et signes officiels.",
+        "it": "Verificare descrittività in tedesco, francese e italiano e regole Swissness per «Swiss», croce e segni ufficiali."
+      }
+    }
+  ],
+  "statistics": {
+    "coverage": "2016–2025",
+    "status": "pending",
+    "series": []
+  },
+  "news": [
+    {
+      "id": "swissreg-digital-practice",
+      "type": "practice",
+      "date": "2024-01-01",
+      "title": {
+        "ja": "Swissreg・電子手続による登録監視",
+        "en": "Swissreg and digital filing/monitoring",
+        "de": "Swissreg und digitale Verfahren",
+        "fr": "Swissreg et procédures numériques",
+        "it": "Swissreg e procedure digitali"
+      },
+      "summary": {
+        "ja": "登録公告後3か月の異議となるため、Swissregの公告・ステータス・期限を継続監視する。",
+        "en": "Because opposition follows registration, monitor Swissreg publication, status and the three-month deadline.",
+        "de": "Wegen Widerspruch nach Eintragung Swissreg-Veröffentlichung, Status und Dreimonatsfrist überwachen.",
+        "fr": "L’opposition suivant l’enregistrement, surveiller publication, statut et délai de trois mois dans Swissreg.",
+        "it": "Poiché l’opposizione segue la registrazione, monitorare pubblicazione, stato e termine di tre mesi in Swissreg."
+      },
+      "sourceUrl": "https://www.swissreg.ch/"
+    },
+    {
+      "id": "ipi-guidelines-current",
+      "type": "practice",
+      "date": "2025-01-01",
+      "title": {
+        "ja": "IPI審査ガイド・料金の現行版確認",
+        "en": "Check current IPI guidelines and fees",
+        "de": "Aktuelle IGE-Richtlinien und Gebühren prüfen",
+        "fr": "Vérifier directives et taxes IPI actuelles",
+        "it": "Verificare direttive e tasse IPI attuali"
+      },
+      "summary": {
+        "ja": "絶対的拒絶、迅速審査、Swissness、電子手続は現行審査ガイド・料金表に従う。",
+        "en": "Absolute grounds, accelerated examination, Swissness and e-filing follow current IPI guidelines and fees.",
+        "de": "Absolute Gründe, beschleunigte Prüfung, Swissness und E-Verfahren richten sich nach aktuellen IGE-Richtlinien und Gebühren.",
+        "fr": "Motifs absolus, examen accéléré, Swissness et dépôt électronique suivent les directives et taxes IPI actuelles.",
+        "it": "Motivi assoluti, esame accelerato, Swissness e deposito elettronico seguono direttive e tasse IPI attuali."
+      },
+      "sourceUrl": "https://www.ige.ch/"
+    },
+    {
+      "id": "nice-13-2026",
+      "type": "practice",
+      "date": "2026-01-01",
+      "title": {
+        "ja": "ニース国際分類第13版への対応",
+        "en": "Implementation of the 13th Nice edition",
+        "de": "Anwendung der 13. Nizza-Ausgabe",
+        "fr": "Application de la 13e édition de Nice",
+        "it": "Applicazione della 13ª edizione di Nizza"
+      },
+      "summary": {
+        "ja": "2026年出願では第13版とIPIの商品・役務分類支援を併せて確認する。",
+        "en": "For 2026 filings, consult the 13th edition together with IPI classification tools.",
+        "de": "Für Anmeldungen 2026 die 13. Ausgabe und IGE-Klassifikationstools prüfen.",
+        "fr": "Pour les dépôts 2026, consulter la 13e édition et les outils IPI.",
+        "it": "Per i depositi 2026, consultare la 13ª edizione e gli strumenti IPI."
+      },
+      "sourceUrl": "https://www.wipo.int/classifications/nice/en/"
+    }
+  ],
+  "faqs": [
+    {
+      "tag": "Territory",
+      "question": {
+        "ja": "EU商標があっても、スイスへ別出願・マドプロ指定が必要ですか。",
+        "en": "Is a separate Swiss filing or Madrid designation needed despite an EUTM?",
+        "de": "Ist trotz Unionsmarke eine Schweizer Anmeldung oder Madrid-Benennung nötig?",
+        "fr": "Faut-il un dépôt suisse ou Madrid malgré une MUE?",
+        "it": "Serve deposito svizzero o designazione Madrid nonostante un marchio UE?"
+      },
+      "followUp": {
+        "ja": "直接出願とマドプロ指定の費用・審査・代理人対応の差は。",
+        "en": "How do direct filing and Madrid differ in cost, examination and representation?",
+        "de": "Wie unterscheiden sich Direktanmeldung und Madrid bei Kosten, Prüfung und Vertretung?",
+        "fr": "Quelles différences de coût, examen et représentation entre dépôt direct et Madrid?",
+        "it": "Quali differenze di costo, esame e rappresentanza tra deposito diretto e Madrid?"
+      }
+    },
+    {
+      "tag": "Language",
+      "question": {
+        "ja": "ドイツ語・フランス語・イタリア語で記述的または不適切な意味がありますか。",
+        "en": "Is the mark descriptive or problematic in German, French or Italian?",
+        "de": "Ist die Marke auf Deutsch, Französisch oder Italienisch beschreibend oder problematisch?",
+        "fr": "La marque est-elle descriptive ou problématique en allemand, français ou italien?",
+        "it": "Il marchio è descrittivo o problematico in tedesco, francese o italiano?"
+      },
+      "followUp": {
+        "ja": "「Swiss」、十字、地名、原産地表示を使用できますか。",
+        "en": "May “Swiss,” a cross, place name or source indication be used?",
+        "de": "Dürfen „Swiss“, Kreuz, Ortsname oder Herkunftsangabe verwendet werden?",
+        "fr": "Peut-on utiliser «Swiss», croix, lieu ou indication de provenance?",
+        "it": "Si possono usare «Swiss», croce, luogo o indicazione di provenienza?"
+      }
+    },
+    {
+      "tag": "Opposition",
+      "question": {
+        "ja": "登録公告後3か月の異議に利用できる先行権利と必要証拠は。",
+        "en": "Which earlier rights and evidence support the three-month post-registration opposition?",
+        "de": "Welche älteren Rechte und Nachweise tragen den dreimonatigen Widerspruch?",
+        "fr": "Quels droits antérieurs et preuves fondent l’opposition de trois mois?",
+        "it": "Quali diritti anteriori e prove fondano l’opposizione di tre mesi?"
+      },
+      "followUp": {
+        "ja": "異議対象外の商号・著作権等は無効訴訟で主張しますか。",
+        "en": "Must trade names, copyright and other non-opposition rights be raised in invalidity litigation?",
+        "de": "Sind Unternehmensnamen, Urheberrechte usw. in Nichtigkeitsklage geltend zu machen?",
+        "fr": "Les noms commerciaux, droits d’auteur etc. doivent-ils être invoqués en nullité?",
+        "it": "Nomi commerciali, diritto d’autore ecc. vanno fatti valere in nullità?"
+      }
+    },
+    {
+      "tag": "Fast track",
+      "question": {
+        "ja": "迅速審査の官費、目標期間、対象条件は。",
+        "en": "What fee, target time and eligibility apply to accelerated examination?",
+        "de": "Welche Gebühr, Zielzeit und Voraussetzungen gelten für beschleunigte Prüfung?",
+        "fr": "Quels taxe, délai cible et conditions pour examen accéléré?",
+        "it": "Quali tassa, tempo obiettivo e condizioni per esame accelerato?"
+      },
+      "followUp": {
+        "ja": "迅速登録後も3か月の異議リスクは同じですか。",
+        "en": "Does the same three-month opposition risk remain after accelerated registration?",
+        "de": "Bleibt nach beschleunigter Eintragung dasselbe dreimonatige Widerspruchsrisiko?",
+        "fr": "Le même risque d’opposition de trois mois subsiste-t-il?",
+        "it": "Resta lo stesso rischio di opposizione di tre mesi?"
+      }
+    },
+    {
+      "tag": "Non-use",
+      "question": {
+        "ja": "5年不使用取消にドイツでの使用を援用できますか。",
+        "en": "Can German use defend five-year non-use cancellation in Switzerland?",
+        "de": "Kann deutsche Benutzung den Schweizer Nichtgebrauchsverfall abwehren?",
+        "fr": "L’usage allemand peut-il défendre la déchéance suisse pour non-usage?",
+        "it": "L’uso tedesco può difendere la decadenza svizzera per non uso?"
+      },
+      "followUp": {
+        "ja": "独瑞条約の対応登録、権利者、使用態様の要件は。",
+        "en": "What corresponding-registration, owner and form-of-use requirements apply under the treaty?",
+        "de": "Welche korrespondierende Eintragung, Inhaberschaft und Benutzungsform verlangt der Vertrag?",
+        "fr": "Quelles exigences du traité sur enregistrement correspondant, titulaire et forme d’usage?",
+        "it": "Quali requisiti del trattato su registrazione corrispondente, titolare e forma d’uso?"
+      }
+    },
+    {
+      "tag": "Enforcement",
+      "question": {
+        "ja": "州裁判所の仮処分、BAZG税関、刑事告訴をどう組み合わせますか。",
+        "en": "How should cantonal injunctions, FOCBS customs and criminal complaint be combined?",
+        "de": "Wie sind kantonale Verfügung, BAZG-Zoll und Strafanzeige zu kombinieren?",
+        "fr": "Comment combiner mesure cantonale, douane OFDF et plainte pénale?",
+        "it": "Come combinare cautelare cantonale, dogana UDSC e denuncia penale?"
+      },
+      "followUp": {
+        "ja": "管轄、手続言語、担保、概算費用・期間は。",
+        "en": "What are venue, procedural language, security, estimated cost and duration?",
+        "de": "Welche Zuständigkeit, Verfahrenssprache, Sicherheit, Kosten und Dauer gelten?",
+        "fr": "Quels juridiction, langue, sûreté, coût et durée?",
+        "it": "Quali foro, lingua, cauzione, costo e durata?"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "IPI Switzerland",
+      "url": "https://www.ige.ch/en/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Swissreg",
+      "url": "https://www.swissreg.ch/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Swiss Trademark Protection Act",
+      "url": "https://www.fedlex.admin.ch/eli/cc/1993/274_274_274/en",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Swiss Trademark Protection Ordinance",
+      "url": "https://www.fedlex.admin.ch/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Federal Administrative Court",
+      "url": "https://www.bvger.ch/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Federal Supreme Court",
+      "url": "https://www.bger.ch/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "FOCBS — Intellectual Property",
+      "url": "https://www.bazg.admin.ch/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO — Madrid Member Profile: Switzerland",
+      "url": "https://www.wipo.int/madrid/memberprofiles/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO Madrid Monitor",
+      "url": "https://www3.wipo.int/madrid/monitor/en/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "TMview",
+      "url": "https://www.tmdn.org/tmview/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO Nice Classification",
+      "url": "https://www.wipo.int/classifications/nice/en/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    }
+  ]
+}
