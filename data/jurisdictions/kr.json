@@ -1,0 +1,599 @@
+{
+  "id": "kr",
+  "type": "country",
+  "flag": "🇰🇷",
+  "region": "asia",
+  "names": {
+    "ja": "韓国",
+    "en": "Republic of Korea",
+    "ko": "대한민국"
+  },
+  "office": {
+    "ja": "韓国特許庁（KIPO）",
+    "en": "Korean Intellectual Property Office (KIPO)",
+    "ko": "특허청(KIPO)"
+  },
+  "availableLanguages": [
+    "ko"
+  ],
+  "createdAt": "2026-09-13",
+  "updatedAt": "2026-09-13",
+  "status": "review",
+  "facts": {
+    "authority": {
+      "ja": "韓国特許庁（KIPO）。審判は特許審判院（IPTAB）が担当する。",
+      "en": "Korean Intellectual Property Office (KIPO); appeals and trials are handled by the Intellectual Property Trial and Appeal Board (IPTAB).",
+      "ko": "특허청(KIPO)이 관할하며, 심판은 특허심판원(IPTAB)이 담당한다."
+    },
+    "protectionScope": {
+      "ja": "商品・役務の商標、団体標章、証明標章、業務標章、地理的表示団体標章等。",
+      "en": "Marks for goods and services, collective marks, certification marks, business emblems and collective marks for geographical indications.",
+      "ko": "상품·서비스표, 단체표장, 증명표장, 업무표장, 지리적 표시 단체표장 등을 보호한다."
+    },
+    "markTypes": {
+      "ja": "文字、図形、記号、立体形状、色彩のみ、色彩の組合せ、音、匂い、動き、ホログラム等、視覚的・非視覚的標識。類型ごとの表現方法を確認する。",
+      "en": "Words, devices, symbols, 3D shapes, single colors, color combinations, sounds, scents, motion, holograms and other visual or non-visual signs; representation requirements vary.",
+      "ko": "문자, 도형, 기호, 입체적 형상, 단일 색채, 색채의 조합, 소리, 냄새, 동작, 홀로그램 등 시각적·비시각적 표장을 보호하며 표시방법은 유형별로 다르다."
+    },
+    "madridAccessionDate": {
+      "ja": "2003年4月10日（マドリッド協定議定書の効力発生日）。",
+      "en": "10 April 2003 (entry into force of the Madrid Protocol for the Republic of Korea).",
+      "ko": "2003년 4월 10일(대한민국에 대한 마드리드 의정서 발효일)."
+    },
+    "niceClassification": {
+      "ja": "採用。韓国の商品・役務告示名称、類似群コードも先行調査・審査で重要。",
+      "en": "Adopted. Korean accepted terms and similarity-group codes are also important for clearance and examination.",
+      "ko": "니스분류를 채택하며, 한국의 고시명칭과 유사군코드도 검색 및 심사에서 중요하다."
+    },
+    "classHeadingPractice": {
+      "ja": "類見出しだけで区分全体を当然に包含しない。KIPOの認定名称に沿って具体的に記載する。",
+      "en": "A class heading does not automatically cover the entire class; use specific terms consistent with KIPO practice.",
+      "ko": "류 제목만으로 해당 류 전체가 당연히 포함되지 않으므로 특허청 실무에 맞는 구체적 명칭을 사용한다."
+    },
+    "retailServices": {
+      "ja": "第35類で可。小売・卸売の対象商品を具体的に列挙し、類似群コードを確認する。",
+      "en": "Available in Class 35; specify the goods concerned by retail or wholesale services and check similarity-group codes.",
+      "ko": "제35류에서 가능하며 소매·도매 대상 상품을 구체적으로 기재하고 유사군코드를 확인한다."
+    },
+    "multiClassApplication": {
+      "ja": "可。区分ごとに料金が発生し、分割・補正・部分拒絶の管理が必要。",
+      "en": "Available, with fees by class; division, amendment and partial-refusal management should be considered.",
+      "ko": "다류 출원이 가능하며 류별 수수료가 발생하고 분할·보정·부분거절 관리가 필요하다."
+    },
+    "applicationForm": {
+      "ja": "KIPOへ電子または所定様式で、出願人、商標見本、指定商品・役務、区分、優先権、代理人等を韓国語で提出する。",
+      "en": "File electronically or on the prescribed form with KIPO, providing the applicant, representation, goods/services, classes, priority and representative in Korean.",
+      "ko": "특허청에 전자 또는 소정 양식으로 출원인, 표장, 지정상품·서비스, 류, 우선권 및 대리인 등을 한국어로 제출한다."
+    },
+    "powerOfAttorney": {
+      "ja": "韓国に住所・営業所を有しない出願人は韓国の弁理士等を選任する。包括委任・個別委任の形式と提出期限を確認する。",
+      "en": "An applicant without domicile or business establishment in Korea must appoint a qualified Korean representative; verify general/specific power forms and deadlines.",
+      "ko": "국내에 주소나 영업소가 없는 출원인은 한국의 변리사 등 대리인을 선임해야 하며 포괄·개별 위임 형식과 제출기한을 확인한다."
+    },
+    "priorityDocuments": {
+      "ja": "パリ優先権は最初の出願から6か月以内。出願時に主張し、優先権証明書および必要な翻訳の提出期限を確認する。DAS利用可否も確認する。",
+      "en": "Paris priority must be claimed within six months; claim it at filing and verify the deadline for the priority document and any translation, including DAS availability.",
+      "ko": "파리 우선권은 최초 출원일부터 6개월 이내에 주장하고, 출원 시 주장한 뒤 우선권증명서와 번역문 제출기한 및 DAS 이용 여부를 확인한다."
+    },
+    "homeRegistrationCertificate": {
+      "ja": "通常の直接出願には不要。パリ条約第6条の5に基づく本国登録援用等では別途確認する。",
+      "en": "Not normally required for a direct filing; verify separately where home-country registration under Paris Convention Article 6quinquies is invoked.",
+      "ko": "통상적인 직접출원에는 필요하지 않으며 파리협약 제6조의5에 따른 본국등록 원용 시 별도 확인한다."
+    },
+    "useEvidenceAtFiling": {
+      "ja": "通常不要。使用による識別力、著名性、先使用権等を主張する場合は韓国での使用証拠が必要。",
+      "en": "Not normally required; Korean use evidence is needed for acquired distinctiveness, reputation or prior-use rights.",
+      "ko": "통상 필요하지 않으나 사용에 의한 식별력, 주지·저명성 또는 선사용권을 주장할 때에는 국내 사용증거가 필요하다."
+    },
+    "notarizationCertification": {
+      "ja": "通常の委任状は公証・領事認証不要。譲渡、法人変更、宣誓書等は手続ごとに確認する。",
+      "en": "An ordinary power generally requires no notarization or legalization; confirm separately for assignments, corporate changes and affidavits.",
+      "ko": "일반 위임장은 공증·영사인증이 통상 필요하지 않으나 양도, 법인변경, 진술서 등은 절차별로 확인한다."
+    },
+    "otherDocuments": {
+      "ja": "商標見本・説明、委任状、優先権証明、非伝統的商標の音声・動画・説明、使用による識別力・著名性の証拠等。",
+      "en": "Representation and description, power, priority document, sound/video files and descriptions for non-traditional marks, and evidence of acquired distinctiveness or reputation.",
+      "ko": "표장 및 설명, 위임장, 우선권증명서, 비전형상표의 음원·동영상·설명, 사용에 의한 식별력 또는 저명성 증거 등."
+    },
+    "absoluteGroundsExamination": {
+      "ja": "あり。KIPOが職権審査する。",
+      "en": "Yes; examined ex officio by KIPO.",
+      "ko": "있음. 특허청이 직권으로 심사한다."
+    },
+    "distinctivenessGrounds": {
+      "ja": "普通名称、慣用標章、記述的標章、ありふれた氏・名称、簡単でありふれた標章、その他需要者が出所表示として認識できない標章等。使用による識別力を立証できる場合がある。",
+      "en": "Generic, customary, descriptive, common surnames/names, simple and commonplace signs, and other signs not perceived as source indicators may be refused; acquired distinctiveness may be established.",
+      "ko": "보통명칭, 관용표장, 기술적 표장, 흔한 성명, 간단하고 흔한 표장 및 수요자가 출처표시로 인식할 수 없는 표장 등은 거절될 수 있으며 사용에 의한 식별력을 입증할 수 있다."
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "公序良俗、国旗・紋章・公的記章、国家・公共機関との誤認、著名な氏名・名称、品質・産地の誤認、機能的立体形状、地理的表示、品種名称、悪意出願等を確認する。",
+      "en": "Check public order/morality, flags/emblems/official signs, false connection with public bodies, famous names, misleading quality or origin, functional shapes, GIs, plant variety denominations and bad-faith filings.",
+      "ko": "공공질서·선량한 풍속, 국기·문장·공공표장, 국가·공공기관과의 오인, 저명한 성명, 품질·산지 오인, 기능적 입체형상, 지리적 표시, 품종명칭 및 악의적 출원 등을 확인한다."
+    },
+    "relativeGroundsExamination": {
+      "ja": "あり。先行出願・登録商標、周知・著名商標、他人の氏名・商号等との抵触を職権審査する。",
+      "en": "Yes; earlier applications/registrations, well-known marks and conflicts with names or trade names are examined ex officio.",
+      "ko": "있음. 선출원·등록상표, 주지·저명상표, 타인의 성명·상호 등과의 저촉을 직권심사한다."
+    },
+    "disclaimer": {
+      "ja": "一般的なディスクレーム制度は原則として採用されていない。非識別部分の存在と商標全体の識別力・権利範囲を区別して検討する。",
+      "en": "A general disclaimer system is not ordinarily used; distinguish non-distinctive elements from the distinctiveness and scope of the mark as a whole.",
+      "ko": "일반적인 권리불요구 제도는 통상 운용되지 않으므로 비식별 부분과 상표 전체의 식별력·권리범위를 구분해 검토한다."
+    },
+    "consent": {
+      "ja": "あり。2024年5月1日施行の同意書制度により、先行商標権者の同意で一定の抵触を解消できる。ただし同一商標・同一商品等や混同防止上の例外を確認する。",
+      "en": "Available. Since 1 May 2024, owner consent may overcome certain earlier-mark conflicts, subject to exceptions such as identical marks for identical goods and confusion safeguards.",
+      "ko": "있음. 2024년 5월 1일부터 선등록상표권자의 동의로 일정한 저촉을 해소할 수 있으나 동일상표·동일상품 등 예외와 혼동방지 요건을 확인한다."
+    },
+    "acceleratedExamination": {
+      "ja": "優先審査あり。使用中・使用準備が明白、権利紛争、第三者出願等の法定・告示事由と証拠、申請料が必要。対象事由は最新告示を確認する。",
+      "en": "Accelerated examination is available on prescribed grounds such as actual/clearly imminent use or disputes, with evidence and a fee; check the current notice.",
+      "ko": "우선심사가 가능하다. 사용 중이거나 사용 준비가 명백한 경우, 권리분쟁 등 고시 사유와 증거 및 수수료가 필요하므로 최신 고시를 확인한다."
+    },
+    "thirdPartyObservation": {
+      "ja": "情報提供制度あり。審査中、第三者が拒絶理由に関する証拠・情報を提出できる。匿名可否・提出方法を確認する。",
+      "en": "An information-submission procedure permits third parties to provide evidence or information on refusal grounds during examination; verify anonymity and filing method.",
+      "ko": "정보제공 제도가 있어 심사 중 제3자가 거절이유에 관한 증거나 정보를 제출할 수 있으며 익명 여부와 제출방법을 확인한다."
+    },
+    "directExaminationPeriod": {
+      "ja": "通常出願の初回審査は概ね10～14か月程度となることがあるが、KIPOの最新処理期間、指定商品、優先審査の有無で変動する。",
+      "en": "First examination in an ordinary direct filing may take roughly 10–14 months, varying with current KIPO pendency, specifications and accelerated status.",
+      "ko": "일반 직접출원의 최초 심사는 대략 10~14개월이 걸릴 수 있으나 특허청의 최신 처리기간, 지정상품 및 우선심사 여부에 따라 달라진다."
+    },
+    "madridExaminationPeriod": {
+      "ja": "KIPOは国際事務局の通報日から原則18か月以内に暫定拒絶を通報する。実際の初回審査・最終保護認容は案件により異なる。",
+      "en": "KIPO generally must notify provisional refusal within 18 months from WIPO notification; actual first examination and final grant of protection vary.",
+      "ko": "특허청은 국제사무국 통지일부터 원칙적으로 18개월 이내에 잠정거절을 통지하며 실제 최초심사와 최종 보호인정 기간은 사건별로 다르다."
+    },
+    "colourPriorityIdentity": {
+      "ja": "優先権基礎出願と韓国出願の標章が実質的に同一かを確認する。白黒から特定色への変更、色彩の配置・範囲の変更は優先権喪失リスクを個別評価する。",
+      "en": "Confirm substantial identity between the priority and Korean marks; assess whether moving from black-and-white to claimed colors or altering their arrangement jeopardizes priority.",
+      "ko": "우선권 기초출원과 한국 출원 표장의 실질적 동일성을 확인하며 흑백에서 특정 색채로의 변경 또는 색채 배치·범위 변경이 우선권에 미치는 영향을 개별 판단한다."
+    },
+    "colourRelativeGrounds": {
+      "ja": "色彩は外観上の一要素であり、称呼・観念・構成・指定商品・取引実情を全体観察する。色違いのみで非類似になるとは限らない。",
+      "en": "Color is one visual factor; pronunciation, concept, composition, goods and market circumstances are assessed overall. A color change alone may not avoid similarity.",
+      "ko": "색채는 외관 요소 중 하나이며 호칭·관념·구성·지정상품·거래실정을 전체적으로 판단하므로 색상 차이만으로 비유사해지는 것은 아니다."
+    },
+    "colourGenuineUse": {
+      "ja": "登録商標と使用商標の同一性を厳格に検討する。色彩の変更が社会通念上同一の使用と認められるか、識別力ある要部を変えないかを確認する。",
+      "en": "Assess carefully whether a color variation remains use of the registered mark under prevailing commercial perception and leaves distinctive features unchanged.",
+      "ko": "색채 변경이 거래통념상 등록상표와 동일한 사용인지, 식별력 있는 요부를 변경하지 않는지 엄격히 검토한다."
+    },
+    "colourInfringementScope": {
+      "ja": "標章の外観・称呼・観念、色彩の役割、指定商品・役務の類似、需要者の混同可能性を総合判断する。",
+      "en": "Assess appearance, pronunciation, concept, the role of color, similarity of goods/services and likelihood of consumer confusion as a whole.",
+      "ko": "표장의 외관·호칭·관념, 색채의 역할, 상품·서비스의 유사 및 수요자의 혼동 가능성을 종합 판단한다."
+    },
+    "colourFilingStrategy": {
+      "ja": "色彩自体が識別の核心ならカラー版を確保し、運用上色を変えるなら白黒・主要配色を別出願する。ハングル音写商標も併せて検討する。",
+      "en": "If color is central, protect the color version; if branding varies, consider separate black-and-white and key-color filings, together with a Hangul transliteration.",
+      "ko": "색채가 식별의 핵심이면 컬러 표장을 확보하고 색상 변경 가능성이 있으면 흑백 및 주요 배색을 별도 출원하며 한글 음역상표도 검토한다."
+    },
+    "refusalResponseRoute": {
+      "ja": "意見提出通知に意見書・補正書・指定商品限定・同意書・使用証拠等で応答する。2023年導入の再審査請求が使える場合は補正とともに検討し、最終拒絶にはIPTABへの拒絶査定不服審判を請求する。",
+      "en": "Respond to an office action with arguments, amendment, limitation, consent or use evidence. Where eligible, consider the re-examination request introduced in 2023 with amendment; appeal a final refusal to IPTAB.",
+      "ko": "의견제출통지에 의견서·보정서·지정상품 감축·동의서·사용증거 등으로 대응한다. 가능한 경우 2023년 도입된 재심사청구를 보정과 함께 검토하고 최종 거절결정은 특허심판원에 불복한다."
+    },
+    "responsePeriod": {
+      "ja": "通知に指定された期間が支配する。通常は2か月程度が多いが、国内・在外者、通知類型、国際登録で異なるため個別確認する。",
+      "en": "The period stated in the notice controls; about two months is common, but it varies for domestic/foreign applicants, notice type and Madrid cases.",
+      "ko": "통지서에 지정된 기간이 우선하며 통상 약 2개월인 경우가 많지만 국내·재외 출원인, 통지 유형 및 국제등록에 따라 달라진다."
+    },
+    "extensionAvailable": {
+      "ja": "あり。指定期間について所定の延長申請が可能。法定の審判請求期間とは区別する。",
+      "en": "Available for designated periods by prescribed request; distinguish statutory appeal periods.",
+      "ko": "있음. 지정기간은 소정의 신청으로 연장할 수 있으나 법정 심판청구기간과 구분한다."
+    },
+    "extensionLength": {
+      "ja": "手続・申請人属性により異なる。1か月単位の延長可能回数、追加延長の疎明要否を通知ごとに確認する。",
+      "en": "Varies by procedure and applicant status; verify monthly extensions, maximum ordinary extensions and proof for additional time.",
+      "ko": "절차와 출원인 유형에 따라 다르므로 1개월 단위 연장 횟수와 추가 연장 시 소명 필요 여부를 통지별로 확인한다."
+    },
+    "extensionRequirements": {
+      "ja": "期限前の申請と手数料が原則。追加延長では特別な事情・証拠を求められる場合がある。",
+      "en": "A timely request and fee are generally required; further extensions may require special circumstances and evidence.",
+      "ko": "원칙적으로 기간 만료 전 신청과 수수료가 필요하며 추가 연장은 특별한 사정과 증빙을 요구할 수 있다."
+    },
+    "appealRoute": {
+      "ja": "拒絶査定に対し特許審判院（IPTAB）へ不服審判。その審決は特許法院へ、さらに大法院へ上告可能。再審査請求との選択・順序を確認する。",
+      "en": "Appeal a final refusal to IPTAB, then challenge its decision before the Patent Court and ultimately the Supreme Court; confirm interaction with re-examination.",
+      "ko": "거절결정에 대해 특허심판원에 불복심판을 청구하고, 심결은 특허법원 및 대법원에 다툴 수 있으며 재심사청구와의 관계를 확인한다."
+    },
+    "refusalAppealPeriod": {
+      "ja": "拒絶査定謄本の送達日から原則3か月以内に不服審判を請求。平均審理期間は事件種別・迅速審判の可否により異なるため最新IPTAB統計を確認する。",
+      "en": "An IPTAB appeal is generally due within three months from service of the refusal decision. Check current IPTAB statistics for average duration and expedited options.",
+      "ko": "거절결정등본 송달일부터 원칙적으로 3개월 이내에 불복심판을 청구하며 평균 심리기간과 신속심판 가능 여부는 최신 통계를 확인한다."
+    },
+    "publicDatabase": {
+      "ja": "KIPRIS（韓国知識財産情報検索サービス）",
+      "en": "KIPRIS (Korea Intellectual Property Rights Information Service)",
+      "ko": "키프리스(KIPRIS)",
+      "url": "https://www.kipris.or.kr/"
+    },
+    "publicationStage": {
+      "ja": "実体審査で拒絶理由が解消すると出願公告され、異議期間経過・異議処理後に登録査定となる。",
+      "en": "Once objections are cleared, the application is published for opposition; registration follows after the opposition period or disposition.",
+      "ko": "실체심사에서 거절이유가 해소되면 출원공고되고 이의신청기간 경과 또는 이의 처리 후 등록결정된다."
+    },
+    "oppositionPeriod": {
+      "ja": "出願公告日から2か月以内。登録前異議制度。",
+      "en": "Within two months from publication of the application; this is a pre-registration opposition.",
+      "ko": "출원공고일부터 2개월 이내이며 등록 전 이의신청 제도이다."
+    },
+    "oppositionExtension": {
+      "ja": "法定2か月の異議申立期間は原則延長不可。申立後の理由・証拠補充期間は別途確認する。",
+      "en": "The statutory two-month filing period is generally non-extendible; verify separate periods for supplementing grounds and evidence.",
+      "ko": "법정 2개월 이의신청기간은 원칙적으로 연장할 수 없으며 신청 후 이유·증거 보충기간은 별도 확인한다."
+    },
+    "averagePendency": {
+      "ja": "拒絶がなければ通常、出願から登録まで概ね12～18か月程度となり得る。審査滞貨、優先審査、異議、補正で変動するため最新KIPO統計を参照する。",
+      "en": "An unobjectionable application may take roughly 12–18 months to registration; current KIPO backlog, acceleration, opposition and amendments can materially change this.",
+      "ko": "거절이유가 없는 경우 출원부터 등록까지 대략 12~18개월이 걸릴 수 있으나 심사 적체, 우선심사, 이의 및 보정에 따라 달라진다."
+    },
+    "term": {
+      "ja": "設定登録日から10年。10年ごとに更新可能。",
+      "en": "10 years from registration, renewable for successive ten-year periods.",
+      "ko": "설정등록일부터 10년이며 10년마다 갱신할 수 있다."
+    },
+    "termStart": {
+      "ja": "設定登録日から。",
+      "en": "From the date of registration.",
+      "ko": "설정등록일부터."
+    },
+    "renewalWindow": {
+      "ja": "存続期間満了前1年以内に更新申請可能。",
+      "en": "Renewal may be filed within one year before expiry.",
+      "ko": "존속기간 만료 전 1년 이내에 갱신신청할 수 있다."
+    },
+    "gracePeriod": {
+      "ja": "あり。満了後6か月以内は割増料金を伴う追納更新が可能。",
+      "en": "Yes; late renewal is available within six months after expiry with a surcharge.",
+      "ko": "있음. 만료 후 6개월 이내에는 할증료를 납부하여 갱신할 수 있다."
+    },
+    "renewalEvidence": {
+      "ja": "更新時の使用宣誓・使用証拠は通常不要。ただし3年不使用取消に備え、韓国での使用証拠を継続保存する。",
+      "en": "No use declaration or evidence is normally required at renewal; preserve Korean use evidence against three-year non-use cancellation.",
+      "ko": "갱신 시 사용선서나 사용증거는 통상 필요하지 않으나 3년 불사용취소에 대비하여 국내 사용증거를 보관한다."
+    },
+    "nonUseCancellation": {
+      "ja": "あり。特許審判院への不使用取消審判。利害関係を問わず何人も請求可能。",
+      "en": "Available through a non-use cancellation trial before IPTAB; any person may file without showing legal interest.",
+      "ko": "있음. 특허심판원에 불사용취소심판을 청구하며 이해관계 없이 누구든 청구할 수 있다."
+    },
+    "nonUsePeriod": {
+      "ja": "審判請求日前、継続して3年以上、韓国で指定商品・役務について使用されていない場合。商品・役務ごとに一部取消となり得る。",
+      "en": "Three consecutive years of non-use in Korea before the cancellation filing; cancellation may be partial by goods/services.",
+      "ko": "심판청구일 전 계속하여 3년 이상 국내에서 지정상품·서비스에 사용되지 않은 경우이며 일부 지정상품별 취소가 가능하다."
+    },
+    "nonUseDefenses": {
+      "ja": "商標権者側が、権利者・専用使用権者・通常使用権者による韓国内の真正使用または正当理由を立証する。登録商標と使用態様の同一性、日付、商品との結び付きが重要。",
+      "en": "The owner bears the burden of proving genuine Korean use by the owner or licensee, or justified non-use. Identity, dates and linkage to goods are critical.",
+      "ko": "상표권자 측이 권리자 또는 사용권자의 국내 정당한 사용이나 불사용의 정당한 이유를 입증하며 표장의 동일성, 날짜 및 상품과의 연결이 중요하다."
+    },
+    "otherCancellation": {
+      "ja": "不正使用、誤認・混同を生じさせる使用、使用権者の不正使用、団体・証明標章の管理違反等による取消制度あり。",
+      "en": "Cancellation may arise from improper or misleading use, licensee misuse and failures in managing collective or certification marks.",
+      "ko": "부정사용, 오인·혼동을 일으키는 사용, 사용권자의 부정사용 및 단체·증명표장 관리 위반 등에 따른 취소가 가능하다."
+    },
+    "invalidation": {
+      "ja": "あり。絶対的・相対的拒絶理由、冒認・悪意、条約違反等を理由にIPTABへ無効審判を請求できる。除斥期間の有無は根拠別に確認する。",
+      "en": "Available before IPTAB on absolute/relative grounds, bad faith, treaty grounds and others; limitation periods vary by ground.",
+      "ko": "있음. 절대적·상대적 거절이유, 모인·악의, 조약 위반 등을 이유로 특허심판원에 무효심판을 청구할 수 있으며 제척기간은 사유별로 확인한다."
+    },
+    "civilInjunction": {
+      "ja": "侵害禁止・予防請求および仮処分が可能。侵害・無効可能性、緊急性、担保、管轄を検討する。",
+      "en": "Injunctions against actual or threatened infringement and preliminary relief are available; assess infringement, validity, urgency, security and venue.",
+      "ko": "침해금지·예방청구 및 가처분이 가능하며 침해·무효 가능성, 긴급성, 담보 및 관할을 검토한다."
+    },
+    "civilDamages": {
+      "ja": "損害賠償、侵害者利益・使用料相当額等の推定、故意侵害の懲罰的賠償制度を検討する。最新の倍率上限を確認する。",
+      "en": "Damages, presumptions based on infringer profits or reasonable royalty, and enhanced damages for intentional infringement may apply; verify the current multiplier cap.",
+      "ko": "손해배상, 침해자 이익 또는 상당 실시료에 의한 추정 및 고의침해에 대한 징벌적 손해배상을 검토하고 최신 배수 상한을 확인한다."
+    },
+    "civilEvidencePreservation": {
+      "ja": "証拠保全、文書提出命令、専門家調査・鑑定、公証購入、オンライン証拠保存等を検討する。",
+      "en": "Consider evidence preservation, production orders, expert inspection/appraisal, notarized purchases and preservation of online evidence.",
+      "ko": "증거보전, 문서제출명령, 전문가 조사·감정, 공증구매 및 온라인 증거보존 등을 검토한다."
+    },
+    "civilOther": {
+      "ja": "侵害品・製造設備の廃棄、信用回復措置、不当利得返還等があり得る。",
+      "en": "Destruction of infringing goods/equipment, reputation-restoring measures and restitution may be available.",
+      "ko": "침해품·제조설비의 폐기, 신용회복조치 및 부당이득반환 등이 가능하다."
+    },
+    "borderMeasures": {
+      "ja": "関税庁への知的財産権申告・輸出入通関保留制度あり。保証金、真贋判定、回答・提訴期限を確認する。",
+      "en": "Customs recordal and suspension of import/export clearance are available; verify security, authentication and response/action deadlines.",
+      "ko": "관세청 지식재산권 신고 및 수출입 통관보류 제도가 있으며 담보, 진위판정 및 회신·제소기한을 확인한다."
+    },
+    "administrativeRaid": {
+      "ja": "税関、警察、地方自治体等による模倣品取締りを、刑事告訴・税関申告と組み合わせる。所管と実行可能性は事案別に確認する。",
+      "en": "Combine anti-counterfeit action by customs, police or local authorities with criminal complaints and customs recordal; verify competence and practicality case by case.",
+      "ko": "관세·경찰·지방자치단체 등의 위조상품 단속을 형사고소 및 세관신고와 결합하며 관할과 실행 가능성은 사건별로 확인한다."
+    },
+    "administrativeOther": {
+      "ja": "オンラインプラットフォーム削除、税関措置、不正競争防止法・表示広告・製品安全上の措置等を併用する。",
+      "en": "Use platform takedowns, customs measures and remedies under unfair-competition, advertising or product-safety rules where applicable.",
+      "ko": "온라인 플랫폼 삭제, 세관조치 및 부정경쟁방지·표시광고·제품안전상 조치를 병행한다."
+    },
+    "criminalAvailability": {
+      "ja": "あり。故意の商標権侵害、偽造標章の使用・流通等は刑事罰の対象となり得る。",
+      "en": "Available; intentional trademark infringement and use or distribution of counterfeit signs may attract criminal penalties.",
+      "ko": "있음. 고의의 상표권 침해와 위조표장의 사용·유통 등은 형사처벌 대상이 될 수 있다."
+    },
+    "criminalFine": {
+      "ja": "あり。自然人・法人の両罰、犯罪類型、最新改正により上限が異なるため確認する。",
+      "en": "Available; verify current ceilings by offense and dual liability of individuals and entities.",
+      "ko": "있음. 행위자와 법인의 양벌, 범죄유형 및 최신 개정에 따라 상한이 달라지므로 확인한다."
+    },
+    "criminalImprisonment": {
+      "ja": "あり得る。故意、反復、規模等を踏まえ最新の法定刑・量刑実務を確認する。",
+      "en": "Potentially available; verify current statutory terms and sentencing practice in light of intent, repetition and scale.",
+      "ko": "가능함. 고의, 반복성 및 규모 등을 고려하여 최신 법정형과 양형 실무를 확인한다."
+    },
+    "criminalOther": {
+      "ja": "侵害品・製造道具の没収・廃棄、犯罪収益の没収、法人処罰等があり得る。",
+      "en": "Confiscation/destruction of goods and tools, proceeds confiscation and corporate penalties may apply.",
+      "ko": "침해품·제조도구의 몰수·폐기, 범죄수익 몰수 및 법인 처벌 등이 가능하다."
+    }
+  },
+  "notablePoints": [
+    {
+      "title": {
+        "ja": "2024年導入の同意書制度",
+        "en": "Consent system introduced in 2024",
+        "ko": "2024년 도입된 상표 공존동의제도"
+      },
+      "detail": {
+        "ja": "先行登録商標との抵触について同意書で解消できる場面が生じた。ただし同一商標・同一商品等の例外、混同防止条件、同意後の表示を現地代理人と確認する。",
+        "en": "Owner consent can now overcome certain earlier-mark conflicts, but confirm exceptions for identical marks/goods, confusion safeguards and post-consent use.",
+        "ko": "선등록상표와의 일부 저촉은 동의서로 해소할 수 있으나 동일상표·동일상품 예외, 혼동방지 요건 및 동의 후 사용을 대리인과 확인한다."
+      }
+    },
+    {
+      "title": {
+        "ja": "部分拒絶と再審査請求",
+        "en": "Partial refusal and re-examination",
+        "ko": "부분거절 및 재심사청구"
+      },
+      "detail": {
+        "ja": "2023年施行の制度により、拒絶対象でない商品を救済しやすくなり、一定の場合は補正後の再審査請求が可能。審判との期限競合を厳格に管理する。",
+        "en": "Reforms effective in 2023 facilitate survival of non-refused goods and permit re-examination after amendment in eligible cases; docket interaction with appeal deadlines.",
+        "ko": "2023년 시행 제도로 거절 대상이 아닌 상품의 권리화가 용이해지고 일정한 경우 보정 후 재심사청구가 가능하므로 심판기한과의 관계를 엄격히 관리한다."
+      }
+    },
+    {
+      "title": {
+        "ja": "類似群コード中心のクリアランス",
+        "en": "Similarity-group-code clearance",
+        "ko": "유사군코드 중심의 선행조사"
+      },
+      "detail": {
+        "ja": "ニース区分が異なっても同じ類似群としてクロスサーチされる場合がある。指定商品案を現地の告示名称と類似群コードへ落とし込む。",
+        "en": "Goods in different Nice classes may share a Korean similarity group and require cross-searching; map specifications to accepted terms and codes.",
+        "ko": "니스분류가 달라도 동일 유사군에 속해 교차검색될 수 있으므로 지정상품을 고시명칭과 유사군코드에 맞춘다."
+      }
+    },
+    {
+      "title": {
+        "ja": "登録前2か月の異議申立て",
+        "en": "Two-month pre-registration opposition",
+        "ko": "등록 전 2개월 이의신청"
+      },
+      "detail": {
+        "ja": "出願公告後2か月であり、台湾の登録後異議とは時点が異なる。ウォッチングでは公告日を基準に期限管理する。",
+        "en": "Opposition is due two months after application publication, unlike Taiwan’s post-registration system; monitor the publication date.",
+        "ko": "출원공고 후 2개월 이내이며 대만의 등록 후 이의와 시점이 다르므로 공고일을 기준으로 관리한다."
+      }
+    },
+    {
+      "title": {
+        "ja": "不使用取消では使用態様に注意",
+        "en": "Strict attention to form of use",
+        "ko": "불사용취소에서 사용형태 주의"
+      },
+      "detail": {
+        "ja": "権利者側が韓国内の使用を立証する。登録商標からの変更が取引通念上同一と評価されるか、韓国語表記・色彩・図形の変更を事前に点検する。",
+        "en": "The owner proves Korean use; review in advance whether Hangul, color or device variations remain commercially identical to the registration.",
+        "ko": "권리자 측이 국내 사용을 입증하므로 한글표기, 색채 및 도형 변경이 거래통념상 등록상표와 동일한지 사전에 점검한다."
+      }
+    }
+  ],
+  "statistics": {
+    "coverage": "2016–2025",
+    "status": "pending",
+    "series": []
+  },
+  "news": [
+    {
+      "id": "consent-system-2024",
+      "type": "law",
+      "date": "2024-05-01",
+      "title": {
+        "ja": "先行商標権者の同意書制度が施行",
+        "en": "Trademark consent system took effect",
+        "ko": "상표 공존동의제도 시행"
+      },
+      "summary": {
+        "ja": "先行登録商標との抵触について、一定条件下で権利者の同意により登録を可能とする制度が施行された。同一商標・同一商品等の例外を要確認。",
+        "en": "A system permitting registration with the earlier owner’s consent took effect, subject to conditions and exceptions such as identical marks for identical goods.",
+        "ko": "선등록상표권자의 동의로 일정한 저촉을 해소하는 제도가 시행되었으며 동일상표·동일상품 등 예외를 확인해야 한다."
+      },
+      "sourceUrl": "https://www.kipo.go.kr/en/"
+    },
+    {
+      "id": "partial-refusal-reexamination-2023",
+      "type": "law",
+      "date": "2023-02-04",
+      "title": {
+        "ja": "部分拒絶・再審査請求制度が施行",
+        "en": "Partial refusal and re-examination systems took effect",
+        "ko": "부분거절 및 재심사청구 제도 시행"
+      },
+      "summary": {
+        "ja": "一部の商品・役務に拒絶理由がある場合の部分拒絶と、一定の補正後に審判を経ず再審査を求める制度が導入された。",
+        "en": "Partial refusal for affected goods/services and a route to request re-examination after eligible amendment were introduced.",
+        "ko": "일부 지정상품에 거절이유가 있는 경우의 부분거절과 일정한 보정 후 재심사를 청구하는 제도가 도입되었다."
+      },
+      "sourceUrl": "https://www.kipo.go.kr/en/"
+    },
+    {
+      "id": "nice-13-2026",
+      "type": "practice",
+      "date": "2026-01-01",
+      "title": {
+        "ja": "ニース国際分類第13版と韓国類似群コード",
+        "en": "Nice 13th edition and Korean similarity groups",
+        "ko": "니스분류 제13판 및 한국 유사군코드"
+      },
+      "summary": {
+        "ja": "2026年出願では第13版に加え、KIPOの最新商品・役務告示名称と類似群コードを確認する。",
+        "en": "For 2026 filings, check the 13th edition together with KIPO’s current accepted terms and similarity-group codes.",
+        "ko": "2026년 출원은 니스분류 제13판과 함께 특허청의 최신 고시명칭 및 유사군코드를 확인한다."
+      },
+      "sourceUrl": "https://www.wipo.int/classifications/nice/en/"
+    }
+  ],
+  "faqs": [
+    {
+      "tag": "Classification",
+      "question": {
+        "ja": "指定商品・役務はどの韓国類似群コードに属し、他区分のどのコードまでクロスサーチすべきですか。",
+        "en": "Which Korean similarity-group codes cover the goods/services, including cross-class searches?",
+        "ko": "지정상품·서비스는 어떤 유사군코드에 속하며 다른 류의 어떤 코드까지 교차검색해야 합니까?"
+      },
+      "followUp": {
+        "ja": "KIPOの告示名称に合わせるため、どの表現を修正すべきですか。",
+        "en": "Which terms should be amended to match KIPO’s accepted terminology?",
+        "ko": "특허청 고시명칭에 맞추기 위해 어떤 표현을 보정해야 합니까?"
+      }
+    },
+    {
+      "tag": "Consent",
+      "question": {
+        "ja": "本件の先行商標拒絶は、2024年施行の同意書制度で解消できますか。",
+        "en": "Can this earlier-mark refusal be overcome using the consent system effective from 2024?",
+        "ko": "본건 선등록상표 거절은 2024년 시행된 공존동의제도로 해소할 수 있습니까?"
+      },
+      "followUp": {
+        "ja": "同意書の方式、混同防止条件、同一商標・同一商品の例外は。",
+        "en": "What form, confusion safeguards and identical-mark/goods exceptions apply?",
+        "ko": "동의서 형식, 혼동방지 조건 및 동일상표·동일상품 예외는 무엇입니까?"
+      }
+    },
+    {
+      "tag": "Refusal",
+      "question": {
+        "ja": "補正と再審査請求、拒絶査定不服審判のどちらを選ぶべきですか。",
+        "en": "Should we amend and request re-examination, or appeal the refusal to IPTAB?",
+        "ko": "보정 후 재심사청구와 거절결정불복심판 중 어느 절차를 선택해야 합니까?"
+      },
+      "followUp": {
+        "ja": "部分拒絶後、拒絶対象外の商品を先に登録できますか。",
+        "en": "After a partial refusal, can unaffected goods proceed to registration first?",
+        "ko": "부분거절 후 거절 대상이 아닌 상품을 먼저 등록할 수 있습니까?"
+      }
+    },
+    {
+      "tag": "Opposition",
+      "question": {
+        "ja": "出願公告後2か月の異議申立てに必要な証拠と、理由補充期限は。",
+        "en": "What evidence and supplemental-ground deadlines apply to the two-month opposition?",
+        "ko": "출원공고 후 2개월 이의신청에 필요한 증거와 이유 보충기한은 무엇입니까?"
+      },
+      "followUp": {
+        "ja": "情報提供、異議、無効審判、不使用取消のどれが最も効率的ですか。",
+        "en": "Which is most efficient: information submission, opposition, invalidation or non-use cancellation?",
+        "ko": "정보제공, 이의신청, 무효심판 및 불사용취소 중 무엇이 가장 효율적입니까?"
+      }
+    },
+    {
+      "tag": "Non-use",
+      "question": {
+        "ja": "韓国内の3年不使用取消に対抗するには、どの使用証拠が必要ですか。",
+        "en": "What evidence is needed to defend a three-year non-use cancellation in Korea?",
+        "ko": "국내 3년 불사용취소에 대응하려면 어떤 사용증거가 필요합니까?"
+      },
+      "followUp": {
+        "ja": "ハングル音写、配色、ロゴ変更、オンライン販売は登録商標の使用と認められますか。",
+        "en": "Do Hangul transliteration, color/logo variations and online sales count as use?",
+        "ko": "한글 음역, 배색·로고 변경 및 온라인 판매가 등록상표의 사용으로 인정됩니까?"
+      }
+    },
+    {
+      "tag": "Enforcement",
+      "question": {
+        "ja": "民事仮処分、税関申告、刑事告訴をどの順序で組み合わせるべきですか。",
+        "en": "How should civil preliminary relief, customs recordal and criminal complaint be sequenced?",
+        "ko": "민사 가처분, 세관신고 및 형사고소를 어떤 순서로 병행해야 합니까?"
+      },
+      "followUp": {
+        "ja": "懲罰的損害賠償、証拠保全、担保に必要な資料は。",
+        "en": "What evidence is needed for enhanced damages, preservation and security?",
+        "ko": "징벌적 손해배상, 증거보전 및 담보에 필요한 자료는 무엇입니까?"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "KIPO — English",
+      "url": "https://www.kipo.go.kr/en/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "KIPRIS — Trademark Search",
+      "url": "https://www.kipris.or.kr/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Korean Law Information Center — Trademark Act",
+      "url": "https://www.law.go.kr/LSW/eng/engLsSc.do?menuId=2&query=TRADEMARK%20ACT",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "IPTAB — Trial and Appeal",
+      "url": "https://www.kipo.go.kr/ipt/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Patent Court of Korea",
+      "url": "https://patent.scourt.go.kr/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Korea Customs Service — IPR",
+      "url": "https://www.customs.go.kr/english/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO — Madrid Member Profile: Republic of Korea",
+      "url": "https://www.wipo.int/madrid/memberprofiles/#/result?countries=9185",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO Madrid Monitor",
+      "url": "https://www3.wipo.int/madrid/monitor/en/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "KIPO — Classification / Similarity Codes",
+      "url": "https://www.kipo.go.kr/en/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO Nice Classification",
+      "url": "https://www.wipo.int/classifications/nice/en/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    }
+  ]
+}
