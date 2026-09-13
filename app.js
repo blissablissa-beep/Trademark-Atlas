@@ -968,7 +968,11 @@ function renderDetail() {
         if (language === "es") {
           label = "Espa\u{F1}ol";
         }
-
+        
+        if (language === "zh") {
+          label = "中文";
+        }
+        
         return `
           <button
             class="option-lang ${
