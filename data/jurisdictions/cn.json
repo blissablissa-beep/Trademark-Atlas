@@ -1,0 +1,599 @@
+{
+  "id": "cn",
+  "type": "country",
+  "flag": "🇨🇳",
+  "region": "asia",
+  "names": {
+    "ja": "中華人民共和国",
+    "en": "People’s Republic of China",
+    "zh": "中华人民共和国"
+  },
+  "office": {
+    "ja": "国家知識産権局（CNIPA）",
+    "en": "China National Intellectual Property Administration (CNIPA)",
+    "zh": "国家知识产权局（CNIPA）"
+  },
+  "availableLanguages": [
+    "zh"
+  ],
+  "createdAt": "2026-09-13",
+  "updatedAt": "2026-09-13",
+  "status": "review",
+  "facts": {
+    "authority": {
+      "ja": "国家知識産権局（CNIPA）",
+      "en": "China National Intellectual Property Administration (CNIPA)",
+      "zh": "国家知识产权局（CNIPA）"
+    },
+    "protectionScope": {
+      "ja": "商品・役務の商標、団体商標、証明商標。周知商標は事件ごとの必要性に応じ認定・保護される。",
+      "en": "Marks for goods/services, collective marks and certification marks. Well-known marks are recognized and protected case by case when necessary.",
+      "zh": "商品和服务商标、集体商标及证明商标。驰名商标依个案需要进行认定和保护。"
+    },
+    "markTypes": {
+      "ja": "文字、図形、文字・数字、立体標章、色彩の組合せ、音およびこれらの組合せ。匂い・単一色等は現行法上の登録対象として慎重な確認が必要。",
+      "en": "Words, devices, letters/numerals, 3D signs, color combinations, sounds and combinations. Scents and single colors require cautious confirmation under current law.",
+      "zh": "文字、图形、字母、数字、三维标志、颜色组合、声音及其组合。气味、单一颜色等在现行法下应谨慎确认。"
+    },
+    "madridAccessionDate": {
+      "ja": "マドリッド協定：1989年10月4日、議定書：1995年12月1日発効",
+      "en": "Madrid Agreement effective 4 October 1989; Protocol effective 1 December 1995",
+      "zh": "《马德里协定》自1989年10月4日生效；《议定书》自1995年12月1日生效"
+    },
+    "niceClassification": {
+      "ja": "採用。ただしニース区分内を独自の類似群コードで細分化して審査・検索する。最新版の中国語標準表示を確認する。",
+      "en": "Adopted, but China subdivides Nice classes using its own similarity-group codes for examination and searching. Check current standardized Chinese terms.",
+      "zh": "采用尼斯分类，但审查和检索时另按中国的类似群代码细分。应确认最新版中文规范项目。"
+    },
+    "classHeadingPractice": {
+      "ja": "類見出しのみで区分全体を包含しない。中国語の標準商品・役務名と類似群コードを用いて個別指定する。",
+      "en": "Class headings do not cover the entire class. Specify individual goods/services using standardized Chinese terms and similarity-group codes.",
+      "zh": "类别标题不当然涵盖全类。应使用规范中文名称并结合类似群代码逐项指定。"
+    },
+    "retailServices": {
+      "ja": "一般的な「小売・卸売役務」は原則として受理されない。第35類では、薬品・医療用品等の小売・卸売など限定的に認められる表示や、広告・販売促進等を検討する。",
+      "en": "General retail/wholesale services are generally not accepted. In Class 35, consider narrowly accepted services such as retail/wholesale of pharmaceutical and medical supplies, or advertising/sales promotion.",
+      "zh": "一般“零售、批发服务”原则上不予接受。第35类可考虑药品、医疗用品等有限的零售批发项目，或广告、销售促进等服务。"
+    },
+    "multiClassApplication": {
+      "ja": "可。ただし区分ごとの料金で費用節減が乏しく、分割・譲渡・更新管理の柔軟性から一区分一出願が実務上推奨されることが多い。",
+      "en": "Available, but per-class fees offer little saving and single-class filings are often preferred for flexibility in division, assignment and renewal.",
+      "zh": "可以多类别申请，但按类别收费，节省有限；为便于分割、转让和续展管理，实务中常建议单类申请。"
+    },
+    "applicationForm": {
+      "ja": "CNIPAへ電子出願等で、中国語の出願人情報、標章、商品・役務、区分、優先権、代理人等を提出する。",
+      "en": "File electronically or by an available route with CNIPA, providing applicant details, mark, goods/services, classes, priority and representative in Chinese.",
+      "zh": "通过电子申请等方式向国家知识产权局提交中文申请人信息、商标、商品服务、类别、优先权及代理信息。"
+    },
+    "powerOfAttorney": {
+      "ja": "中国に住所・営業所を有しない外国出願人は、中国で適法に設立された商標代理機構を通じ、委任状を提出する。",
+      "en": "A foreign applicant without domicile or business establishment in China must act through a lawfully established Chinese trademark agency and file a power.",
+      "zh": "在中国没有经常居所或者营业所的外国申请人，应委托依法设立的商标代理机构并提交委托书。"
+    },
+    "priorityDocuments": {
+      "ja": "パリ優先権は最初の出願から6か月以内。出願時に主張し、優先権証明書は原則3か月以内に提出する。中国語訳等を確認する。",
+      "en": "Paris priority must be claimed within six months and declared at filing; the priority document is generally due within three months. Check Chinese translation requirements.",
+      "zh": "巴黎优先权应在首次申请后六个月内主张，并在申请时声明；优先权证明文件原则上应在三个月内提交，并确认中文翻译要求。"
+    },
+    "homeRegistrationCertificate": {
+      "ja": "通常の直接出願には不要。相互主義・特別手続が問題となる場合は確認する。",
+      "en": "Not normally required for a direct filing; verify in any reciprocity or special-procedure context.",
+      "zh": "一般直接申请无需本国注册证明；涉及互惠或特殊程序时应另行确认。"
+    },
+    "useEvidenceAtFiling": {
+      "ja": "通常不要。使用による識別力、周知性、先使用抗弁等を主張する場合は証拠が必要。",
+      "en": "Not normally required; evidence is needed for acquired distinctiveness, well-known status or prior-use arguments.",
+      "zh": "通常无需提交使用证据；主张使用取得显著性、驰名或在先使用时需要证据。"
+    },
+    "notarizationCertification": {
+      "ja": "通常の委任状は公証・領事認証不要。出願人名義変更、譲渡、優先権その他の外国書類は手続別に確認する。",
+      "en": "An ordinary power generally requires no notarization/legalization; check foreign documents for name changes, assignments, priority and other procedures separately.",
+      "zh": "普通委托书一般无需公证认证；申请人名称变更、转让、优先权等外国文件应按程序分别确认。"
+    },
+    "otherDocuments": {
+      "ja": "標章見本、主体資格証明、委任状、優先権資料、中国語訳、音商標の音声ファイル・楽譜・説明、使用・周知性証拠等。",
+      "en": "Representation, identity/status documents, power, priority material, Chinese translations, sound file/notation/description and use or reputation evidence.",
+      "zh": "商标图样、主体资格证明、委托书、优先权文件、中文翻译、声音文件或乐谱及说明、使用或知名度证据等。"
+    },
+    "absoluteGroundsExamination": {
+      "ja": "あり。CNIPAが職権審査する。",
+      "en": "Yes; examined ex officio by CNIPA.",
+      "zh": "有。国家知识产权局依职权审查。"
+    },
+    "distinctivenessGrounds": {
+      "ja": "識別力欠如、普通名称、品質・原料・機能・用途・数量・地理的出所等の直接的表示、その他特徴を欠く標章は拒絶され得る。使用による識別力を立証可能。",
+      "en": "Non-distinctive signs, generic names and direct indications of quality, materials, function, purpose, quantity or geographical origin may be refused; acquired distinctiveness may be proven.",
+      "zh": "缺乏显著性、通用名称，或直接表示质量、原料、功能、用途、数量、地理来源等的标志可被驳回；可证明经使用取得显著性。"
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "国家名・国旗・国章、政府間国際機関・公的検査印、赤十字等、公序良俗・社会主義道徳・有害な影響、欺瞞性、民族差別性等を確認する。",
+      "en": "Check state names, flags/emblems, intergovernmental organizations and official inspection signs, Red Cross-type symbols, public interest/socialist morality/adverse influence, deception and ethnic discrimination.",
+      "zh": "应审查国家名称、国旗国徽、政府间国际组织及官方检验标志、红十字等，以及公共利益、社会主义道德、不良影响、欺骗性、民族歧视性等。"
+    },
+    "relativeGroundsExamination": {
+      "ja": "あり。先行出願・登録、同日出願、周知商標、代理人・代表者による冒認、一定の先行権利等を職権審査する。",
+      "en": "Yes; CNIPA examines earlier applications/registrations, same-day filings, well-known marks, agent/representative filings and certain prior rights ex officio.",
+      "zh": "有。国家知识产权局依职权审查在先申请或注册、同日申请、驰名商标、代理人代表人抢注及一定在先权利。"
+    },
+    "disclaimer": {
+      "ja": "米国型の一般的な権利不要求制度は基本的にない。非識別要素を含む結合商標は全体登録となり、その要素単独の権利範囲は限定的。",
+      "en": "There is generally no U.S.-style disclaimer system. A composite is registered as a whole, while exclusive scope in a non-distinctive element alone is limited.",
+      "zh": "一般不存在美式放弃专用权制度。组合商标作为整体注册，对其中非显著部分单独主张权利的范围有限。"
+    },
+    "consent": {
+      "ja": "共存同意書は参考資料となり得るが、CNIPA・裁判所を当然には拘束しない。同一・高度類似標章では受け入れられにくい。",
+      "en": "A coexistence consent may be evidence but does not bind CNIPA or courts; it is less likely to succeed for identical or highly similar marks.",
+      "zh": "共存同意书可作为参考证据，但不当然约束国家知识产权局或法院；相同或高度近似商标通常较难被接受。"
+    },
+    "acceleratedExamination": {
+      "ja": "一定の国家・省級重点事業、重大災害・公衆衛生事件、重大な公益等について早期審査制度あり。通常の商業上の緊急性だけでは利用困難。",
+      "en": "Accelerated examination exists for qualifying national/provincial key projects, disasters/public-health events and major public interests; ordinary commercial urgency alone is generally insufficient.",
+      "zh": "对符合条件的国家或省级重点项目、重大灾害或公共卫生事件、重大公共利益等设有快速审查；一般商业紧迫性通常不足。"
+    },
+    "thirdPartyObservation": {
+      "ja": "初歩審定公告後3か月以内に異議申立て可能。公告前の非公式な情報提供・悪意出願通報の取扱いは個別確認する。",
+      "en": "Opposition is available within three months after preliminary-approval publication; verify treatment of pre-publication information or bad-faith reports separately.",
+      "zh": "初步审定公告后三个月内可以提出异议；公告前的信息反映或恶意申请举报应另行确认。"
+    },
+    "directExaminationPeriod": {
+      "ja": "法定審査期間は原則9か月。CNIPAは審査周期短縮を進めているが、補正、拒絶、不服、異議で長期化する。",
+      "en": "The statutory examination period is generally nine months. CNIPA has shortened average cycles, but amendment, refusal, review or opposition increases pendency.",
+      "zh": "法定审查期限原则上为九个月。国家知识产权局持续压缩审查周期，但补正、驳回、复审或异议会延长整体时间。"
+    },
+    "madridExaminationPeriod": {
+      "ja": "中国指定の暫定拒絶通報期間は原則12か月。WIPO通知記載の現地応答・不服期限を確認する。",
+      "en": "The provisional-refusal notification period for China is generally 12 months; verify the local response/review deadline in the WIPO notice.",
+      "zh": "指定中国的临时驳回通知期限原则上为十二个月；应确认世界知识产权组织通知所载中国答复或复审期限。"
+    },
+    "colourPriorityIdentity": {
+      "ja": "優先権基礎と中国出願で色彩の有無・配置を一致させる。白黒からカラー等の変更が同一性を損なわないかを厳格に確認する。",
+      "en": "Align the presence and arrangement of color with the priority filing; carefully assess whether black-and-white/color changes impair identity.",
+      "zh": "应使中国申请的颜色及其排列与优先权申请一致，并严格评估黑白与彩色变化是否影响同一性。"
+    },
+    "colourRelativeGrounds": {
+      "ja": "色彩は全体的印象の一要素であり、色変更だけで類似性が解消するとは限らない。類似群コード、漢字・称呼・意味・図形を総合比較する。",
+      "en": "Color is one element of overall impression; changing it alone may not avoid similarity. Compare subclass codes, Chinese characters, pronunciation, meaning and devices globally.",
+      "zh": "颜色是整体印象的要素之一，仅改变颜色不一定排除近似。应综合比较类似群、汉字、读音、含义及图形。"
+    },
+    "colourGenuineUse": {
+      "ja": "登録態様と使用態様の色彩差が商標の顕著な特徴を変更するかを評価する。カラー限定登録では色変更のリスクが高い。",
+      "en": "Assess whether color differences between registration and use alter the mark’s distinctive features; risk is higher for a color-limited registration.",
+      "zh": "应判断注册形式与使用形式的颜色差异是否改变商标显著特征；限定颜色注册的变色风险更高。"
+    },
+    "colourInfringementScope": {
+      "ja": "登録表示、指定色、漢字・称呼・観念・図形、商品類似、需要者の混同を総合評価する。",
+      "en": "Assess the registered representation, claimed colors, characters, pronunciation, meaning, device, similarity of goods and consumer confusion globally.",
+      "zh": "应综合判断注册图样、指定颜色、文字、读音、含义、图形、商品类似及消费者混淆。"
+    },
+    "colourFilingStrategy": {
+      "ja": "色彩の組合せ自体を保護する場合は配置・色を明確化。柔軟性が必要なら白黒の図形商標と主要カラー版を別出願し、中国語ブランドも早期確保する。",
+      "en": "For a color-combination mark, define arrangement and colors. For flexibility, file black-and-white and key color versions separately and secure the Chinese-language brand early.",
+      "zh": "保护颜色组合时应明确颜色及排列；需要灵活性时可分别申请黑白图形及主要彩色版本，并尽早注册中文品牌。"
+    },
+    "refusalResponseRoute": {
+      "ja": "実体審査では中間の拒絶理由通知なしに全部・一部拒絶決定が出ることが多い。受領から15日以内に商標評審部門へ拒絶査定不服審判を請求する。",
+      "en": "Substantive examination often proceeds directly to a full/partial refusal without an office action. File refusal review with the trademark adjudication authority within 15 days of receipt.",
+      "zh": "实质审查通常不先发审查意见，而直接作出全部或部分驳回决定。应自收到通知之日起十五日内申请驳回复审。"
+    },
+    "responsePeriod": {
+      "ja": "補正通知は通常15日以内の応答が重要。拒絶査定不服審判も受領から15日以内。通知ごとに起算日・電子送達を確認する。",
+      "en": "A 15-day response is commonly critical for amendment notices; refusal review is also due within 15 days of receipt. Verify trigger and electronic service.",
+      "zh": "补正通知通常应在十五日内答复；驳回复审也应自收到驳回通知之日起十五日内提出。应确认起算日和电子送达。"
+    },
+    "extensionAvailable": {
+      "ja": "法定15日期限は原則として延長困難。不可抗力等の期間回復は厳格な要件の下で個別検討する。",
+      "en": "Statutory 15-day periods are generally difficult to extend; restoration for force majeure or other grounds is narrowly assessed.",
+      "zh": "法定十五日期限原则上难以延长；因不可抗力等请求恢复期限须符合严格条件。"
+    },
+    "extensionLength": {
+      "ja": "通常の任意延長なし。補充証拠の提出可能期間等は手続ごとに確認する。",
+      "en": "No ordinary discretionary extension; check procedure-specific periods for supplementary evidence.",
+      "zh": "通常无任意延期；补充证据期限等应按具体程序确认。"
+    },
+    "extensionRequirements": {
+      "ja": "期限内申立てを最優先とし、期間回復は不可抗力・正当理由、証拠、所定期間内の申請等を確認する。",
+      "en": "Prioritize filing within the deadline; for restoration verify force majeure/justifiable reasons, evidence and timely request.",
+      "zh": "应优先在期限内办理；请求恢复期限时须确认不可抗力或正当理由、证据及法定申请期限。"
+    },
+    "appealRoute": {
+      "ja": "拒絶決定には拒絶査定不服審判、審決には北京知識産権法院への行政訴訟、さらに北京市高級人民法院等への上訴を検討する。",
+      "en": "Challenge refusal by administrative review, then bring administrative litigation before the Beijing Intellectual Property Court and appeal as applicable to the Beijing High People’s Court.",
+      "zh": "对驳回决定申请驳回复审；对复审决定可向北京知识产权法院提起行政诉讼，并可依法向北京市高级人民法院上诉。"
+    },
+    "refusalAppealPeriod": {
+      "ja": "拒絶査定不服審判の法定審理期間は原則9か月で、3か月延長可能。実際の期間は案件・証拠・訴訟により変動する。",
+      "en": "The statutory refusal-review period is generally nine months, extendible by three months; actual timing varies with the matter, evidence and litigation.",
+      "zh": "驳回复审法定审理期限原则上为九个月，可延长三个月；实际时间因案件、证据和诉讼而异。"
+    },
+    "publicDatabase": {
+      "ja": "CNIPA商標オンライン検索",
+      "en": "CNIPA online trademark search",
+      "zh": "国家知识产权局商标网上查询",
+      "url": "https://wcjs.sbj.cnipa.gov.cn/"
+    },
+    "publicationStage": {
+      "ja": "実体審査を通過した出願は初歩審定公告され、3か月の異議期間に入る。異議がなければ登録公告される。",
+      "en": "An application passing substantive examination is published for preliminary approval and enters a three-month opposition period; absent opposition, registration is published.",
+      "zh": "通过实质审查的申请予以初步审定公告，进入三个月异议期；无人异议的，予以注册公告。"
+    },
+    "oppositionPeriod": {
+      "ja": "初歩審定公告日から3か月。",
+      "en": "Three months from preliminary-approval publication.",
+      "zh": "自初步审定公告之日起三个月。"
+    },
+    "oppositionExtension": {
+      "ja": "法定3か月の異議申立期間は原則延長不可。期限内に骨子と証拠を提出し、補充証拠期間を個別確認する。",
+      "en": "The statutory three-month opposition period is generally non-extendible; file grounds/evidence in time and verify any supplementary-evidence period.",
+      "zh": "法定三个月异议期原则上不可延长；应及时提交理由和证据，并确认补充证据期限。"
+    },
+    "averagePendency": {
+      "ja": "無拒絶・無異議でも審査と3か月公告を要する。拒絶査定不服、異議、登録証発行を含めた現地見積りを取得する。",
+      "en": "Even an unobjectionable, unopposed case requires examination and three-month publication; obtain local estimates including refusal review, opposition and certificate issuance.",
+      "zh": "即使无驳回、无异议，也须经过审查和三个月公告；应取得包含复审、异议及注册证发放的当地时间估算。"
+    },
+    "term": {
+      "ja": "登録許可日から10年。10年ごとに更新可能。",
+      "en": "10 years from the date of approval for registration, renewable for successive ten-year periods.",
+      "zh": "自核准注册之日起十年，可每十年续展。"
+    },
+    "termStart": {
+      "ja": "登録許可日から。",
+      "en": "From the date of approval for registration.",
+      "zh": "自核准注册之日起。"
+    },
+    "renewalWindow": {
+      "ja": "満了前12か月以内に更新申請可能。",
+      "en": "Renewal may be filed within 12 months before expiry.",
+      "zh": "可在期满前十二个月内办理续展。"
+    },
+    "gracePeriod": {
+      "ja": "あり。満了後6か月以内は割増料金付きで更新可能。",
+      "en": "Yes; late renewal is available within six months after expiry with surcharge.",
+      "zh": "有。期满后六个月宽展期内可缴纳额外费用续展。"
+    },
+    "renewalEvidence": {
+      "ja": "更新時の使用宣誓・使用証拠は不要。ただし3年不使用取消に備え、中国での使用証拠を継続保存する。",
+      "en": "No use declaration/evidence is required for renewal; preserve evidence of use in China against three-year non-use cancellation.",
+      "zh": "续展无需使用声明或使用证据，但应持续保存中国境内使用证据，以应对连续三年不使用撤销。"
+    },
+    "nonUseCancellation": {
+      "ja": "あり。何人もCNIPAへ3年不使用取消を請求できる。行政手続であり、訴訟提起は必須ではない。",
+      "en": "Available; any person may request CNIPA cancellation for three-year non-use. It is administrative and does not require a court action.",
+      "zh": "有。任何人可向国家知识产权局申请撤销连续三年不使用商标，属于行政程序，无需先提起诉讼。"
+    },
+    "nonUsePeriod": {
+      "ja": "取消請求前に正当理由なく継続3年間使用されていない場合。指定商品・役務ごとに一部取消となり得る。",
+      "en": "Three continuous years of non-use without proper reasons before the request; cancellation may be partial by goods/services.",
+      "zh": "申请撤销前无正当理由连续三年未使用；可按指定商品或服务部分撤销。"
+    },
+    "nonUseDefenses": {
+      "ja": "商標権者が真正・公開・適法な商業的使用または正当な不使用理由を証明する。請求前3年間の日付・地域・商品・主体を結び付ける証拠チェーンが重要。",
+      "en": "The owner proves genuine, public and lawful commercial use or proper reasons for non-use. A chain linking dates, territory, goods and user during the relevant three years is critical.",
+      "zh": "商标权人应证明真实、公开、合法的商业使用或不使用的正当理由。证据链应对应请求前三年的时间、地域、商品及使用主体。"
+    },
+    "otherCancellation": {
+      "ja": "商標が指定商品の普通名称となった場合、登録事項の無断変更・登録人名義住所の不適切変更等について取消・是正があり得る。",
+      "en": "Cancellation or corrective action may apply for genericide, unauthorized alteration of the mark or improper changes to registrant name/address.",
+      "zh": "商标成为指定商品通用名称，或擅自改变注册商标、注册人名义地址等情形，可导致撤销或责令改正。"
+    },
+    "invalidation": {
+      "ja": "あり。絶対的禁止、詐欺その他不正手段、先行権利、冒認、悪意等を理由にCNIPAへ無効宣告を請求できる。根拠により5年制限等が異なる。",
+      "en": "Available before CNIPA for absolute prohibitions, fraud/other improper means, earlier rights, agent filing and bad faith; five-year and other limits vary by ground.",
+      "zh": "有。可基于绝对禁用、欺骗或其他不正当手段、在先权利、代理人抢注、恶意等请求宣告无效；五年期限等因理由而异。"
+    },
+    "civilInjunction": {
+      "ja": "人民法院で行為保全（仮差止め）・終局的差止めを請求可能。緊急性、担保、管轄を確認する。",
+      "en": "Interim conduct-preservation injunctions and final injunctions may be sought in the People’s Courts; verify urgency, security and jurisdiction.",
+      "zh": "可向人民法院申请行为保全和永久禁令；应确认紧迫性、担保及管辖。"
+    },
+    "civilDamages": {
+      "ja": "実損、侵害者利益、ライセンス料倍数を順に検討し、故意・情状重大の場合は1～5倍の懲罰的賠償、算定困難時は法定賠償（上限500万元）を検討する。",
+      "en": "Consider actual loss, infringer’s profits and royalty multiples; intentional serious infringement may attract 1–5x punitive damages, and statutory damages up to RMB 5 million where calculation is difficult.",
+      "zh": "依次考虑实际损失、侵权获利和许可费倍数；故意且情节严重的可适用一至五倍惩罚性赔偿，难以计算时法定赔偿最高五百万元。"
+    },
+    "civilEvidencePreservation": {
+      "ja": "証拠保全、財産保全、行為保全、裁判所による帳簿提出命令等を検討する。オンライン公証・タイムスタンプも実務上重要。",
+      "en": "Consider evidence, asset and conduct preservation and court orders for account books; online notarization and timestamps are also practically important.",
+      "zh": "可考虑证据保全、财产保全、行为保全及责令提交账簿；网络公证和时间戳在实务中也很重要。"
+    },
+    "civilOther": {
+      "ja": "侵害停止、侵害品・主要製造工具の廃棄、信用回復、合理的費用等を請求可能。",
+      "en": "Cessation, destruction of infringing goods and principal manufacturing tools, reputation-restoring measures and reasonable expenses may be available.",
+      "zh": "可请求停止侵权、销毁侵权商品及主要制造工具、消除影响和合理开支等。"
+    },
+    "borderMeasures": {
+      "ja": "税関総署への知的財産権税関登録と、輸出入貨物の留置申請が利用可能。担保、確認、提訴期限を確認する。",
+      "en": "IP customs recordal and detention of imports/exports are available through China Customs; verify security, verification and merits-action deadlines.",
+      "zh": "可在海关总署办理知识产权海关备案并申请扣留进出口货物；应确认担保、确认及起诉期限。"
+    },
+    "administrativeRaid": {
+      "ja": "地方市場監督管理局（AMR）への行政摘発申立てが重要。立入検査、差押え、侵害停止、行政罰等が可能。",
+      "en": "Administrative raids through local Administrations for Market Regulation (AMRs) are important; inspection, seizure, cessation and penalties may be available.",
+      "zh": "向地方市场监督管理局请求行政查处非常重要，可采取检查、查封扣押、责令停止及行政处罚等措施。"
+    },
+    "administrativeOther": {
+      "ja": "市場監督、税関、公安、ネットプラットフォームを組み合わせ、押収・廃棄、罰金、オンライン削除等を検討する。",
+      "en": "Coordinate market regulation, customs, public security and online platforms for seizure/destruction, fines and takedowns.",
+      "zh": "可结合市场监管、海关、公安及网络平台，采取查扣销毁、罚款及下架等措施。"
+    },
+    "criminalAvailability": {
+      "ja": "登録商標偽造罪、偽造登録商標商品販売罪、違法製造・販売罪等あり。情状・金額・数量等の刑事立件基準を確認する。",
+      "en": "Criminal offenses include counterfeiting registered marks, selling counterfeit-mark goods and illegally manufacturing/selling labels; verify prosecution thresholds.",
+      "zh": "设有假冒注册商标罪、销售假冒注册商标的商品罪、非法制造销售标识罪等；应确认数额、数量和情节等立案标准。"
+    },
+    "criminalFine": {
+      "ja": "あり。違法所得・売上等に応じた罰金および刑法上の罰金を確認する。",
+      "en": "Available; verify fines based on illegal proceeds/sales and the Criminal Law.",
+      "zh": "有。应根据违法所得、销售额及刑法规定确认罚金。"
+    },
+    "criminalImprisonment": {
+      "ja": "あり。犯罪類型・情状により有期懲役等。最新刑法・司法解釈の基準を確認する。",
+      "en": "Available; fixed-term imprisonment depends on offense and seriousness. Verify current Criminal Law and judicial interpretations.",
+      "zh": "有。根据罪名和情节可判处有期徒刑等；应确认最新刑法及司法解释标准。"
+    },
+    "criminalOther": {
+      "ja": "侵害品・標章・製造設備の押収・没収・廃棄、違法所得没収、営業資格への影響等があり得る。",
+      "en": "Seizure, confiscation and destruction of goods, labels and equipment, confiscation of proceeds and business-qualification consequences may apply.",
+      "zh": "可查扣、没收、销毁侵权商品、标识及设备，没收违法所得，并可能影响经营资格。"
+    }
+  },
+  "notablePoints": [
+    {
+      "title": {
+        "ja": "類似群コードが検索・指定の核心",
+        "en": "Subclass codes are central",
+        "zh": "类似群代码是检索和指定的核心"
+      },
+      "detail": {
+        "ja": "同じニース区分内でも類似群・クロスサーチ関係で引用範囲が変わる。中国語標準表示と類似商品・役務区分表を確認する。",
+        "en": "Within one Nice class, citation scope changes by subclass and cross-search relationships. Check standardized Chinese terms and the Similar Goods and Services table.",
+        "zh": "同一尼斯类别内，引证范围仍取决于类似群及交叉检索关系。应核对中文规范名称及《类似商品和服务区分表》。"
+      }
+    },
+    {
+      "title": {
+        "ja": "小売役務は原則不受理",
+        "en": "General retail services usually not accepted",
+        "zh": "一般零售服务原则上不接受"
+      },
+      "detail": {
+        "ja": "第35類でも一般的な小売・卸売をそのまま指定できない。薬品等の限定的表示、広告・販売促進、オンライン市場提供等を目的に応じ選ぶ。",
+        "en": "General retail/wholesale wording is not simply accepted in Class 35. Select limited pharmaceutical retail, advertising, sales-promotion or online-marketplace terms as appropriate.",
+        "zh": "第35类不能直接指定一般零售批发；应按需要选择药品等有限零售、广告、销售促进或网络市场平台等项目。"
+      }
+    },
+    {
+      "title": {
+        "ja": "実体拒絶は初手で拒絶査定",
+        "en": "Substantive refusal often arrives as the first decision",
+        "zh": "实质驳回通常直接作出"
+      },
+      "detail": {
+        "ja": "引用・識別力拒絶ではOAを経ず拒絶決定となることが多く、15日以内の拒絶査定不服審判が初回の本格的反論機会となる。",
+        "en": "Citation or distinctiveness objections often lead directly to refusal without an OA, making the 15-day refusal review the first substantive response opportunity.",
+        "zh": "引证或显著性问题通常不先发审查意见而直接驳回，十五日内的驳回复审往往是首次实质答辩机会。"
+      }
+    },
+    {
+      "title": {
+        "ja": "3年不使用取消と証拠チェーン",
+        "en": "Three-year non-use and evidence chain",
+        "zh": "连续三年不使用撤销与证据链"
+      },
+      "detail": {
+        "ja": "請求は誰でも可能で、権利者が使用を立証する。発票、契約、物流、広告、オンライン記録を対象期間・商品・主体に結び付けて保存する。",
+        "en": "Any person may request cancellation and the owner proves use. Preserve invoices, contracts, logistics, advertising and online records linked to period, goods and user.",
+        "zh": "任何人均可申请撤销，由权利人证明使用。应保存并串联发票、合同、物流、广告及网络记录，对应期间、商品和主体。"
+      }
+    },
+    {
+      "title": {
+        "ja": "中国語ブランドを先に確保",
+        "en": "Secure the Chinese-language brand early",
+        "zh": "尽早保护中文品牌"
+      },
+      "detail": {
+        "ja": "英字ブランドとは別に、公式中国語名・音訳・意訳・市場で生じ得る通称を検討し、第三者による先取りを防ぐ。",
+        "en": "Alongside the Latin-script brand, consider official Chinese, transliterations, translations and likely market nicknames to prevent third-party pre-emption.",
+        "zh": "除拉丁字母品牌外，还应考虑官方中文名、音译、意译及市场可能形成的俗称，防止第三方抢注。"
+      }
+    }
+  ],
+  "statistics": {
+    "coverage": "2016–2025",
+    "status": "pending",
+    "series": []
+  },
+  "news": [
+    {
+      "id": "draft-fifth-amendment-2023",
+      "type": "proposal",
+      "date": "2023-01-13",
+      "title": {
+        "ja": "商標法第5次改正草案の意見募集",
+        "en": "Consultation on draft fifth Trademark Law amendment",
+        "zh": "商标法第五次修改草案征求意见"
+      },
+      "summary": {
+        "ja": "悪意出願、使用義務、重複登録、損害賠償等を大幅に見直す草案。未成立の提案であり、現行法と混同しない。",
+        "en": "The draft proposed major changes on bad-faith filing, use obligations, duplicate registrations and damages. It is a proposal, not enacted law.",
+        "zh": "草案拟大幅调整恶意申请、使用义务、重复注册及赔偿等；其属于尚未生效的提案，不应与现行法混同。"
+      },
+      "sourceUrl": "https://www.cnipa.gov.cn/art/2023/1/13/art_75_181410.html"
+    },
+    {
+      "id": "accelerated-exam-measures-2022",
+      "type": "practice",
+      "date": "2022-02-14",
+      "title": {
+        "ja": "商標登録出願早期審査弁法",
+        "en": "Measures for accelerated trademark examination",
+        "zh": "商标注册申请快速审查办法"
+      },
+      "summary": {
+        "ja": "重点事業、重大災害・公衆衛生、重大な公益等の限定事情について迅速審査を制度化。通常案件での利用可否を個別確認する。",
+        "en": "Accelerated review was formalized for limited circumstances such as key projects, major disasters/public health and important public interests.",
+        "zh": "对重点项目、重大灾害或公共卫生事件及重大公共利益等有限情形建立快速审查制度；普通案件应个别确认。"
+      },
+      "sourceUrl": "https://www.cnipa.gov.cn/art/2022/2/14/art_74_173312.html"
+    },
+    {
+      "id": "nice-13-2026",
+      "type": "practice",
+      "date": "2026-01-01",
+      "title": {
+        "ja": "ニース国際分類第13版への対応",
+        "en": "Implementation of Nice Classification, 13th edition",
+        "zh": "适用尼斯分类第十三版"
+      },
+      "summary": {
+        "ja": "2026年新規出願では第13版と中国の類似商品・役務区分表、標準商品・役務名を合わせて確認する。",
+        "en": "For 2026 filings, check the 13th edition together with China’s subclass table and standardized terms.",
+        "zh": "2026年新申请应结合尼斯分类第十三版、中国类似商品和服务区分表及规范项目名称进行确认。"
+      },
+      "sourceUrl": "https://www.wipo.int/classifications/nice/en/"
+    }
+  ],
+  "faqs": [
+    {
+      "tag": "Chinese brand",
+      "question": {
+        "ja": "英字商標に加えて、どの中国語音訳・意訳・略称を出願すべきですか。",
+        "en": "Which Chinese transliteration, translation or abbreviation should be filed alongside the Latin-script mark?",
+        "zh": "除拉丁字母商标外，应申请哪些中文音译、意译或简称？"
+      },
+      "followUp": {
+        "ja": "市場で既に第三者の中国語通称が使用・出願されていませんか。",
+        "en": "Has a third party already used or filed a Chinese market nickname?",
+        "zh": "市场上是否已有第三方使用或申请中文俗称？"
+      }
+    },
+    {
+      "tag": "Classification",
+      "question": {
+        "ja": "対象商品・役務をどの類似群コードに配置し、どの群をクロスサーチすべきですか。",
+        "en": "Which subclass codes cover the goods/services, and which groups must be cross-searched?",
+        "zh": "相关商品服务应落入哪些类似群，并需交叉检索哪些群组？"
+      },
+      "followUp": {
+        "ja": "第35類で目的に最も近い受理可能な表示は何ですか。",
+        "en": "Which acceptable Class 35 terms best achieve the intended retail protection?",
+        "zh": "第35类中哪些可接受项目最接近预期的零售保护？"
+      }
+    },
+    {
+      "tag": "Refusal",
+      "question": {
+        "ja": "この拒絶は15日以内の拒絶査定不服審判が必要ですか。補正だけで対応できますか。",
+        "en": "Does this refusal require review within 15 days, or can it be handled by amendment alone?",
+        "zh": "该驳回是否必须在十五日内申请复审，还是可仅通过补正处理？"
+      },
+      "followUp": {
+        "ja": "引用商標に対して同意書、三年不使用取消、無効、譲渡交渉のどれが有効ですか。",
+        "en": "Against the cited mark, which is effective: consent, non-use cancellation, invalidation or assignment negotiations?",
+        "zh": "针对引证商标，同意书、撤三、无效宣告或转让谈判哪种方式更有效？"
+      }
+    },
+    {
+      "tag": "Bad faith",
+      "question": {
+        "ja": "冒認・大量悪意出願に対し、異議・無効で必要な関係性と悪意の証拠は何ですか。",
+        "en": "What relationship and bad-faith evidence is needed against pre-emptive or mass bad-faith filing?",
+        "zh": "针对抢注或批量恶意申请，异议或无效程序需要哪些关系及恶意证据？"
+      },
+      "followUp": {
+        "ja": "商号、著作権、代理人関係、一定の影響を有する先使用のどれを併用できますか。",
+        "en": "Can trade name, copyright, agent relationship and prior use with certain influence be combined?",
+        "zh": "能否结合商号权、著作权、代理关系及有一定影响的在先使用？"
+      }
+    },
+    {
+      "tag": "Non-use",
+      "question": {
+        "ja": "請求前3年間について、どの使用証拠の組合せが真正な商業使用として十分ですか。",
+        "en": "What combination of evidence sufficiently proves genuine commercial use during the relevant three years?",
+        "zh": "在请求前三年内，哪些使用证据组合足以证明真实商业使用？"
+      },
+      "followUp": {
+        "ja": "OEM輸出、オンライン販売、ライセンシー使用、少量使用はどのように評価されますか。",
+        "en": "How are OEM exports, online sales, licensee use and small-volume use assessed?",
+        "zh": "如何评价OEM出口、网络销售、被许可人使用及少量使用？"
+      }
+    },
+    {
+      "tag": "Enforcement",
+      "question": {
+        "ja": "民事訴訟、AMR行政摘発、税関、刑事告訴のどれを優先・併用すべきですか。",
+        "en": "Which should be prioritized or combined: civil litigation, AMR raid, customs or criminal complaint?",
+        "zh": "民事诉讼、市场监管行政查处、海关或刑事报案应如何优先或组合？"
+      },
+      "followUp": {
+        "ja": "懲罰的賠償、証拠保全、オンライン削除に必要な証拠と担保は何ですか。",
+        "en": "What evidence and security are needed for punitive damages, preservation and online takedown?",
+        "zh": "惩罚性赔偿、证据保全及网络下架需要哪些证据和担保？"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "CNIPA — Official Website",
+      "url": "https://www.cnipa.gov.cn/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "CNIPA — Trademark Online Search",
+      "url": "https://wcjs.sbj.cnipa.gov.cn/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "China Trademark Law — National Laws Database",
+      "url": "https://flk.npc.gov.cn/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO Lex — China Legislation Profile",
+      "url": "https://www.wipo.int/wipolex/en/legislation/profile/CN",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO Madrid Member Profile — China",
+      "url": "https://www.wipo.int/madrid/memberprofiles/#/result?countries=CN",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "CNIPA — Trademark Examination and Adjudication Guidelines",
+      "url": "https://sbj.cnipa.gov.cn/sbj/zcwj/202112/t20211203_336640.html",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "CNIPA — Draft Fifth Trademark Law Amendment",
+      "url": "https://www.cnipa.gov.cn/art/2023/1/13/art_75_181410.html",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "General Administration of Customs — IP Protection",
+      "url": "http://www.customs.gov.cn/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "China Judgments Online",
+      "url": "https://wenshu.court.gov.cn/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO Nice Classification",
+      "url": "https://www.wipo.int/classifications/nice/en/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    }
+  ]
+}
