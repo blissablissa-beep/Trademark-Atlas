@@ -1,0 +1,805 @@
+{
+  "id": "benelux",
+  "type": "regional",
+  "flag": "🇧🇪🇳🇱🇱🇺",
+  "region": "europe",
+  "names": {
+    "ja": "ベネルクス（ベルギー・オランダ・ルクセンブルク）",
+    "en": "Benelux (Belgium, Netherlands and Luxembourg)",
+    "nl": "Benelux (België, Nederland en Luxemburg)",
+    "fr": "Benelux (Belgique, Pays-Bas et Luxembourg)",
+    "de": "Benelux (Belgien, Niederlande und Luxemburg)"
+  },
+  "office": {
+    "ja": "ベネルクス知的財産庁（BOIP）",
+    "en": "Benelux Office for Intellectual Property (BOIP)",
+    "nl": "Benelux-Bureau voor de Intellectuele Eigendom (BOIP)",
+    "fr": "Office Benelux de la Propriété intellectuelle (OBPI)",
+    "de": "Benelux-Amt für geistiges Eigentum (BOIP)"
+  },
+  "availableLanguages": [
+    "nl",
+    "fr",
+    "de"
+  ],
+  "createdAt": "2026-09-13",
+  "updatedAt": "2026-09-13",
+  "status": "review",
+  "facts": {
+    "authority": {
+      "ja": "ベネルクス知的財産庁（BOIP）。ベネルクス商標はベルギー・オランダ・ルクセンブルクを一体として保護する。権利行使は各国の管轄裁判所・当局が担当する。",
+      "en": "Benelux Office for Intellectual Property (BOIP). A Benelux mark covers Belgium, the Netherlands and Luxembourg as one territory; enforcement is handled by the competent courts and authorities of each country.",
+      "nl": "Benelux-Bureau voor de Intellectuele Eigendom (BOIP). Een Benelux-merk geldt als eenheidsrecht in België, Nederland en Luxemburg; handhaving gebeurt door de bevoegde nationale rechters en autoriteiten.",
+      "fr": "Office Benelux de la Propriété intellectuelle (OBPI). La marque Benelux couvre unitairement la Belgique, les Pays-Bas et le Luxembourg; l’exécution relève des juridictions et autorités nationales compétentes.",
+      "de": "Benelux-Amt für geistiges Eigentum (BOIP). Die Benelux-Marke gilt einheitlich in Belgien, den Niederlanden und Luxemburg; die Durchsetzung obliegt den zuständigen nationalen Gerichten und Behörden."
+    },
+    "protectionScope": {
+      "ja": "商品・役務の個別商標、団体商標、証明商標、周知・名声商標。EU商標およびベネルクス指定の国際登録もベルギーで効力を有する。",
+      "en": "Individual marks for goods/services, collective and certification marks, and well-known/reputed marks. EUTMs and international registrations designating Benelux also cover Belgium.",
+      "nl": "Individuele waren- en dienstenmerken, collectieve en certificeringsmerken en bekende merken. Ook Uniemerken en internationale registraties met Benelux-aanwijzing gelden in België.",
+      "fr": "Marques individuelles de produits ou services, collectives et de certification, ainsi que marques notoirement connues ou renommées. Les MUE et enregistrements internationaux désignant le Benelux couvrent aussi la Belgique.",
+      "de": "Individualmarken für Waren und Dienstleistungen, Kollektiv- und Gewährleistungsmarken sowie bekannte Marken. Auch Unionsmarken und internationale Benelux-Benennungen gelten in Belgien."
+    },
+    "markTypes": {
+      "ja": "文字、図形、結合、立体、位置、模様、色彩、音、動き、マルチメディア、ホログラム等。明確かつ正確に表示できることが必要。",
+      "en": "Word, figurative, composite, 3D, position, pattern, color, sound, motion, multimedia and hologram marks, provided representation is clear and precise.",
+      "nl": "Woord-, beeld-, gecombineerde, vorm-, positie-, patroon-, kleur-, klank-, bewegings-, multimedia- en hologrammerken, mits duidelijk en nauwkeurig weergegeven.",
+      "fr": "Marques verbales, figuratives, combinées, 3D, de position, de motif, de couleur, sonores, de mouvement, multimédia et hologrammes, si la représentation est claire et précise.",
+      "de": "Wort-, Bild-, kombinierte, Form-, Positions-, Muster-, Farb-, Klang-, Bewegungs-, Multimedia- und Hologrammmarken bei klarer und eindeutiger Darstellung."
+    },
+    "madridAccessionDate": {
+      "ja": "ベルギーを単独指定せず「ベネルクス」を指定する。ベネルクスのマドリッド協定議定書の効力発生日は1998年4月1日。協定の日付もWIPOプロフィールで確認する。",
+      "en": "Designate “Benelux,” not Belgium separately. The Madrid Protocol entered into force for Benelux on 1 April 1998; confirm Agreement dates in WIPO’s profile.",
+      "nl": "Wijs “Benelux” aan, niet België afzonderlijk. Het Protocol van Madrid trad voor Benelux in werking op 1 april 1998; controleer de Akkoorddata bij de WIPO.",
+      "fr": "Il faut désigner le « Benelux », non la Belgique séparément. Le Protocole de Madrid est entré en vigueur pour le Benelux le 1er avril 1998; vérifier les dates de l’Arrangement auprès de l’OMPI.",
+      "de": "Benannt wird „Benelux“, nicht Belgien allein. Das Madrider Protokoll trat für Benelux am 1. April 1998 in Kraft; die Daten des Abkommens sind im WIPO-Profil zu prüfen."
+    },
+    "niceClassification": {
+      "ja": "採用。BOIPの商品・役務分類支援ツールおよびニース分類最新版を確認する。",
+      "en": "Adopted; consult the current Nice edition and BOIP classification tools.",
+      "nl": "Toegepast; raadpleeg de actuele Nice-editie en classificatietools van het BOIP.",
+      "fr": "Adoptée; consulter l’édition actuelle de Nice et les outils de classification de l’OBPI.",
+      "de": "Angewandt; aktuelle Nizza-Ausgabe und Klassifikationstools des BOIP prüfen."
+    },
+    "classHeadingPractice": {
+      "ja": "類見出しは文言の通常の意味の範囲に限られ、区分全体を当然には包含しない。明確・具体的に指定する。",
+      "en": "Class headings cover their ordinary literal meaning, not automatically the whole class; specify clearly and precisely.",
+      "nl": "Klassenhoofden dekken hun normale letterlijke betekenis en niet automatisch de hele klasse; specificeer duidelijk en nauwkeurig.",
+      "fr": "Les intitulés couvrent leur sens littéral normal, non automatiquement toute la classe; préciser clairement les produits et services.",
+      "de": "Klassenüberschriften erfassen ihre gewöhnliche wörtliche Bedeutung, nicht automatisch die gesamte Klasse; klar und genau angeben."
+    },
+    "retailServices": {
+      "ja": "第35類で可。小売・卸売の対象商品を具体的に記載する。",
+      "en": "Available in Class 35; specify the goods concerned by retail or wholesale services.",
+      "nl": "Mogelijk in klasse 35; vermeld de waren waarop detail- of groothandelsdiensten betrekking hebben.",
+      "fr": "Possible en classe 35; préciser les produits concernés par les services de vente au détail ou en gros.",
+      "de": "In Klasse 35 möglich; die von Einzel- oder Großhandelsdienstleistungen erfassten Waren genau angeben."
+    },
+    "multiClassApplication": {
+      "ja": "可。追加区分ごとに料金が発生する。分割、一部拒絶、更新時の区分管理を確認する。",
+      "en": "Available, with fees for additional classes; consider division, partial refusal and renewal management.",
+      "nl": "Mogelijk, met taksen voor extra klassen; houd rekening met splitsing, gedeeltelijke weigering en vernieuwing.",
+      "fr": "Possible, avec taxes pour les classes supplémentaires; gérer division, refus partiel et renouvellement.",
+      "de": "Möglich, mit Gebühren für weitere Klassen; Teilung, Teilzurückweisung und Verlängerung beachten."
+    },
+    "applicationForm": {
+      "ja": "BOIPへオンラインまたは所定様式で、出願人、標章、商品・役務、区分、優先権等を提出する。手続言語は原則オランダ語またはフランス語。",
+      "en": "File online or on the prescribed BOIP form with applicant, mark, goods/services, classes and priority. Procedural language is generally Dutch or French.",
+      "nl": "Dien online of op het BOIP-formulier gegevens over aanvrager, merk, waren/diensten, klassen en voorrang in. De proceduretaal is in beginsel Nederlands of Frans.",
+      "fr": "Déposer en ligne ou sur formulaire OBPI les données du demandeur, signe, produits/services, classes et priorité. La langue de procédure est en principe le néerlandais ou le français.",
+      "de": "Online oder auf BOIP-Formular mit Anmelder, Marke, Waren/Dienstleistungen, Klassen und Priorität einreichen. Verfahrenssprache ist grundsätzlich Niederländisch oder Französisch."
+    },
+    "powerOfAttorney": {
+      "ja": "代理人選任時も委任状提出を通常求めない運用があるが、BOIPから請求される場合、権限争い、譲渡等は確認する。域外出願人の代理要件も最新規則を確認する。",
+      "en": "A filed power is often not routinely required, but verify if BOIP requests it, authority is disputed, or for assignments; check representation rules for non-EEA applicants.",
+      "nl": "Een volmacht hoeft vaak niet standaard te worden ingediend, maar controleer dit bij verzoek van het BOIP, bevoegdheidsbetwisting of overdracht en voor niet-EER-aanvragers.",
+      "fr": "Le dépôt d’un pouvoir n’est souvent pas exigé d’office, mais vérifier en cas de demande de l’OBPI, contestation ou cession, et pour les demandeurs hors EEE.",
+      "de": "Eine Vollmacht muss häufig nicht routinemäßig eingereicht werden; bei BOIP-Anforderung, Vollmachtsstreit, Übertragung und Nicht-EWR-Anmeldern prüfen."
+    },
+    "priorityDocuments": {
+      "ja": "パリ優先権は最初の出願から6か月以内。出願時に主張し、BOIPが求める証明書・翻訳の期限を確認する。",
+      "en": "Paris priority must be claimed within six months and declared at filing; verify deadlines for any certificate or translation requested by BOIP.",
+      "nl": "Parijse prioriteit moet binnen zes maanden bij indiening worden ingeroepen; controleer termijnen voor bewijsstuk of vertaling die het BOIP verlangt.",
+      "fr": "La priorité de Paris doit être revendiquée dans les six mois lors du dépôt; vérifier les délais des justificatifs ou traductions requis par l’OBPI.",
+      "de": "Pariser Priorität innerhalb von sechs Monaten bei Anmeldung beanspruchen; Fristen für BOIP-Nachweise oder Übersetzungen prüfen."
+    },
+    "homeRegistrationCertificate": {
+      "ja": "通常の直接出願には不要。パリ条約第6条の5等を援用する場合は別途確認する。",
+      "en": "Not normally required for a direct filing; confirm separately if Paris Convention Article 6quinquies is invoked.",
+      "nl": "Normaal niet vereist bij een rechtstreekse aanvraag; afzonderlijk controleren bij beroep op artikel 6quinquies van het Verdrag van Parijs.",
+      "fr": "Normalement non requis pour un dépôt direct; vérifier séparément en cas d’invocation de l’article 6quinquies de la Convention de Paris.",
+      "de": "Bei Direktanmeldung normalerweise nicht erforderlich; bei Berufung auf Art. 6quinquies PVÜ gesondert prüfen."
+    },
+    "useEvidenceAtFiling": {
+      "ja": "通常不要。使用による識別力、周知・名声、先使用等を主張する場合はベネルクスでの証拠が必要。",
+      "en": "Not normally required; Benelux evidence is needed for acquired distinctiveness, reputation or prior-use claims.",
+      "nl": "Normaal niet vereist; voor ingeburgerd onderscheidend vermogen, bekendheid of ouder gebruik is bewijs in Benelux nodig.",
+      "fr": "Normalement non requis; des preuves au Benelux sont nécessaires pour caractère distinctif acquis, renommée ou usage antérieur.",
+      "de": "Normalerweise nicht erforderlich; für Verkehrsdurchsetzung, Bekanntheit oder Vorbenutzung sind Benelux-Nachweise nötig."
+    },
+    "notarizationCertification": {
+      "ja": "通常の委任状は公証・アポスティーユ不要。譲渡、法人変更、外国公文書等は個別確認する。",
+      "en": "An ordinary power generally requires no notarization or apostille; verify assignments, corporate changes and foreign public documents separately.",
+      "nl": "Een gewone volmacht vereist doorgaans geen notaris of apostille; overdrachten, vennootschapswijzigingen en buitenlandse akten apart controleren.",
+      "fr": "Un pouvoir ordinaire ne requiert généralement ni notarisation ni apostille; vérifier séparément cessions, changements sociétaires et actes étrangers.",
+      "de": "Eine übliche Vollmacht benötigt grundsätzlich keine Beglaubigung oder Apostille; Übertragungen, Gesellschaftsänderungen und ausländische Urkunden gesondert prüfen."
+    },
+    "otherDocuments": {
+      "ja": "商標表示、優先権証明、団体・証明商標規則、非伝統的商標ファイル、使用による識別力・名声の証拠等。",
+      "en": "Representation, priority document, collective/certification regulations, non-traditional mark files and acquired-distinctiveness or reputation evidence.",
+      "nl": "Merkweergave, voorrangsbewijs, reglementen voor collectieve of certificeringsmerken, bestanden voor niet-traditionele merken en bewijs van inburgering of bekendheid.",
+      "fr": "Représentation, priorité, règlements des marques collectives ou de certification, fichiers de marques non traditionnelles et preuves de distinctivité acquise ou renommée.",
+      "de": "Markendarstellung, Prioritätsbeleg, Kollektiv-/Gewährleistungsmarkensatzung, Dateien nichttraditioneller Marken und Nachweise zur Verkehrsdurchsetzung oder Bekanntheit."
+    },
+    "absoluteGroundsExamination": {
+      "ja": "あり。BOIPが職権審査する。",
+      "en": "Yes; examined ex officio by BOIP.",
+      "nl": "Ja; ambtshalve onderzocht door het BOIP.",
+      "fr": "Oui; examinés d’office par l’OBPI.",
+      "de": "Ja; von Amts wegen durch das BOIP geprüft."
+    },
+    "distinctivenessGrounds": {
+      "ja": "識別力欠如、普通名称、記述的・慣用的表示、単純な色彩・形状等。使用による識別力をベネルクスの相当部分で立証できる場合がある。",
+      "en": "Non-distinctive, generic, descriptive or customary signs and simple colors/shapes may be refused; acquired distinctiveness may be proven in a substantial Benelux part.",
+      "nl": "Niet-onderscheidende, generieke, beschrijvende of gebruikelijke tekens en eenvoudige kleuren/vormen kunnen worden geweigerd; inburgering kan in een aanzienlijk Benelux-deel worden bewezen.",
+      "fr": "Les signes non distinctifs, génériques, descriptifs ou usuels et couleurs/formes simples peuvent être refusés; la distinctivité acquise peut être prouvée dans une partie substantielle du Benelux.",
+      "de": "Nicht unterscheidungskräftige, generische, beschreibende oder übliche Zeichen sowie einfache Farben/Formen können zurückgewiesen werden; Verkehrsdurchsetzung ist in einem wesentlichen Benelux-Teil nachzuweisen."
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "公序良俗、欺瞞性、公的紋章・旗章、機能的・本質的形状、地理的表示、伝統的用語、植物品種名称、悪意等を確認する。",
+      "en": "Check public order/morality, deception, official emblems/flags, functional/inherent shapes, GIs, traditional terms, plant varieties and bad faith.",
+      "nl": "Controleer openbare orde/goede zeden, misleiding, officiële emblemen/vlaggen, functionele of wezenlijke vormen, GI’s, traditionele termen, plantenrassen en kwade trouw.",
+      "fr": "Vérifier ordre public/bonnes mœurs, tromperie, emblèmes/drapeaux officiels, formes fonctionnelles ou essentielles, IG, mentions traditionnelles, variétés végétales et mauvaise foi.",
+      "de": "Öffentliche Ordnung/gute Sitten, Täuschung, Hoheitszeichen, funktionale/wesensbedingte Formen, geografische Angaben, traditionelle Begriffe, Sortenbezeichnungen und Bösgläubigkeit prüfen."
+    },
+    "relativeGroundsExamination": {
+      "ja": "原則として先行権利との抵触をBOIPが職権では審査せず、権利者の異議・取消・無効請求に委ねる。先行ベネルクス商標、EU商標、国際登録等を出願前に調査する。",
+      "en": "BOIP generally does not examine earlier-right conflicts ex officio; owners must oppose or seek cancellation/invalidity. Search Benelux marks, EUTMs and international registrations before filing.",
+      "nl": "Het BOIP onderzoekt oudere rechten in beginsel niet ambtshalve; houders moeten oppositie of nietigheid instellen. Zoek vooraf Benelux-merken, Uniemerken en internationale registraties.",
+      "fr": "L’OBPI n’examine en principe pas d’office les droits antérieurs; leurs titulaires doivent former opposition ou demander l’annulation. Rechercher marques Benelux, MUE et enregistrements internationaux.",
+      "de": "Das BOIP prüft ältere Rechte grundsätzlich nicht von Amts wegen; Inhaber müssen Widerspruch oder Löschung beantragen. Benelux-Marken, Unionsmarken und internationale Registrierungen vorab recherchieren."
+    },
+    "disclaimer": {
+      "ja": "一般的な任意ディスクレーム制度は通常利用しない。非識別部分は単独で独占できず、標章全体の識別力・保護範囲を評価する。",
+      "en": "A general elective disclaimer is not ordinarily used; non-distinctive elements are not monopolized alone, and the mark is assessed as a whole.",
+      "nl": "Een algemeen vrijwillig disclaimerstelsel wordt gewoonlijk niet gebruikt; niet-onderscheidende elementen worden niet afzonderlijk gemonopoliseerd en het merk wordt als geheel beoordeeld.",
+      "fr": "Un système général de disclaimer volontaire n’est pas normalement utilisé; les éléments non distinctifs ne sont pas monopolisés isolément et la marque est appréciée globalement.",
+      "de": "Ein allgemeines freiwilliges Disclaimer-System wird üblicherweise nicht genutzt; nicht unterscheidungskräftige Bestandteile werden nicht isoliert monopolisiert, die Marke wird insgesamt beurteilt."
+    },
+    "consent": {
+      "ja": "相対的拒絶を職権審査しないため、同意・共存契約は主に異議・紛争解決で機能する。絶対的拒絶理由や第三者を当然には拘束しない。",
+      "en": "Because relative grounds are not generally examined ex officio, consent/coexistence mainly resolves opposition or disputes; it does not cure absolute grounds or bind third parties.",
+      "nl": "Omdat relatieve gronden niet ambtshalve worden onderzocht, dient toestemming/co-existentie vooral voor oppositie of geschillen; absolute gronden en derden blijven onaangetast.",
+      "fr": "Les motifs relatifs n’étant pas examinés d’office, consentement/coexistence servent surtout à régler opposition ou litige; ils ne remédient pas aux motifs absolus ni ne lient les tiers.",
+      "de": "Da relative Gründe nicht von Amts wegen geprüft werden, dienen Zustimmung/Koexistenz vor allem der Streitbeilegung; absolute Gründe und Dritte werden nicht gebunden."
+    },
+    "acceleratedExamination": {
+      "ja": "迅速登録制度あり。短期間で登録簿へ記載され得るが、絶対的拒絶審査・異議の結果に服し、後に取消され得る点に注意する。",
+      "en": "Accelerated registration is available, but the entry remains subject to absolute-ground examination and opposition and may later be cancelled.",
+      "nl": "Versnelde inschrijving is mogelijk, maar blijft onderworpen aan toetsing van absolute gronden en oppositie en kan later worden doorgehaald.",
+      "fr": "L’enregistrement accéléré est possible, mais reste soumis à l’examen des motifs absolus et à l’opposition et peut ensuite être radié.",
+      "de": "Beschleunigte Eintragung ist möglich, bleibt jedoch der Prüfung absoluter Gründe und Widersprüchen unterworfen und kann später gelöscht werden."
+    },
+    "thirdPartyObservation": {
+      "ja": "公告後2か月以内の正式異議が中心。絶対的拒絶理由に関する第三者意見の提出可否・形式はBOIP最新実務を確認する。",
+      "en": "Formal opposition within two months is the main route; verify current BOIP practice for observations on absolute grounds.",
+      "nl": "Formele oppositie binnen twee maanden is de hoofdroute; controleer de actuele BOIP-praktijk voor opmerkingen over absolute gronden.",
+      "fr": "L’opposition formelle dans les deux mois est la voie principale; vérifier la pratique actuelle de l’OBPI pour observations sur motifs absolus.",
+      "de": "Der formelle Widerspruch innerhalb von zwei Monaten ist der Hauptweg; aktuelle BOIP-Praxis zu Hinweisen auf absolute Gründe prüfen."
+    },
+    "directExaminationPeriod": {
+      "ja": "通常ルートは異議がなければ概ね3～6か月程度となることがある。迅速登録は数日程度で形式上登録され得るが、審査・異議完了とは異なる。",
+      "en": "The ordinary route may take roughly three to six months if unopposed. Accelerated entry may occur within days but does not mean examination/opposition is complete.",
+      "nl": "De gewone route duurt zonder oppositie mogelijk circa drie tot zes maanden. Versnelde inschrijving kan binnen dagen, maar onderzoek en oppositie zijn dan niet afgerond.",
+      "fr": "La voie ordinaire peut durer environ trois à six mois sans opposition. L’inscription accélérée peut intervenir en quelques jours sans achever examen et opposition.",
+      "de": "Das normale Verfahren kann ohne Widerspruch etwa drei bis sechs Monate dauern. Die beschleunigte Eintragung kann innerhalb weniger Tage erfolgen, ohne Prüfung und Widerspruch abzuschließen."
+    },
+    "madridExaminationPeriod": {
+      "ja": "BOIPは国際事務局の通報日から原則18か月以内に暫定拒絶を通報する。ベネルクス指定の最終保護認容期間は案件により異なる。",
+      "en": "BOIP generally must notify provisional refusal within 18 months from WIPO notification; final protection timing for a Benelux designation varies.",
+      "nl": "Het BOIP meldt een voorlopige weigering in beginsel binnen 18 maanden na WIPO-kennisgeving; definitieve bescherming varieert per zaak.",
+      "fr": "L’OBPI notifie en principe un refus provisoire dans les 18 mois de la notification OMPI; le délai de protection définitive varie.",
+      "de": "Das BOIP teilt eine vorläufige Schutzverweigerung grundsätzlich innerhalb von 18 Monaten nach WIPO-Mitteilung mit; der endgültige Schutz variiert."
+    },
+    "colourPriorityIdentity": {
+      "ja": "EUIPN共通実務上、白黒商標とカラー商標は色彩差が軽微でない限り、優先権上同一と扱われない可能性がある。",
+      "en": "Under EUIPN convergence practice, black-and-white and color marks may not be identical for priority unless color differences are insignificant.",
+      "nl": "Volgens de EUIPN-praktijk zijn zwart-wit- en kleurmerken voor voorrang mogelijk niet identiek, tenzij kleurverschillen onbeduidend zijn.",
+      "fr": "Selon la pratique EUIPN, marques noir et blanc et en couleurs peuvent ne pas être identiques pour la priorité, sauf différences insignifiantes.",
+      "de": "Nach EUIPN-Praxis sind Schwarz-Weiß- und Farbmarken für die Priorität möglicherweise nicht identisch, außer bei unbedeutenden Farbunterschieden."
+    },
+    "colourRelativeGrounds": {
+      "ja": "外観・称呼・観念、色彩の識別力、支配的要素を総合比較する。白黒登録が当然に全配色を包含するとは限らない。",
+      "en": "Compare visual, aural and conceptual impressions, color distinctiveness and dominant elements; black-and-white registration does not automatically cover all colors.",
+      "nl": "Vergelijk visuele, auditieve en begripsmatige indruk, onderscheidend vermogen van kleur en dominante elementen; zwart-wit dekt niet automatisch alle kleuren.",
+      "fr": "Comparer impressions visuelle, phonétique et conceptuelle, caractère distinctif des couleurs et éléments dominants; le noir et blanc ne couvre pas automatiquement toutes les couleurs.",
+      "de": "Bild-, Klang- und Bedeutungsähnlichkeit, Farbkennzeichnungskraft und dominierende Bestandteile vergleichen; Schwarz-Weiß erfasst nicht automatisch alle Farben."
+    },
+    "colourGenuineUse": {
+      "ja": "文字・図形が一致し、色彩自体が主要な識別要素でなく、コントラスト・配置が維持される等の場合、色違い使用が識別性を変更しないことがある。",
+      "en": "Color variation may preserve distinctive character where verbal/figurative elements coincide, color is not independently distinctive/dominant and contrast/arrangement is maintained.",
+      "nl": "Een kleurvariant kan het onderscheidend vermogen behouden als woord/beeld overeenstemmen, kleur niet zelfstandig onderscheidend of dominant is en contrast/schikking behouden blijven.",
+      "fr": "Une variation de couleur peut préserver le caractère distinctif si les éléments verbaux/figuratifs coïncident, la couleur n’est pas distinctive ou dominante et contraste/agencement sont maintenus.",
+      "de": "Eine Farbabweichung kann die Kennzeichnungskraft erhalten, wenn Wort/Bild übereinstimmen, Farbe nicht selbständig prägend ist und Kontrast/Anordnung erhalten bleiben."
+    },
+    "colourInfringementScope": {
+      "ja": "登録表示、色彩の役割、標章全体、商品・役務、関連公衆、混同のおそれを総合評価する。",
+      "en": "Assess the registration, role of color, signs as a whole, goods/services, relevant public and likelihood of confusion.",
+      "nl": "Beoordeel inschrijving, rol van kleur, tekens als geheel, waren/diensten, relevante publiek en verwarringsgevaar.",
+      "fr": "Évaluer l’enregistrement, rôle de la couleur, signes globalement, produits/services, public pertinent et risque de confusion.",
+      "de": "Eintragung, Rolle der Farbe, Gesamtzeichen, Waren/Dienstleistungen, Verkehrskreise und Verwechslungsgefahr bewerten."
+    },
+    "colourFilingStrategy": {
+      "ja": "ブランド色が重要ならカラー版を、柔軟性が必要なら白黒版と主要配色を別出願する。ベネルクス商標とEU商標も目的別に選択する。",
+      "en": "If brand color matters, file in color; for flexibility consider separate black-and-white and key-color filings and choose Benelux/EUTM routes strategically.",
+      "nl": "Is merkkleur belangrijk, deponeer in kleur; overweeg voor flexibiliteit afzonderlijke zwart-wit- en kleurdepots en kies strategisch Benelux of EU.",
+      "fr": "Si la couleur est importante, déposer en couleurs; pour flexibilité, envisager dépôts noir et blanc et couleurs et choisir stratégiquement Benelux ou UE.",
+      "de": "Ist die Markenfarbe wichtig, farbig anmelden; für Flexibilität getrennte Schwarz-Weiß- und Farbversionen sowie Benelux-/EU-Weg strategisch wählen."
+    },
+    "refusalResponseRoute": {
+      "ja": "BOIPの暫定拒絶に意見書、補正、指定限定、使用による識別力証拠等で応答する。最終拒絶はベネルクス司法裁判所第二部へ不服申立てを検討する。",
+      "en": "Respond to BOIP provisional refusal with arguments, amendment, limitation or acquired-distinctiveness evidence. Appeal final refusal to the Second Chamber of the Benelux Court of Justice.",
+      "nl": "Reageer op voorlopige weigering met argumenten, wijziging, beperking of inburgeringsbewijs. Beroep tegen definitieve weigering gaat naar de Tweede Kamer van het Benelux-Gerechtshof.",
+      "fr": "Répondre au refus provisoire par arguments, modification, limitation ou preuves de distinctivité acquise. Recours contre le refus définitif devant la deuxième chambre de la Cour de justice Benelux.",
+      "de": "Auf vorläufige Zurückweisung mit Argumenten, Änderung, Beschränkung oder Verkehrsdurchsetzungsnachweis reagieren. Beschwerde zur Zweiten Kammer des Benelux-Gerichtshofs."
+    },
+    "responsePeriod": {
+      "ja": "通知記載期限が支配する。暫定拒絶への応答は通常1～3か月程度となり得るため、送達直後に確認する。",
+      "en": "The deadline in the notice controls; a provisional-refusal response may be due in roughly one to three months, so verify immediately.",
+      "nl": "De termijn in de kennisgeving geldt; reactie op voorlopige weigering kan binnen ongeveer één tot drie maanden nodig zijn, dus direct controleren.",
+      "fr": "Le délai de la notification prévaut; la réponse au refus provisoire peut être due dans un à trois mois, à vérifier immédiatement.",
+      "de": "Die Frist im Bescheid gilt; die Antwort auf eine vorläufige Zurückweisung kann innerhalb von etwa ein bis drei Monaten fällig sein und ist sofort zu prüfen."
+    },
+    "extensionAvailable": {
+      "ja": "手続により可能。期限前申請、料金、相手方同意の要否を確認する。",
+      "en": "Available for certain procedures; verify pre-expiry request, fee and whether the other party’s consent is needed.",
+      "nl": "Voor bepaalde procedures mogelijk; controleer tijdig verzoek, taks en eventuele toestemming van de wederpartij.",
+      "fr": "Possible pour certaines procédures; vérifier demande avant échéance, taxe et éventuel accord adverse.",
+      "de": "Bei bestimmten Verfahren möglich; rechtzeitigen Antrag, Gebühr und etwaige Zustimmung der Gegenseite prüfen."
+    },
+    "extensionLength": {
+      "ja": "手続により1～2か月または共同クーリングオフ等があり得る。通知・規則ごとに確認する。",
+      "en": "One- or two-month extensions or a joint cooling-off period may apply depending on procedure; verify the notice and rules.",
+      "nl": "Afhankelijk van de procedure kan één/twee maanden verlenging of gezamenlijke cooling-off gelden; controleer kennisgeving en regels.",
+      "fr": "Selon la procédure, prolongation d’un ou deux mois ou délai de cooling-off conjoint; vérifier notification et règles.",
+      "de": "Je nach Verfahren ein oder zwei Monate Verlängerung oder gemeinsame Cooling-off-Phase; Bescheid und Regeln prüfen."
+    },
+    "extensionRequirements": {
+      "ja": "期限前の申請・料金、異議手続では共同申請等が必要となる場合がある。法定不服期限は別途厳格管理する。",
+      "en": "A timely request and fee, and sometimes a joint request in opposition, may be required; docket statutory appeal periods separately.",
+      "nl": "Tijdig verzoek en taks, soms gezamenlijk verzoek in oppositie, kunnen nodig zijn; wettelijke beroepstermijnen apart bewaken.",
+      "fr": "Demande dans le délai et taxe, parfois demande conjointe en opposition; gérer séparément les délais légaux de recours.",
+      "de": "Rechtzeitiger Antrag und Gebühr, teils gemeinsamer Antrag im Widerspruch; gesetzliche Rechtsmittelfristen getrennt überwachen."
+    },
+    "appealRoute": {
+      "ja": "BOIPの拒絶・異議等の最終決定について、ベネルクス司法裁判所第二部へ直接不服申立て。その判決に対する上級審の可否を確認する。",
+      "en": "Final BOIP refusal/opposition decisions are appealed directly to the Second Chamber of the Benelux Court of Justice; verify further review.",
+      "nl": "Tegen definitieve BOIP-beslissingen over weigering of oppositie staat rechtstreeks beroep open bij de Tweede Kamer van het Benelux-Gerechtshof; controleer verder beroep.",
+      "fr": "Les décisions finales de refus ou opposition de l’OBPI font l’objet d’un recours direct devant la deuxième chambre de la Cour de justice Benelux; vérifier le recours ultérieur.",
+      "de": "Gegen endgültige BOIP-Entscheidungen zu Zurückweisung oder Widerspruch direkt zur Zweiten Kammer des Benelux-Gerichtshofs; weitere Überprüfung prüfen."
+    },
+    "refusalAppealPeriod": {
+      "ja": "最終決定から原則2か月以内が重要。決定送達・公表と当事者居所による起算点を確認する。",
+      "en": "A two-month period from the final decision is generally critical; verify the trigger based on service/publication and domicile.",
+      "nl": "In beginsel is twee maanden na de eindbeslissing beslissend; controleer aanvang op basis van betekening/publicatie en woonplaats.",
+      "fr": "Un délai de deux mois après décision finale est en principe essentiel; vérifier le point de départ selon notification/publication et domicile.",
+      "de": "Grundsätzlich sind zwei Monate ab Endentscheidung maßgeblich; Fristbeginn nach Zustellung/Veröffentlichung und Sitz prüfen."
+    },
+    "publicDatabase": {
+      "ja": "BOIP商標登録簿",
+      "en": "BOIP Trademarks Register",
+      "nl": "BOIP Merkenregister",
+      "fr": "Registre des marques de l’OBPI",
+      "de": "BOIP Markenregister",
+      "url": "https://www.boip.int/en/trademarks-register"
+    },
+    "publicationStage": {
+      "ja": "方式・絶対的理由の審査後、出願が公告され、2か月の異議期間に入る。迅速登録では登録と審査・異議の順序が通常と異なる点に注意する。",
+      "en": "After formality/absolute-ground review, the application is published for a two-month opposition period. Accelerated registration changes the sequence and remains provisional in effect.",
+      "nl": "Na formeel en absoluut onderzoek wordt de aanvraag gepubliceerd voor twee maanden oppositie. Bij versnelde inschrijving is de volgorde anders en blijft de inschrijving kwetsbaar.",
+      "fr": "Après examen formel et absolu, la demande est publiée pour deux mois d’opposition. L’enregistrement accéléré modifie la séquence et demeure vulnérable.",
+      "de": "Nach Form- und Schutzhindernisprüfung Veröffentlichung für zwei Monate Widerspruch. Bei beschleunigter Eintragung ist die Reihenfolge anders und die Eintragung angreifbar."
+    },
+    "oppositionPeriod": {
+      "ja": "出願公告から2か月以内。先行ベネルクス商標、EU商標、国際登録、周知商標等に基づく。",
+      "en": "Within two months from publication, based on earlier Benelux marks, EUTMs, international registrations, well-known marks and other eligible rights.",
+      "nl": "Binnen twee maanden na publicatie, op basis van oudere Benelux-merken, Uniemerken, internationale registraties, bekende merken en andere toegelaten rechten.",
+      "fr": "Dans les deux mois de la publication, sur la base de marques Benelux, MUE, enregistrements internationaux, marques notoirement connues et autres droits recevables.",
+      "de": "Innerhalb von zwei Monaten ab Veröffentlichung, gestützt auf ältere Benelux- oder Unionsmarken, internationale Registrierungen, bekannte Marken und sonstige zulässige Rechte."
+    },
+    "oppositionExtension": {
+      "ja": "申立期限自体は原則延長不可。異議開始後は当事者共同のクーリングオフ期間および延長制度を確認する。",
+      "en": "The filing period is generally non-extendible; after commencement, check joint cooling-off and extension mechanisms.",
+      "nl": "De indieningstermijn is in beginsel niet verlengbaar; na aanvang bestaan mogelijk gezamenlijke cooling-off- en verlengingsregelingen.",
+      "fr": "Le délai de dépôt est en principe non prorogeable; après ouverture, vérifier cooling-off conjoint et prolongations.",
+      "de": "Die Einlegungsfrist ist grundsätzlich nicht verlängerbar; danach gemeinsame Cooling-off- und Verlängerungsmöglichkeiten prüfen."
+    },
+    "averagePendency": {
+      "ja": "異議なしの通常出願で概ね3～6か月。異議・拒絶があると長期化。迅速登録の数日という速度と最終的安定性を区別する。",
+      "en": "Roughly three to six months for an ordinary unopposed filing; opposition/refusal takes longer. Distinguish rapid entry within days from final stability.",
+      "nl": "Circa drie tot zes maanden zonder oppositie; met oppositie/weigering langer. Onderscheid inschrijving binnen dagen van definitieve rechtszekerheid.",
+      "fr": "Environ trois à six mois sans opposition; plus long avec opposition/refus. Distinguer inscription en quelques jours et stabilité définitive.",
+      "de": "Etwa drei bis sechs Monate ohne Widerspruch; bei Widerspruch oder Zurückweisung länger. Die Eintragung innerhalb weniger Tage ist von der endgültigen Bestandskraft zu unterscheiden."
+    },
+    "term": {
+      "ja": "出願日から10年。10年ごとにベネルクス全域について更新可能。",
+      "en": "10 years from the filing date, renewable for successive ten-year periods for the whole Benelux.",
+      "nl": "10 jaar vanaf de indieningsdatum, telkens met 10 jaar verlengbaar voor heel Benelux.",
+      "fr": "10 ans à compter de la date de dépôt, renouvelables par périodes de 10 ans pour tout le Benelux.",
+      "de": "10 Jahre ab Anmeldetag, jeweils um 10 Jahre für das gesamte Benelux verlängerbar."
+    },
+    "termStart": {
+      "ja": "出願日から。",
+      "en": "From the filing date.",
+      "nl": "Vanaf de indieningsdatum.",
+      "fr": "À compter de la date de dépôt.",
+      "de": "Ab dem Anmeldetag."
+    },
+    "renewalWindow": {
+      "ja": "満了前6か月以内に更新申請可能。",
+      "en": "Renewal may be filed within six months before expiry.",
+      "nl": "Vernieuwing kan binnen zes maanden voor vervaldatum worden aangevraagd.",
+      "fr": "Le renouvellement peut être demandé dans les six mois précédant l’expiration.",
+      "de": "Die Verlängerung kann innerhalb von sechs Monaten vor Ablauf beantragt werden."
+    },
+    "gracePeriod": {
+      "ja": "あり。満了後6か月以内は追加料金を伴う遅延更新が可能。",
+      "en": "Yes; late renewal is available within six months after expiry with a surcharge.",
+      "nl": "Ja; vernieuwing is binnen zes maanden na verval mogelijk tegen toeslag.",
+      "fr": "Oui; renouvellement tardif possible dans les six mois après expiration avec surtaxe.",
+      "de": "Ja; Nachfrist von sechs Monaten nach Ablauf gegen Zuschlag."
+    },
+    "renewalEvidence": {
+      "ja": "更新時の使用証拠は通常不要。ただし5年不使用取消に備え、ベネルクス域内の真正使用証拠を保存する。",
+      "en": "No use evidence is normally required at renewal; preserve genuine-use evidence in Benelux against five-year non-use cancellation.",
+      "nl": "Bij vernieuwing is normaal geen gebruiksbewijs nodig; bewaar bewijs van normaal gebruik in Benelux tegen vervallenverklaring na vijf jaar.",
+      "fr": "Aucune preuve d’usage n’est normalement requise au renouvellement; conserver les preuves d’usage sérieux au Benelux contre déchéance après cinq ans.",
+      "de": "Bei Verlängerung normalerweise kein Benutzungsnachweis; ernsthafte Benutzung im Benelux für Verfallsverfahren nach fünf Jahren dokumentieren."
+    },
+    "nonUseCancellation": {
+      "ja": "あり。継続5年間の真正使用欠如についてBOIPへの行政取消または裁判上の反訴等が可能。",
+      "en": "Available for five continuous years without genuine use through BOIP administrative proceedings or court counterclaim as applicable.",
+      "nl": "Mogelijk na vijf opeenvolgende jaren zonder normaal gebruik via BOIP-procedure of reconventionele vordering.",
+      "fr": "Possible après cinq années consécutives sans usage sérieux par procédure OBPI ou demande reconventionnelle.",
+      "de": "Bei fünfjähriger Nichtbenutzung durch BOIP-Verfahren oder gerichtliche Widerklage möglich."
+    },
+    "nonUsePeriod": {
+      "ja": "登録後、正当理由なく継続5年間ベネルクス域内で真正使用されていない場合。使用開始後の5年中断も対象。",
+      "en": "Five continuous years without genuine use in Benelux after registration, absent proper reasons; a five-year interruption also counts.",
+      "nl": "Vijf opeenvolgende jaren zonder normaal gebruik in Benelux na inschrijving, zonder geldige reden; ook onderbreking van vijf jaar telt.",
+      "fr": "Cinq années consécutives sans usage sérieux au Benelux après enregistrement, sans juste motif; une interruption de cinq ans compte aussi.",
+      "de": "Fünf Jahre ohne ernsthafte Benutzung im Benelux nach Eintragung, ohne berechtigten Grund; auch fünfjährige Unterbrechung zählt."
+    },
+    "nonUseDefenses": {
+      "ja": "権利者が対象期間・商品役務についてベネルクス域内の真正使用または正当理由を立証する。一国のみの使用が十分かは市場・領域規模を個別評価する。",
+      "en": "The owner proves genuine use in Benelux or proper reasons for the relevant period/goods. Whether use in one country suffices depends on the market and territorial context.",
+      "nl": "De houder bewijst normaal gebruik in Benelux of geldige redenen. Of gebruik in één land volstaat, hangt af van markt en territoriale context.",
+      "fr": "Le titulaire prouve l’usage sérieux au Benelux ou juste motif. La suffisance d’un usage dans un seul pays dépend du marché et du contexte territorial.",
+      "de": "Der Inhaber weist ernsthafte Benutzung im Benelux oder berechtigte Gründe nach. Ob Benutzung in nur einem Land genügt, hängt von Markt und Gebiet ab."
+    },
+    "otherCancellation": {
+      "ja": "普通名称化、誤認を生じさせる使用、団体・証明商標の管理違反、更新欠缺等による取消・失効があり得る。",
+      "en": "Revocation/lapse may result from genericide, misleading use, collective/certification failures or non-renewal.",
+      "nl": "Vervallenverklaring kan volgen uit verwording tot soortnaam, misleidend gebruik, tekortkomingen bij collectieve/certificeringsmerken of niet-vernieuwing.",
+      "fr": "Déchéance possible pour dégénérescence, usage trompeur, manquements des marques collectives/de certification ou non-renouvellement.",
+      "de": "Verfall kann aus Gattungsbezeichnung, irreführender Benutzung, Mängeln bei Kollektiv-/Gewährleistungsmarken oder Nichtverlängerung folgen."
+    },
+    "invalidation": {
+      "ja": "あり。絶対的・相対的理由、悪意、先行権利等に基づきBOIPまたは裁判所で請求可能。5年黙認等の制限を確認する。",
+      "en": "Available before BOIP or courts on absolute/relative grounds, bad faith and earlier rights; check five-year acquiescence and other limits.",
+      "nl": "Nietigheid kan bij BOIP of rechter worden gevorderd op absolute/relatieve gronden, kwade trouw en oudere rechten; controleer vijfjarige rechtsverwerking.",
+      "fr": "Nullité devant l’OBPI ou les tribunaux pour motifs absolus/relatifs, mauvaise foi et droits antérieurs; vérifier forclusion par tolérance de cinq ans.",
+      "de": "Nichtigkeit vor BOIP oder Gerichten wegen absoluter/relativer Gründe, Bösgläubigkeit und älterer Rechte; fünfjährige Verwirkung prüfen."
+    },
+    "civilInjunction": {
+      "ja": "三国それぞれの管轄裁判所で暫定的・終局的差止めを請求可能。侵害地・被告所在地、EU商標との併合、越境的差止めの範囲、緊急性・比例性を確認する。",
+      "en": "Interim and final injunctions may be sought in the competent courts of each country. Check infringement/defendant venue, EUTM joinder, cross-border scope, urgency and proportionality.",
+      "nl": "Voorlopige en definitieve verboden zijn mogelijk bij de bevoegde rechter van elk land. Controleer bevoegdheid, samenloop met Uniemerken, grensoverschrijdende werking, spoed en evenredigheid.",
+      "fr": "Des mesures provisoires et injonctions définitives sont possibles devant les juridictions compétentes de chaque pays. Vérifier compétence, cumul avec MUE, portée transfrontalière, urgence et proportionnalité.",
+      "de": "Einstweilige und endgültige Unterlassung ist vor den zuständigen Gerichten jedes Landes möglich. Gerichtsstand, Verbindung mit Unionsmarken, grenzüberschreitende Reichweite, Dringlichkeit und Verhältnismäßigkeit prüfen."
+    },
+    "civilDamages": {
+      "ja": "損害賠償・侵害者利益・合理的ロイヤルティ等があり得るが、算定方法、故意・費用回収、証明規則は提訴国ごとに確認する。",
+      "en": "Damages, infringer profits and reasonable royalties may be available, but calculation, intent, cost recovery and evidence rules must be checked by forum country.",
+      "nl": "Schadevergoeding, winstafdracht en redelijke royalty kunnen beschikbaar zijn; berekening, opzet, kosten en bewijs moeten per forumland worden onderzocht.",
+      "fr": "Dommages-intérêts, bénéfices du contrefacteur et redevance raisonnable peuvent être accordés; calcul, intention, frais et preuve varient selon le pays du for.",
+      "de": "Schadensersatz, Verletzergewinn und angemessene Lizenz können verfügbar sein; Berechnung, Vorsatz, Kostenerstattung und Beweisrecht sind je Prozessstaat zu prüfen."
+    },
+    "civilEvidencePreservation": {
+      "ja": "証拠保全制度は国ごとに異なる。ベルギーの記述的差押え、オランダの証拠差押え・一方的措置、ルクセンブルクの保全措置等を提訴地別に確認する。",
+      "en": "Evidence-preservation tools differ by country. Check Belgium’s saisie-description, Dutch evidence seizure/ex parte relief and Luxembourg preservation measures by forum.",
+      "nl": "Bewijsmaatregelen verschillen per land. Controleer Belgisch beslag inzake namaak, Nederlands bewijsbeslag en ex-parte bevel en Luxemburgse bewarende maatregelen.",
+      "fr": "Les mesures probatoires diffèrent selon le pays. Vérifier saisie-description belge, saisie de preuve et mesures ex parte néerlandaises et mesures conservatoires luxembourgeoises.",
+      "de": "Beweissicherungsinstrumente unterscheiden sich je Land. Belgische saisie-description, niederländische Beweisbeschlagnahme/Ex-parte-Maßnahmen und luxemburgische Sicherungsmaßnahmen prüfen."
+    },
+    "civilOther": {
+      "ja": "侵害品・材料・器具の回収・廃棄、情報提供、判決公表等があり得る。命令の要件・執行方法は各国法で確認する。",
+      "en": "Recall/destruction, information orders and publication may be available; requirements and enforcement mechanics depend on national law.",
+      "nl": "Terugroeping/vernietiging, informatiebevelen en publicatie kunnen mogelijk zijn; voorwaarden en tenuitvoerlegging volgen nationaal recht.",
+      "fr": "Rappel/destruction, ordres d’information et publication peuvent être disponibles; conditions et exécution dépendent du droit national.",
+      "de": "Rückruf/Vernichtung, Auskunftsanordnungen und Veröffentlichung können möglich sein; Voraussetzungen und Vollstreckung richten sich nach nationalem Recht."
+    },
+    "borderMeasures": {
+      "ja": "EU知的財産権税関申請（AFA）を利用し、対象国またはEU域内で貨物留置を求める。ベルギー・オランダ・ルクセンブルク各税関への連絡、真正品判定、回答期限を管理する。",
+      "en": "Use an EU customs Application for Action (AFA) for national or Union-wide detention. Coordinate with Belgian, Dutch and Luxembourg customs and manage authentication and response deadlines.",
+      "nl": "Gebruik een EU-verzoek om optreden (AFA) voor nationale of Uniewijde tegenhouding. Stem af met Belgische, Nederlandse en Luxemburgse douane en bewaak authenticatie en termijnen.",
+      "fr": "Utiliser une demande d’intervention douanière (AFA) nationale ou de l’Union. Coordonner les douanes belge, néerlandaise et luxembourgeoise et gérer authentification et délais.",
+      "de": "EU-Antrag auf Tätigwerden (AFA) national oder unionsweit nutzen. Mit belgischem, niederländischem und luxemburgischem Zoll koordinieren und Echtheitsprüfung sowie Fristen steuern."
+    },
+    "administrativeRaid": {
+      "ja": "税関、警察、検察、市場監督当局による取締主体・権限は三国で異なる。侵害地ごとに刑事告訴・行政摘発・民事措置を組み合わせる。",
+      "en": "Customs, police, prosecutors and market-surveillance powers differ across the three countries; combine criminal, administrative and civil measures by infringement location.",
+      "nl": "Bevoegdheden van douane, politie, openbaar ministerie en markttoezicht verschillen per land; combineer strafrechtelijke, bestuursrechtelijke en civiele maatregelen per inbreukplaats.",
+      "fr": "Les pouvoirs des douanes, police, parquet et surveillance du marché diffèrent dans les trois pays; combiner mesures pénales, administratives et civiles selon le lieu.",
+      "de": "Befugnisse von Zoll, Polizei, Staatsanwaltschaft und Marktaufsicht unterscheiden sich; straf-, verwaltungs- und zivilrechtliche Maßnahmen nach Verletzungsort kombinieren."
+    },
+    "administrativeOther": {
+      "ja": "オンライン削除、.be・.nl・.luドメイン紛争、消費者・広告・製品安全上の措置を、対象市場ごとに選択する。",
+      "en": "Use platform takedowns, .be/.nl/.lu domain disputes and consumer, advertising or product-safety measures by target market.",
+      "nl": "Gebruik platformverwijdering, .be/.nl/.lu-domeingeschillen en consumenten-, reclame- of productveiligheidsmaatregelen per doelmarkt.",
+      "fr": "Utiliser retraits de plateformes, litiges de domaines .be/.nl/.lu et mesures de consommation, publicité ou sécurité selon le marché.",
+      "de": "Plattform-Löschungen, .be/.nl/.lu-Domainverfahren sowie Verbraucher-, Werbe- oder Produktsicherheitsmaßnahmen je Zielmarkt einsetzen."
+    },
+    "criminalAvailability": {
+      "ja": "あり。ただし犯罪構成要件、故意、告訴要件、捜査・起訴手続はベルギー・オランダ・ルクセンブルク各国法による。",
+      "en": "Available, but offense elements, intent, complaint requirements, investigation and prosecution follow the law of Belgium, the Netherlands or Luxembourg.",
+      "nl": "Beschikbaar, maar delictsbestanddelen, opzet, klachtvereisten, opsporing en vervolging volgen het recht van België, Nederland of Luxemburg.",
+      "fr": "Disponible, mais éléments de l’infraction, intention, plainte, enquête et poursuites relèvent du droit belge, néerlandais ou luxembourgeois.",
+      "de": "Verfügbar; Tatbestand, Vorsatz, Antragsvoraussetzungen, Ermittlungen und Verfolgung richten sich jedoch nach belgischem, niederländischem oder luxemburgischem Recht."
+    },
+    "criminalFine": {
+      "ja": "あり。罰金額、法人処罰、没収との関係は侵害国ごとに確認する。",
+      "en": "Available; fine levels, corporate liability and confiscation differ by infringement country.",
+      "nl": "Mogelijk; hoogte, rechtspersonenaansprakelijkheid en verbeurdverklaring verschillen per land van inbreuk.",
+      "fr": "Possible; montants, responsabilité des personnes morales et confiscation varient selon le pays de l’infraction.",
+      "de": "Möglich; Höhe, Unternehmenshaftung und Einziehung unterscheiden sich nach Verletzungsstaat."
+    },
+    "criminalImprisonment": {
+      "ja": "あり得る。法定刑、故意・営利性・反復性等は侵害国の現行刑法・産業財産法で確認する。",
+      "en": "Potentially available; verify current penalties and intent, commercial-purpose and repetition elements under the law of the infringement country.",
+      "nl": "Mogelijk; controleer strafmaat en vereisten inzake opzet, winstoogmerk en herhaling volgens het recht van het inbreukland.",
+      "fr": "Possible; vérifier peines et éléments d’intention, but lucratif et répétition selon le droit du pays de l’infraction.",
+      "de": "Möglich; Strafrahmen sowie Vorsatz, Gewerbsmäßigkeit und Wiederholung nach dem Recht des Verletzungsstaats prüfen."
+    },
+    "criminalOther": {
+      "ja": "侵害品・包装・製造器具の押収・没収・廃棄、営業上の付随措置等があり得るが、各国法で異なる。",
+      "en": "Seizure, forfeiture and destruction of goods/packaging/equipment and business-related measures may apply, subject to national law.",
+      "nl": "Inbeslagname, verbeurdverklaring en vernietiging van goederen/verpakking/apparatuur en bedrijfsmaatregelen kunnen gelden volgens nationaal recht.",
+      "fr": "Saisie, confiscation et destruction des produits/emballages/outils et mesures commerciales peuvent s’appliquer selon le droit national.",
+      "de": "Beschlagnahme, Einziehung und Vernichtung von Waren/Verpackungen/Werkzeugen sowie betriebliche Maßnahmen können nach nationalem Recht gelten."
+    }
+  },
+  "notablePoints": [
+    {
+      "title": {
+        "ja": "三か国共通の単一登録",
+        "en": "One unitary registration for three countries",
+        "nl": "Eén eenheidsregistratie voor drie landen",
+        "fr": "Un enregistrement unitaire pour trois pays",
+        "de": "Eine einheitliche Eintragung für drei Länder"
+      },
+      "detail": {
+        "ja": "ベネルクス商標はベルギー・オランダ・ルクセンブルクを分割せず保護する。一国だけを選択して出願・更新・放棄することはできない。",
+        "en": "A Benelux mark indivisibly covers Belgium, the Netherlands and Luxembourg; filing, renewal or surrender cannot be limited to one country.",
+        "nl": "Een Benelux-merk dekt België, Nederland en Luxemburg ondeelbaar; aanvraag, vernieuwing of afstand kan niet tot één land worden beperkt.",
+        "fr": "La marque Benelux couvre indivisiblement la Belgique, les Pays-Bas et le Luxembourg; dépôt, renouvellement ou renonciation ne peuvent être limités à un pays.",
+        "de": "Die Benelux-Marke gilt unteilbar in Belgien, den Niederlanden und Luxemburg; Anmeldung, Verlängerung oder Verzicht können nicht auf ein Land beschränkt werden."
+      }
+    },
+    {
+      "title": {
+        "ja": "先行権利は原則職権審査されない",
+        "en": "Earlier rights generally not examined ex officio",
+        "nl": "Oudere rechten niet ambtshalve onderzocht",
+        "fr": "Droits antérieurs non examinés d’office",
+        "de": "Ältere Rechte nicht von Amts wegen geprüft"
+      },
+      "detail": {
+        "ja": "登録されても先行権利侵害リスクは残る。BOIP、EUIPO、WIPOの横断調査と公告監視が重要。",
+        "en": "Registration does not remove earlier-right risk; cross-search BOIP, EUIPO and WIPO records and monitor publications.",
+        "nl": "Registratie neemt risico van oudere rechten niet weg; zoek BOIP-, EUIPO- en WIPO-registers en bewaak publicaties.",
+        "fr": "L’enregistrement n’élimine pas les droits antérieurs; rechercher BOIP, EUIPO et OMPI et surveiller les publications.",
+        "de": "Eintragung beseitigt ältere Rechte nicht; BOIP-, EUIPO- und WIPO-Register recherchieren und Veröffentlichungen überwachen."
+      }
+    },
+    {
+      "title": {
+        "ja": "迅速登録は最終的安全を意味しない",
+        "en": "Accelerated entry is not final clearance",
+        "nl": "Versnelde inschrijving is geen definitieve zekerheid",
+        "fr": "L’inscription accélérée n’est pas une sécurité définitive",
+        "de": "Beschleunigte Eintragung ist keine endgültige Sicherheit"
+      },
+      "detail": {
+        "ja": "数日で登録され得る一方、絶対的理由審査・異議が後続し、取消され得る。緊急な権利行使ではこの不安定性を説明する。",
+        "en": "Entry may occur within days, but examination and opposition follow and can undo it; explain this instability before urgent enforcement.",
+        "nl": "Inschrijving kan binnen dagen, maar onderzoek en oppositie volgen en kunnen haar ongedaan maken.",
+        "fr": "Inscription possible en quelques jours, mais examen et opposition suivent et peuvent l’annuler.",
+        "de": "Die Eintragung kann innerhalb weniger Tage erfolgen, doch Prüfung und Widerspruch folgen und können sie beseitigen."
+      }
+    },
+    {
+      "title": {
+        "ja": "三国・三言語市場と使用証拠",
+        "en": "Three countries, three languages and use evidence",
+        "nl": "Drie landen, drie talen en gebruiksbewijs",
+        "fr": "Trois pays, trois langues et preuve d’usage",
+        "de": "Drei Länder, drei Sprachen und Benutzungsnachweis"
+      },
+      "detail": {
+        "ja": "オランダ語・フランス語・ドイツ語の意味・記述性を確認し、使用地域・市場規模を示す販売、広告、配送証拠を保存する。",
+        "en": "Check meaning and descriptiveness in Dutch, French and German and retain sales, advertising and logistics evidence showing territory and market scale.",
+        "nl": "Controleer betekenis en beschrijvend karakter in Nederlands, Frans en Duits en bewaar verkoop-, reclame- en logistiek bewijs van gebied en marktomvang.",
+        "fr": "Vérifier sens et descriptivité en néerlandais, français et allemand et conserver ventes, publicité et logistique montrant territoire et échelle du marché.",
+        "de": "Bedeutung und Beschreibungsgehalt auf Niederländisch, Französisch und Deutsch prüfen und Vertriebs-, Werbe- und Logistiknachweise zu Gebiet und Marktumfang sichern."
+      }
+    },
+    {
+      "title": {
+        "ja": "ベネルクス・EU・国際登録の三層",
+        "en": "Benelux, EU and Madrid layers",
+        "nl": "Benelux-, EU- en Madridlagen",
+        "fr": "Couches Benelux, UE et Madrid",
+        "de": "Benelux-, EU- und Madrid-Ebenen"
+      },
+      "detail": {
+        "ja": "費用、単一性リスク、使用領域、権利行使国を踏まえ、ベネルクス直接、EU商標、マドプロの経路を選ぶ。",
+        "en": "Choose direct Benelux, EUTM or Madrid based on cost, unitary risk, use territory and enforcement markets.",
+        "nl": "Kies Benelux, Uniemerk of Madrid op basis van kosten, eenheidsrisico, gebruiksgebied en handhavingsmarkten.",
+        "fr": "Choisir Benelux, MUE ou Madrid selon coûts, risque unitaire, territoire d’usage et marchés d’exécution.",
+        "de": "Benelux, Unionsmarke oder Madrid nach Kosten, Einheitsrisiko, Benutzungsgebiet und Durchsetzungsmärkten wählen."
+      }
+    }
+  ],
+  "statistics": {
+    "coverage": "2016–2025",
+    "status": "pending",
+    "series": []
+  },
+  "news": [
+    {
+      "id": "boip-digital-practice",
+      "type": "practice",
+      "date": "2025-01-01",
+      "title": {
+        "ja": "BOIP電子手続・料金表の現行版確認",
+        "en": "Check current BOIP e-filing and fee schedule",
+        "nl": "Actuele BOIP e-diensten en tarieven controleren",
+        "fr": "Vérifier les services électroniques et tarifs actuels de l’OBPI",
+        "de": "Aktuelle BOIP-E-Dienste und Gebühren prüfen"
+      },
+      "summary": {
+        "ja": "出願、異議、取消・無効、更新はBOIPの電子サービスと現行料金表に従う。提出時の画面・期限・区分料金を確認する。",
+        "en": "Filing, opposition, cancellation/invalidity and renewal follow BOIP e-services and current fees; check interface, deadlines and class fees at filing.",
+        "nl": "Aanvraag, oppositie, doorhaling en vernieuwing volgen BOIP e-diensten en actuele tarieven; controleer scherm, termijnen en klassentaksen.",
+        "fr": "Dépôt, opposition, annulation et renouvellement suivent les services en ligne et tarifs actuels; vérifier interface, délais et taxes de classes.",
+        "de": "Anmeldung, Widerspruch, Löschung und Verlängerung folgen BOIP-E-Diensten und aktuellen Gebühren; Oberfläche, Fristen und Klassengebühren prüfen."
+      },
+      "sourceUrl": "https://www.boip.int/"
+    },
+    {
+      "id": "euipn-convergence-current",
+      "type": "practice",
+      "date": "2025-01-01",
+      "title": {
+        "ja": "EUIPN共通実務の継続反映",
+        "en": "Continuing EUIPN convergence practice",
+        "nl": "Voortdurende toepassing van EUIPN-praktijken",
+        "fr": "Application continue des pratiques EUIPN",
+        "de": "Fortlaufende Anwendung der EUIPN-Praxis"
+      },
+      "summary": {
+        "ja": "色彩商標、識別力、公序良俗、悪意、証拠等についてBOIPガイドとEUIPN共通コミュニケーションを併せて確認する。",
+        "en": "For color marks, distinctiveness, public policy, bad faith and evidence, consult BOIP guidance and EUIPN common communications.",
+        "nl": "Raadpleeg voor kleurmerken, onderscheidend vermogen, openbare orde, kwade trouw en bewijs zowel BOIP-richtsnoeren als EUIPN-mededelingen.",
+        "fr": "Pour couleurs, distinctivité, ordre public, mauvaise foi et preuves, consulter les directives OBPI et communications EUIPN.",
+        "de": "Für Farbmarken, Unterscheidungskraft, öffentliche Ordnung, Bösgläubigkeit und Beweise BOIP-Leitlinien und EUIPN-Mitteilungen prüfen."
+      },
+      "sourceUrl": "https://www.tmdn.org/network/"
+    },
+    {
+      "id": "nice-13-2026",
+      "type": "practice",
+      "date": "2026-01-01",
+      "title": {
+        "ja": "ニース国際分類第13版への対応",
+        "en": "Implementation of the 13th Nice edition",
+        "nl": "Toepassing van de 13e editie van Nice",
+        "fr": "Application de la 13e édition de Nice",
+        "de": "Anwendung der 13. Nizza-Ausgabe"
+      },
+      "summary": {
+        "ja": "2026年出願では第13版とBOIPの商品・役務分類ツールを併せて確認する。",
+        "en": "For 2026 filings, consult the 13th edition together with BOIP classification tools.",
+        "nl": "Raadpleeg voor aanvragen in 2026 de 13e editie en BOIP-classificatietools.",
+        "fr": "Pour les dépôts 2026, consulter la 13e édition et les outils de classification OBPI.",
+        "de": "Für Anmeldungen 2026 die 13. Ausgabe und BOIP-Klassifikationstools prüfen."
+      },
+      "sourceUrl": "https://www.wipo.int/classifications/nice/en/"
+    }
+  ],
+  "faqs": [
+    {
+      "tag": "Territory",
+      "question": {
+        "ja": "ベネルクス三国のうち一国だけを保護・更新・放棄できますか。",
+        "en": "Can protection, renewal or surrender be limited to one Benelux country?",
+        "nl": "Kan bescherming, vernieuwing of afstand tot één Benelux-land worden beperkt?",
+        "fr": "Peut-on limiter protection, renouvellement ou renonciation à un seul pays Benelux?",
+        "de": "Kann Schutz, Verlängerung oder Verzicht auf ein Benelux-Land beschränkt werden?"
+      },
+      "followUp": {
+        "ja": "ベネルクス直接、EU商標、マドプロ指定のどれが費用・単一性リスク上適切ですか。",
+        "en": "Which route—direct Benelux, EUTM or Madrid—is best for cost and unitary risk?",
+        "nl": "Welke route—Benelux, Uniemerk of Madrid—is het best voor kosten en eenheidsrisico?",
+        "fr": "Quelle voie—Benelux, MUE ou Madrid—convient au coût et au risque unitaire?",
+        "de": "Welcher Weg—Benelux, Unionsmarke oder Madrid—passt zu Kosten und Einheitsrisiko?"
+      }
+    },
+    {
+      "tag": "Clearance",
+      "question": {
+        "ja": "BOIP、EUIPO、国際登録、三言語の称呼・意味をどの範囲まで調査しますか。",
+        "en": "How broadly should BOIP, EUIPO, international registrations and three-language meanings be searched?",
+        "nl": "Hoe breed moeten BOIP, EUIPO, internationale registraties en drietalige betekenissen worden onderzocht?",
+        "fr": "Quelle recherche mener dans BOIP, EUIPO, enregistrements internationaux et les trois langues?",
+        "de": "Wie weit sind BOIP, EUIPO, internationale Registrierungen und Bedeutungen in drei Sprachen zu recherchieren?"
+      },
+      "followUp": {
+        "ja": "ベルギー商号・ドメイン・未登録標識も確認すべきですか。",
+        "en": "Should Belgian trade names, domains and unregistered signs also be checked?",
+        "nl": "Moeten Belgische handelsnamen, domeinen en niet-ingeschreven tekens ook worden gecontroleerd?",
+        "fr": "Faut-il aussi vérifier noms commerciaux belges, domaines et signes non enregistrés?",
+        "de": "Sind belgische Unternehmensnamen, Domains und nicht eingetragene Zeichen zu prüfen?"
+      }
+    },
+    {
+      "tag": "Fast registration",
+      "question": {
+        "ja": "迅速登録は何日で得られ、どの審査・異議リスクが残りますか。",
+        "en": "How quickly is accelerated registration obtained and what examination/opposition risk remains?",
+        "nl": "Hoe snel volgt versnelde inschrijving en welke onderzoeks- of oppositierisico’s blijven?",
+        "fr": "Quel délai pour l’enregistrement accéléré et quels risques d’examen ou opposition subsistent?",
+        "de": "Wie schnell erfolgt die beschleunigte Eintragung und welche Prüfungs-/Widerspruchsrisiken bleiben?"
+      },
+      "followUp": {
+        "ja": "緊急な税関申請・差止めの基礎として利用できますか。",
+        "en": "Can it support urgent customs or injunction action?",
+        "nl": "Kan zij dienen voor urgente douane- of verbodsmaatregelen?",
+        "fr": "Peut-elle fonder une action urgente en douane ou injonction?",
+        "de": "Kann sie Grundlage dringender Zoll- oder Unterlassungsmaßnahmen sein?"
+      }
+    },
+    {
+      "tag": "Opposition",
+      "question": {
+        "ja": "2か月の異議申立てに利用できる先行権利と必要証拠は。",
+        "en": "Which earlier rights and evidence support the two-month opposition?",
+        "nl": "Welke oudere rechten en bewijzen ondersteunen oppositie binnen twee maanden?",
+        "fr": "Quels droits antérieurs et preuves fondent l’opposition de deux mois?",
+        "de": "Welche älteren Rechte und Nachweise tragen den zweimonatigen Widerspruch?"
+      },
+      "followUp": {
+        "ja": "クーリングオフ、使用証明、費用配分の実務は。",
+        "en": "How do cooling-off, proof of use and cost allocation work?",
+        "nl": "Hoe werken cooling-off, gebruiksbewijs en kostenverdeling?",
+        "fr": "Comment fonctionnent cooling-off, preuve d’usage et répartition des frais?",
+        "de": "Wie funktionieren Cooling-off, Benutzungsnachweis und Kostenverteilung?"
+      }
+    },
+    {
+      "tag": "Non-use",
+      "question": {
+        "ja": "ベネルクス域内5年不使用取消に対抗するには、どの地域・規模の使用証拠が必要ですか。",
+        "en": "What territorial scale of Benelux use evidence is needed against five-year non-use cancellation?",
+        "nl": "Welke territoriale omvang van Benelux-gebruik is nodig tegen vervallenverklaring na vijf jaar?",
+        "fr": "Quelle étendue territoriale d’usage au Benelux faut-il prouver contre la déchéance après cinq ans?",
+        "de": "Welche territoriale Reichweite der Benelux-Benutzung ist gegen fünfjährigen Verfall nötig?"
+      },
+      "followUp": {
+        "ja": "ベルギー一国だけの使用で十分となる条件は。",
+        "en": "When can use only in Belgium suffice?",
+        "nl": "Wanneer kan gebruik alleen in België volstaan?",
+        "fr": "Quand l’usage uniquement en Belgique peut-il suffire?",
+        "de": "Wann kann Benutzung nur in Belgien genügen?"
+      }
+    },
+    {
+      "tag": "Enforcement",
+      "question": {
+        "ja": "ベルギー・オランダ・ルクセンブルクのどの裁判所・税関・捜査機関を選ぶべきですか。",
+        "en": "Which Belgian, Dutch or Luxembourg court, customs office and enforcement authority should be used?",
+        "nl": "Welke Belgische, Nederlandse of Luxemburgse rechter, douane en handhavingsinstantie moet worden gekozen?",
+        "fr": "Quelle juridiction, douane et autorité belge, néerlandaise ou luxembourgeoise choisir?",
+        "de": "Welches belgische, niederländische oder luxemburgische Gericht, Zollamt und welche Behörde ist zu wählen?"
+      },
+      "followUp": {
+        "ja": "越境差止め、証拠保全、言語、担保、費用・期間の差は。",
+        "en": "How do cross-border relief, preservation, language, security, cost and duration differ?",
+        "nl": "Hoe verschillen grensoverschrijdend verbod, bewijs, taal, zekerheid, kosten en duur?",
+        "fr": "Quelles différences pour injonction transfrontalière, preuve, langue, garantie, coût et durée?",
+        "de": "Wie unterscheiden sich grenzüberschreitender Rechtsschutz, Beweise, Sprache, Sicherheit, Kosten und Dauer?"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "BOIP",
+      "url": "https://www.boip.int/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "BOIP — Trademarks Register",
+      "url": "https://www.boip.int/en/trademarks-register",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "BOIP — Benelux Convention on Intellectual Property",
+      "url": "https://www.boip.int/en/ip-legislation",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Benelux Court of Justice",
+      "url": "https://www.courbeneluxhof.be/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "EUIPO — eSearch plus",
+      "url": "https://euipo.europa.eu/eSearch/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "TMview",
+      "url": "https://www.tmdn.org/tmview/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "EUIPN — Common Practices",
+      "url": "https://www.tmdn.org/network/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "European Commission — Customs Enforcement of IPR",
+      "url": "https://taxation-customs.ec.europa.eu/customs/prohibitions-and-restrictions/counterfeit-piracy-and-other-ipr-violations_en",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Belgian Customs",
+      "url": "https://finance.belgium.be/en/customs_excises",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Netherlands Customs",
+      "url": "https://www.belastingdienst.nl/wps/wcm/connect/en/customs/customs",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Luxembourg Customs",
+      "url": "https://douanes.public.lu/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO — Madrid Member Profiles",
+      "url": "https://www.wipo.int/madrid/memberprofiles/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO Nice Classification",
+      "url": "https://www.wipo.int/classifications/nice/en/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    }
+  ]
+}
