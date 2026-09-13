@@ -972,6 +972,10 @@ function renderDetail() {
         if (language === "zh") {
           label = "中文";
         }
+
+        if (language === "ko") {
+          label = "한국어";
+        }
         
         return `
           <button
