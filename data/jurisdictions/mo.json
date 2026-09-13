@@ -1,0 +1,599 @@
+{
+  "id": "mo",
+  "type": "country",
+  "flag": "🇲🇴",
+  "region": "asia",
+  "names": {
+    "ja": "マカオ特別行政区",
+    "en": "Macao Special Administrative Region",
+    "zh": "澳門特別行政區"
+  },
+  "office": {
+    "ja": "マカオ経済・科技発展局 知的財産権部門（DSEDT）",
+    "en": "Intellectual Property Department, Economic and Technological Development Bureau (DSEDT)",
+    "zh": "澳門經濟及科技發展局知識產權廳"
+  },
+  "availableLanguages": [
+    "zh"
+  ],
+  "createdAt": "2026-09-13",
+  "updatedAt": "2026-09-13",
+  "status": "review",
+  "facts": {
+    "authority": {
+      "ja": "マカオ経済・科技発展局 知的財産権部門（DSEDT）",
+      "en": "Intellectual Property Department, Economic and Technological Development Bureau (DSEDT)",
+      "zh": "澳門經濟及科技發展局知識產權廳"
+    },
+    "protectionScope": {
+      "ja": "商品・役務の商標、団体商標、証明商標、著名商標等。中国本土・香港の登録はマカオに、マカオ登録は他地域に自動的な効力を有しない。",
+      "en": "Marks for goods/services, collective marks, certification marks and well-known marks. Mainland or Hong Kong registrations have no automatic effect in Macao, and vice versa.",
+      "zh": "商品及服務商標、集體商標、證明商標及馳名商標等。中國內地或香港註冊不會自動在澳門生效，澳門註冊亦不會自動在其他地區生效。"
+    },
+    "markTypes": {
+      "ja": "語、名称、署名、文字、数字、図形、画像、ラベル、形状、包装、色彩・色彩の組合せ等。現行工業所有権法典上の表示可能性を確認する。",
+      "en": "Words, names, signatures, letters, numerals, devices, images, labels, shapes, packaging, colors and color combinations; verify representability under the current Industrial Property Code.",
+      "zh": "文字、名稱、簽署、字母、數字、圖形、圖像、標籤、形狀、包裝、顏色及顏色組合等；須確認現行《工業產權法律制度》的表述要求。"
+    },
+    "madridAccessionDate": {
+      "ja": "マカオには未適用（2026年9月13日現在）。マドプロによるマカオ指定は不可。",
+      "en": "Not applicable to Macao as of 13 September 2026; Macao cannot be designated through Madrid.",
+      "zh": "截至2026年9月13日尚未適用於澳門，不可透過馬德里體系指定澳門。"
+    },
+    "niceClassification": {
+      "ja": "採用。最新版ニース分類およびDSEDTが受理する中文・ポルトガル語の商品・役務表示を確認する。",
+      "en": "Adopted; verify the current Nice edition and Chinese/Portuguese goods and services wording accepted by DSEDT.",
+      "zh": "採用尼斯分類；應確認現行版本及經科局接受的中文或葡文商品服務項目。"
+    },
+    "classHeadingPractice": {
+      "ja": "類見出しだけに依存せず、商品・役務を明確・具体的に中文またはポルトガル語で記載する。",
+      "en": "Do not rely only on class headings; specify goods/services clearly and specifically in Chinese or Portuguese.",
+      "zh": "不應僅依賴類別標題；須以中文或葡文清楚而具體列明商品或服務。"
+    },
+    "retailServices": {
+      "ja": "第35類で登録可能。対象商品および小売・卸売・オンライン販売役務を具体化する。",
+      "en": "Registrable in Class 35; specify the relevant goods and retail, wholesale or online retail services.",
+      "zh": "可在第35類註冊；應具體列明相關商品及零售、批發或網上零售服務。"
+    },
+    "multiClassApplication": {
+      "ja": "原則として一区分ごとに別出願。最新の電子出願単位・料金を確認する。",
+      "en": "A separate application is generally required for each class; verify the current e-filing unit and fees.",
+      "zh": "原則上每一類別須分別申請；應確認現行電子申請單位及費用。"
+    },
+    "applicationForm": {
+      "ja": "DSEDTへ電子または所定様式で、出願人、標章、商品・役務、区分、優先権、代理人等を中文またはポルトガル語で提出する。",
+      "en": "File electronically or on the prescribed form with DSEDT, stating applicant, mark, goods/services, class, priority and representative in Chinese or Portuguese.",
+      "zh": "以電子方式或指定表格向經科局提交中文或葡文的申請人、商標、商品服務、類別、優先權及代理人資料。"
+    },
+    "powerOfAttorney": {
+      "ja": "マカオに住所・営業所を持たない外国出願人は、通常マカオの弁護士または適格代理人を選任し、委任状を提出する。",
+      "en": "A foreign applicant without domicile or establishment in Macao normally appoints a Macao lawyer or qualified representative and files a power.",
+      "zh": "在澳門沒有住所或營業場所的外國申請人，通常須委任澳門律師或合資格代理人並提交授權書。"
+    },
+    "priorityDocuments": {
+      "ja": "パリ優先権は最初の出願から6か月以内。証明書、中文・ポルトガル語訳および提出期限を確認する。",
+      "en": "Paris priority must be claimed within six months; verify the certified document, Chinese/Portuguese translation and filing deadline.",
+      "zh": "巴黎優先權須在首次申請後六個月內主張；應確認證明文件、中文或葡文翻譯及提交期限。"
+    },
+    "homeRegistrationCertificate": {
+      "ja": "通常の直接出願には不要。",
+      "en": "Not normally required for a direct filing.",
+      "zh": "一般直接申請毋須提交本國註冊證明。"
+    },
+    "useEvidenceAtFiling": {
+      "ja": "通常不要。使用による識別力、著名性、先使用等を主張する場合は証拠が必要。",
+      "en": "Not normally required; evidence may be needed for acquired distinctiveness, well-known status or prior use.",
+      "zh": "通常毋須提交；如主張經使用取得顯著性、馳名或在先使用，則須提出證據。"
+    },
+    "notarizationCertification": {
+      "ja": "外国委任状の署名認証・公証要否は代理人資格と提出方法により確認する。法人・譲渡・優先権書類は別途認証・翻訳が必要となり得る。",
+      "en": "Verify authentication/notarization of a foreign power according to representative and filing route. Corporate, assignment and priority documents may require separate certification/translation.",
+      "zh": "外國授權書是否須認證或公證，應按代理人資格及提交方式確認；公司、轉讓及優先權文件可能另須認證及翻譯。"
+    },
+    "otherDocuments": {
+      "ja": "標章見本・説明、法人資格資料、委任状、優先権資料、中文・ポルトガル語訳、使用・著名性証拠等。",
+      "en": "Representation/description, corporate-status documents, power, priority material, Chinese/Portuguese translations and use or reputation evidence.",
+      "zh": "商標圖樣及說明、公司資格文件、授權書、優先權資料、中文或葡文翻譯，以及使用或知名度證據。"
+    },
+    "absoluteGroundsExamination": {
+      "ja": "あり。DSEDTが職権審査する。",
+      "en": "Yes; examined ex officio by DSEDT.",
+      "zh": "有。經科局依職權審查。"
+    },
+    "distinctivenessGrounds": {
+      "ja": "識別力欠如、普通名称、記述的・慣用的表示、単純な形状・色彩等は拒絶され得る。使用による識別力を証拠で主張できる場合がある。",
+      "en": "Non-distinctive, generic, descriptive or customary signs and simple shapes/colors may be refused; acquired distinctiveness may be proven in appropriate cases.",
+      "zh": "缺乏顯著性、通用、描述性或慣用標誌，以及簡單形狀或顏色可被拒絕；適當情況可證明經使用取得顯著性。"
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "公序良俗、欺瞞性、法令違反、旗・紋章・公的記章、他人の氏名・肖像、原産地・品質の誤認、専ら機能的形状等を確認する。",
+      "en": "Check public order/morality, deception, illegality, flags/emblems and official signs, third-party names/portraits, misleading origin/quality and exclusively functional shapes.",
+      "zh": "應審查公共秩序或善良風俗、欺騙性、違法、旗幟徽章及官方標誌、他人姓名肖像、來源或品質誤導，以及純功能性形狀。"
+    },
+    "relativeGroundsExamination": {
+      "ja": "あり。先行マカオ出願・登録、著名商標、商号、著作権その他の先行権利との抵触を職権審査する。",
+      "en": "Yes; conflicts with earlier Macao applications/registrations, well-known marks, trade names, copyright and other prior rights are examined ex officio.",
+      "zh": "有。依職權審查與在先澳門申請或註冊、馳名商標、商號、著作權及其他在先權利的衝突。"
+    },
+    "disclaimer": {
+      "ja": "非識別的・共通的要素について権利不要求または保護範囲限定を求められる可能性がある。最新実務を確認する。",
+      "en": "A disclaimer or limitation may be required for non-distinctive or common elements; verify current practice.",
+      "zh": "非顯著或通用部分可能須作放棄專用權或權利範圍限制；應確認現行實務。"
+    },
+    "consent": {
+      "ja": "先行権利者の同意・共存合意が考慮され得るが、混同のおそれや公益上の拒絶を当然に解消しない。",
+      "en": "Consent or coexistence may be considered but does not automatically overcome confusion or public-interest objections.",
+      "zh": "在先權利人同意或共存協議可供考慮，但不會自動克服混淆或公共利益方面的拒絕。"
+    },
+    "acceleratedExamination": {
+      "ja": "一般的な商標早期審査制度は確認できない。緊急性がある場合の取扱いをDSEDTまたは現地代理人に確認する。",
+      "en": "No general trademark fast-track identified; ask DSEDT or local counsel about urgent treatment.",
+      "zh": "未確認有一般商標快速審查制度；如情況緊急，應向經科局或本地代理人查詢。"
+    },
+    "thirdPartyObservation": {
+      "ja": "出願公告後2か月以内に正式異議申立て可能。別個の情報提供制度の有無は最新実務を確認する。",
+      "en": "Formal opposition is available within two months after publication; verify whether separate observations are accepted.",
+      "zh": "申請公布後兩個月內可提出正式異議；是否接受另行意見應確認現行實務。"
+    },
+    "directExaminationPeriod": {
+      "ja": "方式審査、官報公告・異議、実体審査、登録料・証書発行を経る。公式な一律平均ではなく最新のDSEDT実績と現地見積りを確認する。",
+      "en": "The process includes formality review, gazette publication/opposition, substantive examination and registration-fee/certificate stages. Check current DSEDT performance and local estimates.",
+      "zh": "程序包括形式審查、政府公報公布及異議、實質審查、註冊費及證書階段；應確認經科局最新表現及本地估算。"
+    },
+    "madridExaminationPeriod": {
+      "ja": "適用なし。マドプロはマカオに適用されていない。",
+      "en": "Not applicable because Madrid is not applied to Macao.",
+      "zh": "不適用，因馬德里體系尚未適用於澳門。"
+    },
+    "colourPriorityIdentity": {
+      "ja": "優先権基礎とマカオ出願で色彩の有無・配置を整合させ、同一性を確保する。許容される差異は個別確認する。",
+      "en": "Align presence and arrangement of color with the priority filing to preserve identity; verify permissible differences individually.",
+      "zh": "應使澳門申請的顏色及排列與優先權申請一致，以確保同一性；容許差異須個別確認。"
+    },
+    "colourRelativeGrounds": {
+      "ja": "色彩は全体的印象の一要素。色変更だけで類似性が解消するとは限らず、中文・葡文・英語表記、称呼、観念、図形を総合比較する。",
+      "en": "Color is one element of overall impression; color change alone may not avoid similarity. Compare Chinese, Portuguese and English wording, pronunciation, concept and devices globally.",
+      "zh": "顏色是整體印象因素之一；僅改變顏色不一定排除近似。應綜合比較中文、葡文及英文文字、讀音、概念和圖形。"
+    },
+    "colourGenuineUse": {
+      "ja": "登録形態と使用形態の色彩差が識別性を変更するかを評価する。色彩限定登録では異なる色での使用に注意する。",
+      "en": "Assess whether color differences between registration and use alter distinctive character; take care with different-color use for a color-limited registration.",
+      "zh": "應判斷註冊與使用形式的顏色差異是否改變顯著特徵；註冊限定顏色時須注意其他顏色的使用。"
+    },
+    "colourInfringementScope": {
+      "ja": "登録表示・色彩限定、標章全体、商品・役務、需要者、混同のおそれを総合評価する。",
+      "en": "Assess the registered representation/color limitation, mark as a whole, goods/services, consumers and likelihood of confusion.",
+      "zh": "應綜合判斷註冊圖樣或顏色限制、商標整體、商品服務、消費者及混淆可能性。"
+    },
+    "colourFilingStrategy": {
+      "ja": "色彩が重要ならカラー版を、柔軟性が必要なら白黒版・主要カラー版を別出願する。繁体字・簡体字・ポルトガル語・英字ブランドも整理する。",
+      "en": "If color matters, file in color; for flexibility file black-and-white and key color versions separately. Coordinate traditional/simplified Chinese, Portuguese and Latin-script brands.",
+      "zh": "如顏色重要，應申請彩色版本；如需靈活性，可另申請黑白及主要彩色版本，並協調繁體、簡體、葡文及拉丁字母品牌。"
+    },
+    "refusalResponseRoute": {
+      "ja": "DSEDTの不備・拒絶通知に、中文またはポルトガル語の意見書、補正、指定商品限定、同意・使用証拠等で応答する。最終決定には司法上訴を検討する。",
+      "en": "Respond to DSEDT deficiency/refusal notices with Chinese or Portuguese submissions, amendment, specification limitation, consent or use evidence; consider judicial appeal from a final decision.",
+      "zh": "可就經科局的缺陷或拒絕通知提交中文或葡文陳詞、修正、限制商品服務、同意或使用證據；最終決定可考慮司法上訴。"
+    },
+    "responsePeriod": {
+      "ja": "通知の種類により異なる。2か月等の短期期限が問題となるため、通知記載期限を優先して現地代理人に確認する。",
+      "en": "Varies by notice. Because short periods such as two months may apply, follow the stated deadline and confirm immediately with local counsel.",
+      "zh": "期限視通知而異；由於可能適用兩個月等短期，應以通知所載期限為準並立即向本地代理人確認。"
+    },
+    "extensionAvailable": {
+      "ja": "手続により延長可能な場合がある。期限前申請を前提に確認する。",
+      "en": "An extension may be available for certain procedures; verify on the basis of a pre-expiry request.",
+      "zh": "部分程序可能准予延期；應在期限前提出申請並確認。"
+    },
+    "extensionLength": {
+      "ja": "一律ではない。通知、工業所有権法典およびDSEDTの指示を確認する。",
+      "en": "Not uniform; check the notice, Industrial Property Code and DSEDT directions.",
+      "zh": "並非統一；應查閱通知、《工業產權法律制度》及經科局指示。"
+    },
+    "extensionRequirements": {
+      "ja": "期限前の所定申請、理由、料金および証拠の要否を現地代理人に確認する。",
+      "en": "Confirm the need for a timely prescribed request, reasons, fee and evidence.",
+      "zh": "應向本地代理人確認是否須在期限前提交指定申請、理由、費用及證據。"
+    },
+    "appealRoute": {
+      "ja": "DSEDTの登録拒絶・取消等の決定についてマカオ第一審法院への司法上訴を検討する。送達日からの短い期限を確認する。",
+      "en": "A DSEDT decision on refusal, cancellation or related matters may be judicially appealed to the Court of First Instance; verify the short deadline from notification.",
+      "zh": "經科局就拒絕註冊、撤銷等作出的決定，可考慮向澳門初級法院提起司法上訴；應確認自通知起計的短期。"
+    },
+    "refusalAppealPeriod": {
+      "ja": "司法上訴は決定公告・通知から1か月程度の期限が重要となり得る。正確な起算点と平均審理期間を現地確認する。",
+      "en": "A period around one month from publication/notification may be critical for judicial appeal; confirm the precise trigger and average duration locally.",
+      "zh": "司法上訴可能須在決定公布或通知後約一個月內提出；應在本地確認準確起算點及平均審理時間。"
+    },
+    "publicDatabase": {
+      "ja": "DSEDT知的財産権オンライン検索",
+      "en": "DSEDT Intellectual Property Online Search",
+      "zh": "經科局知識產權網上查詢",
+      "url": "https://www.dsedt.gov.mo/"
+    },
+    "publicationStage": {
+      "ja": "方式要件を満たした出願はマカオ特別行政区公報に公告され、2か月の異議期間に入る。その後、実体審査・決定が行われる。",
+      "en": "A formally compliant application is published in the Macao SAR Official Gazette and enters a two-month opposition period, followed by substantive examination and decision.",
+      "zh": "符合形式要求的申請會刊登於《澳門特別行政區公報》，進入兩個月異議期，其後進行實質審查及決定。"
+    },
+    "oppositionPeriod": {
+      "ja": "政府公報の公告日から2か月。",
+      "en": "Two months from publication in the Official Gazette.",
+      "zh": "自政府公報公布日起兩個月。"
+    },
+    "oppositionExtension": {
+      "ja": "法定2か月の異議期間は延長を当然視せず、期間内提出を前提に管理する。答弁・証拠期限は別途確認する。",
+      "en": "Do not assume the statutory two-month opposition period is extendible; docket filing within it and check defense/evidence deadlines separately.",
+      "zh": "不應假設法定兩個月異議期可延長；應在期限內提交，並另行確認答辯及證據期限。"
+    },
+    "averagePendency": {
+      "ja": "官報公告と実体審査を含むため、無拒絶・無異議でも1年前後以上を要する場合がある。最新のDSEDT実績を確認する。",
+      "en": "Because the process includes gazette publication and substantive examination, even an unopposed case may take around a year or more; verify current DSEDT performance.",
+      "zh": "程序包括政府公報公布及實質審查，即使無異議亦可能約需一年或更久；應確認經科局最新表現。"
+    },
+    "term": {
+      "ja": "登録許可日から7年。7年ごとに更新可能。",
+      "en": "Seven years from the grant date, renewable for successive seven-year periods.",
+      "zh": "自核准註冊日起七年，可每七年續期。"
+    },
+    "termStart": {
+      "ja": "登録許可日から。出願日基準の10年制ではない点に注意する。",
+      "en": "From the grant date; note that this is not a ten-year term calculated from filing.",
+      "zh": "自核准註冊日起計；須注意並非自申請日起計的十年制度。"
+    },
+    "renewalWindow": {
+      "ja": "満了前6か月以内に更新申請する。最新の様式・料金を確認する。",
+      "en": "Renew within six months before expiry; verify current forms and fees.",
+      "zh": "應在期滿前六個月內申請續期，並確認現行表格及費用。"
+    },
+    "gracePeriod": {
+      "ja": "あり。満了後6か月以内は追加料金付き更新が可能とされる。回復との区別を確認する。",
+      "en": "Available; late renewal is understood to be possible within six months after expiry with surcharge. Distinguish restoration.",
+      "zh": "有。一般可在期滿後六個月內繳付附加費續期；應與恢復程序區分。"
+    },
+    "renewalEvidence": {
+      "ja": "通常の更新に使用宣誓・使用証拠は不要。ただし3年不使用取消に備え、マカオでの使用証拠を保存する。",
+      "en": "Use declarations/evidence are not ordinarily required for renewal; retain evidence of use in Macao against three-year non-use revocation.",
+      "zh": "續期通常毋須提交使用聲明或證據；但應保存澳門使用證據，以應對連續三年不使用撤銷。"
+    },
+    "nonUseCancellation": {
+      "ja": "あり。利害関係人がDSEDTへの行政手続等により失効・取消を求め得る。司法関与と手続経路を確認する。",
+      "en": "Available; an interested person may seek lapse/revocation through an administrative procedure before DSEDT or applicable route. Verify judicial involvement.",
+      "zh": "有。利害關係人可透過經科局行政程序或適用途徑請求失效或撤銷；應確認司法介入。"
+    },
+    "nonUsePeriod": {
+      "ja": "正当理由なく継続3年間、マカオで真正使用されていない場合。全部または一部失効となり得る。",
+      "en": "Three continuous years without genuine use in Macao, absent proper reasons; lapse may be total or partial.",
+      "zh": "如無正當理由連續三年未在澳門真誠使用，可全部或部分失效。"
+    },
+    "nonUseDefenses": {
+      "ja": "商標権者または許諾を受けた者によるマカオでの真正使用、輸出目的の使用、正当な不使用理由等を証明する。立証責任を確認する。",
+      "en": "Prove genuine use in Macao by the owner or authorized party, export-related use or proper reasons for non-use; verify the burden of proof.",
+      "zh": "應證明權利人或獲授權人於澳門真誠使用、出口相關使用或不使用的正當理由，並確認舉證責任。"
+    },
+    "otherCancellation": {
+      "ja": "普通名称化、誤認的使用、登録条件違反等による失効・取消の可能性を確認する。更新失効・無効とも区別する。",
+      "en": "Check lapse/revocation for genericide, misleading use or breach of registration conditions; distinguish non-renewal and invalidity.",
+      "zh": "應確認商標通用化、誤導性使用或違反註冊條件等失效或撤銷理由，並與未續期及無效區分。"
+    },
+    "invalidation": {
+      "ja": "あり。絶対的・相対的拒絶理由、悪意、先行権利等を理由に無効を求め得る。行政・司法の管轄と期間制限を確認する。",
+      "en": "Available for absolute/relative grounds, bad faith, earlier rights and other bases; verify administrative/judicial forum and time limits.",
+      "zh": "有。可基於絕對或相對理由、惡意、在先權利等請求無效；應確認行政或司法管轄及期限。"
+    },
+    "civilInjunction": {
+      "ja": "マカオ裁判所で仮処分・終局的差止めを請求可能。緊急性、担保、管轄を確認する。",
+      "en": "Interim and final injunctions may be sought in the Macao courts; verify urgency, security and jurisdiction.",
+      "zh": "可向澳門法院申請臨時及永久禁制令；應確認緊迫性、擔保及管轄。"
+    },
+    "civilDamages": {
+      "ja": "損害賠償を請求可能。実損、逸失利益、侵害者利益、精神的・信用上の損害等を個別検討する。",
+      "en": "Damages may be claimed; assess actual loss, lost profits, infringer’s gains and moral/reputational harm.",
+      "zh": "可申索損害賠償；應個別評估實際損失、所失利益、侵權獲利及精神或商譽損害。"
+    },
+    "civilEvidencePreservation": {
+      "ja": "証拠保全、侵害品・帳簿等の差押え、仮処分、公証等を事案に応じ検討する。",
+      "en": "Consider evidence preservation, seizure of goods/records, interim relief and notarization as appropriate.",
+      "zh": "可按案件考慮證據保全、扣押貨品或帳簿、臨時措施及公證。"
+    },
+    "civilOther": {
+      "ja": "侵害品・包装・製造手段の引渡し・廃棄、判決公表、費用等があり得る。",
+      "en": "Delivery up/destruction of infringing goods, packaging or means, publication and costs may be available.",
+      "zh": "可命令交付或銷毀侵權貨品、包裝或製造工具，並公布判決及裁定費用。"
+    },
+    "borderMeasures": {
+      "ja": "マカオ税関への通報により輸出入偽造品の留置・捜査を検討する。権利登録、真正品識別、担保等の運用を確認する。",
+      "en": "Report counterfeit imports/exports to Macao Customs for detention/investigation; verify right recordal, identification and security practice.",
+      "zh": "可向澳門海關舉報進出口冒牌貨，以便扣留及調查；應確認權利備案、真偽鑑定及擔保實務。"
+    },
+    "administrativeRaid": {
+      "ja": "マカオ税関が知的財産権侵害の捜査・店舗や倉庫の摘発・押収で重要な役割を担う。",
+      "en": "Macao Customs plays an important role in investigating IP infringement and conducting shop/warehouse raids and seizures.",
+      "zh": "澳門海關在調查知識產權侵權、搜查店舖或貨倉及扣押貨物方面擔當重要角色。"
+    },
+    "administrativeOther": {
+      "ja": "税関押収、オンライン削除、消費者・製品規制、営業許可への措置等を民事・刑事手続と組み合わせる。",
+      "en": "Combine customs seizure, online takedown, consumer/product regulation and licensing measures with civil or criminal proceedings.",
+      "zh": "可將海關扣押、網上移除、消費者或產品規管及營業許可措施與民事或刑事程序結合。"
+    },
+    "criminalAvailability": {
+      "ja": "商標偽造、偽造標章商品の販売・輸入・所持等について工業所有権法典上の刑事責任があり得る。",
+      "en": "Criminal liability may arise under the Industrial Property Code for trademark counterfeiting and selling, importing or possessing counterfeit-mark goods.",
+      "zh": "依《工業產權法律制度》，偽造商標及售賣、進口或管有冒牌貨品可能構成刑事責任。"
+    },
+    "criminalFine": {
+      "ja": "あり。犯罪類型、法人・自然人、日数罰金等の最新算定を確認する。",
+      "en": "Available; verify current calculation by offense, legal/natural person and day-fine rules.",
+      "zh": "有。應按罪行、法人或自然人及日數罰金制度確認最新計算。"
+    },
+    "criminalImprisonment": {
+      "ja": "あり得る。犯罪類型、故意、規模、再犯等による最新刑期を確認する。",
+      "en": "Potentially available; verify current terms based on offense, intent, scale and repetition.",
+      "zh": "可能判處監禁；應按罪行、故意、規模及重犯等確認現行刑期。"
+    },
+    "criminalOther": {
+      "ja": "侵害品・包装・製造器具の押収・没収・廃棄、営業関連措置、判決公表等があり得る。",
+      "en": "Seizure, forfeiture/destruction of goods, packaging and equipment, business-related measures and publication may apply.",
+      "zh": "可扣押、沒收或銷毀侵權貨品、包裝及設備，並採取營業相關措施及公布判決。"
+    }
+  },
+  "notablePoints": [
+    {
+      "title": {
+        "ja": "中国本土・香港とは別法域",
+        "en": "Separate from Mainland China and Hong Kong",
+        "zh": "與中國內地及香港屬不同法域"
+      },
+      "detail": {
+        "ja": "CNIPA登録や香港登録はマカオを保護しない。三地域へ別々に出願し、表記・権利者名・優先権を整合させる。",
+        "en": "CNIPA and Hong Kong registrations do not cover Macao. File separately in all three territories and align scripts, owner names and priority.",
+        "zh": "內地及香港註冊不涵蓋澳門；須在三地分別申請，並協調文字版本、權利人名稱及優先權。"
+      }
+    },
+    {
+      "title": {
+        "ja": "マドプロは非適用",
+        "en": "Madrid does not apply",
+        "zh": "馬德里體系不適用"
+      },
+      "detail": {
+        "ja": "中国のマドプロ加盟はマカオに及ばない。マカオDSEDTへの直接出願が必要。",
+        "en": "China’s Madrid membership does not extend to Macao; direct filing with DSEDT is required.",
+        "zh": "中國加入馬德里體系不延伸至澳門；須直接向經科局申請。"
+      }
+    },
+    {
+      "title": {
+        "ja": "7年ごとの存続期間",
+        "en": "Seven-year registration cycle",
+        "zh": "七年註冊週期"
+      },
+      "detail": {
+        "ja": "一般的な10年制ではなく、登録許可日から7年、その後も7年ごとに更新する。専用の期限管理が必要。",
+        "en": "Unlike the usual ten-year system, the term is seven years from grant and renewals are every seven years; docket separately.",
+        "zh": "有別於一般十年制度，期限自核准註冊日起七年，之後每七年續期；須另行管理期限。"
+      }
+    },
+    {
+      "title": {
+        "ja": "中文・ポルトガル語実務",
+        "en": "Chinese and Portuguese practice",
+        "zh": "中文及葡文實務"
+      },
+      "detail": {
+        "ja": "両言語が公用語。商品・役務、証拠翻訳、法人名の転写・翻訳を現地代理人と統一する。",
+        "en": "Both are official languages. Coordinate goods/services, evidence translations and transliteration/translation of corporate names with local counsel.",
+        "zh": "中文及葡文均為官方語言；應與本地代理人統一商品服務、證據翻譯及公司名稱音譯或翻譯。"
+      }
+    },
+    {
+      "title": {
+        "ja": "3年不使用とマカオ域内使用",
+        "en": "Three-year non-use and Macao use",
+        "zh": "連續三年不使用及澳門使用"
+      },
+      "detail": {
+        "ja": "中国本土・香港だけの使用では足りない。マカオ向け販売、輸入、広告、オンライン取引の証拠を保存する。",
+        "en": "Mainland- or Hong Kong-only use is insufficient. Preserve evidence of Macao-directed sales, imports, advertising and online transactions.",
+        "zh": "僅在內地或香港使用並不足夠；應保存面向澳門的銷售、進口、廣告及網上交易證據。"
+      }
+    }
+  ],
+  "statistics": {
+    "coverage": "2016–2025",
+    "status": "pending",
+    "series": []
+  },
+  "news": [
+    {
+      "id": "industrial-property-code-review",
+      "type": "policy",
+      "date": "2026-09-13",
+      "title": {
+        "ja": "工業所有権法典改正動向を継続確認",
+        "en": "Continue monitoring reform of the Industrial Property Code",
+        "zh": "持續關注《工業產權法律制度》修訂"
+      },
+      "summary": {
+        "ja": "制度近代化・電子化に関する改正検討と成立法を区別し、DSEDT・官報の一次資料で更新する。",
+        "en": "Distinguish reform proposals from enacted changes concerning modernization and digitization, using DSEDT and Official Gazette primary sources.",
+        "zh": "應區分制度現代化及電子化的修訂建議與已生效法律，並以經科局及政府公報的一手資料更新。"
+      },
+      "sourceUrl": "https://www.dsedt.gov.mo/"
+    },
+    {
+      "id": "electronic-services-2025",
+      "type": "practice",
+      "date": "2025-01-01",
+      "title": {
+        "ja": "電子申請・オンライン検索の活用",
+        "en": "Use of e-filing and online search",
+        "zh": "使用電子申請及網上查詢"
+      },
+      "summary": {
+        "ja": "DSEDT電子サービスと官報検索を出願・期限監視に用い、サービスURLと対象手続をカード更新時に確認する。",
+        "en": "Use DSEDT e-services and gazette search for filing and monitoring, verifying service URLs and procedure coverage at each update.",
+        "zh": "使用經科局電子服務及政府公報查詢辦理申請和期限監察，每次更新卡片時確認服務網址及程序範圍。"
+      },
+      "sourceUrl": "https://www.dsedt.gov.mo/"
+    },
+    {
+      "id": "nice-13-2026",
+      "type": "practice",
+      "date": "2026-01-01",
+      "title": {
+        "ja": "ニース国際分類第13版への対応",
+        "en": "Implementation of Nice Classification, 13th edition",
+        "zh": "適用尼斯分類第十三版"
+      },
+      "summary": {
+        "ja": "2026年新規出願では第13版とDSEDTが受理する中文・ポルトガル語表示を照合する。",
+        "en": "For 2026 filings, align the 13th edition with Chinese/Portuguese wording accepted by DSEDT.",
+        "zh": "2026年新申請應把尼斯分類第十三版與經科局接受的中文或葡文項目對照。"
+      },
+      "sourceUrl": "https://www.wipo.int/classifications/nice/en/"
+    }
+  ],
+  "faqs": [
+    {
+      "tag": "Territory",
+      "question": {
+        "ja": "中国本土、香港、マカオについて別々の出願が必要ですか。",
+        "en": "Are separate filings needed for Mainland China, Hong Kong and Macao?",
+        "zh": "中國內地、香港及澳門是否須分別申請？"
+      },
+      "followUp": {
+        "ja": "三地域で繁体字・簡体字・英字・ポルトガル語版をどう配分すべきですか。",
+        "en": "How should traditional, simplified, Latin-script and Portuguese versions be allocated across the three territories?",
+        "zh": "應如何在三地配置繁體、簡體、拉丁字母及葡文版本？"
+      }
+    },
+    {
+      "tag": "Filing",
+      "question": {
+        "ja": "一区分一出願は現在も必要で、各区分の官費・代理人費用はいくらですか。",
+        "en": "Is one application per class still required, and what are the official and agent fees per class?",
+        "zh": "目前是否仍須每類分別申請？每類官費及代理費是多少？"
+      },
+      "followUp": {
+        "ja": "中文とポルトガル語のどちらで商品・役務を提出するのが実務上適切ですか。",
+        "en": "Is Chinese or Portuguese preferable for the goods/services specification in practice?",
+        "zh": "實務上商品服務應以中文還是葡文提交較合適？"
+      }
+    },
+    {
+      "tag": "Documents",
+      "question": {
+        "ja": "外国委任状には署名認証、公証、アポスティーユまたは領事認証が必要ですか。",
+        "en": "Does a foreign power require signature certification, notarization, Apostille or consular legalization?",
+        "zh": "外國授權書是否須簽名認證、公證、附加證明書或領事認證？"
+      },
+      "followUp": {
+        "ja": "法人証明、優先権証明、中文・ポルトガル語訳の追完期限は。",
+        "en": "What are the late-filing deadlines for corporate/priority documents and Chinese/Portuguese translations?",
+        "zh": "公司及優先權文件、中文或葡文翻譯的補交期限為何？"
+      }
+    },
+    {
+      "tag": "Opposition",
+      "question": {
+        "ja": "官報公告から2か月の異議期限は延長でき、答弁・証拠期限はどうなりますか。",
+        "en": "Can the two-month opposition deadline be extended, and what are the defense/evidence deadlines?",
+        "zh": "政府公報公布後兩個月的異議期可否延長？答辯及證據期限為何？"
+      },
+      "followUp": {
+        "ja": "先行権利者の同意、共存、指定商品限定はどこまで有効ですか。",
+        "en": "How effective are consent, coexistence and specification limitation?",
+        "zh": "在先權利人同意、共存及限制商品服務的效力如何？"
+      }
+    },
+    {
+      "tag": "Non-use",
+      "question": {
+        "ja": "取消前3年間について、マカオでの真正使用を示す最低限の証拠は何ですか。",
+        "en": "What minimum evidence proves genuine use in Macao during the relevant three years?",
+        "zh": "在相關三年內，證明於澳門真誠使用的最低證據為何？"
+      },
+      "followUp": {
+        "ja": "中国本土・香港での使用、マカオ向け輸出、オンライン販売はどこまで有効ですか。",
+        "en": "To what extent do Mainland/Hong Kong use, exports to Macao and online sales count?",
+        "zh": "內地或香港使用、出口至澳門及網上銷售可在多大程度上計算？"
+      }
+    },
+    {
+      "tag": "Enforcement",
+      "question": {
+        "ja": "民事仮処分、マカオ税関への通報、刑事告訴をどのように併用すべきですか。",
+        "en": "How should civil interim relief, reporting to Macao Customs and criminal complaints be combined?",
+        "zh": "應如何結合民事臨時措施、向澳門海關舉報及刑事告訴？"
+      },
+      "followUp": {
+        "ja": "真正品・偽造品識別、証拠保全、担保、費用回収に必要な資料は。",
+        "en": "What materials are needed for identification, preservation, security and cost recovery?",
+        "zh": "真偽鑑定、證據保全、擔保及費用追討需要哪些資料？"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "Macao DSEDT — Intellectual Property",
+      "url": "https://www.dsedt.gov.mo/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Macao SAR Official Gazette",
+      "url": "https://bo.io.gov.mo/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Industrial Property Code — Decree-Law No. 97/99/M",
+      "url": "https://bo.io.gov.mo/bo/i/99/50/declei97_en.asp",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Macao DSEDT — Administrative Procedures",
+      "url": "https://www.gov.mo/en/entity-page/entity-10/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Macao Customs Service — Intellectual Property",
+      "url": "https://www.customs.gov.mo/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO Lex — Macao Legislation Profile",
+      "url": "https://www.wipo.int/wipolex/en/legislation/profile/MO",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO — Macao IP Office Directory",
+      "url": "https://www.wipo.int/directory/en/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO Global Brand Database",
+      "url": "https://branddb.wipo.int/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Macao Courts",
+      "url": "https://www.court.gov.mo/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO Nice Classification",
+      "url": "https://www.wipo.int/classifications/nice/en/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    }
+  ]
+}
