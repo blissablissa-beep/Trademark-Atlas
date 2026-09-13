@@ -1,0 +1,599 @@
+{
+  "id": "co",
+  "type": "country",
+  "flag": "🇨🇴",
+  "region": "americas",
+  "names": {
+    "ja": "コロンビア共和国",
+    "en": "Republic of Colombia",
+    "es": "República de Colombia"
+  },
+  "office": {
+    "ja": "商工監督庁（SIC）",
+    "en": "Superintendence of Industry and Commerce (SIC)",
+    "es": "Superintendencia de Industria y Comercio (SIC)"
+  },
+  "availableLanguages": [
+    "es"
+  ],
+  "createdAt": "2026-09-13",
+  "updatedAt": "2026-09-13",
+  "status": "review",
+  "facts": {
+    "authority": {
+      "ja": "商工監督庁（SIC）",
+      "en": "Superintendence of Industry and Commerce (SIC)",
+      "es": "Superintendencia de Industria y Comercio (SIC)"
+    },
+    "protectionScope": {
+      "ja": "商品・役務の商標、団体商標、証明商標、商号・商業表示、周知標識等。アンデス共同体決定486号が国内法とともに適用される。",
+      "en": "Marks for goods/services, collective marks, certification marks, trade names/commercial signs and well-known signs. Andean Community Decision 486 applies alongside national rules.",
+      "es": "Marcas de productos y servicios, marcas colectivas y de certificación, nombres y enseñas comerciales y signos notoriamente conocidos. Se aplica la Decisión 486 de la Comunidad Andina junto con las normas nacionales."
+    },
+    "markTypes": {
+      "ja": "語、名称、文字、数字、図形、画像、包装、商品の形状、色彩の組合せ・輪郭で限定された色、音、匂い等。標章を十分に表現できることが必要。",
+      "en": "Words, names, letters, numerals, devices, images, packaging, product shapes, color combinations or colors delimited by a shape, sounds, scents and others, provided the sign can be adequately represented.",
+      "es": "Palabras, nombres, letras, números, imágenes, envases, formas de productos, combinaciones de colores o colores delimitados por una forma, sonidos, olores y otros signos susceptibles de representación suficiente."
+    },
+    "madridAccessionDate": {
+      "ja": "2012年8月29日発効",
+      "en": "Effective 29 August 2012",
+      "es": "Vigente desde el 29 de agosto de 2012"
+    },
+    "niceClassification": {
+      "ja": "採用。最新版ニース分類およびSICの受理可能なスペイン語表示を確認する。",
+      "en": "Adopted; verify the current Nice edition and SIC-acceptable Spanish wording.",
+      "es": "Adoptada; verificar la edición vigente y los términos en español aceptados por la SIC."
+    },
+    "classHeadingPractice": {
+      "ja": "類見出しだけで区分内の全商品・役務を当然に包含しない。明確・具体的なスペイン語表示を用いる。",
+      "en": "Class headings do not automatically cover every good/service in a class; use clear and specific Spanish wording.",
+      "es": "Los títulos de clase no abarcan automáticamente todos los productos o servicios; utilizar términos claros y específicos en español."
+    },
+    "retailServices": {
+      "ja": "第35類で可。対象商品および小売・卸売・オンライン販売役務を具体化する。",
+      "en": "Available in Class 35; specify relevant goods and retail, wholesale or online retail services.",
+      "es": "Disponibles en la clase 35; especificar los productos y los servicios de venta minorista, mayorista o en línea."
+    },
+    "multiClassApplication": {
+      "ja": "可。一区分追加ごとに料金が生じる。分割・限定の手続も確認する。",
+      "en": "Available, with fees for each additional class; verify division and limitation procedures.",
+      "es": "Disponible, con tasas por cada clase adicional; verificar división y limitación."
+    },
+    "applicationForm": {
+      "ja": "SICのSIPI電子システム等を通じ、出願人、標章、区分、商品・役務、優先権、代理人等をスペイン語で提出する。",
+      "en": "File in Spanish through SIC’s SIPI electronic system or applicable route, identifying applicant, mark, classes, goods/services, priority and representative.",
+      "es": "Presentación en español mediante SIPI, con solicitante, signo, clases, productos o servicios, prioridad y apoderado."
+    },
+    "powerOfAttorney": {
+      "ja": "外国出願人は通常コロンビアの代理人を選任する。委任状は一般に公証・領事認証不要だが、署名、法人資格、原本・電子提出要件を確認する。",
+      "en": "A foreign applicant normally appoints Colombian counsel. A power generally requires no notarization/legalization, subject to signature, corporate-capacity, original and e-filing requirements.",
+      "es": "El solicitante extranjero suele actuar mediante abogado colombiano. El poder generalmente no requiere notarización ni legalización; verificar firma, facultades y presentación electrónica."
+    },
+    "priorityDocuments": {
+      "ja": "パリ優先権は最初の出願から6か月以内。証明書、スペイン語訳およびSICへの提出期限を確認する。",
+      "en": "Paris priority must be claimed within six months; verify the certified document, Spanish translation and SIC filing deadline.",
+      "es": "La prioridad unionista debe reivindicarse dentro de seis meses; verificar copia certificada, traducción al español y plazo ante la SIC."
+    },
+    "homeRegistrationCertificate": {
+      "ja": "通常の直接出願には不要。",
+      "en": "Not normally required for a direct national filing.",
+      "es": "No se exige normalmente para una solicitud nacional directa."
+    },
+    "useEvidenceAtFiling": {
+      "ja": "通常不要。使用による識別力、周知性、先使用、アンデス域内の権利等を主張する場合は証拠が必要となり得る。",
+      "en": "Not normally required; evidence may be needed for acquired distinctiveness, well-known status, prior use or Andean-region rights.",
+      "es": "No se exige normalmente; puede requerirse para distintividad adquirida, notoriedad, uso anterior o derechos andinos."
+    },
+    "notarizationCertification": {
+      "ja": "通常の委任状は公証・領事認証不要とされる。優先権証明、譲渡、宣誓・証拠書類は手続別に確認する。",
+      "en": "An ordinary power is generally not notarized or legalized; check priority, assignment, affidavit and evidentiary documents separately.",
+      "es": "El poder ordinario generalmente no requiere notarización ni legalización; revisar por separado prioridad, cesión y documentos probatorios."
+    },
+    "otherDocuments": {
+      "ja": "標章見本・説明、非伝統的商標の電子ファイル、スペイン語訳、法人情報、優先権・周知性・使用証拠等。",
+      "en": "Representation/description, electronic file for non-traditional marks, Spanish translations, entity details and priority, reputation or use evidence.",
+      "es": "Representación y descripción, archivo de marca no tradicional, traducciones al español, datos societarios y pruebas de prioridad, notoriedad o uso."
+    },
+    "absoluteGroundsExamination": {
+      "ja": "あり。SICが職権審査する。",
+      "en": "Yes; examined ex officio by SIC.",
+      "es": "Sí; la SIC examina de oficio."
+    },
+    "distinctivenessGrounds": {
+      "ja": "識別力欠如、普通名称、記述的・慣用的表示、専ら一般的形状・技術的形状からなる標章等は拒絶され得る。使用による識別力を検討可能。",
+      "en": "Non-distinctive, generic, descriptive or customary matter and signs consisting exclusively of common or technically dictated shapes may be refused; acquired distinctiveness may be considered.",
+      "es": "Pueden rechazarse signos no distintivos, genéricos, descriptivos o usuales y formas comunes o impuestas técnicamente; puede considerarse la distintividad adquirida."
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "公序良俗、欺瞞性、原産地・品質の誤認、国旗・紋章・公的記章、保護される地理的表示・植物品種名称、輪郭のない単一色等を確認する。",
+      "en": "Check public order/morality, deception as to origin or quality, state flags/emblems and official signs, protected GIs/plant-variety denominations and a single color without delineation.",
+      "es": "Revisar orden público o moral, engaño sobre origen o calidad, emblemas oficiales, indicaciones geográficas y denominaciones vegetales protegidas y colores aislados sin delimitación."
+    },
+    "relativeGroundsExamination": {
+      "ja": "あり。先行コロンビア出願・登録、コロンビア指定国際登録、周知標識、商号、著作権・人格権等との抵触を職権審査する。",
+      "en": "Yes; SIC examines conflicts with earlier Colombian applications/registrations, international registrations designating Colombia, well-known signs, trade names, copyright and personality rights.",
+      "es": "Sí; la SIC examina de oficio solicitudes y registros anteriores, registros internacionales que designan Colombia, signos notorios, nombres comerciales, derechos de autor y derechos de la personalidad."
+    },
+    "disclaimer": {
+      "ja": "非識別的要素について権利不要求・保護範囲限定が認められる場合がある。SICの最新実務を確認する。",
+      "en": "A disclaimer or limitation concerning non-distinctive elements may be accepted; verify current SIC practice.",
+      "es": "Puede admitirse una renuncia o limitación respecto de elementos no distintivos; verificar la práctica vigente de la SIC."
+    },
+    "consent": {
+      "ja": "先行権利者の同意・共存契約のみで混同のおそれが当然解消するとは限らない。消費者保護・市場への影響をSICが独自判断する。",
+      "en": "Consent or coexistence alone does not necessarily overcome likelihood of confusion; SIC independently considers consumers and market effects.",
+      "es": "El consentimiento o acuerdo de coexistencia no elimina automáticamente el riesgo de confusión; la SIC valora independientemente el interés de consumidores y mercado."
+    },
+    "acceleratedExamination": {
+      "ja": "方式要件の迅速審査等の制度・サービスが提供される場合がある。対象工程、要件、料金、実体審査への効果を最新確認する。",
+      "en": "Accelerated formality review or related services may be offered; verify covered stages, conditions, fees and effect on substantive examination.",
+      "es": "Puede existir revisión acelerada de requisitos formales u otro servicio; confirmar etapas, condiciones, tasas y efecto sobre el examen de fondo."
+    },
+    "thirdPartyObservation": {
+      "ja": "商標公報公告後、第三者は30営業日以内に正式異議を申し立てることができる。別個の情報提供は最新SIC実務を確認する。",
+      "en": "After publication in the trademark gazette, a third party may file formal opposition within 30 working days; verify separate observation practice.",
+      "es": "Un tercero puede presentar oposición formal dentro de 30 días hábiles desde la publicación; verificar la práctica de observaciones separadas."
+    },
+    "directExaminationPeriod": {
+      "ja": "SICのサービス目標と実際の期間は案件により異なる。方式、公告・異議、実体審査、決定を分けて最新統計または現地見積りを確認する。",
+      "en": "SIC service targets and actual timing vary. Check current statistics or local estimates separately for formalities, publication/opposition, substantive examination and decision.",
+      "es": "Los objetivos de servicio y el plazo real varían; consultar estadísticas o estimación local para forma, publicación, oposición, examen de fondo y decisión."
+    },
+    "madridExaminationPeriod": {
+      "ja": "コロンビア指定の暫定拒絶通報は原則18か月枠を前提に管理し、WIPO通知記載の現地応答期限を確認する。",
+      "en": "Manage a Colombian designation under the applicable 18-month provisional-refusal framework and verify the local response deadline in the WIPO notice.",
+      "es": "Gestionar la designación bajo el marco aplicable de 18 meses para denegación provisional y comprobar el plazo local indicado en la notificación de la OMPI."
+    },
+    "colourPriorityIdentity": {
+      "ja": "優先権基礎とコロンビア出願で色彩の有無・配置・輪郭を整合させる。色彩変更が同一性を損なわないかを個別確認する。",
+      "en": "Align the presence, arrangement and delineation of color with the priority filing; assess whether color changes impair identity.",
+      "es": "Alinear presencia, disposición y delimitación del color con la solicitud prioritaria; evaluar si las variaciones afectan la identidad."
+    },
+    "colourRelativeGrounds": {
+      "ja": "色彩は全体的印象の一要素であり、色の変更だけで類似性が解消するとは限らない。識別的・支配的要素を総合比較する。",
+      "en": "Color is one element of the overall impression; a color change alone may not avoid similarity. Compare distinctive and dominant elements globally.",
+      "es": "El color integra la impresión de conjunto; cambiarlo no evita necesariamente la similitud. Comparar globalmente elementos distintivos y dominantes."
+    },
+    "colourGenuineUse": {
+      "ja": "登録形態と使用形態の色彩差が標章の識別性を変更するかを評価する。付随的な色変更と、主要な色彩要素の変更を区別する。",
+      "en": "Assess whether color differences between registration and use alter distinctive character, distinguishing incidental changes from changes to a key color element.",
+      "es": "Evaluar si las diferencias de color entre registro y uso alteran el carácter distintivo, distinguiendo cambios accesorios de un cambio en un color esencial."
+    },
+    "colourInfringementScope": {
+      "ja": "登録表示・色彩限定、外観・称呼・観念、商品・役務、需要者、流通経路、混同・関連付けのおそれを総合評価する。",
+      "en": "Assess the registered representation/color limitation, visual, phonetic and conceptual impressions, goods/services, consumers, channels and likelihood of confusion or association.",
+      "es": "Valorar representación y limitación cromática, impresiones visual, fonética y conceptual, productos o servicios, consumidores, canales y riesgo de confusión o asociación."
+    },
+    "colourFilingStrategy": {
+      "ja": "単一色は輪郭による限定が問題となる。色彩が重要ならカラー版を、柔軟性が必要なら白黒版・主要カラー版の併願を検討する。",
+      "en": "A single color requires attention to delineation. If color matters, file in color; for flexibility consider separate black-and-white and key color versions.",
+      "es": "Un color aislado exige atención a su delimitación. Si el color es esencial, solicitarlo en color; para flexibilidad, considerar versiones en blanco y negro y colores principales."
+    },
+    "refusalResponseRoute": {
+      "ja": "SICの方式・実体審査通知に、スペイン語の意見書、補正、指定商品限定、証拠等で応答する。最終拒絶にはrecurso de reposiciónおよび必要に応じ行政訴訟を検討する。",
+      "en": "Respond to SIC formality/substantive notices with Spanish submissions, amendments, specification limitations and evidence. For a final refusal, consider reconsideration (recurso de reposición) and administrative litigation as applicable.",
+      "es": "Responder a requerimientos formales o de fondo con argumentos en español, modificaciones, limitaciones y pruebas. Frente a denegación final, considerar recurso de reposición y acción contenciosa."
+    },
+    "responsePeriod": {
+      "ja": "方式不備等では通知から60営業日が重要となり、一定の場合30営業日の追加期間を請求できる。通知ごとの法的根拠と期限を確認する。",
+      "en": "For formal defects, 60 working days is a critical period and an additional 30 working days may be requested in certain cases. Verify the basis and deadline in each notice.",
+      "es": "Para defectos formales es relevante un plazo de 60 días hábiles y, en ciertos casos, una prórroga de 30 días hábiles. Verificar cada requerimiento."
+    },
+    "extensionAvailable": {
+      "ja": "手続により可能。方式不備の是正では一定の追加期間を請求できる場合がある。",
+      "en": "Available for certain procedures; an additional period may be requested for curing formality defects.",
+      "es": "Disponible en ciertos procedimientos; puede solicitarse plazo adicional para subsanar requisitos formales."
+    },
+    "extensionLength": {
+      "ja": "方式不備では通常30営業日の追加期間が問題となる。その他の通知は個別確認する。",
+      "en": "An additional 30 working days is commonly relevant for formality defects; verify other notices individually.",
+      "es": "Para defectos formales suele ser relevante una prórroga de 30 días hábiles; verificar otros requerimientos."
+    },
+    "extensionRequirements": {
+      "ja": "当初期限内の申請、所定料金その他の要件を確認する。異議自体の30営業日期限とは区別する。",
+      "en": "Verify a request within the original period, prescribed fee and other conditions. Distinguish this from the 30-working-day opposition filing deadline.",
+      "es": "Verificar solicitud dentro del plazo inicial, tasa y demás requisitos. Distinguir del plazo de 30 días hábiles para presentar oposición."
+    },
+    "appealRoute": {
+      "ja": "SICの決定に対するrecurso de reposición等の行政上の不服申立てを行い、その後、Consejo de Estado等への行政訴訟を検討する。決定ごとの上訴可能性を確認する。",
+      "en": "Administrative reconsideration such as recurso de reposición may be filed against SIC decisions, followed where appropriate by administrative litigation before the Council of State; verify reviewability of each decision.",
+      "es": "Puede interponerse recurso administrativo, incluido el de reposición, y luego acción ante el Consejo de Estado cuando proceda; verificar la impugnabilidad de cada decisión."
+    },
+    "refusalAppealPeriod": {
+      "ja": "公式な一律の平均審理期間は確認できない。SIC内の不服申立てとConsejo de Estadoの司法手続を分けて現地見積りを取得する。",
+      "en": "No single official average identified; obtain separate local estimates for SIC reconsideration and Council of State proceedings.",
+      "es": "No se identificó un promedio oficial único; obtener estimaciones separadas para el recurso ante la SIC y el proceso ante el Consejo de Estado."
+    },
+    "publicDatabase": {
+      "ja": "SIC SIPI 商標検索・電子手続",
+      "en": "SIC SIPI trademark search and e-services",
+      "url": "https://sipi.sic.gov.co/",
+      "es": "SIPI de la SIC: búsqueda de marcas y servicios electrónicos"
+    },
+    "publicationStage": {
+      "ja": "方式審査後、出願はSICのGaceta de la Propiedad Industrialに公告され、30営業日の異議期間に入る。",
+      "en": "After formality review, the application is published in SIC’s Industrial Property Gazette and enters a 30-working-day opposition period.",
+      "es": "Tras el examen formal, la solicitud se publica en la Gaceta de la Propiedad Industrial y comienza el plazo de oposición de 30 días hábiles."
+    },
+    "oppositionPeriod": {
+      "ja": "公告日から30営業日。",
+      "en": "30 working days from publication.",
+      "es": "30 días hábiles desde la publicación."
+    },
+    "oppositionExtension": {
+      "ja": "異議申立て後、申立人は証拠提出のため追加30営業日を請求できる場合がある。異議自体は当初30営業日以内に提出する。",
+      "en": "After filing opposition, the opponent may request an additional 30 working days to submit evidence. The opposition itself must be filed in the initial 30-working-day period.",
+      "es": "Presentada la oposición, el opositor puede solicitar 30 días hábiles adicionales para aportar pruebas; la oposición debe presentarse en el plazo inicial."
+    },
+    "averagePendency": {
+      "ja": "異議、拒絶、証拠、行政不服の有無で変動する。SICの最新統計と現地代理人の通常・異議案件別見積りを確認する。",
+      "en": "Varies with opposition, objections, evidence and administrative review; consult current SIC statistics and local estimates for routine and contested cases.",
+      "es": "Varía por oposición, objeciones, prueba y recursos; consultar estadísticas de la SIC y estimaciones locales para asuntos ordinarios y controvertidos."
+    },
+    "term": {
+      "ja": "登録許可日から10年。10年ごとに更新可能。",
+      "en": "10 years from the date registration is granted, renewable for successive ten-year periods.",
+      "es": "Diez años desde la concesión del registro, renovables por períodos sucesivos de diez años."
+    },
+    "termStart": {
+      "ja": "登録許可日から。出願日基準ではない点に注意する。",
+      "en": "From the grant date; note that the term is not calculated from filing.",
+      "es": "Desde la fecha de concesión; no se calcula desde la fecha de solicitud."
+    },
+    "renewalWindow": {
+      "ja": "満了前6か月以内に更新申請可能。",
+      "en": "Renewal may be filed within six months before expiry.",
+      "es": "La renovación puede solicitarse durante los seis meses anteriores al vencimiento."
+    },
+    "gracePeriod": {
+      "ja": "あり。満了後6か月以内は割増料金付きで更新可能。",
+      "en": "Yes; late renewal is available within six months after expiry with surcharge.",
+      "es": "Sí; renovación tardía dentro de los seis meses posteriores al vencimiento con recargo."
+    },
+    "renewalEvidence": {
+      "ja": "通常の更新に使用宣誓・使用証拠は不要。ただし3年不使用取消に備え、アンデス共同体域内の使用証拠を保存する。",
+      "en": "Use declarations/evidence are not ordinarily required for renewal; preserve use evidence within the Andean Community against three-year non-use cancellation.",
+      "es": "No se exige normalmente declaración o prueba de uso; conservar prueba de uso en la Comunidad Andina frente a cancelación por falta de uso durante tres años."
+    },
+    "nonUseCancellation": {
+      "ja": "あり。利害関係人がSICへ行政上の取消を請求できる。裁判訴訟を必須としない。",
+      "en": "Available through an administrative cancellation request by an interested person before SIC; a court action is not mandatory.",
+      "es": "Disponible mediante acción administrativa de cancelación ante la SIC por persona interesada; no exige demanda judicial."
+    },
+    "nonUsePeriod": {
+      "ja": "取消請求前の連続3年間、正当理由なく使用されていない場合。全部または一部取消となり得る。",
+      "en": "Three continuous years of non-use before the cancellation request, without proper reasons; cancellation may be total or partial.",
+      "es": "Tres años continuos sin uso antes de la solicitud de cancelación, sin causa justificada; puede ser total o parcial."
+    },
+    "nonUseDefenses": {
+      "ja": "商標権者側が使用を立証する。コロンビア、ボリビア、エクアドルまたはペルーのいずれかでの真正使用が防御となり得る。正当な不使用理由も検討する。",
+      "en": "The owner bears the burden of proving use. Genuine use in Colombia, Bolivia, Ecuador or Peru may suffice; proper reasons for non-use should also be assessed.",
+      "es": "El titular debe probar el uso. Puede bastar el uso real en Colombia, Bolivia, Ecuador o Perú; también deben valorarse causas justificadas."
+    },
+    "otherCancellation": {
+      "ja": "普通名称化等による取消、権利放棄、更新失効、周知標識との抵触等に基づく無効と区別する。",
+      "en": "Distinguish cancellation for genericide and related grounds from surrender, non-renewal and invalidity based on well-known or other prior rights.",
+      "es": "Distinguir cancelación por vulgarización u otras causas, renuncia, falta de renovación y nulidad por derechos notorios o anteriores."
+    },
+    "invalidation": {
+      "ja": "あり。決定486号上の絶対的・相対的禁止、悪意等を理由にSICへ無効を請求できる。根拠により期間制限の有無が異なる。",
+      "en": "Available before SIC for absolute or relative prohibitions under Decision 486, bad faith and other grounds; time limits differ by ground.",
+      "es": "Disponible ante la SIC por prohibiciones absolutas o relativas de la Decisión 486, mala fe y otras causas; los plazos dependen del fundamento."
+    },
+    "civilInjunction": {
+      "ja": "民事裁判所等で仮処分・終局的差止めを請求可能。SICにも一定の知的財産侵害訴訟権限があるため管轄を確認する。",
+      "en": "Interim and final injunctions may be sought in civil proceedings; SIC also has certain jurisdiction over IP infringement actions, so forum should be confirmed.",
+      "es": "Pueden solicitarse medidas cautelares y prohibición definitiva; confirmar competencia entre la SIC y la jurisdicción ordinaria."
+    },
+    "civilDamages": {
+      "ja": "損害賠償を請求可能。実損、逸失利益、侵害者利益、法定損害賠償制度の選択可能性を確認する。",
+      "en": "Damages may be claimed; assess actual loss, lost profits, infringer’s profits and availability/election of statutory damages.",
+      "es": "Pueden reclamarse perjuicios; valorar daño emergente, lucro cesante, ganancias del infractor y daños preestablecidos."
+    },
+    "civilEvidencePreservation": {
+      "ja": "検査、証拠保全、侵害品・帳簿の差押え、仮処分等を検討できる。",
+      "en": "Inspection, evidence preservation, seizure of infringing goods/records and preliminary measures may be considered.",
+      "es": "Pueden considerarse inspección, conservación de prueba, secuestro de productos o documentos y medidas cautelares."
+    },
+    "civilOther": {
+      "ja": "侵害品・包装・製造手段の廃棄、商流からの排除、判決公表、費用等があり得る。",
+      "en": "Destruction, removal from channels of commerce, publication of judgment and costs may be available.",
+      "es": "Pueden ordenarse destrucción, retiro de los canales comerciales, publicación de sentencia y costas."
+    },
+    "borderMeasures": {
+      "ja": "DIAN税関を通じた知的財産権水際措置あり。登録、通関停止申請、担保、期間、提訴要件を確認する。",
+      "en": "IP border measures are available through DIAN customs; verify recordal, suspension request, security, duration and merits-action requirements.",
+      "es": "Existen medidas en frontera ante la DIAN; verificar registro, suspensión, garantía, duración y exigencia de acción principal."
+    },
+    "administrativeRaid": {
+      "ja": "SIC、警察、検察、DIAN、保健当局等による行政・刑事摘発を商品分野に応じ検討する。",
+      "en": "Consider administrative/criminal raids involving SIC, police, prosecutors, DIAN and health authorities depending on the goods.",
+      "es": "Según el producto, considerar actuaciones de la SIC, Policía, Fiscalía, DIAN y autoridades sanitarias."
+    },
+    "administrativeOther": {
+      "ja": "行政罰、押収、没収、店舗・ウェブ上の表示是正、消費者保護措置等があり得る。",
+      "en": "Administrative fines, seizure, forfeiture, correction of store/web representations and consumer-protection measures may apply.",
+      "es": "Pueden imponerse multas, decomiso, destrucción, corrección de publicidad o sitios web y medidas de protección al consumidor."
+    },
+    "criminalAvailability": {
+      "ja": "商標偽造、権利の不正使用等について刑事責任あり。故意、商業規模、犯罪構成要件を確認する。",
+      "en": "Criminal liability is available for trademark counterfeiting and unauthorized use; verify intent, commercial scale and offense elements.",
+      "es": "Existe responsabilidad penal por falsificación o uso ilícito de marcas; verificar dolo, escala comercial y elementos del delito."
+    },
+    "criminalFine": {
+      "ja": "あり。最低賃金等を基準とする場合があるため、最新刑法上の算定と法人への措置を確認する。",
+      "en": "Available; because calculations may refer to statutory wage units, verify current criminal-law amounts and measures affecting companies.",
+      "es": "Disponible; verificar cuantía vigente, unidades legales de cálculo y medidas aplicables a empresas."
+    },
+    "criminalImprisonment": {
+      "ja": "あり得る。犯罪類型、反復性、規模等による最新刑期を確認する。",
+      "en": "Potentially available; verify current terms based on offense, repetition and scale.",
+      "es": "Posible; verificar pena vigente según delito, reincidencia y escala."
+    },
+    "criminalOther": {
+      "ja": "侵害品・器具の押収・没収・廃棄、施設閉鎖、ドメイン・オンライン販売への措置等があり得る。",
+      "en": "Seizure, forfeiture or destruction of goods/equipment, closure and measures against domains or online sales may be available.",
+      "es": "Pueden proceder incautación, comiso o destrucción, cierre y medidas contra dominios o ventas en línea."
+    }
+  },
+  "notablePoints": [
+    {
+      "title": {
+        "ja": "アンデス共同体の共通商標法",
+        "en": "Andean Community common trademark law",
+        "es": "Derecho marcario común andino"
+      },
+      "detail": {
+        "ja": "決定486号がコロンビア、ボリビア、エクアドル、ペルーに共通適用される。国内手続だけでなく域内の先行権利・使用を確認する。",
+        "en": "Decision 486 applies across Colombia, Bolivia, Ecuador and Peru. Consider regional earlier rights and use, not only Colombian procedure.",
+        "es": "La Decisión 486 se aplica en Colombia, Bolivia, Ecuador y Perú; revisar derechos anteriores y uso en toda la región."
+      }
+    },
+    {
+      "title": {
+        "ja": "不使用取消は3年・権利者が立証",
+        "en": "Three-year non-use; owner proves use",
+        "es": "Falta de uso: tres años y prueba del titular"
+      },
+      "detail": {
+        "ja": "利害関係人はSICへ行政請求でき、権利者が使用を立証する。訴訟必須ではなく、5年基準でもない。",
+        "en": "An interested person may apply administratively to SIC and the owner must prove use. Court litigation is not mandatory and the period is not five years.",
+        "es": "La cancelación se solicita administrativamente ante la SIC y el titular debe demostrar uso; no exige juicio ni un período de cinco años."
+      }
+    },
+    {
+      "title": {
+        "ja": "アンデス域内使用が有効",
+        "en": "Use elsewhere in the Andean Community",
+        "es": "Uso válido en la Comunidad Andina"
+      },
+      "detail": {
+        "ja": "ボリビア、エクアドル、ペルーのいずれかでの真正使用がコロンビア登録の不使用取消に対する防御となり得る。",
+        "en": "Genuine use in Bolivia, Ecuador or Peru may defend a Colombian registration against non-use cancellation.",
+        "es": "El uso real en Bolivia, Ecuador o Perú puede defender un registro colombiano frente a cancelación por falta de uso."
+      }
+    },
+    {
+      "title": {
+        "ja": "営業日で管理する期限",
+        "en": "Deadlines counted in working days",
+        "es": "Plazos en días hábiles"
+      },
+      "detail": {
+        "ja": "異議は公告から30営業日。方式応答の60営業日、証拠提出の追加30営業日等を暦日と混同しない。",
+        "en": "Opposition runs 30 working days; do not confuse this with calendar days when docketing 60-working-day formality responses or an additional evidence period.",
+        "es": "La oposición es de 30 días hábiles; no confundir con días calendario los plazos de 60 días o las prórrogas para prueba."
+      }
+    },
+    {
+      "title": {
+        "ja": "単一色には輪郭が重要",
+        "en": "Delineation matters for a single color",
+        "es": "Delimitación de un color aislado"
+      },
+      "detail": {
+        "ja": "輪郭で特定されない単一色は絶対的禁止の対象。色彩商標は形状・配置・色コードを含め保護対象を明確化する。",
+        "en": "A single color without delineation is absolutely barred. Define color marks using shape, arrangement and color codes as appropriate.",
+        "es": "Un color sin delimitación está sujeto a prohibición absoluta; definir forma, disposición y código cromático cuando corresponda."
+      }
+    }
+  ],
+  "statistics": {
+    "coverage": "2016–2025",
+    "status": "pending",
+    "series": []
+  },
+  "news": [
+    {
+      "id": "andean-tj-digital-2024",
+      "type": "case-law",
+      "date": "2024-01-01",
+      "title": {
+        "ja": "アンデス司法裁判所判例の継続的反映",
+        "en": "Continuing impact of Andean Tribunal case law",
+        "es": "Jurisprudencia continua del Tribunal Andino"
+      },
+      "summary": {
+        "ja": "SICは決定486号に関するアンデス司法裁判所の先決解釈に従う。類似、周知、不使用、悪意に関する近時判例を案件ごとに確認する。",
+        "en": "SIC applies Andean Tribunal preliminary interpretations of Decision 486. Check recent case law on similarity, well-known marks, non-use and bad faith for each matter.",
+        "es": "La SIC aplica las interpretaciones prejudiciales de la Decisión 486. Revisar decisiones recientes sobre similitud, notoriedad, falta de uso y mala fe."
+      },
+      "sourceUrl": "https://www.tribunalandino.org.ec/"
+    },
+    {
+      "id": "sipi-digital-practice-2025",
+      "type": "practice",
+      "date": "2025-01-01",
+      "title": {
+        "ja": "SIPI電子手続・公報監視",
+        "en": "SIPI e-filing and gazette watching",
+        "es": "Tramitación electrónica y vigilancia en SIPI"
+      },
+      "summary": {
+        "ja": "出願、事件閲覧、公報確認をSIPI中心に管理する。30営業日の異議期限に備え、公開データと通知先を定期確認する。",
+        "en": "Manage filing, file inspection and gazette review through SIPI. Verify public data and notification details for the 30-working-day opposition window.",
+        "es": "Gestionar solicitudes, expedientes y gaceta mediante SIPI y controlar el plazo de oposición de 30 días hábiles."
+      },
+      "sourceUrl": "https://sipi.sic.gov.co/"
+    },
+    {
+      "id": "nice-current-edition-2026",
+      "type": "practice",
+      "date": "2026-01-01",
+      "title": {
+        "ja": "最新ニース分類・受理表示の確認",
+        "en": "Current Nice edition and accepted wording",
+        "es": "Edición vigente de Niza y términos aceptados"
+      },
+      "summary": {
+        "ja": "新規出願では最新ニース分類とSICのスペイン語受理表示を照合し、広すぎる類見出しを避ける。",
+        "en": "For new filings, align the current Nice edition with SIC-accepted Spanish wording and avoid overly broad class headings.",
+        "es": "Alinear la clasificación vigente con términos en español aceptados por la SIC y evitar títulos de clase excesivamente amplios."
+      },
+      "sourceUrl": "https://www.wipo.int/classifications/nice/en/"
+    }
+  ],
+  "faqs": [
+    {
+      "tag": "Andean strategy",
+      "question": {
+        "ja": "コロンビア出願に対して、他のアンデス共同体加盟国の先行権利がどのように影響しますか。",
+        "en": "How can earlier rights in another Andean Community member affect a Colombian filing?",
+        "es": "¿Cómo afectan a una solicitud colombiana los derechos anteriores en otro país de la Comunidad Andina?"
+      },
+      "followUp": {
+        "ja": "域内異議を行う場合、コロンビアへの同時出願その他の正当な利益の要件はありますか。",
+        "en": "For an Andean opposition, is a simultaneous Colombian filing or other showing of legitimate interest required?",
+        "es": "Para una oposición andina, ¿se exige solicitud simultánea en Colombia u otra prueba de interés legítimo?"
+      }
+    },
+    {
+      "tag": "Filing",
+      "question": {
+        "ja": "SIPIで多区分出願する場合の追加区分料金と、分割・限定の実務を教えてください。",
+        "en": "What are the extra-class fees and current division/limitation practice for a multi-class SIPI filing?",
+        "es": "¿Cuáles son las tasas por clase adicional y la práctica de división o limitación en SIPI?"
+      },
+      "followUp": {
+        "ja": "委任状、優先権証明、スペイン語訳の形式と追完期限は。",
+        "en": "What are the form and late-filing deadlines for the power, priority document and Spanish translation?",
+        "es": "¿Qué forma y plazo se aplican al poder, documento de prioridad y traducción al español?"
+      }
+    },
+    {
+      "tag": "Examination",
+      "question": {
+        "ja": "先行商標拒絶に、同意書、指定商品限定、取消、共存契約のどれが有効ですか。",
+        "en": "Against an earlier-mark refusal, which is effective: consent, limitation, cancellation or coexistence?",
+        "es": "Frente a una objeción por marca anterior, ¿conviene consentimiento, limitación, cancelación o coexistencia?"
+      },
+      "followUp": {
+        "ja": "60営業日の応答期限と30営業日の延長は、この通知に適用されますか。",
+        "en": "Do the 60-working-day response and 30-working-day extension apply to this notice?",
+        "es": "¿Se aplican a este requerimiento los 60 días hábiles y la prórroga de 30 días hábiles?"
+      }
+    },
+    {
+      "tag": "Opposition",
+      "question": {
+        "ja": "異議は公告から30営業日以内で、証拠提出の追加30営業日を請求できますか。",
+        "en": "Must opposition be filed within 30 working days, with an additional 30 working days available for evidence?",
+        "es": "¿Debe presentarse la oposición dentro de 30 días hábiles y puede pedirse otro plazo de 30 días para pruebas?"
+      },
+      "followUp": {
+        "ja": "答弁、証拠、recurso de reposiciónの各期限と費用を確認してください。",
+        "en": "Please confirm the deadlines and costs for defense, evidence and reconsideration.",
+        "es": "Confirmar plazos y costes de contestación, prueba y recurso de reposición."
+      }
+    },
+    {
+      "tag": "Non-use",
+      "question": {
+        "ja": "取消請求前3年間について、商標権者がどの程度の使用を立証すべきですか。",
+        "en": "What level of use must the owner prove for the three years before cancellation?",
+        "es": "¿Qué nivel de uso debe probar el titular durante los tres años anteriores a la cancelación?"
+      },
+      "followUp": {
+        "ja": "ボリビア、エクアドルまたはペルーでの使用証拠を、コロンビアでどの形式で提出しますか。",
+        "en": "In what form should evidence of use in Bolivia, Ecuador or Peru be filed in Colombia?",
+        "es": "¿Cómo se presenta en Colombia prueba de uso en Bolivia, Ecuador o Perú?"
+      }
+    },
+    {
+      "tag": "Enforcement",
+      "question": {
+        "ja": "SICでの侵害手続と通常裁判所のどちらが、仮処分・損害賠償に適していますか。",
+        "en": "Is SIC or the ordinary court preferable for interim relief and damages?",
+        "es": "¿Es preferible la SIC o la jurisdicción ordinaria para medidas cautelares y perjuicios?"
+      },
+      "followUp": {
+        "ja": "法定損害賠償、DIAN税関、刑事告訴を併用する要件と費用は。",
+        "en": "What are the requirements and costs for combining statutory damages, DIAN customs and criminal action?",
+        "es": "¿Qué requisitos y costes existen para combinar daños preestablecidos, DIAN y acción penal?"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "SIC — Industrial Property",
+      "url": "https://www.sic.gov.co/tema/propiedad-Industrial",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "SIC — SIPI",
+      "url": "https://sipi.sic.gov.co/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Andean Community — Decision 486",
+      "url": "https://www.comunidadandina.org/DocOficialesFiles/Gacetas/Gace600.pdf",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO Lex — Colombia Legislation Profile",
+      "url": "https://www.wipo.int/wipolex/en/legislation/profile/CO",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO — Madrid Accession: Colombia",
+      "url": "https://www.wipo.int/treaties/en/notifications/madridp-gp/treaty_madridp_gp_186.html",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO Madrid Member Profile — Colombia",
+      "url": "https://www.wipo.int/madrid/memberprofiles/#/result?countries=CO",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO Global Brand Database",
+      "url": "https://branddb.wipo.int/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Andean Tribunal of Justice",
+      "url": "https://www.tribunalandino.org.ec/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "DIAN — Colombian Customs",
+      "url": "https://www.dian.gov.co/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO Nice Classification",
+      "url": "https://www.wipo.int/classifications/nice/en/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    }
+  ]
+}
