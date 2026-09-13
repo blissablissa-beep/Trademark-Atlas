@@ -100,6 +100,10 @@
     "path": "./data/jurisdictions/ie.json"
   },
   {
+    "id": "ae",
+    "path": "./data/jurisdictions/ae.json"
+  },
+  {
     "id": "za",
     "path": "./data/jurisdictions/za.json"
   }
