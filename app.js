@@ -969,6 +969,10 @@ function renderDetail() {
           label = "Espa\u{F1}ol";
         }
         
+        if (language === "pt") {
+         label = "Português";
+        }
+        
         if (language === "zh") {
           label = "中文";
         }
