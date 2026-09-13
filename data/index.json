@@ -112,6 +112,10 @@
     "path": "./data/jurisdictions/es.json"
   },
   {
+    "id": "pt",
+    "path": "./data/jurisdictions/pt.json"
+  },
+  {
     "id": "fr",
     "path": "./data/jurisdictions/fr.json"
   },
