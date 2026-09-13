@@ -1,0 +1,605 @@
+{
+  "id": "pt",
+  "type": "country",
+  "flag": "🇵🇹",
+  "region": "europe",
+  "names": {
+    "ja": "ポルトガル共和国",
+    "en": "Portuguese Republic",
+    "pt": "República Portuguesa"
+  },
+  "office": {
+    "ja": "ポルトガル産業財産庁（INPI Portugal）",
+    "en": "Portuguese Institute of Industrial Property (INPI Portugal)",
+    "pt": "Instituto Nacional da Propriedade Industrial (INPI Portugal)"
+  },
+  "availableLanguages": [
+    "pt"
+  ],
+  "createdAt": "2026-09-13",
+  "updatedAt": "2026-09-13",
+  "status": "review",
+  "facts": {
+    "authority": {
+      "ja": "ポルトガル産業財産庁（INPI Portugal）。EU商標はEUIPOが管轄し、ポルトガルでも効力を有する。",
+      "en": "Portuguese Institute of Industrial Property (INPI Portugal). EU trade marks are administered by EUIPO and also cover Portugal.",
+      "pt": "Instituto Nacional da Propriedade Industrial (INPI Portugal). As marcas da União Europeia são administradas pelo EUIPO e produzem efeitos em Portugal."
+    },
+    "protectionScope": {
+      "ja": "商品・役務の個別商標、団体商標、証明・保証商標、著名・周知商標。EU商標・国際登録との重複を確認する。",
+      "en": "Individual marks for goods/services, collective marks, certification/guarantee marks and well-known/reputed marks; account for EUTMs and international registrations.",
+      "pt": "Marcas individuais de produtos ou serviços, marcas coletivas, marcas de certificação ou garantia e marcas notórias ou de prestígio; considerar MUE e registros internacionais."
+    },
+    "markTypes": {
+      "ja": "文字、図形、結合、立体、位置、模様、色彩、音、動き、マルチメディア、ホログラム等。明確かつ正確に表示可能であることが必要。",
+      "en": "Word, figurative, composite, 3D, position, pattern, color, sound, motion, multimedia and hologram marks, provided the subject matter is represented clearly and precisely.",
+      "pt": "Marcas nominativas, figurativas, mistas, tridimensionais, de posição, padrão, cor, sonoras, de movimento, multimédia e holograma, desde que representadas de modo claro e preciso."
+    },
+    "madridAccessionDate": {
+      "ja": "マドリッド協定：1893年10月31日、マドリッド協定議定書：1997年3月20日（各効力発生日は最新WIPOプロフィールで確認）。",
+      "en": "Madrid Agreement: 31 October 1893; Madrid Protocol: 20 March 1997. Confirm operative dates in the current WIPO member profile.",
+      "pt": "Acordo de Madri: 31 de outubro de 1893; Protocolo de Madri: 20 de março de 1997. Confirmar as datas no perfil atual da OMPI."
+    },
+    "niceClassification": {
+      "ja": "採用。INPIの商品・役務検索ツールおよびニース分類最新版を確認する。",
+      "en": "Adopted; consult the current Nice edition and INPI goods/services tools.",
+      "pt": "Adotada; consultar a edição vigente da Classificação de Nice e as ferramentas de produtos e serviços do INPI."
+    },
+    "classHeadingPractice": {
+      "ja": "類見出しの文言はその通常の字義範囲に限られ、区分全体を当然には包含しない。明確・具体的に指定する。",
+      "en": "Class-heading terms cover their ordinary literal meaning and do not automatically cover the whole class; specify clearly and precisely.",
+      "pt": "Os termos dos títulos das classes abrangem o seu sentido literal normal e não toda a classe; a lista deve ser clara e precisa."
+    },
+    "retailServices": {
+      "ja": "第35類で可。小売・卸売の対象商品または業務分野を具体化する。",
+      "en": "Available in Class 35; specify the goods or business sector concerned by retail/wholesale services.",
+      "pt": "Disponível na classe 35; especificar os produtos ou o setor abrangido pelos serviços de varejo ou atacado."
+    },
+    "multiClassApplication": {
+      "ja": "可。一区分を超える各区分について追加料金。分割・一部拒絶・更新時の区分管理を確認する。",
+      "en": "Available, with additional fees beyond the first class; consider division, partial refusal and class management at renewal.",
+      "pt": "Disponível, com taxas adicionais além da primeira classe; considerar divisão, recusa parcial e gestão das classes na renovação."
+    },
+    "applicationForm": {
+      "ja": "INPIオンラインサービスまたは所定様式で、出願人、標章、指定商品・役務、区分、優先権、代理人等をポルトガル語で提出する。",
+      "en": "File through INPI online services or the prescribed form in Portuguese, identifying the applicant, mark, goods/services, classes, priority and representative.",
+      "pt": "O pedido é apresentado em português pelos serviços online do INPI ou formulário próprio, indicando requerente, sinal, produtos ou serviços, classes, prioridade e mandatário."
+    },
+    "powerOfAttorney": {
+      "ja": "EEA域外の出願人はポルトガルで資格を有する代理人の選任が通常必要。委任状の提出・署名要件は代理人種別と手続により確認する。",
+      "en": "Applicants outside the EEA generally need a qualified Portuguese representative; verify power and signature requirements by representative and procedure.",
+      "pt": "Requerentes fora do EEE necessitam, em geral, de mandatário habilitado em Portugal; confirmar procuração e assinatura conforme o mandatário e o ato."
+    },
+    "priorityDocuments": {
+      "ja": "パリ優先権は最初の出願から6か月以内。出願時に主張し、INPIから求められる証明書・翻訳の提出期限を確認する。",
+      "en": "Paris priority must be claimed within six months and declared at filing; verify the deadline for any certificate or translation requested by INPI.",
+      "pt": "A prioridade unionista deve ser reivindicada em seis meses e declarada no pedido; confirmar o prazo de documento e tradução solicitados pelo INPI."
+    },
+    "homeRegistrationCertificate": {
+      "ja": "通常の直接出願には不要。パリ条約第6条の5の本国登録援用等では別途確認する。",
+      "en": "Not normally required for a direct filing; confirm separately where Paris Convention Article 6quinquies is invoked.",
+      "pt": "Não é normalmente exigido no pedido direto; confirmar separadamente quando invocado o artigo 6 quinquies da Convenção de Paris."
+    },
+    "useEvidenceAtFiling": {
+      "ja": "通常不要。使用による識別力、周知・名声、善意の先使用その他を主張する場合はポルトガルでの証拠が必要。",
+      "en": "Not normally required; Portuguese evidence is needed for acquired distinctiveness, reputation, prior use or similar claims.",
+      "pt": "Não é normalmente exigida; provas em Portugal são necessárias para distintividade adquirida, notoriedade, uso anterior ou alegações semelhantes."
+    },
+    "notarizationCertification": {
+      "ja": "通常の委任状は公証・アポスティーユ不要とされることが多い。譲渡、法人変更、宣誓書等は個別確認する。",
+      "en": "An ordinary power commonly requires no notarization or apostille; verify assignments, corporate changes and declarations separately.",
+      "pt": "A procuração comum normalmente dispensa reconhecimento e apostila; cessões, alterações societárias e declarações devem ser verificadas separadamente."
+    },
+    "otherDocuments": {
+      "ja": "商標表示、委任状、優先権証明、団体・証明標章規則、非伝統的商標ファイル、使用による識別力・名声の証拠等。",
+      "en": "Representation, power, priority document, collective/certification regulations, non-traditional mark files and acquired-distinctiveness or reputation evidence.",
+      "pt": "Representação, procuração, prioridade, regulamentos de marcas coletivas ou de certificação, arquivos de marcas não tradicionais e provas de distintividade adquirida ou prestígio."
+    },
+    "absoluteGroundsExamination": {
+      "ja": "あり。INPIが職権審査する。",
+      "en": "Yes; examined ex officio by INPI.",
+      "pt": "Sim; examinados de ofício pelo INPI."
+    },
+    "distinctivenessGrounds": {
+      "ja": "識別力欠如、普通名称、商品・役務の種類・品質・数量・用途・価値・産地等の記述、慣用標識、単純な色彩・形状等。使用による識別力を立証できる場合がある。",
+      "en": "Non-distinctive, generic, descriptive or customary signs and simple colors/shapes may be refused; acquired distinctiveness may be established.",
+      "pt": "Sinais sem caráter distintivo, genéricos, descritivos ou usuais e cores ou formas simples podem ser recusados; pode provar-se distintividade adquirida."
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "公序良俗、公的紋章・旗章、欺瞞性、機能的・本質的形状、地理的表示、伝統的用語、植物品種名称、悪意等を確認する。",
+      "en": "Check public order/morality, official emblems/flags, deception, functional/inherent shapes, GIs, traditional terms, plant-variety denominations and bad faith.",
+      "pt": "Verificar ordem pública e bons costumes, emblemas e bandeiras oficiais, caráter enganoso, formas funcionais ou inerentes, IG, termos tradicionais, variedades vegetais e má-fé."
+    },
+    "relativeGroundsExamination": {
+      "ja": "あり。先行ポルトガル商標、EU商標、ポルトガルを指定する国際登録、周知・名声商標、氏名・商号・著作権等との抵触を審査する。異議の有無と職権審査範囲を最新実務で確認する。",
+      "en": "Yes. Conflicts may involve earlier Portuguese marks, EUTMs, international registrations designating Portugal, reputed marks, names, trade names and copyright; verify the current ex-officio scope.",
+      "pt": "Sim. Podem ser relevantes marcas portuguesas anteriores, MUE, registros internacionais designando Portugal, marcas de prestígio, nomes, firmas e direitos autorais; confirmar o alcance atual do exame oficioso."
+    },
+    "disclaimer": {
+      "ja": "あり得る。非識別要素について保護範囲を限定する声明・注記の可否を確認するが、標章全体の識別力不足を当然には解消しない。",
+      "en": "May be available for non-distinctive elements, but does not automatically cure lack of distinctiveness of the mark as a whole.",
+      "pt": "Pode existir ressalva quanto a elementos não distintivos, mas não elimina automaticamente a falta de caráter distintivo do conjunto."
+    },
+    "consent": {
+      "ja": "先行権利者の同意・共存契約が考慮される場合があるが、INPIを常に拘束せず、同一標章・同一商品等や公益上の混同を確認する。",
+      "en": "Earlier-owner consent or coexistence may be considered but does not invariably bind INPI; check identical signs/goods and public-interest confusion.",
+      "pt": "O consentimento ou acordo de coexistência pode ser considerado, mas nem sempre vincula o INPI; verificar sinais e produtos idênticos e o risco de confusão de interesse público."
+    },
+    "acceleratedExamination": {
+      "ja": "一般的な自動ファストトラックは限定的。裁判・侵害・資金調達等の緊急性を理由とする優先処理の可否をINPIおよび現地代理人に確認する。",
+      "en": "A general automatic fast track is limited; ask INPI/local counsel whether justified urgency such as litigation or infringement supports priority handling.",
+      "pt": "A via rápida geral é limitada; confirmar com o INPI e mandatário se urgência justificada, como litígio ou infração, permite tratamento prioritário."
+    },
+    "thirdPartyObservation": {
+      "ja": "出願公告後に正式な異議申立てが可能。絶対的拒絶理由に関する第三者意見・情報提供の形式は最新INPI実務を確認する。",
+      "en": "Formal opposition is available after publication; verify current INPI practice for third-party observations on absolute grounds.",
+      "pt": "É possível apresentar oposição após a publicação; confirmar a prática atual do INPI para observações de terceiros sobre motivos absolutos."
+    },
+    "directExaminationPeriod": {
+      "ja": "異議のない直接出願は概ね4～8か月程度で処理されることがある。方式不備、異議、拒絶、滞貨により変動するため最新INPI統計を確認する。",
+      "en": "An unopposed direct filing may be processed in roughly four to eight months; formal defects, opposition, refusal and backlog can change this materially.",
+      "pt": "Um pedido direto sem oposição pode ser processado em cerca de quatro a oito meses; irregularidades, oposição, recusa e estoque podem alterar o prazo."
+    },
+    "madridExaminationPeriod": {
+      "ja": "国際事務局の通報日から原則18か月以内に暫定拒絶を通報する。実際の最終保護認容までの期間は案件により異なる。",
+      "en": "INPI generally must notify provisional refusal within 18 months from WIPO notification; actual time to final protection varies.",
+      "pt": "O INPI deve, em regra, notificar recusa provisória em 18 meses da notificação da OMPI; o tempo até a proteção final varia."
+    },
+    "colourPriorityIdentity": {
+      "ja": "EUIPN共通実務を参照し、白黒商標とカラー商標は色彩差が軽微でない限り優先権上同一と扱われない可能性がある。個別確認する。",
+      "en": "Under EUIPN convergence practice, black-and-white and color marks may not be identical for priority unless color differences are insignificant; assess individually.",
+      "pt": "Segundo a prática convergente da EUIPN, marcas em preto e branco e a cores podem não ser idênticas para prioridade, salvo diferenças insignificantes; avaliar caso a caso."
+    },
+    "colourRelativeGrounds": {
+      "ja": "色彩差を含む外観、称呼、観念、識別力ある要素を総合比較する。白黒登録が当然に全色彩を包含するとは限らない。",
+      "en": "Compare visual, aural and conceptual impressions and distinctive elements, including color differences; a black-and-white registration does not automatically cover every color.",
+      "pt": "Comparar impressões visual, fonética e conceitual e elementos distintivos, incluindo cores; o registro em preto e branco não cobre automaticamente todas as cores."
+    },
+    "colourGenuineUse": {
+      "ja": "EUIPN共通実務では、文字・図形が一致し、色彩が主要な識別要素でなく、コントラスト・色の組合せが維持される等の場合、色違い使用が識別性を変更しないことがある。",
+      "en": "EUIPN practice may accept color variation where verbal/figurative elements coincide, color is not independently distinctive or dominant, and contrast/color arrangement is preserved.",
+      "pt": "A prática EUIPN pode aceitar variação de cor quando elementos verbais ou figurativos coincidem, a cor não é distintiva ou dominante e o contraste e a disposição são preservados."
+    },
+    "colourInfringementScope": {
+      "ja": "登録表示、色彩の識別力、標章全体、商品・役務、関連公衆、混同のおそれを総合評価する。",
+      "en": "Assess the registration, distinctiveness of color, marks as a whole, goods/services, relevant public and likelihood of confusion.",
+      "pt": "Avaliar registro, caráter distintivo da cor, conjunto das marcas, produtos ou serviços, público relevante e risco de confusão."
+    },
+    "colourFilingStrategy": {
+      "ja": "ブランド色が重要ならカラー版を、柔軟性が必要なら白黒版と主要配色を別出願する。ポルトガル国内商標とEU商標の役割も分ける。",
+      "en": "If brand color matters, file in color; for flexibility consider separate black-and-white and key-color filings, coordinating national and EUTM protection.",
+      "pt": "Se a cor é relevante, depositar a versão colorida; para flexibilidade, considerar pedidos separados em preto e branco e cores principais, coordenando marca nacional e MUE."
+    },
+    "refusalResponseRoute": {
+      "ja": "INPI通知に意見書、補正、指定限定、同意書、使用証拠等で応答する。最終拒絶・決定には知的財産裁判所への司法不服を検討する。",
+      "en": "Respond to INPI with arguments, amendment, limitation, consent or use evidence; challenge final decisions before the Intellectual Property Court as applicable.",
+      "pt": "Responder ao INPI com argumentos, alterações, limitações, consentimento ou provas de uso; impugnar decisões finais no Tribunal da Propriedade Intelectual, quando cabível."
+    },
+    "responsePeriod": {
+      "ja": "通知・公報記載期限が支配する。通常の応答は1～2か月程度となることがあるため、公告日・送達日を直ちに確認する。",
+      "en": "The deadline in the notice or bulletin controls; ordinary responses may be due in one to two months, so verify publication/service immediately.",
+      "pt": "Prevalece o prazo da notificação ou boletim; respostas comuns podem vencer em um ou dois meses, devendo-se conferir imediatamente publicação ou notificação."
+    },
+    "extensionAvailable": {
+      "ja": "手続により限定的に可能。期限前申請、料金、正当理由の要否を個別確認する。",
+      "en": "Limited extensions may be available depending on procedure; verify timely request, fee and any justification.",
+      "pt": "Prorrogações limitadas podem existir conforme o procedimento; confirmar pedido tempestivo, taxa e eventual justificação."
+    },
+    "extensionLength": {
+      "ja": "異議・答弁等で1か月程度の延長が認められる場合があるが、法定期限ごとに確認する。",
+      "en": "An extension of about one month may be available for certain opposition/reply steps; verify each statutory period.",
+      "pt": "Pode haver prorrogação de cerca de um mês em certos atos de oposição ou resposta; confirmar cada prazo legal."
+    },
+    "extensionRequirements": {
+      "ja": "期限前の申請・料金が原則。裁判上の不服期限は別に厳格管理する。",
+      "en": "A pre-expiry request and fee are generally required; docket judicial appeal periods separately and strictly.",
+      "pt": "Em regra, exige-se pedido antes do termo e taxa; controlar separadamente e com rigor os prazos judiciais."
+    },
+    "appealRoute": {
+      "ja": "INPIの登録許可・拒絶その他の決定は知的財産裁判所へ争うことができ、その後リスボン控訴裁判所等への上訴を検討する。行政上の再検討可否も確認する。",
+      "en": "INPI grant/refusal and other decisions may be challenged before the Intellectual Property Court, with further appeal to the Lisbon Court of Appeal as applicable; verify administrative reconsideration.",
+      "pt": "As decisões do INPI podem ser impugnadas no Tribunal da Propriedade Intelectual, com recurso para o Tribunal da Relação de Lisboa quando cabível; confirmar reapreciação administrativa."
+    },
+    "refusalAppealPeriod": {
+      "ja": "通常、公報掲載または送達から2か月が重要な目安。決定類型・当事者居所・送達方法により起算点を現地代理人と確認する。",
+      "en": "A two-month period from publication or service is commonly critical; confirm the trigger by decision type, domicile and service method.",
+      "pt": "O prazo de dois meses da publicação ou notificação é frequentemente decisivo; confirmar o termo inicial conforme decisão, domicílio e forma de notificação."
+    },
+    "publicDatabase": {
+      "ja": "INPI Portugalオンライン商標検索",
+      "en": "INPI Portugal Online Trademark Search",
+      "pt": "Pesquisa online de marcas do INPI Portugal",
+      "url": "https://servicosonline.inpi.justica.gov.pt/"
+    },
+    "publicationStage": {
+      "ja": "方式審査後、産業財産公報に出願公告され、2か月の異議期間に入る。その後、実体審査・登録決定・料金手続。",
+      "en": "After formality review, the application is published in the Industrial Property Bulletin for a two-month opposition period, followed by substantive examination and grant formalities.",
+      "pt": "Após exame formal, o pedido é publicado no Boletim da Propriedade Industrial para oposição em dois meses, seguindo-se exame de mérito e formalidades de concessão."
+    },
+    "oppositionPeriod": {
+      "ja": "産業財産公報の出願公告から2か月以内。",
+      "en": "Within two months from publication of the application in the Industrial Property Bulletin.",
+      "pt": "Em dois meses da publicação do pedido no Boletim da Propriedade Industrial."
+    },
+    "oppositionExtension": {
+      "ja": "一定の場合に1か月の延長が可能とされる。申請期限、料金、異議理由・証拠補充との関係を確認する。",
+      "en": "A one-month extension may be available in certain cases; verify request timing, fee and supplementation of grounds/evidence.",
+      "pt": "Pode haver prorrogação de um mês em certos casos; confirmar momento do pedido, taxa e complementação de fundamentos ou provas."
+    },
+    "averagePendency": {
+      "ja": "異議なしで概ね4～8か月。異議・拒絶・裁判がある場合は大幅に長期化する。最新INPI統計を確認する。",
+      "en": "Roughly four to eight months if unopposed; opposition, refusal or litigation can extend this substantially. Check current INPI data.",
+      "pt": "Cerca de quatro a oito meses sem oposição; oposição, recusa ou litígio podem prolongar significativamente. Consultar dados atuais do INPI."
+    },
+    "term": {
+      "ja": "登録許可日から10年。10年ごとに更新可能。",
+      "en": "10 years from the date of grant, renewable for successive ten-year periods.",
+      "pt": "10 anos da data da concessão, renováveis por períodos sucessivos de 10 anos."
+    },
+    "termStart": {
+      "ja": "登録許可日から。",
+      "en": "From the date of grant.",
+      "pt": "Da data da concessão."
+    },
+    "renewalWindow": {
+      "ja": "満了前6か月以内に更新申請するのが通常。正確な開始日・料金段階は登録ごとに確認する。",
+      "en": "Renewal is normally filed within six months before expiry; verify the exact opening date and fee stage for each registration.",
+      "pt": "A renovação é normalmente requerida nos seis meses anteriores ao termo; confirmar a data inicial e a taxa de cada registro."
+    },
+    "gracePeriod": {
+      "ja": "あり。満了後6か月以内は追加料金を伴う遅延更新が可能。",
+      "en": "Yes; late renewal is available within six months after expiry with an additional fee.",
+      "pt": "Sim; é possível renovar nos seis meses posteriores ao termo mediante taxa adicional."
+    },
+    "renewalEvidence": {
+      "ja": "更新時の使用宣誓・使用証拠は通常不要。ただし5年不使用取消に備え、ポルトガルまたは適切なEU域内使用証拠を保存する。",
+      "en": "No use declaration/evidence is normally required at renewal; preserve appropriate Portuguese/EU use evidence against five-year non-use cancellation.",
+      "pt": "Não se exige normalmente prova de uso na renovação; conservar provas adequadas de uso em Portugal ou na UE contra caducidade por cinco anos."
+    },
+    "nonUseCancellation": {
+      "ja": "あり。継続5年の真正使用欠如についてINPIへの行政手続または裁判上の反訴等を検討する。",
+      "en": "Available for lack of genuine use during a continuous five-year period through administrative proceedings or counterclaim as applicable.",
+      "pt": "Disponível por falta de uso sério durante cinco anos consecutivos, por via administrativa ou reconvenção, conforme o caso."
+    },
+    "nonUsePeriod": {
+      "ja": "正当理由なく登録後継続5年間、対象領域で真正使用されていない場合。使用開始後の5年中断も対象。",
+      "en": "Five continuous years without genuine use after registration, absent proper reasons; a five-year interruption after use also counts.",
+      "pt": "Cinco anos consecutivos sem uso sério após o registro, sem justo motivo; também conta a interrupção do uso por cinco anos."
+    },
+    "nonUseDefenses": {
+      "ja": "権利者が対象期間・領域・商品役務について真正使用または正当理由を立証する。EU商標と国内商標では使用領域の評価が異なる。",
+      "en": "The owner proves genuine use or proper reasons for the relevant period, territory and goods/services. Territorial assessment differs between EUTMs and national marks.",
+      "pt": "O titular prova uso sério ou justo motivo no período, território e produtos ou serviços relevantes. A avaliação territorial difere entre MUE e marca nacional."
+    },
+    "otherCancellation": {
+      "ja": "普通名称化、誤認を生じさせる使用、団体・証明商標の管理違反、更新欠缺等による取消・失効があり得る。",
+      "en": "Revocation/lapse may result from genericide, misleading use, collective/certification mark failures or non-renewal.",
+      "pt": "Pode haver caducidade por vulgarização, uso enganoso, falhas em marcas coletivas ou de certificação ou falta de renovação."
+    },
+    "invalidation": {
+      "ja": "あり。絶対的・相対的理由、悪意、先行権利等に基づきINPI手続または知的財産裁判所で争う。善意取得等に関する5年黙認も確認する。",
+      "en": "Available on absolute/relative grounds, bad faith and earlier rights before INPI or the Intellectual Property Court; check five-year acquiescence rules.",
+      "pt": "Disponível por motivos absolutos ou relativos, má-fé e direitos anteriores perante o INPI ou Tribunal da Propriedade Intelectual; verificar tolerância de cinco anos."
+    },
+    "civilInjunction": {
+      "ja": "知的財産裁判所等で暫定的・終局的差止めを請求可能。緊急性、被侵害権利の有効性、比例性、担保を確認する。",
+      "en": "Interim and final injunctions are available; assess urgency, validity, proportionality and security.",
+      "pt": "São cabíveis providências cautelares e injunções definitivas; avaliar urgência, validade, proporcionalidade e caução."
+    },
+    "civilDamages": {
+      "ja": "実損・逸失利益、侵害者利益、合理的ロイヤルティ、調査・訴訟費用、非財産的損害等を検討する。",
+      "en": "Consider actual loss/lost profits, infringer profits, reasonable royalty, investigation/litigation costs and non-pecuniary loss.",
+      "pt": "Considerar danos emergentes e lucros cessantes, lucros do infrator, royalties razoáveis, custos de investigação ou litígio e danos não patrimoniais."
+    },
+    "civilEvidencePreservation": {
+      "ja": "証拠保全、侵害品・帳簿の提出、現場検査、専門家鑑定、オンライン証拠の公証・保存等を検討する。",
+      "en": "Consider evidence preservation, production of goods/accounts, inspection, expert evidence and preservation/notarization of online material.",
+      "pt": "Considerar preservação de prova, exibição de produtos ou contas, inspeção, perícia e conservação ou autenticação de prova online."
+    },
+    "civilOther": {
+      "ja": "侵害品・材料・器具の回収・廃棄、判決公表、情報提供命令等があり得る。",
+      "en": "Recall/destruction of goods, materials and tools, publication of judgment and information orders may be available.",
+      "pt": "Podem ser cabíveis retirada ou destruição de produtos, materiais e instrumentos, publicação da sentença e ordens de informação."
+    },
+    "borderMeasures": {
+      "ja": "ポルトガル税関へのEU知的財産権税関申請（AFA）により輸出入貨物の留置を求める。EU申請・国内申請、保証、回答期限を確認する。",
+      "en": "Use an EU customs Application for Action (AFA) to seek detention of goods; verify Union/national scope, security and response deadlines.",
+      "pt": "Usar pedido de intervenção aduaneira (AFA) da UE para retenção de mercadorias; confirmar âmbito nacional ou da União, garantia e prazos de resposta."
+    },
+    "administrativeRaid": {
+      "ja": "ASAE、税関、警察・検察等による市場・倉庫・国境取締りを、刑事告訴・民事措置と組み合わせる。",
+      "en": "Combine market, warehouse and border enforcement by ASAE, customs, police or prosecutors with criminal and civil action.",
+      "pt": "Combinar fiscalização de mercado, armazém e fronteira pela ASAE, aduana, polícia ou Ministério Público com medidas criminais e cíveis."
+    },
+    "administrativeOther": {
+      "ja": "オンラインプラットフォーム削除、.ptドメイン紛争、消費者・広告・製品安全上の措置等を併用する。",
+      "en": "Use platform takedowns, .pt domain disputes and consumer, advertising or product-safety measures where appropriate.",
+      "pt": "Utilizar remoções em plataformas, disputas de domínios .pt e medidas de consumo, publicidade ou segurança de produtos, conforme o caso."
+    },
+    "criminalAvailability": {
+      "ja": "あり。登録商標の故意侵害・模倣品流通等は刑事責任の対象となり得る。告訴要否と期限を確認する。",
+      "en": "Available for intentional infringement and counterfeit trade; verify complaint requirements and deadlines.",
+      "pt": "Há responsabilidade criminal por infração dolosa e comércio de contrafações; confirmar necessidade de queixa e prazo."
+    },
+    "criminalFine": {
+      "ja": "あり。自然人・法人、犯罪類型、日数罰金方式等により異なる。",
+      "en": "Available; amounts vary by individual/entity, offense and day-fine rules.",
+      "pt": "Há multa, variando conforme pessoa singular ou coletiva, delito e regime de dias de multa."
+    },
+    "criminalImprisonment": {
+      "ja": "あり得る。故意、反復、組織性等を踏まえ最新の法定刑を確認する。",
+      "en": "Potentially available; verify current terms in light of intent, repetition and organized conduct.",
+      "pt": "Pode haver pena de prisão; confirmar limites atuais conforme dolo, reincidência e organização."
+    },
+    "criminalOther": {
+      "ja": "侵害品・包装・製造器具の押収・没収・廃棄、営業上の付随措置、判決公表等があり得る。",
+      "en": "Seizure, forfeiture and destruction of goods/packaging/equipment, business-related measures and publication may apply.",
+      "pt": "Podem ocorrer apreensão, perda e destruição de produtos, embalagens e equipamentos, medidas relativas à atividade e publicação da decisão."
+    }
+  },
+  "notablePoints": [
+    {
+      "title": {
+        "ja": "国内商標とEU商標の二層構造",
+        "en": "National and EU trade mark layers",
+        "pt": "Dupla camada: marca nacional e MUE"
+      },
+      "detail": {
+        "ja": "ポルトガル国内商標に加え、EU商標もポルトガルで効力を有する。先行調査、異議、使用立証、取消リスクを両制度で確認する。",
+        "en": "Both Portuguese national marks and EUTMs cover Portugal; clearance, opposition, use and cancellation risk must be checked in both systems.",
+        "pt": "Marcas nacionais portuguesas e MUE produzem efeitos em Portugal; busca, oposição, uso e risco de caducidade devem ser avaliados nos dois sistemas."
+      }
+    },
+    {
+      "title": {
+        "ja": "白黒対カラーはEU共通実務を参照",
+        "en": "EU convergence practice on black-and-white versus color",
+        "pt": "Prática comum da UE sobre preto e branco e cores"
+      },
+      "detail": {
+        "ja": "優先権上の同一性、相対的拒絶、真正使用を別々に評価する。白黒登録が当然にすべての色を包含するとは扱わない。",
+        "en": "Assess identity for priority, relative grounds and genuine use separately; black-and-white registration does not automatically cover every color.",
+        "pt": "Avaliar separadamente identidade para prioridade, motivos relativos e uso sério; o registro em preto e branco não cobre automaticamente todas as cores."
+      }
+    },
+    {
+      "title": {
+        "ja": "公告後2か月の異議",
+        "en": "Two-month opposition after publication",
+        "pt": "Oposição em dois meses após publicação"
+      },
+      "detail": {
+        "ja": "産業財産公報の公告日を起点に管理する。EUIPO公告とは別に国内公告を監視する。",
+        "en": "Docket from the Industrial Property Bulletin publication and monitor national publications separately from EUIPO.",
+        "pt": "Controlar o prazo pela publicação no Boletim da Propriedade Industrial e monitorar separadamente publicações nacionais e do EUIPO."
+      }
+    },
+    {
+      "title": {
+        "ja": "5年不使用と使用領域",
+        "en": "Five-year non-use and territory",
+        "pt": "Cinco anos de não uso e território"
+      },
+      "detail": {
+        "ja": "国内商標はポルトガルでの真正使用、EU商標はEUにおける使用を評価する。ポルトガルでの使用がEU商標に十分かは市場規模・態様を個別判断する。",
+        "en": "National marks require Portuguese use; EUTM use is assessed in the EU. Whether Portuguese use suffices for an EUTM depends on its market context.",
+        "pt": "A marca nacional exige uso em Portugal; a MUE é avaliada na União. Se o uso em Portugal basta para a MUE depende do contexto de mercado."
+      }
+    },
+    {
+      "title": {
+        "ja": "ポルトガル語ブランドも確保",
+        "en": "Protect the Portuguese-language brand",
+        "pt": "Proteger também a marca em português"
+      },
+      "detail": {
+        "ja": "英語ブランドだけでなく、翻訳・音写・略称、ポルトガルとブラジルで異なる語彙も確認する。",
+        "en": "Consider translations, transliterations and abbreviations, including lexical differences between Portugal and Brazil.",
+        "pt": "Considerar traduções, transliterações e abreviaturas, inclusive diferenças lexicais entre Portugal e Brasil."
+      }
+    }
+  ],
+  "statistics": {
+    "coverage": "2016–2025",
+    "status": "pending",
+    "series": []
+  },
+  "news": [
+    {
+      "id": "euipn-convergence-current",
+      "type": "practice",
+      "date": "2025-01-01",
+      "title": {
+        "ja": "EUIPN共通実務の継続反映",
+        "en": "Continuing implementation of EUIPN convergence practices",
+        "pt": "Aplicação contínua das práticas comuns da EUIPN"
+      },
+      "summary": {
+        "ja": "識別力、悪意、公序良俗、証拠、色彩商標等について、INPIの現行ガイドとEUIPN共通コミュニケーションを併せて確認する。",
+        "en": "For distinctiveness, bad faith, public policy, evidence and color marks, consult current INPI guidance together with EUIPN common communications.",
+        "pt": "Para distintividade, má-fé, ordem pública, prova e marcas de cor, consultar orientações atuais do INPI e comunicações comuns da EUIPN."
+      },
+      "sourceUrl": "https://www.tmdn.org/network/"
+    },
+    {
+      "id": "online-services-current",
+      "type": "practice",
+      "date": "2025-01-01",
+      "title": {
+        "ja": "INPIオンラインサービス・料金表の更新確認",
+        "en": "Check current INPI online services and fees",
+        "pt": "Verificação dos serviços online e taxas do INPI"
+      },
+      "summary": {
+        "ja": "出願、異議、更新、証明書、代理人手続は電子サービスと年度別料金表に従う。提出時の現行版を確認する。",
+        "en": "Filing, opposition, renewal, certificates and representative actions use electronic services and the current fee schedule.",
+        "pt": "Depósito, oposição, renovação, certidões e atos de mandatário seguem os serviços eletrônicos e a tabela de taxas vigente."
+      },
+      "sourceUrl": "https://inpi.justica.gov.pt/"
+    },
+    {
+      "id": "nice-13-2026",
+      "type": "practice",
+      "date": "2026-01-01",
+      "title": {
+        "ja": "ニース国際分類第13版への対応",
+        "en": "Implementation of the 13th edition of the Nice Classification",
+        "pt": "Aplicação da 13.ª edição da Classificação de Nice"
+      },
+      "summary": {
+        "ja": "2026年出願では第13版とINPIの商品・役務検索・受理名称を併せて確認する。",
+        "en": "For 2026 filings, consult the 13th edition together with INPI’s accepted goods/services terminology.",
+        "pt": "Para pedidos de 2026, consultar a 13.ª edição e a terminologia de produtos e serviços aceita pelo INPI."
+      },
+      "sourceUrl": "https://www.wipo.int/classifications/nice/en/"
+    }
+  ],
+  "faqs": [
+    {
+      "tag": "Strategy",
+      "question": {
+        "ja": "ポルトガル国内商標、EU商標、マドプロ指定のどれが本件に最適ですか。",
+        "en": "Which is best here: a Portuguese national mark, EUTM or Madrid designation?",
+        "pt": "Qual é a melhor opção: marca nacional portuguesa, MUE ou designação de Madri?"
+      },
+      "followUp": {
+        "ja": "費用、拒絶波及、使用義務、権利行使の差は。",
+        "en": "How do cost, unitary-refusal risk, use obligation and enforcement differ?",
+        "pt": "Quais são as diferenças de custo, risco de recusa unitária, uso e execução?"
+      }
+    },
+    {
+      "tag": "Clearance",
+      "question": {
+        "ja": "ポルトガル商標、EU商標、国際登録、商号をどのデータベースで横断調査しますか。",
+        "en": "How should Portuguese marks, EUTMs, international registrations and trade names be searched?",
+        "pt": "Como pesquisar marcas portuguesas, MUE, registros internacionais e firmas?"
+      },
+      "followUp": {
+        "ja": "ポルトガル語訳・音写・ブラジル語彙の違いも検索すべきですか。",
+        "en": "Should Portuguese translations, transliterations and Brazilian lexical variants also be searched?",
+        "pt": "Devem ser pesquisadas traduções, transliterações e variantes lexicais brasileiras?"
+      }
+    },
+    {
+      "tag": "Colour",
+      "question": {
+        "ja": "白黒基礎出願からカラー版で優先権を主張できますか。",
+        "en": "Can a color filing claim priority from a black-and-white filing?",
+        "pt": "Um pedido a cores pode reivindicar prioridade de pedido em preto e branco?"
+      },
+      "followUp": {
+        "ja": "色違い使用が真正使用となるEUIPN基準を本件にどう適用しますか。",
+        "en": "How does EUIPN practice on color-variant genuine use apply here?",
+        "pt": "Como se aplica a prática EUIPN sobre uso sério com variação de cor?"
+      }
+    },
+    {
+      "tag": "Opposition",
+      "question": {
+        "ja": "公告後2か月の異議に必要な証拠と、1か月延長の可否は。",
+        "en": "What evidence is needed for opposition and is a one-month extension available?",
+        "pt": "Quais provas são necessárias para oposição e há prorrogação de um mês?"
+      },
+      "followUp": {
+        "ja": "EUIPO異議とポルトガル国内異議を並行すべきですか。",
+        "en": "Should EUIPO and Portuguese national oppositions be pursued in parallel?",
+        "pt": "Devem ser apresentadas oposições paralelas no EUIPO e em Portugal?"
+      }
+    },
+    {
+      "tag": "Non-use",
+      "question": {
+        "ja": "国内商標の5年不使用取消に必要なポルトガル使用証拠は。",
+        "en": "What Portuguese evidence defends a five-year non-use action against a national mark?",
+        "pt": "Quais provas de uso em Portugal defendem caducidade por cinco anos?"
+      },
+      "followUp": {
+        "ja": "ポルトガルだけの使用でEU商標も維持できますか。",
+        "en": "Can use only in Portugal maintain an EUTM?",
+        "pt": "O uso apenas em Portugal pode manter uma MUE?"
+      }
+    },
+    {
+      "tag": "Enforcement",
+      "question": {
+        "ja": "知的財産裁判所の仮処分、AFA税関申請、ASAE・刑事告訴をどう組み合わせますか。",
+        "en": "How should IP Court relief, customs AFA, ASAE and criminal complaint be combined?",
+        "pt": "Como combinar providência no TPI, AFA aduaneiro, ASAE e queixa criminal?"
+      },
+      "followUp": {
+        "ja": "証拠保全、担保、費用、所要期間の現地見積りは。",
+        "en": "What are the local estimates for evidence preservation, security, cost and duration?",
+        "pt": "Quais são as estimativas locais de preservação de prova, caução, custo e duração?"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "INPI Portugal",
+      "url": "https://inpi.justica.gov.pt/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "INPI Portugal — Online Services",
+      "url": "https://servicosonline.inpi.justica.gov.pt/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "INPI Portugal — Industrial Property Bulletin",
+      "url": "https://inpi.justica.gov.pt/Boletim-da-Propriedade-Industrial",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Portugal — Industrial Property Code",
+      "url": "https://diariodarepublica.pt/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "EUIPO — eSearch plus",
+      "url": "https://euipo.europa.eu/eSearch/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "TMview",
+      "url": "https://www.tmdn.org/tmview/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "EUIPN — Common Practices",
+      "url": "https://www.tmdn.org/network/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Portuguese Tax and Customs Authority",
+      "url": "https://info.portaldasfinancas.gov.pt/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO — Madrid Member Profiles",
+      "url": "https://www.wipo.int/madrid/memberprofiles/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO Madrid Monitor",
+      "url": "https://www3.wipo.int/madrid/monitor/en/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO Nice Classification",
+      "url": "https://www.wipo.int/classifications/nice/en/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    }
+  ]
+}
