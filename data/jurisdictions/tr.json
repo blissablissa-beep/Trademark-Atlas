@@ -1,0 +1,599 @@
+{
+  "id": "tr",
+  "type": "country",
+  "flag": "🇹🇷",
+  "region": "europe",
+  "names": {
+    "ja": "トルコ共和国",
+    "en": "Republic of Türkiye",
+    "tr": "Türkiye Cumhuriyeti"
+  },
+  "office": {
+    "ja": "トルコ特許商標庁（TÜRKPATENT）",
+    "en": "Turkish Patent and Trademark Office (TÜRKPATENT)",
+    "tr": "Türk Patent ve Marka Kurumu (TÜRKPATENT)"
+  },
+  "availableLanguages": [
+    "tr"
+  ],
+  "createdAt": "2026-09-13",
+  "updatedAt": "2026-09-13",
+  "status": "review",
+  "facts": {
+    "authority": {
+      "ja": "トルコ特許商標庁（TÜRKPATENT）。出願・登録・異議・行政不服および2024年以降の一定の取消手続を担当する。",
+      "en": "Turkish Patent and Trademark Office (TÜRKPATENT), responsible for filing, registration, opposition, administrative appeal and certain revocation proceedings since 2024.",
+      "tr": "Başvuru, tescil, itiraz, idari yeniden inceleme ve 2024’ten itibaren belirli iptal işlemlerinden Türk Patent ve Marka Kurumu (TÜRKPATENT) sorumludur."
+    },
+    "protectionScope": {
+      "ja": "商品・役務の商標、団体商標、保証商標、周知商標。商号、地理的表示等は別制度も関係する。",
+      "en": "Marks for goods/services, collective marks, guarantee marks and well-known marks; trade names and geographical indications involve separate regimes.",
+      "tr": "Mal ve hizmet markaları, ortak markalar, garanti markaları ve tanınmış markalar korunur; ticaret unvanları ve coğrafi işaretler ayrıca değerlendirilir."
+    },
+    "markTypes": {
+      "ja": "文字、人名、語、図形、文字・数字、色彩、商品・包装形状、音等。登録簿上、保護対象を明確かつ正確に理解できる表示が必要。",
+      "en": "Words, personal names, designs, letters, numerals, colors, shapes of goods/packaging, sounds and other signs capable of clear and precise representation.",
+      "tr": "Sözcükler, kişi adları, şekiller, harfler, sayılar, renkler, mal veya ambalaj biçimleri, sesler ve sicilde açık ve kesin gösterilebilen diğer işaretler."
+    },
+    "madridAccessionDate": {
+      "ja": "1999年1月1日（マドリッド協定議定書の効力発生日）。",
+      "en": "1 January 1999 (entry into force of the Madrid Protocol for Türkiye).",
+      "tr": "1 Ocak 1999 (Madrid Protokolü’nün Türkiye bakımından yürürlüğe giriş tarihi)."
+    },
+    "niceClassification": {
+      "ja": "採用。TÜRKPATENTの認定商品・役務名称および類似商品・役務実務も確認する。",
+      "en": "Adopted; also consult TÜRKPATENT’s accepted terms and similarity practice for goods/services.",
+      "tr": "Nice Sınıflandırması uygulanır; TÜRKPATENT’in kabul edilen mal/hizmet ifadeleri ve benzerlik uygulaması da kontrol edilmelidir."
+    },
+    "classHeadingPractice": {
+      "ja": "類見出しのみで区分全体を当然に包含しない。明確・具体的な商品・役務を記載する。",
+      "en": "Class headings do not automatically cover the whole class; identify goods/services clearly and specifically.",
+      "tr": "Sınıf başlıkları sınıfın tamamını kendiliğinden kapsamaz; mal ve hizmetler açık ve belirli yazılmalıdır."
+    },
+    "retailServices": {
+      "ja": "第35類で可。小売・卸売の対象商品を商品群または区分とともに具体化する。",
+      "en": "Available in Class 35; specify the goods or relevant groups/classes covered by retail or wholesale services.",
+      "tr": "35. sınıfta mümkündür; perakende veya toptan satışa konu mallar ya da ilgili mal grupları/sınıfları açıkça belirtilmelidir."
+    },
+    "multiClassApplication": {
+      "ja": "可。追加区分ごとに料金。分割、一部拒絶、一部更新の管理を確認する。",
+      "en": "Available, with fees for additional classes; consider division, partial refusal and partial renewal.",
+      "tr": "Çok sınıflı başvuru mümkündür; ek sınıflar ücretlidir. Bölünme, kısmi ret ve kısmi yenileme yönetilmelidir."
+    },
+    "applicationForm": {
+      "ja": "TÜRKPATENT電子システムで、出願人、標章、商品・役務、区分、優先権、代理人等をトルコ語で提出する。",
+      "en": "File electronically with TÜRKPATENT in Turkish, identifying the applicant, mark, goods/services, classes, priority and representative.",
+      "tr": "Başvuru sahibi, marka örneği, mal ve hizmetler, sınıflar, rüçhan ve vekil bilgileri TÜRKPATENT’e elektronik ortamda Türkçe sunulur."
+    },
+    "powerOfAttorney": {
+      "ja": "トルコ国外の出願人は登録商標代理人を選任する。通常の出願用委任状は公証・領事認証不要とされることが多いが、提出要否と署名を確認する。",
+      "en": "A foreign applicant must appoint a registered Turkish trademark attorney. An ordinary filing power commonly needs no notarization/legalization; verify filing and signature requirements.",
+      "tr": "Türkiye dışında yerleşik başvuru sahibi sicile kayıtlı marka vekili atamalıdır. Olağan başvuru vekâletnamesi çoğunlukla noter veya tasdik gerektirmez; ibraz ve imza şartları doğrulanmalıdır."
+    },
+    "priorityDocuments": {
+      "ja": "パリ優先権は最初の出願から6か月以内。出願時に主張し、優先権証明書およびトルコ語訳を原則3か月以内に提出する。",
+      "en": "Paris priority must be claimed within six months and declared at filing; the priority document and Turkish translation are generally due within three months.",
+      "tr": "Paris rüçhanı altı ay içinde başvuruda talep edilmeli; rüçhan belgesi ve Türkçe çevirisi kural olarak üç ay içinde sunulmalıdır."
+    },
+    "homeRegistrationCertificate": {
+      "ja": "通常の直接出願には不要。パリ条約第6条の5の本国登録援用等では別途確認する。",
+      "en": "Not normally required for a direct filing; verify separately where Paris Convention Article 6quinquies is invoked.",
+      "tr": "Doğrudan başvuruda normal olarak gerekmez; Paris Sözleşmesi madde 6quinquies’e dayanılıyorsa ayrıca kontrol edilmelidir."
+    },
+    "useEvidenceAtFiling": {
+      "ja": "通常不要。使用による識別力、周知性、先使用その他を主張する場合はトルコでの証拠が必要。",
+      "en": "Not normally required; Turkish evidence is needed for acquired distinctiveness, well-known status, prior use or similar claims.",
+      "tr": "Normal olarak gerekmez; kullanım yoluyla ayırt edicilik, tanınmışlık veya önceki kullanım iddiasında Türkiye’ye ilişkin delil gerekir."
+    },
+    "notarizationCertification": {
+      "ja": "通常の委任状は公証不要。ただし先行権利者の同意書は公証が重要。譲渡、相続、宣誓・外国公文書は個別確認する。",
+      "en": "An ordinary power generally needs no notarization, but an earlier-right owner’s consent must satisfy notarization requirements. Check assignments, succession and foreign documents separately.",
+      "tr": "Olağan vekâletname genellikle noter gerektirmez; ancak önceki hak sahibinin muvafakatnamesi noter şartlarını karşılamalıdır. Devir, miras ve yabancı belgeler ayrıca kontrol edilir."
+    },
+    "otherDocuments": {
+      "ja": "商標表示、委任情報、優先権証明、団体・保証商標技術規則、非伝統的商標ファイル、識別力・周知性証拠等。",
+      "en": "Representation, authority details, priority document, regulations for collective/guarantee marks, non-traditional mark files and distinctiveness/reputation evidence.",
+      "tr": "Marka örneği, vekil bilgisi, rüçhan belgesi, ortak/garanti marka teknik şartnamesi, geleneksel olmayan marka dosyaları ve ayırt edicilik/tanınmışlık delilleri."
+    },
+    "absoluteGroundsExamination": {
+      "ja": "あり。TÜRKPATENTが職権審査する。",
+      "en": "Yes; examined ex officio by TÜRKPATENT.",
+      "tr": "Vardır; TÜRKPATENT tarafından re’sen incelenir."
+    },
+    "distinctivenessGrounds": {
+      "ja": "識別力欠如、種類・品質・数量・用途・価値・産地等の記述、取引上慣用的表示、普通名称等。使用による識別力を証明できる場合がある。",
+      "en": "Non-distinctive, descriptive, customary or generic signs may be refused; acquired distinctiveness may be established.",
+      "tr": "Ayırt edici olmayan, cins, nitelik, miktar, amaç, değer veya kaynak bildiren, ticarette yerleşik ya da jenerik işaretler reddedilebilir; kullanım sonucu ayırt edicilik kanıtlanabilir."
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "公序良俗、欺瞞性、国旗・公的紋章、宗教的価値・象徴、機能的・本質的形状、地理的表示、植物品種名称、悪意等を確認する。",
+      "en": "Check public order/morality, deception, flags/official emblems, religious values or symbols, functional/inherent shapes, GIs, plant-variety denominations and bad faith.",
+      "tr": "Kamu düzeni ve genel ahlak, yanıltıcılık, bayrak ve resmî armalar, dini değer veya semboller, işlevsel ya da mala asli değerini veren şekiller, coğrafi işaretler, bitki çeşitleri ve kötü niyet kontrol edilmelidir."
+    },
+    "relativeGroundsExamination": {
+      "ja": "限定的に職権審査あり。同一・区別困難な先行商標と同一・同種商品役務の抵触は絶対的理由として扱われ得る。通常の混同、周知商標、氏名・著作権等は主に異議で審査する。",
+      "en": "Limited ex-officio review applies to identical/indistinguishably similar earlier marks for identical/same-type goods. Broader confusion, reputation, names and copyright are mainly assessed on opposition.",
+      "tr": "Aynı veya ayırt edilemeyecek kadar benzer önceki markalar ile aynı/aynı tür mal ve hizmetler bakımından sınırlı re’sen inceleme vardır. Daha geniş karıştırılma, tanınmışlık, isim ve telif hakları çoğunlukla itiraz üzerine incelenir."
+    },
+    "disclaimer": {
+      "ja": "一般的な任意ディスクレーム制度は通常利用しない。非識別部分は単独で独占できず、標章全体として審査する。",
+      "en": "A general elective disclaimer is not ordinarily used; non-distinctive elements are not monopolized alone and the mark is assessed as a whole.",
+      "tr": "Genel bir ihtiyari feragat sistemi olağan olarak kullanılmaz; ayırt edici olmayan unsurlar tek başına tekelleştirilemez ve marka bütün olarak incelenir."
+    },
+    "consent": {
+      "ja": "あり。2017年工業所有権法下では、公証済みの先行商標権者同意書により同一・区別困難な先行商標拒絶を解消できる場合がある。方式・対象権利を確認する。",
+      "en": "Available. Under the Industrial Property Code, a notarized consent from the earlier owner may overcome certain identical/indistinguishably similar earlier-mark refusals; verify form and covered rights.",
+      "tr": "Vardır. Sınai Mülkiyet Kanunu uyarınca önceki marka sahibinin noter onaylı muvafakatnamesi, aynı veya ayırt edilemeyecek derecede benzer marka nedeniyle ret durumunu giderebilir; şekil ve kapsam kontrol edilmelidir."
+    },
+    "acceleratedExamination": {
+      "ja": "一般的な商標ファストトラックは限定的。訴訟・侵害等の緊急事情による優先処理の可否をTÜRKPATENTおよび現地代理人に確認する。",
+      "en": "A general trademark fast track is limited; ask TÜRKPATENT/local counsel whether litigation, infringement or other urgency supports priority handling.",
+      "tr": "Genel marka hızlandırma yolu sınırlıdır; dava, ihlal veya başka aciliyetin öncelikli işlem sağlayıp sağlamadığı TÜRKPATENT ve yerel vekille teyit edilmelidir."
+    },
+    "thirdPartyObservation": {
+      "ja": "出願公告後2か月以内に正式異議を提出可能。絶対的拒絶理由に関する第三者意見は公告後、登録前まで提出可能な範囲を確認する。",
+      "en": "Formal opposition may be filed within two months after publication. Verify the scope/timing for third-party observations on absolute grounds before registration.",
+      "tr": "Yayından sonra iki ay içinde itiraz edilebilir. Mutlak ret nedenlerine ilişkin üçüncü kişi görüşlerinin tescilden önce hangi süre ve kapsamda sunulabileceği doğrulanmalıdır."
+    },
+    "directExaminationPeriod": {
+      "ja": "異議のない直接出願は概ね6～12か月程度で登録に至ることがある。審査滞貨、拒絶、公告・異議で変動するため最新統計を確認する。",
+      "en": "An unopposed direct filing may reach registration in roughly six to twelve months; backlog, objections, publication and opposition may change this.",
+      "tr": "İtirazsız doğrudan başvuru yaklaşık 6–12 ayda tescile ulaşabilir; iş yükü, ret, yayın ve itiraz süreyi değiştirebilir."
+    },
+    "madridExaminationPeriod": {
+      "ja": "国際事務局の通報日から原則18か月以内に暫定拒絶を通報する。最終保護認容は異議・不服の有無により異なる。",
+      "en": "TÜRKPATENT generally must notify provisional refusal within 18 months from WIPO notification; final protection depends on opposition and appeal.",
+      "tr": "TÜRKPATENT, WIPO bildiriminden itibaren kural olarak 18 ay içinde geçici ret bildirmelidir; nihai koruma itiraz ve yeniden incelemeye göre değişir."
+    },
+    "colourPriorityIdentity": {
+      "ja": "優先権基礎とトルコ出願の標章が同一であるかを確認する。白黒・カラー間、色彩配置・範囲の変更が同一性を損なうかを個別評価する。",
+      "en": "Confirm identity between the priority and Turkish marks; assess whether black-and-white/color or arrangement changes impair identity.",
+      "tr": "Rüçhan başvurusu ile Türkiye başvurusunun aynı olup olmadığı; siyah-beyaz/renkli veya renk düzeni değişikliğinin ayniyeti bozup bozmadığı somut olayda değerlendirilir."
+    },
+    "colourRelativeGrounds": {
+      "ja": "色彩は外観の一要素。称呼・観念・構成・識別力ある要素・商品役務を総合比較し、色違いのみで混同が解消するとは限らない。",
+      "en": "Color is one visual factor; compare sound, concept, composition, distinctive elements and goods/services overall. Color change alone may not avoid confusion.",
+      "tr": "Renk görsel unsurlardan biridir; ses, anlam, kompozisyon, ayırt edici unsurlar ve mal/hizmetler birlikte değerlendirilir. Sadece renk değişikliği karıştırılmayı gidermeyebilir."
+    },
+    "colourGenuineUse": {
+      "ja": "登録商標と使用商標の色彩差が識別的性格を変更するかを確認する。主要配色の変更は不使用防御のリスクとなり得る。",
+      "en": "Assess whether color differences between registration and use alter distinctive character; changing a principal color scheme may create non-use risk.",
+      "tr": "Tescilli marka ile kullanılan marka arasındaki renk farkının ayırt edici karakteri değiştirip değiştirmediği incelenir; ana renk düzeninin değişmesi kullanmama riski yaratabilir."
+    },
+    "colourInfringementScope": {
+      "ja": "登録表示、色彩の識別力、標章全体、商品・役務、関連需要者、混同・関連付けのおそれを総合判断する。",
+      "en": "Assess the registered representation, color distinctiveness, signs as a whole, goods/services, relevant public and likelihood of confusion/association.",
+      "tr": "Tescil örneği, rengin ayırt ediciliği, işaretlerin bütünü, mal ve hizmetler, ilgili tüketici ile karıştırılma veya ilişkilendirme ihtimali birlikte değerlendirilir."
+    },
+    "colourFilingStrategy": {
+      "ja": "ブランド色が重要ならカラー版を、運用上変更するなら白黒版と主要配色を別出願する。トルコ語訳・音写商標も検討する。",
+      "en": "If brand color matters, file in color; if branding varies, consider separate black-and-white and key-color filings and a Turkish translation/transliteration.",
+      "tr": "Marka rengi önemliyse renkli başvuru; kullanım değişkense ayrıca siyah-beyaz ve ana renkli başvurular ile Türkçe çeviri/transliterasyon düşünülmelidir."
+    },
+    "refusalResponseRoute": {
+      "ja": "審査通知に意見書、補正、指定限定、公証済み同意書、使用証拠等で応答する。最終拒絶には再審査評価部（YİDK）へ行政不服申立てを行う。",
+      "en": "Respond to examination notices with arguments, amendment, limitation, notarized consent or use evidence. Appeal final refusal to the Re-examination and Evaluation Board (YİDK).",
+      "tr": "İnceleme bildirimine görüş, düzeltme, mal/hizmet sınırlaması, noter onaylı muvafakatname veya kullanım deliliyle cevap verilir. Nihai ret YİDK nezdinde yeniden incelenir."
+    },
+    "responsePeriod": {
+      "ja": "通知記載期限が支配する。審査上の応答は通常2か月が重要で、マドプロ暫定拒絶も現地代理人選任を含め直ちに期限確認する。",
+      "en": "The notice controls. A two-month period is commonly critical; immediately verify Madrid provisional-refusal deadlines and local representation.",
+      "tr": "Bildirimdeki süre geçerlidir. Genellikle iki aylık süre önemlidir; Madrid geçici retlerinde yerel vekil ve süre derhal kontrol edilmelidir."
+    },
+    "extensionAvailable": {
+      "ja": "法定・指定期限により異なる。通常の延長を当然視せず、期限前申請・料金・救済可能性を個別確認する。",
+      "en": "Depends on the statutory/designated period; do not assume ordinary extension and verify timely request, fee and relief.",
+      "tr": "Kanuni veya belirlenen süreye göre değişir; olağan uzatma varsayılmamalı, süresinde talep, ücret ve telafi imkânı kontrol edilmelidir."
+    },
+    "extensionLength": {
+      "ja": "手続により異なる。異議・不服等の法定2か月期限は原則厳格で、延長不可の場合が多い。",
+      "en": "Varies by procedure. Statutory two-month opposition/appeal periods are generally strict and often non-extendible.",
+      "tr": "Usule göre değişir. İtiraz ve yeniden incelemeye ilişkin kanuni iki aylık süreler genellikle kesin ve uzatılamazdır."
+    },
+    "extensionRequirements": {
+      "ja": "期限前申請・料金・正当理由を求める場合がある。期間回復・不可抗力救済は証拠とともに個別検討する。",
+      "en": "A timely request, fee or justification may be required; restoration/force-majeure relief should be assessed with evidence.",
+      "tr": "Süresinde talep, ücret veya gerekçe gerekebilir; süreye iade ve mücbir sebep telafisi delillerle ayrıca değerlendirilmelidir."
+    },
+    "appealRoute": {
+      "ja": "TÜRKPATENTの拒絶・異議決定に対しYİDKへ行政不服申立て。その最終決定は原則アンカラ知的財産権裁判所へ取消訴訟を提起し、地域控訴・破毀院へ上訴可能。",
+      "en": "Appeal TÜRKPATENT refusal/opposition decisions to YİDK. Challenge its final decision before the Ankara IP Court, with further regional and Court of Cassation review as applicable.",
+      "tr": "TÜRKPATENT ret veya itiraz kararına karşı YİDK’ya başvurulur. Nihai karar Ankara Fikri ve Sınai Haklar Hukuk Mahkemesinde iptal davasına, ardından istinaf ve Yargıtay incelemesine konu olabilir."
+    },
+    "refusalAppealPeriod": {
+      "ja": "決定通知から原則2か月以内にYİDKへ不服申立て。YİDK決定取消訴訟も通知から原則2か月以内。平均審理期間は最新統計・現地見積りを確認する。",
+      "en": "A YİDK appeal is generally due within two months from notification; a cancellation action against the YİDK decision is also generally due within two months. Check current duration.",
+      "tr": "YİDK itirazı karar bildiriminden itibaren kural olarak iki ay; YİDK kararının iptali davası da bildirimden itibaren kural olarak iki ay içindedir. Güncel süreler teyit edilmelidir."
+    },
+    "publicDatabase": {
+      "ja": "TÜRKPATENT商標検索",
+      "en": "TÜRKPATENT Trademark Search",
+      "tr": "TÜRKPATENT Marka Araştırma",
+      "url": "https://www.turkpatent.gov.tr/arastirma-yap?form=trademark"
+    },
+    "publicationStage": {
+      "ja": "方式・絶対的理由および限定的先行商標審査後、商標公報に公告され、2か月の異議期間に入る。異議処理後に登録料を納付して登録。",
+      "en": "After formality, absolute-ground and limited earlier-mark review, the application is published for a two-month opposition period; registration follows opposition disposition and fee payment.",
+      "tr": "Şekli, mutlak ret ve sınırlı önceki marka incelemesinden sonra başvuru Markalar Bülteninde yayımlanır; iki aylık itiraz ve ücret sonrası tescil edilir."
+    },
+    "oppositionPeriod": {
+      "ja": "商標公報の公告日から2か月以内。",
+      "en": "Within two months from publication in the Trademark Bulletin.",
+      "tr": "Markalar Bültenindeki yayım tarihinden itibaren iki ay içinde."
+    },
+    "oppositionExtension": {
+      "ja": "法定2か月の異議申立期間は原則延長不可。理由・証拠は期限内に整える。",
+      "en": "The statutory two-month opposition period is generally non-extendible; prepare grounds and evidence within it.",
+      "tr": "Kanuni iki aylık itiraz süresi kural olarak uzatılamaz; gerekçe ve deliller süre içinde hazırlanmalıdır."
+    },
+    "averagePendency": {
+      "ja": "異議なしで概ね6～12か月。異議、拒絶、YİDK不服があると大幅に長期化するため最新TÜRKPATENT統計を確認する。",
+      "en": "Roughly six to twelve months if unopposed; opposition, refusal and YİDK review can extend this materially.",
+      "tr": "İtirazsız yaklaşık 6–12 ay; itiraz, ret ve YİDK incelemesi süreyi önemli ölçüde uzatabilir."
+    },
+    "term": {
+      "ja": "出願日から10年。10年ごとに更新可能。",
+      "en": "10 years from the filing date, renewable for successive ten-year periods.",
+      "tr": "Başvuru tarihinden itibaren 10 yıl; onar yıllık dönemlerle yenilenebilir."
+    },
+    "termStart": {
+      "ja": "出願日から。",
+      "en": "From the filing date.",
+      "tr": "Başvuru tarihinden itibaren."
+    },
+    "renewalWindow": {
+      "ja": "満了前6か月以内に更新申請可能。",
+      "en": "Renewal may be filed within six months before expiry.",
+      "tr": "Yenileme, koruma süresinin bitiminden önceki altı ay içinde yapılabilir."
+    },
+    "gracePeriod": {
+      "ja": "あり。満了後6か月以内は追加料金を伴う遅延更新が可能。",
+      "en": "Yes; late renewal is available within six months after expiry with a surcharge.",
+      "tr": "Vardır; sürenin bitiminden sonraki altı ay içinde ek ücretle yenileme yapılabilir."
+    },
+    "renewalEvidence": {
+      "ja": "更新時の使用宣誓・使用証拠は通常不要。ただし5年不使用取消、異議・無効での使用証明に備え、トルコ使用証拠を保存する。",
+      "en": "No use declaration/evidence is normally required at renewal; preserve Turkish use evidence for non-use revocation and proof-of-use defenses.",
+      "tr": "Yenilemede kullanım beyanı veya delili normal olarak gerekmez; kullanmama iptali ve kullanım ispatı için Türkiye kullanım delilleri saklanmalıdır."
+    },
+    "nonUseCancellation": {
+      "ja": "あり。2024年1月10日以降、不使用等の取消請求は原則TÜRKPATENTが行政手続として審理する。移行事件・司法審査を確認する。",
+      "en": "Available. Since 10 January 2024, revocation requests including non-use are generally handled administratively by TÜRKPATENT; check transitional cases and judicial review.",
+      "tr": "Vardır. 10 Ocak 2024’ten itibaren kullanmama dahil iptal talepleri kural olarak TÜRKPATENT tarafından idari olarak incelenir; geçiş dosyaları ve yargı yolu kontrol edilmelidir."
+    },
+    "nonUsePeriod": {
+      "ja": "登録後、正当理由なく継続5年間トルコで真正使用されていない場合。使用開始後の5年中断も対象。",
+      "en": "Five continuous years without genuine use in Türkiye after registration, absent proper reasons; a five-year interruption after use also counts.",
+      "tr": "Tescilden sonra haklı neden olmaksızın Türkiye’de kesintisiz beş yıl ciddi kullanım yoksa veya kullanım beş yıl kesilmişse iptal gündeme gelir."
+    },
+    "nonUseDefenses": {
+      "ja": "権利者が対象期間・商品役務についてトルコでの真正使用または正当理由を立証する。請求前3か月の使用開始・再開が考慮されない場合に注意する。",
+      "en": "The owner proves genuine Turkish use or proper reasons for the relevant period/goods. Beware that commencement/resumption in the three months before the request may be disregarded.",
+      "tr": "Hak sahibi ilgili dönem ve mal/hizmetler için Türkiye’de ciddi kullanım veya haklı neden ispatlar. Talep öncesi üç ayda başlayan/yeniden başlayan kullanımın dikkate alınmaması mümkündür."
+    },
+    "otherCancellation": {
+      "ja": "普通名称化、誤認を生じさせる使用、団体・保証商標の管理違反等についてTÜRKPATENTの行政取消があり得る。",
+      "en": "Administrative revocation by TÜRKPATENT may apply for genericide, misleading use and collective/guarantee mark failures.",
+      "tr": "Jenerikleşme, yanıltıcı kullanım ve ortak/garanti marka şartlarına aykırılık halinde TÜRKPATENT idari iptal kararı verebilir."
+    },
+    "invalidation": {
+      "ja": "あり。登録時の絶対的・相対的理由、悪意等に基づく無効は知的財産権裁判所へ請求する。5年黙認等の制限を確認する。",
+      "en": "Available. Invalidity based on registration-stage absolute/relative grounds or bad faith is sought before the IP courts; check five-year acquiescence.",
+      "tr": "Vardır. Tescil anındaki mutlak/nispi ret nedenleri veya kötü niyete dayalı hükümsüzlük fikri ve sınai haklar mahkemesinden istenir; beş yıllık sessiz kalma kontrol edilir."
+    },
+    "civilInjunction": {
+      "ja": "知的財産権裁判所で暫定的・終局的差止めを請求可能。緊急性、権利有効性、比例性、担保を確認する。",
+      "en": "Interim and final injunctions are available before IP courts; assess urgency, validity, proportionality and security.",
+      "tr": "Fikri ve sınai haklar mahkemelerinde ihtiyati tedbir ve nihai men talep edilebilir; aciliyet, geçerlilik, ölçülülük ve teminat değerlendirilir."
+    },
+    "civilDamages": {
+      "ja": "実損・逸失利益、侵害者利益、仮想ライセンス料、名声毀損、故意・費用等を検討する。",
+      "en": "Consider actual loss/lost profits, infringer profits, hypothetical royalty, reputation harm, intent and costs.",
+      "tr": "Fiili zarar ve yoksun kalınan kazanç, ihlalcinin kazancı, varsayımsal lisans bedeli, itibar zararı, kusur ve giderler değerlendirilir."
+    },
+    "civilEvidencePreservation": {
+      "ja": "公証購入、現場・オンライン証拠の確定、証拠保全、捜索・押収、専門家鑑定、帳簿資料等を検討する。",
+      "en": "Consider notarized purchase, fixation of physical/online evidence, preservation, search/seizure, expert review and accounts.",
+      "tr": "Noter tespiti veya satın alımı, fiziki/çevrimiçi delil tespiti, delil muhafazası, arama-el koyma, bilirkişi ve ticari defterler değerlendirilir."
+    },
+    "civilOther": {
+      "ja": "侵害品・包装・製造器具の回収・廃棄、所有権移転、判決公表、情報提供等があり得る。",
+      "en": "Recall/destruction or transfer of goods, packaging and equipment, publication of judgment and information orders may be available.",
+      "tr": "Ürün, ambalaj ve araçların toplatılması, imhası veya mülkiyet devri, hükmün ilanı ve bilgi verilmesi mümkün olabilir."
+    },
+    "borderMeasures": {
+      "ja": "税関への知的財産権申請・貨物留置制度あり。オンライン税関登録、保証、真正品判定、提訴期限を確認する。",
+      "en": "Customs IPR recordal and detention are available; verify online recordal, security, authentication and court-action deadlines.",
+      "tr": "Gümrük fikri mülkiyet başvurusu ve eşya alıkoyma mümkündür; çevrimiçi kayıt, teminat, orijinallik incelemesi ve dava süresi kontrol edilir."
+    },
+    "administrativeRaid": {
+      "ja": "警察、検察、税関等による捜索・押収を刑事告訴・裁判所令状と組み合わせる。TÜRKPATENT自体は一般的市場摘発主体ではない。",
+      "en": "Combine police, prosecutor and customs search/seizure with criminal complaint and court warrant. TÜRKPATENT is not the general market-raid authority.",
+      "tr": "Polis, savcılık ve gümrük arama-el koyması ceza şikâyeti ve mahkeme kararıyla yürütülür. TÜRKPATENT genel piyasa baskını makamı değildir."
+    },
+    "administrativeOther": {
+      "ja": "オンラインプラットフォーム削除、ドメイン名紛争、広告・消費者・製品安全、不正競争上の措置を併用する。",
+      "en": "Use platform takedowns, domain disputes, advertising, consumer/product-safety and unfair-competition measures as appropriate.",
+      "tr": "Platform kaldırma, alan adı uyuşmazlığı, reklam, tüketici/ürün güvenliği ve haksız rekabet yolları birlikte kullanılabilir."
+    },
+    "criminalAvailability": {
+      "ja": "あり。故意の商標権侵害、模倣品の製造・販売・輸入・所持等は刑事責任の対象となり得る。原則として告訴期限を確認する。",
+      "en": "Available for intentional infringement and making, selling, importing or possessing counterfeit goods; verify complaint deadlines.",
+      "tr": "Kasten marka hakkına tecavüz ile sahte ürün üretme, satma, ithal etme veya ticari amaçla bulundurma cezai sorumluluk doğurabilir; şikâyet süresi kontrol edilmelidir."
+    },
+    "criminalFine": {
+      "ja": "司法罰金あり。犯罪類型、自然人・法人、最新法定額を確認する。",
+      "en": "Judicial fines are available; verify offense, individual/entity treatment and current statutory levels.",
+      "tr": "Adli para cezası vardır; suç tipi, gerçek/tüzel kişi durumu ve güncel kanuni sınırlar kontrol edilmelidir."
+    },
+    "criminalImprisonment": {
+      "ja": "あり得る。故意侵害・模倣品取引について最新の法定刑・告訴要件を確認する。",
+      "en": "Potentially available; verify current imprisonment ranges and complaint requirements for intentional counterfeit activity.",
+      "tr": "Mümkündür; kasten ihlal ve sahte ürün ticareti için güncel hapis aralığı ile şikâyet şartı kontrol edilmelidir."
+    },
+    "criminalOther": {
+      "ja": "侵害品・ラベル・包装・製造器具の押収・没収・廃棄、営業上の措置等があり得る。",
+      "en": "Seizure, confiscation and destruction of goods, labels, packaging and equipment and business-related measures may apply.",
+      "tr": "Ürün, etiket, ambalaj ve üretim araçlarının el konulması, müsaderesi ve imhası ile ticari tedbirler uygulanabilir."
+    }
+  },
+  "notablePoints": [
+    {
+      "title": {
+        "ja": "2024年から行政取消制度",
+        "en": "Administrative revocation since 2024",
+        "tr": "2024’ten itibaren idari iptal"
+      },
+      "detail": {
+        "ja": "2024年1月10日以降、不使用、普通名称化、誤認使用等の取消は原則TÜRKPATENTが審理する。無効訴訟との区別と移行事件を確認する。",
+        "en": "Since 10 January 2024, TÜRKPATENT generally handles revocation for non-use, genericide and misleading use. Distinguish invalidity and transitional court cases.",
+        "tr": "10 Ocak 2024’ten itibaren kullanmama, jenerikleşme ve yanıltıcı kullanım nedeniyle iptal kural olarak TÜRKPATENT’te görülür; hükümsüzlük ve geçiş davalarından ayrılmalıdır."
+      }
+    },
+    {
+      "title": {
+        "ja": "同意書は公証が重要",
+        "en": "Notarized consent is critical",
+        "tr": "Noter onaylı muvafakatname önemlidir"
+      },
+      "detail": {
+        "ja": "同一・区別困難な先行商標の職権拒絶を解消するには、先行権利者の公証済み同意書を所定方式で提出する。単なる私文書の共存契約と区別する。",
+        "en": "To overcome certain ex-officio earlier-mark refusals, file the earlier owner’s notarized consent in the prescribed form; distinguish a private coexistence agreement.",
+        "tr": "Belirli re’sen önceki marka retlerini gidermek için önceki hak sahibinin noter onaylı muvafakatnamesi öngörülen biçimde sunulmalı; özel birlikte var olma sözleşmesinden ayrılmalıdır."
+      }
+    },
+    {
+      "title": {
+        "ja": "異議・不服はいずれも2か月",
+        "en": "Two-month opposition and appeal periods",
+        "tr": "İtiraz ve yeniden inceleme süreleri iki ay"
+      },
+      "detail": {
+        "ja": "公告異議、拒絶・異議決定へのYİDK不服、YİDK決定取消訴訟はいずれも2か月が重要。起算点を別々に管理する。",
+        "en": "Two months is critical for opposition, YİDK administrative review and court cancellation of a YİDK decision; docket each trigger separately.",
+        "tr": "Yayın itirazı, YİDK yeniden incelemesi ve YİDK kararının iptali davasında iki aylık süre kritiktir; başlangıç tarihleri ayrı izlenmelidir."
+      }
+    },
+    {
+      "title": {
+        "ja": "5年経過した先行商標の使用証明",
+        "en": "Proof of use for five-year-old earlier marks",
+        "tr": "Beş yıllık önceki marka için kullanım ispatı"
+      },
+      "detail": {
+        "ja": "異議・無効で援用する先行商標が5年以上登録されている場合、相手方からトルコでの真正使用証明を求められ得る。",
+        "en": "An earlier mark registered for at least five years may face a genuine-use request in opposition or invalidity proceedings.",
+        "tr": "İtiraz veya hükümsüzlükte dayanak marka en az beş yıldır tescilliyse karşı taraf Türkiye’de ciddi kullanım ispatı talep edebilir."
+      }
+    },
+    {
+      "title": {
+        "ja": "トルコ語ブランド・文字を確認",
+        "en": "Check Turkish-language branding",
+        "tr": "Türkçe marka kullanımını kontrol edin"
+      },
+      "detail": {
+        "ja": "英語ブランドのトルコ語意味、発音、記述性、特殊文字（ç, ğ, ı, İ, ö, ş, ü）を含む綴り・ドメインも調査する。",
+        "en": "Search Turkish meaning, pronunciation, descriptiveness and spellings/domains using ç, ğ, ı, İ, ö, ş and ü.",
+        "tr": "İngilizce markanın Türkçe anlamı, telaffuzu, tanımlayıcılığı ve ç, ğ, ı, İ, ö, ş, ü içeren yazım ve alan adları araştırılmalıdır."
+      }
+    }
+  ],
+  "statistics": {
+    "coverage": "2016–2025",
+    "status": "pending",
+    "series": []
+  },
+  "news": [
+    {
+      "id": "administrative-revocation-2024",
+      "type": "law",
+      "date": "2024-01-10",
+      "title": {
+        "ja": "TÜRKPATENTの行政取消権限が発効",
+        "en": "TÜRKPATENT administrative revocation power took effect",
+        "tr": "TÜRKPATENT’in idari iptal yetkisi yürürlüğe girdi"
+      },
+      "summary": {
+        "ja": "不使用、普通名称化、誤認使用等の取消請求をTÜRKPATENTが行政手続で審理する制度が発効した。",
+        "en": "The system for TÜRKPATENT to hear non-use, genericide, misleading-use and related revocation requests administratively took effect.",
+        "tr": "Kullanmama, jenerikleşme ve yanıltıcı kullanım gibi iptal taleplerinin TÜRKPATENT tarafından idari olarak incelenmesi yürürlüğe girdi."
+      },
+      "sourceUrl": "https://www.turkpatent.gov.tr/"
+    },
+    {
+      "id": "revocation-practice-current",
+      "type": "practice",
+      "date": "2025-01-01",
+      "title": {
+        "ja": "行政取消手続の証拠・移行実務",
+        "en": "Evidence and transition practice for administrative revocation",
+        "tr": "İdari iptalde delil ve geçiş uygulaması"
+      },
+      "summary": {
+        "ja": "請求書式、使用証拠、答弁、料金、旧裁判事件との関係について、TÜRKPATENTの現行ガイド・規則を確認する。",
+        "en": "Check current TÜRKPATENT guidance on forms, use evidence, response, fees and interaction with legacy court cases.",
+        "tr": "Form, kullanım delili, cevap, ücret ve eski mahkeme dosyalarıyla ilişki için güncel TÜRKPATENT düzenlemeleri kontrol edilmelidir."
+      },
+      "sourceUrl": "https://www.turkpatent.gov.tr/mevzuat"
+    },
+    {
+      "id": "nice-13-2026",
+      "type": "practice",
+      "date": "2026-01-01",
+      "title": {
+        "ja": "ニース国際分類第13版への対応",
+        "en": "Implementation of the 13th Nice edition",
+        "tr": "Nice Sınıflandırması 13. baskı uygulaması"
+      },
+      "summary": {
+        "ja": "2026年出願では第13版とTÜRKPATENTの現行商品・役務名称を併せて確認する。",
+        "en": "For 2026 filings, consult the 13th edition and TÜRKPATENT’s current accepted goods/services terms.",
+        "tr": "2026 başvurularında 13. baskı ile TÜRKPATENT’in güncel mal ve hizmet ifadeleri birlikte kontrol edilmelidir."
+      },
+      "sourceUrl": "https://www.wipo.int/classifications/nice/en/"
+    }
+  ],
+  "faqs": [
+    {
+      "tag": "Consent",
+      "question": {
+        "ja": "本件の先行商標拒絶は公証済み同意書で解消できますか。",
+        "en": "Can this earlier-mark refusal be overcome with a notarized consent?",
+        "tr": "Bu önceki marka reddi noter onaylı muvafakatname ile giderilebilir mi?"
+      },
+      "followUp": {
+        "ja": "必要文言、公証方式、対象商品・役務、提出期限は。",
+        "en": "What wording, notarization, goods/services coverage and deadline apply?",
+        "tr": "Gerekli metin, noter şekli, kapsanan mal/hizmetler ve sunma süresi nedir?"
+      }
+    },
+    {
+      "tag": "Opposition",
+      "question": {
+        "ja": "公告後2か月の異議に必要な先行権利・証拠は。",
+        "en": "Which earlier rights and evidence support opposition within two months?",
+        "tr": "Yayından sonra iki aylık itiraz için hangi önceki haklar ve deliller gerekir?"
+      },
+      "followUp": {
+        "ja": "5年以上の先行商標について、どの期間・範囲の使用証明が必要ですか。",
+        "en": "What period and scope of use evidence is needed for an earlier mark over five years old?",
+        "tr": "Beş yıldan eski dayanak marka için hangi dönem ve kapsamda kullanım ispatı gerekir?"
+      }
+    },
+    {
+      "tag": "Refusal",
+      "question": {
+        "ja": "審査通知への応答とYİDK不服申立ての期限・証拠提出範囲は。",
+        "en": "What deadlines and evidence scope apply to examination response and YİDK appeal?",
+        "tr": "İnceleme cevabı ve YİDK itirazında süre ve delil kapsamı nedir?"
+      },
+      "followUp": {
+        "ja": "YİDKの平均審理期間とアンカラでの取消訴訟の概算期間・費用は。",
+        "en": "What are average YİDK duration and estimated Ankara court time/cost?",
+        "tr": "YİDK ortalama süresi ile Ankara iptal davasının tahmini süresi ve maliyeti nedir?"
+      }
+    },
+    {
+      "tag": "Revocation",
+      "question": {
+        "ja": "2024年開始のTÜRKPATENT行政取消は、従来の裁判上の取消とどう違いますか。",
+        "en": "How does post-2024 TÜRKPATENT administrative revocation differ from former court revocation?",
+        "tr": "2024 sonrası TÜRKPATENT idari iptali önceki mahkeme iptalinden nasıl farklıdır?"
+      },
+      "followUp": {
+        "ja": "移行事件、答弁期限、証拠、決定の司法審査は。",
+        "en": "How are transitional cases, response deadlines, evidence and judicial review handled?",
+        "tr": "Geçiş dosyaları, cevap süresi, delil ve yargısal denetim nasıl yürütülür?"
+      }
+    },
+    {
+      "tag": "Non-use",
+      "question": {
+        "ja": "5年不使用取消に対抗するトルコ使用証拠として何が必要ですか。",
+        "en": "What Turkish use evidence defends a five-year non-use request?",
+        "tr": "Beş yıllık kullanmama iptaline karşı hangi Türkiye kullanım delilleri gerekir?"
+      },
+      "followUp": {
+        "ja": "輸出、オンライン販売、ライセンシー使用、色彩・ロゴ変更は認められますか。",
+        "en": "Do exports, online sales, licensee use and color/logo variations count?",
+        "tr": "İhracat, çevrimiçi satış, lisans alan kullanımı ve renk/logo değişiklikleri kabul edilir mi?"
+      }
+    },
+    {
+      "tag": "Enforcement",
+      "question": {
+        "ja": "民事仮処分、税関留置、刑事捜索・押収をどう組み合わせますか。",
+        "en": "How should civil injunction, customs detention and criminal search/seizure be combined?",
+        "tr": "Hukuk tedbiri, gümrük alıkoyması ve ceza arama-el koyması nasıl birleştirilmelidir?"
+      },
+      "followUp": {
+        "ja": "公証証拠、担保、管轄、概算費用・期間は。",
+        "en": "What notarized evidence, security, venue, estimated cost and duration apply?",
+        "tr": "Noter delili, teminat, yetki, tahmini maliyet ve süre nedir?"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "TÜRKPATENT",
+      "url": "https://www.turkpatent.gov.tr/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "TÜRKPATENT — Trademark Search",
+      "url": "https://www.turkpatent.gov.tr/arastirma-yap?form=trademark",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "TÜRKPATENT — Legislation",
+      "url": "https://www.turkpatent.gov.tr/mevzuat",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Türkiye — Industrial Property Code No. 6769",
+      "url": "https://www.mevzuat.gov.tr/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Turkish Customs — Ministry of Trade",
+      "url": "https://www.trade.gov.tr/customs-formalities",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "UYAP — Turkish Judiciary",
+      "url": "https://www.uyap.gov.tr/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO — Madrid Member Profile: Türkiye",
+      "url": "https://www.wipo.int/madrid/memberprofiles/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO Madrid Monitor",
+      "url": "https://www3.wipo.int/madrid/monitor/en/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "TMview",
+      "url": "https://www.tmdn.org/tmview/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO Nice Classification",
+      "url": "https://www.wipo.int/classifications/nice/en/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    }
+  ]
+}
