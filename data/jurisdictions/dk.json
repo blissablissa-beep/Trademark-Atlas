@@ -1,0 +1,605 @@
+{
+  "id": "dk",
+  "type": "country",
+  "flag": "🇩🇰",
+  "region": "europe",
+  "names": {
+    "ja": "デンマーク王国",
+    "en": "Kingdom of Denmark",
+    "da": "Kongeriget Danmark"
+  },
+  "office": {
+    "ja": "デンマーク特許商標庁（DKPTO）",
+    "en": "Danish Patent and Trademark Office (DKPTO)",
+    "da": "Patent- og Varemærkestyrelsen"
+  },
+  "availableLanguages": [
+    "da"
+  ],
+  "createdAt": "2026-09-13",
+  "updatedAt": "2026-09-13",
+  "status": "review",
+  "facts": {
+    "authority": {
+      "ja": "デンマーク特許商標庁（DKPTO／Patent- og Varemærkestyrelsen）。国内出願、登録、異議、行政取消・無効を担当する。",
+      "en": "The Danish Patent and Trademark Office (DKPTO), responsible for national applications, registration, opposition and administrative revocation/invalidity.",
+      "da": "Patent- og Varemærkestyrelsen behandler nationale ansøgninger, registreringer, indsigelser og administrativ ophævelse eller ugyldighed."
+    },
+    "protectionScope": {
+      "ja": "商品・役務の個別商標、団体商標、保証・証明商標、使用により成立する商標権。EU商標もデンマーク本土で効力を有する。",
+      "en": "Individual marks for goods/services, collective and guarantee/certification marks, and rights acquired through use. EUTMs have effect in metropolitan Denmark.",
+      "da": "Individuelle vare- og tjenestemærker, kollektivmærker, garanti- og certificeringsmærker samt rettigheder stiftet ved brug. EU-varemærker gælder i Danmark."
+    },
+    "markTypes": {
+      "ja": "文字、図形、結合、立体、位置、模様、色彩、音、動き、マルチメディア、ホログラムその他。明確かつ正確な表示が必要。",
+      "en": "Word, figurative, composite, 3D, position, pattern, color, sound, motion, multimedia, hologram and other marks, provided the subject matter is represented clearly and precisely.",
+      "da": "Ord-, figur-, kombinations-, form-, positions-, mønster-, farve-, lyd-, bevægelses-, multimedie-, hologram- og andre mærker, når beskyttelsen kan gengives klart og præcist."
+    },
+    "madridAccessionDate": {
+      "ja": "1996年2月13日（デンマークについてのマドリッド協定議定書発効日）。現在、デンマーク指定はグリーンランドおよびフェロー諸島も含む。",
+      "en": "13 February 1996 (entry into force of the Madrid Protocol for Denmark). A designation of Denmark now includes Greenland and the Faroe Islands.",
+      "da": "Den 13. februar 1996 (Madridprotokollen trådte i kraft for Danmark). En udpegning af Danmark omfatter nu Grønland og Færøerne."
+    },
+    "niceClassification": {
+      "ja": "採用。出願時のニース分類最新版およびTMclassを確認する。",
+      "en": "Adopted; consult the current Nice edition and TMclass at filing.",
+      "da": "Niceklassifikationen anvendes; kontrollér den aktuelle udgave og TMclass ved indlevering."
+    },
+    "classHeadingPractice": {
+      "ja": "類見出しは通常の字義範囲に限られ、区分全体を当然には包含しない。商品・役務を明確かつ具体的に記載する。",
+      "en": "Class headings cover their ordinary literal meaning and not automatically the entire class; specify goods and services clearly and precisely.",
+      "da": "Klasseoverskrifter omfatter deres almindelige ordlyd og ikke automatisk hele klassen; varer og tjenesteydelser skal angives klart og præcist."
+    },
+    "retailServices": {
+      "ja": "第35類で可。小売・卸売の対象商品を具体的に記載する。",
+      "en": "Available in Class 35; specify the goods concerned by retail or wholesale services.",
+      "da": "Muligt i klasse 35; de varer, som detail- eller engroshandelstjenesterne vedrører, skal specificeres."
+    },
+    "multiClassApplication": {
+      "ja": "可。基本料金は1区分を含み、追加区分料金あり。分割および一部拒絶も可能。",
+      "en": "Available; the basic fee includes one class and additional-class fees apply. Division and partial refusal are possible.",
+      "da": "Muligt; grundgebyret omfatter én klasse, og der betales for yderligere klasser. Deling og delvist afslag er muligt."
+    },
+    "applicationForm": {
+      "ja": "DKPTOへオンライン、電子メールまたは郵送で、出願人、標章、商品・役務、区分、優先権、代理人等を提出する。英語の商品役務表は当初提出可能だが、デンマーク語版を求められる。",
+      "en": "File online, by email or post with DKPTO, identifying the applicant, mark, goods/services, classes, priority and representative. An English list may be filed initially, but a Danish version will be required.",
+      "da": "Ansøgningen indgives online, pr. e-mail eller post med ansøger, mærke, varer/tjenesteydelser, klasser, prioritet og fuldmægtig. En engelsk varefortegnelse kan indleveres først, men dansk oversættelse kræves."
+    },
+    "powerOfAttorney": {
+      "ja": "外国出願人に代理人選任義務は原則ない。代理人権限について委任状を求められる場合や、譲渡・紛争手続では個別確認する。",
+      "en": "Foreign applicants are generally not required to appoint a representative. A power may be requested to establish authority and should be checked for assignments or disputes.",
+      "da": "Udenlandske ansøgere skal som udgangspunkt ikke udpege en fuldmægtig. Fuldmagt kan kræves som dokumentation og bør kontrolleres ved overdragelser eller tvister."
+    },
+    "priorityDocuments": {
+      "ja": "パリ優先権は最初の出願から6か月以内に主張する。DKPTOが求める優先権証明・翻訳の提出期限を確認する。",
+      "en": "Claim Paris priority within six months from the first filing and verify deadlines for any priority certificate or translation requested by DKPTO.",
+      "da": "Parisprioritet påberåbes inden seks måneder fra den første ansøgning; kontrollér frister for prioritetsbevis og oversættelse, som styrelsen måtte kræve."
+    },
+    "homeRegistrationCertificate": {
+      "ja": "通常の直接出願には不要。パリ条約第6条の5に基づく本国登録援用等では別途確認する。",
+      "en": "Not normally required for a direct filing; verify separately when relying on home-country registration under Paris Convention Article 6quinquies.",
+      "da": "Kræves normalt ikke ved direkte ansøgning; kontrollér særskilt ved påberåbelse af hjemlandsregistrering efter Pariskonventionens artikel 6quinquies."
+    },
+    "useEvidenceAtFiling": {
+      "ja": "通常不要。使用による識別力、使用商標権、周知・名声、先使用等を主張する場合はデンマークでの証拠を提出する。",
+      "en": "Not normally required; Danish evidence is needed for acquired distinctiveness, use-based rights, reputation or prior-use claims.",
+      "da": "Kræves normalt ikke; dansk dokumentation er nødvendig ved indarbejdelse, brugsbaserede rettigheder, renommé eller ældre brug."
+    },
+    "notarizationCertification": {
+      "ja": "通常の委任状に公証・アポスティーユは原則不要。譲渡、合併、外国公文書等は手続別に確認する。",
+      "en": "An ordinary power generally requires no notarization or apostille; assignments, mergers and foreign official documents should be checked separately.",
+      "da": "En almindelig fuldmagt kræver normalt ikke notarpåtegning eller apostille; overdragelser, fusioner og udenlandske officielle dokumenter kontrolleres særskilt."
+    },
+    "otherDocuments": {
+      "ja": "商標表示、優先権証明、団体・保証・証明商標の使用規則、非伝統的商標ファイル、使用による識別力・名声の証拠等。",
+      "en": "Representation, priority document, regulations governing collective/guarantee/certification marks, non-traditional mark files and acquired-distinctiveness or reputation evidence.",
+      "da": "Gengivelse, prioritetsdokument, bestemmelser for kollektiv-, garanti- eller certificeringsmærker, filer for utraditionelle mærker samt dokumentation for indarbejdelse eller renommé."
+    },
+    "absoluteGroundsExamination": {
+      "ja": "あり。DKPTOが職権審査し、絶対的拒絶理由がある場合は拒絶し得る。",
+      "en": "Yes. DKPTO examines absolute grounds ex officio and may refuse on those grounds.",
+      "da": "Ja. Patent- og Varemærkestyrelsen prøver absolutte hindringer ex officio og kan afslå på dette grundlag."
+    },
+    "distinctivenessGrounds": {
+      "ja": "識別力欠如、普通名称、記述的・慣用的表示、単純な色彩・形状等。使用による識別力を立証できる場合がある。",
+      "en": "Non-distinctive, generic, descriptive or customary signs and simple colors or shapes may be refused; acquired distinctiveness may be established.",
+      "da": "Mærker uden særpræg eller med generisk, beskrivende eller sædvanlig karakter samt simple farver eller former kan afslås; indarbejdelse kan dokumenteres."
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "法令、公序良俗、欺瞞性、国旗・紋章・公的記章、機能的・本質的形状、地理的表示、伝統的用語、植物品種名称、悪意等。",
+      "en": "Grounds include illegality, public order or morality, deception, official emblems, functional or inherent shapes, GIs, traditional terms, plant-variety names and bad faith.",
+      "da": "Hindringer omfatter lovstridighed, offentlig orden eller sædelighed, vildledning, officielle emblemer, funktionelle former, geografiske betegnelser, traditionelle udtryk, plantesortsnavne og ond tro."
+    },
+    "relativeGroundsExamination": {
+      "ja": "DKPTOは先行する国内商標、EU商標、デンマーク指定国際登録を検索し、見つかった場合は情報提供的な調査報告を発行する。ただし相対的理由のみでは職権拒絶せず、権利者による異議が必要。",
+      "en": "DKPTO searches earlier Danish marks, EUTMs and international registrations designating Denmark and issues an informational report when relevant rights are found. It does not refuse ex officio solely on relative grounds; the owner must oppose.",
+      "da": "Styrelsen søger efter ældre danske mærker, EU-varemærker og internationale registreringer med virkning i Danmark og udsteder en vejledende rapport. Ansøgningen afslås ikke ex officio alene på relative grunde; rettighedshaveren må gøre indsigelse."
+    },
+    "disclaimer": {
+      "ja": "非識別部分について保護対象外の注記が問題となる場合がある。標章全体の識別力不足を当然には解消しないため最新実務を確認する。",
+      "en": "A disclaimer of non-distinctive matter may be relevant, but does not automatically cure lack of distinctiveness of the mark as a whole; verify current practice.",
+      "da": "En disclaimer for bestanddele uden særpræg kan være relevant, men afhjælper ikke automatisk manglende særpræg for mærket som helhed; kontrollér gældende praksis."
+    },
+    "consent": {
+      "ja": "同意書・共存契約は相対的紛争の解決に利用できる。ただしDKPTOは相対的理由のみで職権拒絶しないため、異議・取消・訴訟の文脈で範囲を確認する。",
+      "en": "Consent or coexistence may resolve relative-right disputes. Because DKPTO does not refuse ex officio solely on relative grounds, assess its role in opposition, revocation or litigation.",
+      "da": "Samtykke eller sameksistens kan løse konflikter om ældre rettigheder. Da styrelsen ikke afslår ex officio alene på relative grunde, vurderes virkningen i indsigelse, ophævelse eller retssag."
+    },
+    "acceleratedExamination": {
+      "ja": "通常審査は約6週間と比較的迅速。特別な優先処理の可否・要件は緊急理由とともにDKPTOへ確認する。",
+      "en": "Ordinary examination is relatively fast at about six weeks. Check with DKPTO whether special priority handling is available and what urgency evidence is required.",
+      "da": "Den almindelige behandling er relativt hurtig, cirka seks uger. Afklar med styrelsen, om særlig prioritering er mulig, og hvilken dokumentation for hast der kræves."
+    },
+    "thirdPartyObservation": {
+      "ja": "登録前、誰でも絶対的拒絶理由について第三者意見を提出できる。提出者は手続当事者にはならない。相対的理由は公告後2か月以内の異議で主張する。",
+      "en": "Before registration, anyone may submit observations on absolute grounds without becoming a party. Relative grounds should be raised by opposition within two months after publication.",
+      "da": "Før registrering kan enhver indgive bemærkninger om absolutte hindringer uden at blive part. Relative grunde gøres gældende ved indsigelse inden to måneder efter offentliggørelsen."
+    },
+    "directExaminationPeriod": {
+      "ja": "DKPTO公表の現行目安では、料金支払後の通常出願審査は約6週間。欠陥・拒絶・補正により変動する。",
+      "en": "DKPTO currently indicates approximately six weeks from payment to process an ordinary application; deficiencies, objections and amendments may extend this.",
+      "da": "Styrelsen angiver aktuelt cirka seks uger fra betaling til behandling af en almindelig ansøgning; mangler, indsigelser og ændringer kan forlænge tiden."
+    },
+    "madridExaminationPeriod": {
+      "ja": "DKPTOはWIPO通報から原則18か月以内に暫定拒絶を通報し得る。最終保護認容は応答・異議により異なる。",
+      "en": "DKPTO may generally notify provisional refusal within 18 months from WIPO notification; final protection depends on response and opposition.",
+      "da": "Styrelsen kan som hovedregel meddele foreløbigt afslag inden 18 måneder fra WIPO-notifikationen; endelig beskyttelse afhænger af svar og indsigelse."
+    },
+    "colourPriorityIdentity": {
+      "ja": "優先権基礎とデンマーク出願の標章の同一性を確認する。白黒・カラー間や配色変更はEU共通実務と個別事情を踏まえて評価する。",
+      "en": "Confirm identity between the priority and Danish marks; assess black-and-white/color or color-scheme changes under EU convergence practice and the facts.",
+      "da": "Kontrollér identitet mellem prioritetsmærket og den danske ansøgning; vurder sort-hvid/farve og ændret farvesætning efter EU-konvergenspraksis og sagens forhold."
+    },
+    "colourRelativeGrounds": {
+      "ja": "色彩は外観の一要素。称呼・観念・構成・識別的要素・商品役務を総合比較し、色違いのみで混同が解消するとは限らない。",
+      "en": "Color is one visual factor; compare sound, concept, composition, distinctive elements and goods/services overall. Color difference alone may not avoid confusion.",
+      "da": "Farve er ét visuelt moment; lyd, begreb, opbygning, særprægede elementer og varer/tjenesteydelser vurderes samlet. En farveforskel udelukker ikke nødvendigvis forveksling."
+    },
+    "colourGenuineUse": {
+      "ja": "登録態様と使用態様の色彩差が識別的性格を変更するかを確認する。主要配色の変更は使用立証上のリスクとなり得る。",
+      "en": "Assess whether color differences between registration and use alter distinctive character; changing a principal color scheme may create proof-of-use risk.",
+      "da": "Vurder, om farveforskelle mellem registrering og brug ændrer mærkets særpræg; ændring af en central farvesammensætning kan skabe risiko ved brugsbevis."
+    },
+    "colourInfringementScope": {
+      "ja": "登録表示、色彩の識別力、標章全体、商品・役務、関連需要者、混同のおそれを総合判断する。",
+      "en": "Assess the registration, color distinctiveness, signs as a whole, goods/services, relevant public and likelihood of confusion.",
+      "da": "Vurder registreringen, farvens særpræg, mærkerne som helhed, varer/tjenesteydelser, omsætningskredsen og risikoen for forveksling."
+    },
+    "colourFilingStrategy": {
+      "ja": "ブランド色が重要ならカラー版を、変更運用があるなら白黒版・主要配色を別出願する。デンマーク語での意味・称呼も確認する。",
+      "en": "If brand color matters, file in color; if branding varies, consider separate black-and-white and key-color filings and check Danish meaning and pronunciation.",
+      "da": "Hvis brandfarven er vigtig, ansøg i farve; ved varierende brug overvej separate sort-hvide og centrale farveversioner samt dansk betydning og udtale."
+    },
+    "refusalResponseRoute": {
+      "ja": "DKPTOの通知に意見書、補正、指定限定、使用証拠等で応答する。最終決定は特許商標不服審判委員会へ不服申立てる。",
+      "en": "Respond to DKPTO with arguments, amendment, limitation or use evidence. Appeal a final decision to the Board of Appeal for Patents and Trademarks.",
+      "da": "Besvar styrelsens meddelelse med argumenter, ændring, begrænsning eller brugsbevis. En endelig afgørelse påklages til Ankenævnet for Patenter og Varemærker."
+    },
+    "responsePeriod": {
+      "ja": "通知記載の期限が支配する。手続・通知ごとに直ちに確認し、未応答による権利喪失を避ける。",
+      "en": "The deadline stated in the notice controls; verify it immediately for each procedure and avoid loss of rights through non-response.",
+      "da": "Fristen i meddelelsen gælder; kontrollér den straks i hver sag og undgå rettighedstab ved manglende svar."
+    },
+    "extensionAvailable": {
+      "ja": "指定応答期間は期限前申請により延長できる場合がある。異議・不服申立て等の法定期限は別途厳格管理する。",
+      "en": "A designated response period may sometimes be extended on a timely request; statutory opposition and appeal periods require strict separate docketing.",
+      "da": "En fastsat svarfrist kan i visse tilfælde forlænges ved rettidig anmodning; lovbestemte indsigelses- og klagefrister skal overvåges særskilt."
+    },
+    "extensionLength": {
+      "ja": "延長期間・回数は通知および手続により異なるためDKPTOに確認する。",
+      "en": "The length and number of extensions vary by notice and procedure; confirm with DKPTO.",
+      "da": "Forlængelsens længde og antal afhænger af meddelelsen og proceduren; bekræft hos styrelsen."
+    },
+    "extensionRequirements": {
+      "ja": "期限前の申請、理由、手数料の有無を確認する。期限徒過時は継続・権利回復制度を直ちに検討する。",
+      "en": "Verify a pre-expiry request, reasons and any fee. If a deadline is missed, immediately consider continuation or re-establishment.",
+      "da": "Kontrollér anmodning før fristen, begrundelse og eventuelt gebyr. Ved fristoverskridelse bør fortsættelse eller genoprettelse straks overvejes."
+    },
+    "appealRoute": {
+      "ja": "DKPTOの最終決定は特許商標不服審判委員会（Ankenævnet for Patenter og Varemærker）へ不服申立て、その後裁判所で司法審査を求める。侵害・無効訴訟は海事商事高等裁判所等が担当し得る。",
+      "en": "Appeal final DKPTO decisions to the Board of Appeal for Patents and Trademarks, followed by judicial review. Infringement and validity litigation may be heard by the Maritime and Commercial High Court.",
+      "da": "Styrelsens endelige afgørelser påklages til Ankenævnet for Patenter og Varemærker og kan derefter prøves ved domstolene. Sø- og Handelsretten kan behandle sager om krænkelse og gyldighed."
+    },
+    "refusalAppealPeriod": {
+      "ja": "一般に決定通知から2か月以内の不服申立期限が重要。対象決定、起算日、審判平均期間を現地代理人と確認する。",
+      "en": "A two-month appeal period from notification is generally critical; confirm the decision type, start date and average duration with local counsel.",
+      "da": "En klagefrist på normalt to måneder fra meddelelsen er central; bekræft afgørelsestype, begyndelsestidspunkt og forventet behandlingstid med lokalt ombud."
+    },
+    "publicDatabase": {
+      "ja": "DKPTO商標・意匠データベース",
+      "en": "DKPTO Trademark and Design Database",
+      "da": "Patent- og Varemærkestyrelsens varemærke- og designdatabase",
+      "url": "https://onlineweb.dkpto.dk/pvsonline/"
+    },
+    "publicationStage": {
+      "ja": "絶対的理由の審査および情報的な先行権利検索後、出願が公告される。公告後2か月の異議期間を経て登録される。",
+      "en": "After absolute-ground examination and an informational earlier-right search, the application is published. A two-month opposition period precedes registration.",
+      "da": "Efter prøvelse af absolutte hindringer og en vejledende søgning efter ældre rettigheder offentliggøres ansøgningen. En indsigelsesperiode på to måneder går forud for registreringen."
+    },
+    "oppositionPeriod": {
+      "ja": "出願公告日から2か月以内。所定料金が必要。",
+      "en": "Within two months from publication of the application; a prescribed fee is required.",
+      "da": "Inden to måneder fra offentliggørelsen af ansøgningen; der skal betales gebyr."
+    },
+    "oppositionExtension": {
+      "ja": "法定2か月の異議申立期間は原則延長不可。異議後、当事者の共同申請による和解交渉のための手続停止制度がある。",
+      "en": "The statutory two-month opposition filing period is generally non-extendible. After filing, the parties may jointly request a stay for settlement negotiations.",
+      "da": "Den lovbestemte indsigelsesfrist på to måneder kan normalt ikke forlænges. Efter indsigelsen kan parterne i fællesskab anmode om udsættelse til forligsforhandlinger."
+    },
+    "averagePendency": {
+      "ja": "障害・異議がなければ通常審査は現在約6週間、その後公告・2か月異議期間を経て登録。",
+      "en": "If straightforward, examination currently takes about six weeks, followed by publication and a two-month opposition period before registration.",
+      "da": "I ukomplicerede sager tager prøvelsen aktuelt cirka seks uger, efterfulgt af offentliggørelse og to måneders indsigelsesperiode før registrering."
+    },
+    "term": {
+      "ja": "出願日から10年。10年ごとに回数制限なく更新可能。",
+      "en": "Ten years from the filing date, renewable indefinitely in ten-year periods.",
+      "da": "Ti år fra ansøgningsdagen og kan fornyes ubegrænset med ti år ad gangen."
+    },
+    "termStart": {
+      "ja": "出願日から。",
+      "en": "From the filing date.",
+      "da": "Fra ansøgningsdagen."
+    },
+    "renewalWindow": {
+      "ja": "満了前6か月以内に更新する。正確な開始日・満了日を登録簿で確認する。",
+      "en": "Renew within the six months before expiry; verify the exact opening and expiry dates in the register.",
+      "da": "Forny inden for de seks måneder før udløb; kontrollér de præcise datoer i registret."
+    },
+    "gracePeriod": {
+      "ja": "あり。満了後6か月以内は20％の追加料金を伴う遅延更新が可能。",
+      "en": "Yes; late renewal is available within six months after expiry with a 20% surcharge.",
+      "da": "Ja; sen fornyelse er mulig inden seks måneder efter udløb med et tillæg på 20 %."
+    },
+    "renewalEvidence": {
+      "ja": "更新時の使用証拠は通常不要。ただし5年不使用取消・異議・侵害訴訟に備え、真正使用証拠を保存する。",
+      "en": "No use evidence is normally required at renewal; preserve genuine-use evidence for non-use revocation, opposition and enforcement.",
+      "da": "Brugsbevis kræves normalt ikke ved fornyelse; opbevar dokumentation for reel brug til ophævelse, indsigelse og håndhævelse."
+    },
+    "nonUseCancellation": {
+      "ja": "あり。継続5年の不使用を理由にDKPTOへの行政取消または裁判所で請求できる。",
+      "en": "Available after five continuous years of non-use through administrative revocation before DKPTO or court proceedings.",
+      "da": "Muligt efter fem års sammenhængende manglende brug ved administrativ ophævelse hos styrelsen eller ved domstolene."
+    },
+    "nonUsePeriod": {
+      "ja": "登録手続終了後、正当理由なく継続5年間、対象領域で真正使用されていない場合。使用開始後の5年中断も対象。",
+      "en": "Five continuous years without genuine use in the relevant territory after completion of registration, absent proper reasons; a later five-year interruption also counts.",
+      "da": "Fem sammenhængende år uden reel brug i det relevante område efter registreringsprocedurens afslutning, uden rimelig grund; et senere femårigt afbrud omfattes også."
+    },
+    "nonUseDefenses": {
+      "ja": "権利者が対象期間・商品役務について真正使用または正当理由を立証する。国内登録、EU商標、グリーンランド・フェロー諸島で使用領域が異なる点を確認する。",
+      "en": "The owner proves genuine use or proper reasons for the relevant period and goods/services. Distinguish the territory for national rights, EUTMs, Greenland and the Faroe Islands.",
+      "da": "Indehaveren dokumenterer reel brug eller rimelig grund for perioden og varerne/tjenesteydelserne. Skeln mellem territoriet for nationale rettigheder, EU-varemærker, Grønland og Færøerne."
+    },
+    "otherCancellation": {
+      "ja": "普通名称化、権利者の使用による誤認、公序良俗違反、団体・保証商標規則違反、更新欠缺等により取消・失効し得る。",
+      "en": "Revocation or lapse may result from genericide, misleading use, public-order or morality issues, collective/guarantee failures or non-renewal.",
+      "da": "Ophævelse eller bortfald kan følge af degeneration, vildledende brug, strid mod offentlig orden eller sædelighed, mangler ved kollektiv-/garantimærker eller manglende fornyelse."
+    },
+    "invalidation": {
+      "ja": "あり。絶対的・相対的理由、悪意、先行権利等に基づきDKPTOの行政手続または裁判所で請求可能。黙認等の制限を確認する。",
+      "en": "Available before DKPTO or courts on absolute or relative grounds, bad faith or earlier rights; check acquiescence and other limits.",
+      "da": "Ugyldighed kan kræves hos styrelsen eller domstolene på absolutte eller relative grunde, ond tro eller ældre rettigheder; kontrollér passivitet og andre begrænsninger."
+    },
+    "civilInjunction": {
+      "ja": "海事商事高等裁判所等で暫定的・終局的差止めを請求可能。管轄、緊急性、侵害蓋然性、比例性、担保を確認する。",
+      "en": "Interim and final injunctions are available before the Maritime and Commercial High Court or other competent court; assess venue, urgency, likelihood, proportionality and security.",
+      "da": "Midlertidigt og endeligt forbud kan kræves ved Sø- og Handelsretten eller anden kompetent domstol; vurder værneting, hast, sandsynlighed, proportionalitet og sikkerhed."
+    },
+    "civilDamages": {
+      "ja": "合理的使用料相当額、逸失利益、侵害者利益、信用損害等の賠償を検討する。故意・過失および訴訟費用回収を確認する。",
+      "en": "Consider reasonable royalty, lost profit, infringer profit and reputational harm; verify fault requirements and recovery of legal costs.",
+      "da": "Overvej rimeligt vederlag, tabt fortjeneste, krænkerens fortjeneste og omdømmeskade; kontrollér skyldkrav og sagsomkostninger."
+    },
+    "civilEvidencePreservation": {
+      "ja": "証拠保全、侵害品・帳簿の提出、現場確認、専門家意見、テスト購入、オンライン証拠保存等を検討する。",
+      "en": "Consider preservation, production of goods and accounts, inspection, expert evidence, test purchases and preservation of online evidence.",
+      "da": "Overvej bevissikring, fremlæggelse af varer og regnskaber, besigtigelse, sagkyndig bevisførelse, testkøb og sikring af onlinebeviser."
+    },
+    "civilOther": {
+      "ja": "侵害品・材料・器具の回収・廃棄、判決公表、情報提供命令、訴訟費用等があり得る。",
+      "en": "Recall or destruction of goods, materials and tools, publication of judgment, information orders and costs may be available.",
+      "da": "Tilbagekaldelse eller destruktion af varer, materialer og udstyr, offentliggørelse af dom, informationspålæg og sagsomkostninger kan være muligt."
+    },
+    "borderMeasures": {
+      "ja": "デンマーク税関へ知的財産権行使申請を行い、疑義貨物の留置を求める。EU税関規則上の国内・連合申請および領域範囲を確認する。",
+      "en": "Apply to Danish Customs for detention of suspected goods and assess national or Union applications under the EU customs regime, including territorial scope.",
+      "da": "Ansøg Toldstyrelsen om tilbageholdelse af mistænkte varer og vurder national eller EU-ansøgning efter toldreglerne, herunder det territoriale omfang."
+    },
+    "administrativeRaid": {
+      "ja": "税関、警察、検察による捜索・押収等を刑事告訴・裁判所措置と組み合わせる。DKPTOは一般的な市場摘発主体ではない。",
+      "en": "Combine customs, police and prosecutor searches or seizures with criminal complaint and court relief. DKPTO is not the general market-raid authority.",
+      "da": "Kombinér toldens, politiets og anklagemyndighedens ransagning eller beslag med anmeldelse og domstolstiltag. Styrelsen er ikke almindelig markedskontrolmyndighed."
+    },
+    "administrativeOther": {
+      "ja": "オンライン削除、.dkドメイン紛争、消費者・広告・製品安全・不正競争上の措置等を併用する。",
+      "en": "Use platform takedowns, .dk domain disputes and consumer, advertising, product-safety or unfair-marketing measures where appropriate.",
+      "da": "Brug fjernelse på platforme, .dk-domænetvister og tiltag efter forbruger-, markedsførings- eller produktsikkerhedsregler, hvor relevant."
+    },
+    "criminalAvailability": {
+      "ja": "あり。故意または一定の重大な過失による商標侵害・模倣品取引は刑事責任の対象となり得る。",
+      "en": "Available. Intentional or qualifying grossly negligent infringement and counterfeit trade may incur criminal liability.",
+      "da": "Ja. Forsætlig eller kvalificeret groft uagtsom krænkelse og handel med kopivarer kan medføre strafansvar."
+    },
+    "criminalFine": {
+      "ja": "あり。通常は罰金が中心となり得るが、犯罪類型・規模・法人責任を個別確認する。",
+      "en": "Available; fines may be central in ordinary cases, subject to the offense, scale and corporate liability.",
+      "da": "Ja; bøde kan være central i almindelige sager afhængigt af overtrædelsen, omfanget og selskabsansvaret."
+    },
+    "criminalImprisonment": {
+      "ja": "重大な故意侵害では拘禁刑があり得る。最新の刑期、加重要件、起訴実務を確認する。",
+      "en": "Imprisonment may be available for serious intentional infringement; verify current terms, aggravating factors and prosecution practice.",
+      "da": "Fængsel kan anvendes ved alvorlig forsætlig krænkelse; kontrollér gældende strafferamme, skærpende forhold og påtalepraksis."
+    },
+    "criminalOther": {
+      "ja": "侵害品、包装、製造器具および犯罪収益の押収・没収・廃棄等があり得る。",
+      "en": "Seizure, forfeiture and destruction of infringing goods, packaging, equipment and criminal proceeds may apply.",
+      "da": "Beslaglæggelse, konfiskation og destruktion af krænkende varer, emballage, udstyr og udbytte kan forekomme."
+    }
+  },
+  "notablePoints": [
+    {
+      "title": {
+        "ja": "相対的理由は検索するが職権拒絶しない",
+        "en": "Relative-right search without ex officio refusal",
+        "da": "Søgning efter ældre rettigheder uden ex officio-afslag"
+      },
+      "detail": {
+        "ja": "DKPTOは先行する国内商標・EU商標・国際登録を検索し情報的報告を発行するが、相対的理由のみでは拒絶しない。権利者は2か月以内に異議を申し立てる必要がある。",
+        "en": "DKPTO searches earlier Danish marks, EUTMs and international registrations and issues an informational report, but does not refuse solely on relative grounds; the owner must oppose within two months.",
+        "da": "Styrelsen søger efter ældre danske mærker, EU-varemærker og internationale registreringer og udsteder en vejledende rapport, men afslår ikke alene på relative grunde; rettighedshaveren skal gøre indsigelse inden to måneder."
+      }
+    },
+    {
+      "title": {
+        "ja": "登録前2か月の異議",
+        "en": "Two-month pre-registration opposition",
+        "da": "To måneders indsigelse før registrering"
+      },
+      "detail": {
+        "ja": "絶対的理由の審査後に出願公告され、2か月の異議期間を経て登録される。スウェーデン・ノルウェーの登録後異議と混同しない。",
+        "en": "The application is published after absolute-ground examination and registered after a two-month opposition period. Do not confuse this with post-registration opposition in Sweden or Norway.",
+        "da": "Ansøgningen offentliggøres efter prøvelse af absolutte hindringer og registreres efter en indsigelsesperiode på to måneder. Dette adskiller sig fra efterregistreringsindsigelse i Sverige og Norge."
+      }
+    },
+    {
+      "title": {
+        "ja": "EU商標と王国内領域を区別",
+        "en": "Distinguish EUTM and Kingdom territories",
+        "da": "Skeln mellem EU-varemærket og rigets områder"
+      },
+      "detail": {
+        "ja": "EU商標はEU領域であるデンマーク本土を保護するが、グリーンランド・フェロー諸島については別途確認が必要。一方、現在のマドプロのデンマーク指定は両地域を含むとWIPOが案内する。",
+        "en": "An EUTM covers metropolitan Denmark as EU territory, while Greenland and the Faroe Islands require separate territorial analysis. WIPO currently states that a Madrid designation of Denmark includes both.",
+        "da": "EU-varemærket dækker Danmark som EU-område, mens Grønland og Færøerne kræver særskilt territorial vurdering. WIPO angiver aktuelt, at en Madridudpegning af Danmark omfatter begge områder."
+      }
+    },
+    {
+      "title": {
+        "ja": "絶対的理由の第三者意見制度",
+        "en": "Third-party observations on absolute grounds",
+        "da": "Tredjemandsbemærkninger om absolutte hindringer"
+      },
+      "detail": {
+        "ja": "登録前は誰でも絶対的拒絶理由について意見提出できるが、提出者は当事者にならない。相対的権利者は正式異議を選択する。",
+        "en": "Before registration anyone may submit observations on absolute grounds without becoming a party; owners relying on relative rights should file formal opposition.",
+        "da": "Før registrering kan enhver indgive bemærkninger om absolutte hindringer uden at blive part; indehavere af ældre rettigheder bør indgive formel indsigelse."
+      }
+    },
+    {
+      "title": {
+        "ja": "通常審査は約6週間",
+        "en": "Ordinary examination about six weeks",
+        "da": "Almindelig behandling cirka seks uger"
+      },
+      "detail": {
+        "ja": "DKPTOは料金支払後の通常審査を約6週間と案内する。ただし公告後2か月の異議期間があるため、審査期間と最終登録までを分けて管理する。",
+        "en": "DKPTO indicates about six weeks from payment for ordinary examination, but the later two-month opposition period means examination time and final registration should be docketed separately.",
+        "da": "Styrelsen angiver cirka seks uger fra betaling til almindelig prøvelse, men den efterfølgende indsigelsesperiode på to måneder betyder, at prøvelsestid og endelig registrering skal skelnes."
+      }
+    }
+  ],
+  "statistics": {
+    "coverage": "2016–2025",
+    "status": "pending",
+    "series": []
+  },
+  "news": [
+    {
+      "id": "fees-july-2026",
+      "type": "practice",
+      "date": "2026-07-01",
+      "title": {
+        "ja": "2026年7月以降満了の商標更新料金体系",
+        "en": "Renewal fee schedule for due dates from July 2026",
+        "da": "Fornyelsesgebyrer for forfald fra juli 2026"
+      },
+      "summary": {
+        "ja": "DKPTO料金表は2026年7月1日以降に満了する更新について区分別料金を案内している。更新時に現行料金を再確認する。",
+        "en": "The DKPTO fee schedule specifies class-based renewal fees for renewals due on or after 1 July 2026; verify the current fee at filing.",
+        "da": "Styrelsens gebyroversigt angiver klassebaserede fornyelsesgebyrer for forfald den 1. juli 2026 eller senere; kontrollér altid det aktuelle gebyr."
+      },
+      "sourceUrl": "https://www.dkpto.org/about-ip-rights/prices-and-fees"
+    },
+    {
+      "id": "processing-six-weeks-2026",
+      "type": "practice",
+      "date": "2026-09-13",
+      "title": {
+        "ja": "通常商標出願の審査目安は約6週間",
+        "en": "Ordinary trademark examination indicated at about six weeks",
+        "da": "Almindelig varemærkebehandling angives til cirka seks uger"
+      },
+      "summary": {
+        "ja": "DKPTOは料金支払から通常出願の処理まで約6週間と案内している。公告・異議期間は別に加算する。",
+        "en": "DKPTO indicates about six weeks from payment to process an ordinary application; publication and opposition time are additional.",
+        "da": "Styrelsen angiver cirka seks uger fra betaling til behandling af en almindelig ansøgning; offentliggørelse og indsigelsestid kommer derudover."
+      },
+      "sourceUrl": "https://www.dkpto.org/apply/apply-trademarks"
+    },
+    {
+      "id": "nice-13-2026",
+      "type": "practice",
+      "date": "2026-01-01",
+      "title": {
+        "ja": "ニース国際分類第13版への対応",
+        "en": "Implementation of the 13th Nice edition",
+        "da": "Anvendelse af Niceklassifikationens 13. udgave"
+      },
+      "summary": {
+        "ja": "2026年出願では第13版とTMclass・DKPTO分類実務を併せて確認する。",
+        "en": "For 2026 filings, consult the 13th edition together with TMclass and DKPTO classification practice.",
+        "da": "For ansøgninger i 2026 anvendes 13. udgave sammen med TMclass og styrelsens klassifikationspraksis."
+      },
+      "sourceUrl": "https://www.wipo.int/classifications/nice/en/"
+    }
+  ],
+  "faqs": [
+    {
+      "tag": "Route",
+      "question": {
+        "ja": "国内出願、EU商標、マドプロのデンマーク指定・EU指定のどれが適切ですか。",
+        "en": "Should we use a national filing, EUTM, Madrid-Denmark designation or Madrid-EU designation?",
+        "da": "Bør vi vælge national ansøgning, EU-varemærke, Madridudpegning af Danmark eller af EU?"
+      },
+      "followUp": {
+        "ja": "グリーンランド・フェロー諸島も必要な場合、どのルートで保護されますか。",
+        "en": "Which route covers Greenland and the Faroe Islands when those territories are needed?",
+        "da": "Hvilken vej dækker Grønland og Færøerne, når disse områder er nødvendige?"
+      }
+    },
+    {
+      "tag": "Search",
+      "question": {
+        "ja": "DKPTOの情報的な先行権利調査報告には何が含まれ、拒絶効果はありますか。",
+        "en": "What does the DKPTO informational earlier-right search report cover, and does it have refusal effect?",
+        "da": "Hvad omfatter styrelsens vejledende søgerapport om ældre rettigheder, og medfører den afslag?"
+      },
+      "followUp": {
+        "ja": "商号、未登録商標、著作権、ドメインも別途調査すべきですか。",
+        "en": "Should trade names, unregistered marks, copyright and domains be searched separately?",
+        "da": "Bør virksomhedsnavne, uregistrerede mærker, ophavsret og domæner undersøges særskilt?"
+      }
+    },
+    {
+      "tag": "Opposition",
+      "question": {
+        "ja": "公告後2か月の異議で必要な理由、証拠、翻訳、料金は。",
+        "en": "What grounds, evidence, translations and fee are needed for opposition within two months?",
+        "da": "Hvilke grunde, beviser, oversættelser og gebyr kræves ved indsigelse inden to måneder?"
+      },
+      "followUp": {
+        "ja": "和解交渉のための手続停止は何か月利用できますか。",
+        "en": "How long may opposition proceedings be stayed for settlement negotiations?",
+        "da": "Hvor længe kan indsigelsessagen udsættes til forligsforhandlinger?"
+      }
+    },
+    {
+      "tag": "Appeal",
+      "question": {
+        "ja": "DKPTO拒絶を不服審判委員会へ争う期限、証拠、平均審理期間は。",
+        "en": "What deadline, evidence scope and average duration apply to an appeal from DKPTO?",
+        "da": "Hvilken frist, bevisramme og behandlingstid gælder ved klage over styrelsens afgørelse?"
+      },
+      "followUp": {
+        "ja": "審判決定の司法審査の管轄、期限、概算費用は。",
+        "en": "What court, deadline and estimated cost apply to judicial review of the appeal decision?",
+        "da": "Hvilken domstol, frist og anslået omkostning gælder for domstolsprøvelse af ankenævnets afgørelse?"
+      }
+    },
+    {
+      "tag": "Non-use",
+      "question": {
+        "ja": "5年不使用取消に対抗する真正使用証拠は何ですか。",
+        "en": "What genuine-use evidence defends a five-year non-use action?",
+        "da": "Hvilken dokumentation for reel brug kræves mod ophævelse efter fem års manglende brug?"
+      },
+      "followUp": {
+        "ja": "EU商標、デンマーク国内登録、グリーンランド・フェロー諸島で使用地域をどう区別しますか。",
+        "en": "How is use territory distinguished among an EUTM, Danish national registration, Greenland and the Faroe Islands?",
+        "da": "Hvordan skelnes brugsområdet mellem EU-varemærke, dansk national registrering, Grønland og Færøerne?"
+      }
+    },
+    {
+      "tag": "Enforcement",
+      "question": {
+        "ja": "海事商事高等裁判所の仮処分、税関措置、刑事告訴をどう組み合わせますか。",
+        "en": "How should Maritime and Commercial High Court interim relief, customs action and criminal complaint be combined?",
+        "da": "Hvordan kombineres midlertidigt forbud ved Sø- og Handelsretten, toldindsats og politianmeldelse?"
+      },
+      "followUp": {
+        "ja": "証拠保全、担保、管轄、概算費用・期間は。",
+        "en": "What evidence preservation, security, venue, estimated cost and duration apply?",
+        "da": "Hvad gælder for bevissikring, sikkerhed, værneting, anslået omkostning og tid?"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "DKPTO — Apply for Trademarks",
+      "url": "https://www.dkpto.org/apply/apply-trademarks",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "DKPTO — Prices and Fees",
+      "url": "https://www.dkpto.org/about-ip-rights/prices-and-fees",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "DKPTO — Consolidated Trade Marks Act 2019",
+      "url": "https://www.dkpto.org/Media/637650470301617060/The%20Consolidate%20Trade%20Marks%20Act%202019.pdf",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "DKPTO — Trademark Application Form",
+      "url": "https://www.dkpto.org/Media/638700347482367707/Trademark%20application%20EN%202025.pdf",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Danish Appeals Board for Patents and Trademarks",
+      "url": "https://apv.naevneneshus.dk/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Danish Courts — Maritime and Commercial High Court",
+      "url": "https://domstol.dk/soeoghandelsretten/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Danish Customs",
+      "url": "https://toldst.dk/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO — Madrid System Members",
+      "url": "https://www.wipo.int/en/web/madrid-system/members/index",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO Madrid Monitor",
+      "url": "https://www3.wipo.int/madrid/monitor/en/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "TMview",
+      "url": "https://www.tmdn.org/tmview/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO Nice Classification",
+      "url": "https://www.wipo.int/classifications/nice/en/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    }
+  ]
+}
