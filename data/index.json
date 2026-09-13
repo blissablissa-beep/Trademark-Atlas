@@ -40,6 +40,10 @@
     "path": "./data/jurisdictions/hk.json"
   },
   {
+    "id": "mo",
+    "path": "./data/jurisdictions/mo.json"
+  },
+  {
     "id": "mn",
     "path": "./data/jurisdictions/mn.json"
   },
