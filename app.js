@@ -981,6 +981,10 @@ function renderDetail() {
          label = "Norsk";
        }
 
+        if (language === "sv") {
+         label = "Svenska";
+       }
+
          if (language === "tr") {
           label = "Türkçe";
        }
