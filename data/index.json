@@ -96,6 +96,10 @@
     "path": "./data/jurisdictions/ae.json"
   },
   {
+    "id": "tr",
+    "path": "./data/jurisdictions/tr.json"
+  },
+  {
     "id": "euipo",
     "path": "./data/jurisdictions/euipo.json"
   },
