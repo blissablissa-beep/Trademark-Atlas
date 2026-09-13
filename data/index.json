@@ -148,6 +148,10 @@
     "path": "./data/jurisdictions/ie.json"
   },
   {
+    "id": "no",
+    "path": "./data/jurisdictions/no.json"
+  },
+  {
     "id": "ng",
     "path": "./data/jurisdictions/ng.json"
   },
