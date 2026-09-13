@@ -1,0 +1,599 @@
+{
+  "id": "hk",
+  "type": "country",
+  "flag": "🇭🇰",
+  "region": "asia",
+  "names": {
+    "ja": "香港特別行政区",
+    "en": "Hong Kong Special Administrative Region",
+    "zh": "香港特別行政區"
+  },
+  "office": {
+    "ja": "香港知識産権署 商標登録処",
+    "en": "Trade Marks Registry, Intellectual Property Department (IPD)",
+    "zh": "香港知識產權署商標註冊處"
+  },
+  "availableLanguages": [
+    "zh"
+  ],
+  "createdAt": "2026-09-13",
+  "updatedAt": "2026-09-13",
+  "status": "review",
+  "facts": {
+    "authority": {
+      "ja": "香港知識産権署 商標登録処",
+      "en": "Trade Marks Registry, Intellectual Property Department (IPD)",
+      "zh": "香港知識產權署商標註冊處"
+    },
+    "protectionScope": {
+      "ja": "商品・役務の商標、団体商標、証明商標、防護標章、周知商標。中国本土の登録は香港に、香港登録は中国本土に自動的な効力を有しない。",
+      "en": "Marks for goods/services, collective marks, certification marks, defensive marks and well-known marks. Mainland registrations have no automatic effect in Hong Kong, and vice versa.",
+      "zh": "商品及服務商標、集體商標、證明商標、防禦商標及馳名商標。中國內地註冊不會自動在香港生效，香港註冊亦不會自動在內地生效。"
+    },
+    "markTypes": {
+      "ja": "語、名称、署名、文字、数字、図形、ブランド、見出し、ラベル、チケット、形状、色彩、音、匂い等。原則として図式的に表示できることが必要。",
+      "en": "Words, names, signatures, letters, numerals, devices, brands, headings, labels, tickets, shapes, colors, sounds, scents and others, generally subject to graphical-representation requirements.",
+      "zh": "文字、名稱、簽署、字母、數字、圖形、品牌、標題、標籤、票券、形狀、顏色、聲音、氣味等，原則上須能以圖示方式表述。"
+    },
+    "madridAccessionDate": {
+      "ja": "香港には未適用（2026年9月13日現在）。2020年改正条例は実施準備法だが、マドプロ指定はまだ利用できない。",
+      "en": "Not yet applicable to Hong Kong as of 13 September 2026. The 2020 Amendment Ordinance created an implementation framework, but Madrid designation is not yet available.",
+      "zh": "截至2026年9月13日尚未適用於香港。2020年修訂條例建立實施框架，但目前仍不可透過馬德里體系指定香港。"
+    },
+    "niceClassification": {
+      "ja": "採用。最新版ニース分類とIPDの受理可能な英語・中国語表示を確認する。",
+      "en": "Adopted; verify the current Nice edition and IPD-acceptable English or Chinese wording.",
+      "zh": "採用尼斯分類；應確認現行版本及知識產權署接受的英文或中文項目。"
+    },
+    "classHeadingPractice": {
+      "ja": "類見出しだけで区分内の全商品・役務を当然に包含しない。明確・具体的な表示を用いる。",
+      "en": "Class headings do not automatically cover every good/service in a class; use clear and specific wording.",
+      "zh": "類別標題不會自動涵蓋該類所有商品或服務；應採用清楚而具體的表述。"
+    },
+    "retailServices": {
+      "ja": "第35類で可。対象商品および小売・卸売・オンライン販売役務を具体化する。",
+      "en": "Available in Class 35; specify the relevant goods and retail, wholesale or online retail services.",
+      "zh": "可在第35類申請；應具體列明相關商品以及零售、批發或網上零售服務。"
+    },
+    "multiClassApplication": {
+      "ja": "可。多区分出願が可能で、追加区分ごとに料金が生じる。",
+      "en": "Available; multi-class filing is permitted with fees for additional classes.",
+      "zh": "可以提交多類別申請，並須就新增類別繳付費用。"
+    },
+    "applicationForm": {
+      "ja": "IPDへ電子または所定様式で、出願人、標章、商品・役務、区分、優先権、香港の送達住所等を提出する。",
+      "en": "File electronically or on the prescribed form with IPD, stating applicant, mark, goods/services, classes, priority and a Hong Kong address for service.",
+      "zh": "以電子方式或指定表格向知識產權署提交申請人、商標、商品服務、類別、優先權及香港送達地址等資料。"
+    },
+    "powerOfAttorney": {
+      "ja": "代理人選任時も通常、委任状提出は不要。ただし香港の送達住所が必要で、外国出願人は香港代理人の利用が実務的。",
+      "en": "A power is not normally filed even when an agent is appointed. A Hong Kong address for service is required, making local representation practical for foreign applicants.",
+      "zh": "即使委任代理人，一般亦毋須提交授權書；但須有香港送達地址，外國申請人實務上宜委任香港代理人。"
+    },
+    "priorityDocuments": {
+      "ja": "パリ優先権は最初の出願から6か月以内。出願時の主張、基礎情報および証明書・翻訳の要求を確認する。",
+      "en": "Paris priority must be claimed within six months; verify the filing claim, basic particulars and any request for the document or translation.",
+      "zh": "巴黎優先權須在首次申請後六個月內主張；應確認申請時聲明、基本資料及證明文件或翻譯要求。"
+    },
+    "homeRegistrationCertificate": {
+      "ja": "通常の直接出願には不要。",
+      "en": "Not normally required for a direct filing.",
+      "zh": "一般直接申請毋須提交本國註冊證明。"
+    },
+    "useEvidenceAtFiling": {
+      "ja": "通常不要。使用による識別力、周知性、誠実な同時使用等を主張する場合は証拠が必要。",
+      "en": "Not normally required; evidence is needed for acquired distinctiveness, well-known status or honest concurrent use.",
+      "zh": "通常毋須提交；如主張經使用取得顯著性、馳名或誠實同時使用，則須提出證據。"
+    },
+    "notarizationCertification": {
+      "ja": "通常の出願・代理人選任で公証・領事認証は不要。宣誓供述書、法定宣誓、譲渡書類等は手続別に確認する。",
+      "en": "No notarization/legalization is normally required for filing or appointment; check affidavits, statutory declarations and assignment documents separately.",
+      "zh": "一般申請或委任代理人毋須公證認證；誓章、法定聲明及轉讓文件應按程序另行確認。"
+    },
+    "otherDocuments": {
+      "ja": "標章見本・説明、香港送達住所、優先権資料、翻訳、音・匂い等の表示資料、使用・周知性証拠等。",
+      "en": "Representation/description, Hong Kong address for service, priority material, translations, materials representing sound/scent and use or reputation evidence.",
+      "zh": "商標圖樣及說明、香港送達地址、優先權資料、翻譯、聲音或氣味的表述資料，以及使用或知名度證據。"
+    },
+    "absoluteGroundsExamination": {
+      "ja": "あり。IPDが職権審査する。",
+      "en": "Yes; examined ex officio by IPD.",
+      "zh": "有。知識產權署依職權審查。"
+    },
+    "distinctivenessGrounds": {
+      "ja": "識別力欠如、普通名称、記述的・慣用的表示等は拒絶され得る。出願前の使用による識別力を証明できる場合がある。",
+      "en": "Non-distinctive, generic, descriptive or customary signs may be refused; acquired distinctiveness through pre-filing use may be proven.",
+      "zh": "缺乏顯著性、通用、描述性或慣用標誌可被拒絕；可證明申請前使用已取得顯著性。"
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "公序良俗、欺瞞性、法律により使用禁止の標章、国旗・紋章・公的記章、悪意、専ら機能的・本質的形状等を確認する。",
+      "en": "Check public policy/morality, deception, legally prohibited signs, flags/emblems and official signs, bad faith, and exclusively functional or inherent shapes.",
+      "zh": "應審查公共政策或道德、欺騙性、法律禁止使用的標誌、旗幟徽章及官方標誌、惡意，以及純功能性或商品本質形狀。"
+    },
+    "relativeGroundsExamination": {
+      "ja": "あり。先行香港出願・登録、周知商標その他の先行権利との同一・類似を職権審査する。",
+      "en": "Yes; identity or similarity with earlier Hong Kong applications/registrations, well-known marks and other earlier rights is examined ex officio.",
+      "zh": "有。註冊處依職權審查與在先香港申請或註冊、馳名商標及其他在先權利的相同或近似。"
+    },
+    "disclaimer": {
+      "ja": "あり。標章の特定部分について排他的使用権を主張しない旨のディスクレーム、制限または条件を記録できる。",
+      "en": "Available; a disclaimer of exclusive use, limitation or condition may be recorded for a particular element.",
+      "zh": "可以就商標某部分記錄放棄專有使用權、限制或條件。"
+    },
+    "consent": {
+      "ja": "先行権利者の同意は考慮され得るが、自動的に拒絶を解消しない。誠実な同時使用その他の特別事情も証拠で主張する。",
+      "en": "Earlier-owner consent may be considered but does not automatically overcome refusal; honest concurrent use or other special circumstances may also be proven.",
+      "zh": "在先權利人同意可供考慮，但不會自動克服拒絕；亦可舉證主張誠實同時使用或其他特殊情況。"
+    },
+    "acceleratedExamination": {
+      "ja": "一般的な商標早期審査制度は確認できない。緊急事情の取扱いをIPDまたは現地代理人に確認する。",
+      "en": "No general trademark fast-track identified; ask IPD or local counsel about treatment of urgent circumstances.",
+      "zh": "未確認有一般商標快速審查制度；如有緊急情況，應向知識產權署或香港代理人查詢。"
+    },
+    "thirdPartyObservation": {
+      "ja": "出願公告後3か月以内に正式異議申立て可能。別個の非公式情報提供の可否はIPDへ確認する。",
+      "en": "Formal opposition is available within three months after publication; ask IPD whether separate informal observations are accepted.",
+      "zh": "申請公布後三個月內可提出正式反對；是否接受另行非正式意見應向知識產權署確認。"
+    },
+    "directExaminationPeriod": {
+      "ja": "IPDの初回審査サービス目標と登録までの期間は異なる。無拒絶・無異議でも通常少なくとも約6か月以上を見込み、最新実績を確認する。",
+      "en": "IPD’s first-examination target differs from total registration time. Even an unobjectionable, unopposed case commonly requires at least about six months; verify current performance.",
+      "zh": "知識產權署首次審查目標與完成註冊時間不同；即使無異議或反對，通常亦至少約需六個月，應確認最新表現。"
+    },
+    "madridExaminationPeriod": {
+      "ja": "適用なし。香港にはマドリッド協定議定書がまだ適用されていない。",
+      "en": "Not applicable because the Madrid Protocol has not yet been applied to Hong Kong.",
+      "zh": "不適用，因《馬德里議定書》尚未適用於香港。"
+    },
+    "colourPriorityIdentity": {
+      "ja": "優先権基礎と香港出願で色彩の有無・配置を整合させる。白黒とカラーの差が同一性を損なうかを個別確認する。",
+      "en": "Align the presence and arrangement of color with the priority filing; assess individually whether black-and-white/color differences impair identity.",
+      "zh": "應使香港申請的顏色及排列與優先權申請一致，並個別判斷黑白與彩色差異是否影響同一性。"
+    },
+    "colourRelativeGrounds": {
+      "ja": "色彩は全体的印象の一要素。色変更だけで類似性が解消するとは限らず、英語・中国語の文字、称呼、観念、図形を総合比較する。",
+      "en": "Color is one factor in overall impression; color change alone may not avoid similarity. Compare English/Chinese wording, pronunciation, concept and devices globally.",
+      "zh": "顏色是整體印象因素之一；僅改變顏色不一定排除近似。應綜合比較中英文文字、讀音、概念及圖形。"
+    },
+    "colourGenuineUse": {
+      "ja": "登録形態と使用形態の色彩差が商標の識別性を変更するかを評価する。色彩限定登録では異なる色での使用に注意する。",
+      "en": "Assess whether color differences between registration and use alter distinctive character; take care with use in another color where registration is color-limited.",
+      "zh": "應判斷註冊與使用形式的顏色差異是否改變顯著特徵；註冊限定顏色時，使用其他顏色須特別注意。"
+    },
+    "colourInfringementScope": {
+      "ja": "登録表示・色彩限定、全体的印象、商品・役務、需要者、混同のおそれを総合評価する。",
+      "en": "Assess the registered representation/color limitation, overall impression, goods/services, consumers and likelihood of confusion.",
+      "zh": "應綜合判斷註冊圖樣或顏色限制、整體印象、商品服務、消費者及混淆可能性。"
+    },
+    "colourFilingStrategy": {
+      "ja": "色彩が重要ならカラー版を、柔軟性が必要なら白黒版・主要カラー版を別出願する。中国本土用の簡体字・香港用の繁体字ブランドも整理する。",
+      "en": "If color matters, file in color; for flexibility file black-and-white and key color versions separately. Coordinate simplified-character Mainland and traditional-character Hong Kong brands.",
+      "zh": "如顏色重要，應申請彩色版本；如需靈活性，可另申請黑白及主要彩色版本，並協調內地簡體字與香港繁體字品牌。"
+    },
+    "refusalResponseRoute": {
+      "ja": "IPDの審査意見に、意見書、商品・役務限定、許容される補正、同意・使用証拠等で応答する。拒絶維持時は聴聞を請求し、裁判所への上訴を検討する。",
+      "en": "Respond to IPD objections with submissions, specification limitation, permissible amendment, consent or use evidence. If maintained, request a hearing and consider court appeal.",
+      "zh": "可就知識產權署審查意見提交陳詞、限制商品服務、作出容許修訂、同意或使用證據；如仍被拒，可要求聆訊並考慮向法院上訴。"
+    },
+    "responsePeriod": {
+      "ja": "審査通知から通常6か月以内に要件を満たす。通知記載期限を優先する。",
+      "en": "Normally six months from the examination notice to meet the requirements; the stated deadline controls.",
+      "zh": "通常須在審查通知後六個月內符合要求；以通知所載期限為準。"
+    },
+    "extensionAvailable": {
+      "ja": "あり。通常、当初6か月の満了前に3か月延長を申請可能。追加延長は限定事情のみ。",
+      "en": "Available; a three-month extension may normally be requested before expiry of the initial six months. Further extension is limited.",
+      "zh": "有。通常可在最初六個月屆滿前申請延長三個月；進一步延期只限特定情況。"
+    },
+    "extensionLength": {
+      "ja": "通常3か月。追加延長は、同意取得、分割・譲渡、関連手続待ち等の規則上の事情を確認する。",
+      "en": "Normally three months; for further extension verify rule-based circumstances such as obtaining consent, division/assignment or awaiting related proceedings.",
+      "zh": "通常為三個月；進一步延期須確認取得同意、分割或轉讓、等待相關程序等規則所定情況。"
+    },
+    "extensionRequirements": {
+      "ja": "期限前に所定様式・料金で申請。追加延長では具体的理由と進捗証拠が必要となり得る。",
+      "en": "Apply before expiry using the prescribed form and fee; a further extension may require specific reasons and progress evidence.",
+      "zh": "須在期限前以指定表格及費用申請；進一步延期可能須提出具體理由及進度證據。"
+    },
+    "appealRoute": {
+      "ja": "登録官の拒絶決定についてCourt of First Instance（原訟法庭）への上訴を検討する。聴聞、決定理由、上訴期限を確認する。",
+      "en": "A refusal decision of the Registrar may be appealed to the Court of First Instance; verify hearing, reasons and appeal deadline.",
+      "zh": "商標註冊處處長的拒絕決定可考慮向原訟法庭上訴；應確認聆訊、決定理由及上訴期限。"
+    },
+    "refusalAppealPeriod": {
+      "ja": "公式な一律の平均審理期間は確認できない。IPD聴聞と裁判所上訴を分けて現地見積りを取得する。",
+      "en": "No single official average identified; obtain separate local estimates for the IPD hearing and court appeal.",
+      "zh": "未確認有統一官方平均時間；應分別取得知識產權署聆訊及法院上訴的本地估算。"
+    },
+    "publicDatabase": {
+      "ja": "香港IPD商標検索システム",
+      "en": "Hong Kong IPD Online Search System",
+      "zh": "香港知識產權署網上檢索系統",
+      "url": "https://esearch.ipd.gov.hk/nis-pos-view/#/"
+    },
+    "publicationStage": {
+      "ja": "審査で受理された出願はHong Kong Intellectual Property Journalに公告され、3か月の異議期間に入る。",
+      "en": "An accepted application is published in the Hong Kong Intellectual Property Journal and enters a three-month opposition period.",
+      "zh": "獲接納的申請會在《香港知識產權公報》公布，並進入三個月反對期。"
+    },
+    "oppositionPeriod": {
+      "ja": "公告日から3か月。",
+      "en": "Three months from publication.",
+      "zh": "自公布日起三個月。"
+    },
+    "oppositionExtension": {
+      "ja": "所定期間内に申請し、理由が認められれば延長可能な場合がある。延長期間・反対通知との関係を確認する。",
+      "en": "An extension may be available on timely request and sufficient reasons; verify the period and interaction with the notice of opposition.",
+      "zh": "如及時申請並有充分理由，可能獲准延期；應確認延期長度及與反對通知的關係。"
+    },
+    "averagePendency": {
+      "ja": "拒絶・異議がなければ概ね6～9か月程度が目安となり得るが、IPDの最新サービス実績を確認する。",
+      "en": "An unobjectionable, unopposed case may take roughly six to nine months, subject to current IPD performance.",
+      "zh": "無審查異議或反對的案件可約需六至九個月，但應確認知識產權署最新服務表現。"
+    },
+    "term": {
+      "ja": "出願日から10年。10年ごとに更新可能。",
+      "en": "10 years from the filing date, renewable for successive ten-year periods.",
+      "zh": "自申請日起十年，可每十年續期。"
+    },
+    "termStart": {
+      "ja": "出願日から。登録により権利が成立する。",
+      "en": "From the filing date; rights arise through registration.",
+      "zh": "自申請日起計；權利經註冊而成立。"
+    },
+    "renewalWindow": {
+      "ja": "満了前6か月以内に更新申請可能。",
+      "en": "Renewal may be filed within six months before expiry.",
+      "zh": "可在期滿前六個月內申請續期。"
+    },
+    "gracePeriod": {
+      "ja": "あり。満了後6か月以内は追加料金付きで更新可能。その後の回復手続は別途確認する。",
+      "en": "Yes; late renewal is available within six months after expiry with an additional fee. Check restoration thereafter separately.",
+      "zh": "有。期滿後六個月內可繳付附加費續期；其後的恢復程序須另行確認。"
+    },
+    "renewalEvidence": {
+      "ja": "更新時の使用宣誓・使用証拠は不要。ただし3年不使用取消に備え、香港での使用証拠を保存する。",
+      "en": "No declaration/evidence of use is required for renewal; retain evidence of use in Hong Kong against three-year non-use revocation.",
+      "zh": "續期毋須提交使用聲明或證據；但應保存香港使用證據，以應對連續三年不使用撤銷。"
+    },
+    "nonUseCancellation": {
+      "ja": "あり。利害関係人が登録官または裁判所へ取消を請求できる。",
+      "en": "Available through an application by an interested person to the Registrar or the court.",
+      "zh": "有。利害關係人可向商標註冊處處長或法院申請撤銷。"
+    },
+    "nonUsePeriod": {
+      "ja": "登録手続完了後、正当理由なく継続3年間香港で真正使用がない場合。全部または一部取消となり得る。",
+      "en": "Three continuous years without genuine use in Hong Kong after completion of registration, absent proper reasons; revocation may be total or partial.",
+      "zh": "註冊程序完成後，如無正當理由連續三年未在香港真誠使用，可全部或部分撤銷。"
+    },
+    "nonUseDefenses": {
+      "ja": "商標権者が香港での真正使用、同意を得た使用、輸出商標の付着、正当な不使用理由等を証明する。取消を予期した直前3か月の使用再開には制限がある。",
+      "en": "The owner proves genuine Hong Kong use, authorized use, affixing marks for export or proper reasons. Resumption in the three months before a contemplated action may be disregarded.",
+      "zh": "商標權人須證明在香港真誠使用、獲同意使用、為出口而附上商標或不使用的正當理由；預期撤銷前最後三個月恢復使用可能不獲計算。"
+    },
+    "otherCancellation": {
+      "ja": "普通名称化、誤認を生じる使用等による取消があり得る。権利放棄、更新失効、無効と区別する。",
+      "en": "Revocation may apply for genericide or misleading use; distinguish surrender, non-renewal and invalidity.",
+      "zh": "商標通用化或誤導性使用可導致撤銷；應與放棄、未續期及無效區分。"
+    },
+    "invalidation": {
+      "ja": "あり。絶対的・相対的拒絶理由、悪意等を理由に登録官または裁判所へ全部・一部無効を請求可能。黙認による制限も確認する。",
+      "en": "Available before the Registrar or court, in whole or part, on absolute/relative grounds, bad faith and other bases; check acquiescence limitations.",
+      "zh": "有。可基於絕對或相對理由、惡意等向處長或法院申請全部或部分無效；亦應確認默許的限制。"
+    },
+    "civilInjunction": {
+      "ja": "Court of First Instance等で仮差止め・終局的差止めを請求可能。緊急性、担保、完全かつ率直な開示を確認する。",
+      "en": "Interim and final injunctions may be sought in the Court of First Instance; verify urgency, undertaking and full and frank disclosure.",
+      "zh": "可向原訟法庭申請臨時及永久禁制令；應確認緊迫性、擔保承諾及全面坦誠披露。"
+    },
+    "civilDamages": {
+      "ja": "損害賠償または利益計算を請求可能。追加的損害、善意侵害、費用を個別検討する。",
+      "en": "Damages or an account of profits may be claimed; assess additional damages, innocent infringement and costs.",
+      "zh": "可申索損害賠償或交代利潤；應個別評估額外損害、無意侵權及訟費。"
+    },
+    "civilEvidencePreservation": {
+      "ja": "開示、証拠保全、Anton Piller型捜索命令、資産凍結等を事案に応じ検討する。",
+      "en": "Consider discovery, evidence preservation, Anton Piller search orders and asset-freezing relief as appropriate.",
+      "zh": "可按案件考慮文件披露、證據保全、Anton Piller搜查令及資產凍結。"
+    },
+    "civilOther": {
+      "ja": "侵害品・材料・器具の引渡し・廃棄、宣言、費用等があり得る。",
+      "en": "Delivery up/destruction of infringing goods, materials or implements, declarations and costs may be available.",
+      "zh": "可命令交付或銷毀侵權貨品、材料或工具，並作出宣告及訟費命令。"
+    },
+    "borderMeasures": {
+      "ja": "香港税関への通報・協力による輸出入偽造品の留置・捜査が重要。EU型の一律な税関登録制度とは異なるため運用を確認する。",
+      "en": "Reporting and cooperation with Hong Kong Customs for detention/investigation of counterfeit imports and exports is important. Practice differs from an EU-style unitary recordal.",
+      "zh": "向香港海關舉報並合作扣留及調查進出口冒牌貨十分重要；其做法不同於歐盟式統一海關備案。"
+    },
+    "administrativeRaid": {
+      "ja": "香港海関がTrade Descriptions Ordinanceに基づき捜査、店舗・倉庫摘発、押収を行う。IPDは登録機関で、一般的な摘発主体ではない。",
+      "en": "Hong Kong Customs investigates and conducts shop/warehouse raids and seizures under the Trade Descriptions Ordinance. IPD is the registration office, not the general raid authority.",
+      "zh": "香港海關依《商品說明條例》調查並搜查店舖或貨倉及檢取貨物；知識產權署是註冊機關，並非一般執法搜查機關。"
+    },
+    "administrativeOther": {
+      "ja": "税関押収、オンラインプラットフォーム削除、会社・ドメイン・消費者保護対応等を民事手続と組み合わせる。",
+      "en": "Combine customs seizures, platform takedowns and company/domain/consumer measures with civil proceedings.",
+      "zh": "可將海關檢取、網上平台下架、公司或域名及消費者措施與民事程序結合。"
+    },
+    "criminalAvailability": {
+      "ja": "Trade Descriptions Ordinance等により、偽造商標の付着、偽造品の販売・輸入・所持等に刑事責任あり。",
+      "en": "The Trade Descriptions Ordinance provides criminal liability for applying forged marks and selling, importing or possessing counterfeit goods.",
+      "zh": "《商品說明條例》等就附加偽造商標、售賣、進口或管有冒牌貨品訂明刑事責任。"
+    },
+    "criminalFine": {
+      "ja": "あり。略式・正式起訴および犯罪類型により上限が異なるため最新額を確認する。",
+      "en": "Available; current maxima vary by summary/indictable procedure and offense.",
+      "zh": "有。最高罰款視乎簡易或公訴程序及罪行類型而異，應確認最新金額。"
+    },
+    "criminalImprisonment": {
+      "ja": "あり得る。正式起訴では長期の禁錮があり得るため最新法令を確認する。",
+      "en": "Potentially available, including substantial imprisonment on indictment; verify current provisions.",
+      "zh": "可能判處監禁，循公訴程序可處較長刑期；應確認現行法例。"
+    },
+    "criminalOther": {
+      "ja": "偽造品・包装・製造器具の没収・廃棄、捜索・押収、犯罪収益手続等があり得る。",
+      "en": "Forfeiture/destruction of counterfeit goods, packaging and implements, search/seizure and proceeds-of-crime measures may apply.",
+      "zh": "可沒收或銷毀冒牌貨、包裝及製造工具，並採取搜查、檢取及犯罪得益措施。"
+    }
+  },
+  "notablePoints": [
+    {
+      "title": {
+        "ja": "中国本土とは別法域",
+        "en": "Separate from Mainland China",
+        "zh": "與中國內地屬不同法域"
+      },
+      "detail": {
+        "ja": "中国本土のCNIPA登録は香港を保護しない。香港IPDと中国本土へ別々に出願し、簡体字・繁体字ブランドも整理する。",
+        "en": "A CNIPA registration does not cover Hong Kong. File separately with Hong Kong IPD and Mainland China, coordinating simplified and traditional-character brands.",
+        "zh": "內地國家知識產權局註冊不涵蓋香港；須分別在香港與內地申請，並協調簡體及繁體中文品牌。"
+      }
+    },
+    {
+      "title": {
+        "ja": "マドプロはまだ利用不可",
+        "en": "Madrid not yet available",
+        "zh": "馬德里體系尚未可用"
+      },
+      "detail": {
+        "ja": "2020年改正条例は成立したが、香港への国際登録指定はまだ開始されていない。直接出願が必要。",
+        "en": "Although the 2020 Amendment Ordinance was enacted, international designation of Hong Kong has not commenced; direct filing is required.",
+        "zh": "雖然2020年修訂條例已制定，但指定香港的國際註冊尚未開始，仍須直接申請。"
+      }
+    },
+    {
+      "title": {
+        "ja": "6か月応答＋通常3か月延長",
+        "en": "Six-month response plus usual three-month extension",
+        "zh": "六個月答覆及通常三個月延期"
+      },
+      "detail": {
+        "ja": "審査通知への応答は通常6か月。満了前に3か月延長を申請できるが、それ以上は限定理由が必要。",
+        "en": "The ordinary examination-response period is six months, with a three-month extension requested before expiry; further extensions need limited grounds.",
+        "zh": "一般審查答覆期為六個月，可在屆滿前申請延長三個月；再延期須有特定理由。"
+      }
+    },
+    {
+      "title": {
+        "ja": "3年不使用取消",
+        "en": "Three-year non-use revocation",
+        "zh": "連續三年不使用撤銷"
+      },
+      "detail": {
+        "ja": "香港での真正使用が必要。中国本土だけでの使用は原則として香港登録の維持証拠にならない。",
+        "en": "Genuine use in Hong Kong is required; Mainland-only use generally does not maintain a Hong Kong registration.",
+        "zh": "須在香港真誠使用；僅在中國內地使用一般不足以維持香港註冊。"
+      }
+    },
+    {
+      "title": {
+        "ja": "香港税関による刑事摘発",
+        "en": "Criminal enforcement by Hong Kong Customs",
+        "zh": "香港海關刑事執法"
+      },
+      "detail": {
+        "ja": "偽造品対策では税関への通報、真正品・偽造品識別、権利者証人の協力が実務上重要。",
+        "en": "For counterfeits, reporting to Customs, genuine/counterfeit identification and proprietor-witness cooperation are practically important.",
+        "zh": "打擊冒牌貨時，向海關舉報、辨別真偽及權利人證人配合在實務上十分重要。"
+      }
+    }
+  ],
+  "statistics": {
+    "coverage": "2016–2025",
+    "status": "pending",
+    "series": []
+  },
+  "news": [
+    {
+      "id": "madrid-implementation-status",
+      "type": "law",
+      "date": "2026-09-13",
+      "title": {
+        "ja": "マドプロ実施準備の継続",
+        "en": "Madrid implementation remains pending",
+        "zh": "馬德里體系實施仍在籌備"
+      },
+      "summary": {
+        "ja": "Trade Marks (Amendment) Ordinance 2020は制度枠組みを設けたが、香港への適用開始日は未到来。カード更新時に施行状況を確認する。",
+        "en": "The Trade Marks (Amendment) Ordinance 2020 created the framework, but application to Hong Kong has not commenced; recheck at every update.",
+        "zh": "《2020年商標（修訂）條例》已建立框架，但尚未開始適用於香港；每次更新卡片時均應再確認。"
+      },
+      "sourceUrl": "https://www.ipd.gov.hk/en/trade-marks/madrid-protocol/index.html"
+    },
+    {
+      "id": "electronic-services-2025",
+      "type": "practice",
+      "date": "2025-01-01",
+      "title": {
+        "ja": "電子出願・オンライン検索の利用",
+        "en": "Electronic filing and online search",
+        "zh": "電子申請及網上檢索"
+      },
+      "summary": {
+        "ja": "IPD電子サービス、オンライン検索、電子公報を出願・監視の中心として使用し、通知先・送達住所を最新に保つ。",
+        "en": "Use IPD e-services, online search and the electronic journal for filing and watching, keeping contact and service-address details current.",
+        "zh": "使用知識產權署電子服務、網上檢索及電子公報辦理申請和監察，並保持聯絡及送達地址最新。"
+      },
+      "sourceUrl": "https://www.ipd.gov.hk/en/e-filing/index.html"
+    },
+    {
+      "id": "nice-13-2026",
+      "type": "practice",
+      "date": "2026-01-01",
+      "title": {
+        "ja": "ニース国際分類第13版への対応",
+        "en": "Implementation of Nice Classification, 13th edition",
+        "zh": "適用尼斯分類第十三版"
+      },
+      "summary": {
+        "ja": "2026年新規出願では第13版とIPDが受理する英語・中国語表示を照合する。",
+        "en": "For 2026 filings, align the 13th edition with English or Chinese wording accepted by IPD.",
+        "zh": "2026年新申請應把尼斯分類第十三版與知識產權署接受的英文或中文項目對照。"
+      },
+      "sourceUrl": "https://www.wipo.int/classifications/nice/en/"
+    }
+  ],
+  "faqs": [
+    {
+      "tag": "Territory",
+      "question": {
+        "ja": "中国本土、香港、マカオについて別々の出願が必要ですか。",
+        "en": "Are separate filings needed for Mainland China, Hong Kong and Macao?",
+        "zh": "中國內地、香港及澳門是否須分別申請？"
+      },
+      "followUp": {
+        "ja": "簡体字版、繁体字版、英字版のどの標章を香港で確保すべきですか。",
+        "en": "Which simplified-character, traditional-character and Latin-script versions should be protected in Hong Kong?",
+        "zh": "應在香港保護哪些簡體字、繁體字及拉丁字母版本？"
+      }
+    },
+    {
+      "tag": "Madrid",
+      "question": {
+        "ja": "現時点でマドプロから香港を指定できますか。直接出願との切替予定はありますか。",
+        "en": "Can Hong Kong currently be designated through Madrid, and is there an implementation timetable?",
+        "zh": "目前可否透過馬德里體系指定香港？有否實施時間表？"
+      },
+      "followUp": {
+        "ja": "制度開始前の香港出願を後に国際登録で置換できますか。",
+        "en": "Can a pre-implementation Hong Kong registration later be replaced by an international registration?",
+        "zh": "制度實施前的香港註冊日後可否由國際註冊取代？"
+      }
+    },
+    {
+      "tag": "Examination",
+      "question": {
+        "ja": "この審査通知には6か月期限と3か月延長が適用されますか。",
+        "en": "Do the six-month deadline and three-month extension apply to this examination notice?",
+        "zh": "本審查通知是否適用六個月期限及三個月延期？"
+      },
+      "followUp": {
+        "ja": "追加延長に必要な特別事情と進捗証拠は何ですか。",
+        "en": "What special circumstances and progress evidence support a further extension?",
+        "zh": "進一步延期須具備哪些特殊情況及進度證據？"
+      }
+    },
+    {
+      "tag": "Opposition",
+      "question": {
+        "ja": "3か月の異議期間は延長可能で、どの理由・証拠が必要ですか。",
+        "en": "Can the three-month opposition period be extended, and what reasons/evidence are required?",
+        "zh": "三個月反對期可否延長？須提出哪些理由和證據？"
+      },
+      "followUp": {
+        "ja": "同意、共存、誠実な同時使用、指定商品限定のどれが有効ですか。",
+        "en": "Which is effective: consent, coexistence, honest concurrent use or specification limitation?",
+        "zh": "同意、共存、誠實同時使用或限制商品服務，哪種方式較有效？"
+      }
+    },
+    {
+      "tag": "Non-use",
+      "question": {
+        "ja": "香港での3年間の真正使用を示すため、どの売上・広告・ウェブ証拠が必要ですか。",
+        "en": "What sales, advertising and web evidence proves three years of genuine use in Hong Kong?",
+        "zh": "證明在香港三年真誠使用須提交哪些銷售、廣告及網上證據？"
+      },
+      "followUp": {
+        "ja": "中国本土での使用、香港からの輸出、ライセンシー使用はどこまで有効ですか。",
+        "en": "To what extent do Mainland use, exports from Hong Kong and licensee use count?",
+        "zh": "內地使用、從香港出口及被許可人使用可在多大程度上計算？"
+      }
+    },
+    {
+      "tag": "Enforcement",
+      "question": {
+        "ja": "民事仮処分と香港税関への刑事通報をどのように併用すべきですか。",
+        "en": "How should civil interim relief and a criminal report to Hong Kong Customs be combined?",
+        "zh": "應如何結合民事臨時禁制令與向香港海關刑事舉報？"
+      },
+      "followUp": {
+        "ja": "税関の真正品・偽造品識別と権利者証人に必要な資料は何ですか。",
+        "en": "What materials are needed for Customs identification and proprietor-witness support?",
+        "zh": "海關真偽鑑定及權利人證人配合需要哪些資料？"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "Hong Kong IPD — Trade Marks",
+      "url": "https://www.ipd.gov.hk/en/trade-marks/index.html",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Hong Kong e-Legislation — Trade Marks Ordinance, Cap. 559",
+      "url": "https://www.elegislation.gov.hk/hk/cap559",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Hong Kong e-Legislation — Trade Marks Rules, Cap. 559A",
+      "url": "https://www.elegislation.gov.hk/hk/cap559A",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Hong Kong IPD — Online Search",
+      "url": "https://esearch.ipd.gov.hk/nis-pos-view/#/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Hong Kong IPD — Madrid Protocol",
+      "url": "https://www.ipd.gov.hk/en/trade-marks/madrid-protocol/index.html",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Hong Kong IPD — Applying for a Trade Mark",
+      "url": "https://www.ipd.gov.hk/en/trade-marks/applying-for-a-trade-mark/index.html",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Hong Kong IPD — Forms and Fees",
+      "url": "https://www.ipd.gov.hk/en/trade-marks/forms-and-fees/index.html",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Hong Kong Customs — Intellectual Property Rights",
+      "url": "https://www.customs.gov.hk/en/service-enforcement-information/anti-infringement/index.html",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Hong Kong e-Legislation — Trade Descriptions Ordinance, Cap. 362",
+      "url": "https://www.elegislation.gov.hk/hk/cap362",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO Nice Classification",
+      "url": "https://www.wipo.int/classifications/nice/en/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    }
+  ]
+}
