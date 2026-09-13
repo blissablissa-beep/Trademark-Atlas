@@ -156,6 +156,10 @@
     "path": "./data/jurisdictions/se.json"
   },
   {
+    "id": "dk",
+    "path": "./data/jurisdictions/dk.json"
+  },
+  {
     "id": "ng",
     "path": "./data/jurisdictions/ng.json"
   },
