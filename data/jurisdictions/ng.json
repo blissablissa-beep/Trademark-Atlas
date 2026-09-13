@@ -1,0 +1,504 @@
+{
+  "id": "ng",
+  "type": "country",
+  "flag": "🇳🇬",
+  "region": "africa",
+  "names": {
+    "ja": "ナイジェリア連邦共和国",
+    "en": "Federal Republic of Nigeria"
+  },
+  "office": {
+    "ja": "商標・特許・意匠登録局（連邦産業貿易投資省 商法局）",
+    "en": "Trademarks, Patents and Designs Registry, Commercial Law Department, Federal Ministry of Industry, Trade and Investment"
+  },
+  "availableLanguages": [],
+  "createdAt": "2026-09-13",
+  "updatedAt": "2026-09-13",
+  "status": "review",
+  "facts": {
+    "authority": {
+      "ja": "商標・特許・意匠登録局（連邦産業貿易投資省 商法局）",
+      "en": "Trademarks, Patents and Designs Registry, Commercial Law Department, Federal Ministry of Industry, Trade and Investment"
+    },
+    "protectionScope": {
+      "ja": "商品・役務の商標、団体商標、証明商標。未登録標章は原則として商標法上の侵害訴訟ではなく、パッシング・オフ等による保護を検討する。",
+      "en": "Marks for goods/services, collective marks and certification marks. Unregistered signs are generally protected through passing off and related causes rather than a statutory registered-mark infringement claim."
+    },
+    "markTypes": {
+      "ja": "名称、語、文字、数字、図形、ブランド、ラベル、チケット、署名、商品の形状、包装、色彩の組合せ等。2023年改正による定義拡張を踏まえ、非伝統的商標の表示要件を確認する。",
+      "en": "Names, words, letters, numerals, devices, brands, labels, tickets, signatures, shapes of goods, packaging and color combinations. Verify representation requirements for non-traditional marks following the 2023 expansion."
+    },
+    "madridAccessionDate": {
+      "ja": "未加盟（2026年9月13日現在）。マドプロによるナイジェリア指定は不可。",
+      "en": "Not a member as of 13 September 2026; Nigeria cannot be designated through Madrid."
+    },
+    "niceClassification": {
+      "ja": "採用。商品・役務45区分。出願時点の最新版と登録局の受理表示を確認する。",
+      "en": "Adopted for 45 classes of goods/services; verify the current edition and Registry-accepted wording."
+    },
+    "classHeadingPractice": {
+      "ja": "類見出しだけに依存せず、商品・役務を明確かつ具体的に列挙する。広範な表示には補正要求があり得る。",
+      "en": "Do not rely only on class headings; list goods/services clearly and specifically. Broad wording may attract an amendment request."
+    },
+    "retailServices": {
+      "ja": "第35類で可。対象商品および小売・卸売・オンライン販売役務を具体化する。",
+      "en": "Available in Class 35; specify the relevant goods and retail, wholesale or online retail services."
+    },
+    "multiClassApplication": {
+      "ja": "不可。原則として一区分ごとに別出願が必要。",
+      "en": "Not available; a separate application is generally required for each class."
+    },
+    "applicationForm": {
+      "ja": "電子出願等により、出願人情報、標章見本、区分、商品・役務、代理人、優先権等を提出する。",
+      "en": "File electronically or by the available Registry route with applicant details, representation, class, goods/services, representative and priority information."
+    },
+    "powerOfAttorney": {
+      "ja": "外国出願人は通常ナイジェリアの商標代理人を選任し、単純署名の委任状／authorizationを提出する。原本・署名者肩書・追完要件を確認する。",
+      "en": "A foreign applicant normally appoints a Nigerian trademark agent and files a simply signed power/authorization; verify original, signatory-capacity and late-filing requirements."
+    },
+    "priorityDocuments": {
+      "ja": "パリ優先権は最初の出願から6か月以内。認証謄本、英訳および提出期限を確認する。",
+      "en": "Paris priority must be claimed within six months; verify certified-copy, English-translation and filing deadlines."
+    },
+    "homeRegistrationCertificate": {
+      "ja": "通常の直接出願には不要。",
+      "en": "Not normally required for a direct national filing."
+    },
+    "useEvidenceAtFiling": {
+      "ja": "通常不要。使用による識別力、周知性、先使用等を主張する場合は証拠が必要となり得る。",
+      "en": "Not normally required; evidence may be needed for acquired distinctiveness, reputation or prior use."
+    },
+    "notarizationCertification": {
+      "ja": "委任状は通常、公証・領事認証不要とされる。ただし優先権証明・宣誓供述書その他の証拠書類は個別確認する。",
+      "en": "A power is generally understood not to require notarization or legalization; check priority documents, affidavits and other evidence separately."
+    },
+    "otherDocuments": {
+      "ja": "標章見本、法人・住所情報、単純署名委任状、優先権資料、英訳、使用・周知性の証拠等。",
+      "en": "Representation, entity/address details, simply signed power, priority material, English translations and use/reputation evidence as applicable."
+    },
+    "absoluteGroundsExamination": {
+      "ja": "あり。登録局が職権審査する。",
+      "en": "Yes; examined ex officio by the Registry."
+    },
+    "distinctivenessGrounds": {
+      "ja": "識別力欠如、普通名称、記述的・慣用的表示、非識別的な姓・地名等は拒絶され得る。Part A／Part Bの旧来区分を含む現行運用を確認する。",
+      "en": "Non-distinctive, generic, descriptive or customary matter and non-distinctive surnames/geographical names may be refused. Verify current practice concerning the traditional Parts A/B of the register."
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "欺瞞・混同を生じる標章、法令・善良な風俗に反する標章、違法・スキャンダラスな事項、国章・公的記章、保護名称等を確認する。",
+      "en": "Check deceptive or confusing marks, matter contrary to law or morality, scandalous matter, state emblems/official signs and protected names."
+    },
+    "relativeGroundsExamination": {
+      "ja": "あり。先行出願・登録、著名商標、商号その他の先行権利との同一・類似を職権審査する。",
+      "en": "Yes; identity or similarity with earlier applications/registrations, famous marks, trade names and other earlier rights is examined ex officio."
+    },
+    "disclaimer": {
+      "ja": "あり。非識別的・共通的要素について権利不要求を求められることがある。",
+      "en": "Available; a disclaimer may be required for non-distinctive or common elements."
+    },
+    "consent": {
+      "ja": "先行権利者の同意書・共存関係が考慮され得るが、登録官の裁量があり、同意のみで拒絶が必ず解消するとは限らない。",
+      "en": "Consent or coexistence may be considered, subject to the Registrar’s discretion; consent alone does not necessarily overcome a refusal."
+    },
+    "acceleratedExamination": {
+      "ja": "迅速審査サービスが利用可能な場合がある。提供状況、追加料金、対象工程および保証期間を最新確認する。",
+      "en": "An expedited service may be available; verify current availability, additional fee, covered stages and whether timing is guaranteed."
+    },
+    "thirdPartyObservation": {
+      "ja": "公告後2か月以内の正式異議申立制度あり。別個の情報提供制度の有無は登録局の最新実務を確認する。",
+      "en": "Formal opposition is available within two months after publication; verify whether a separate observation procedure exists."
+    },
+    "directExaminationPeriod": {
+      "ja": "行政サービス上の目標と実際の所要期間が異なり得る。通常・迅速出願を分け、審査、公告、登録証発行の最新見積りを現地代理人から取得する。",
+      "en": "Administrative targets may differ from actual timing. Obtain current local estimates for regular and expedited filing, separating examination, publication and certificate issuance."
+    },
+    "madridExaminationPeriod": {
+      "ja": "適用なし。ナイジェリアはマドリッド協定議定書の締約国ではない。",
+      "en": "Not applicable because Nigeria is not a Madrid Protocol member."
+    },
+    "colourPriorityIdentity": {
+      "ja": "優先権基礎とナイジェリア出願で色彩の有無・配置を一致させる。色彩主張の変更が同一性を損なうかを個別確認する。",
+      "en": "Align the presence and arrangement of color with the priority filing; assess whether a change in the color claim impairs identity."
+    },
+    "colourRelativeGrounds": {
+      "ja": "色彩は全体的印象の一要素であり、色の変更だけで類似性が解消するとは限らない。文字・図形・称呼・観念を総合比較する。",
+      "en": "Color is one factor in the overall impression; color change alone may not avoid similarity. Compare word, device, phonetic and conceptual elements globally."
+    },
+    "colourGenuineUse": {
+      "ja": "登録形態と使用形態の色彩差が標章の同一性・識別性を変更するかを評価する。白黒登録のカラー使用を当然に同一視しない。",
+      "en": "Assess whether color differences between registration and use alter the mark’s identity or distinctive character; do not automatically equate color use with a black-and-white registration."
+    },
+    "colourInfringementScope": {
+      "ja": "登録表示・色彩限定、視覚・称呼・観念、商品・役務、取引経路、混同・欺瞞のおそれを総合評価する。",
+      "en": "Assess the registered representation/color limitation, visual, phonetic and conceptual impressions, goods/services, trade channels and likelihood of confusion/deception."
+    },
+    "colourFilingStrategy": {
+      "ja": "色彩がブランドの核心ならカラー版を、柔軟性が必要なら白黒版と主要カラー版の別出願を、一区分一出願の費用を踏まえて検討する。",
+      "en": "If color is core, file the color version; for flexibility consider separate black-and-white and key color filings, accounting for one-application-per-class costs."
+    },
+    "refusalResponseRoute": {
+      "ja": "審査報告・拒絶通知に、英語の意見書、商品・役務の限定、補正、同意書、使用証拠等で応答する。聴聞請求および最終決定への上訴を検討する。",
+      "en": "Respond to an examination report/refusal with English submissions, limitation, amendment, consent or use evidence; consider a hearing and appeal from a final decision."
+    },
+    "responsePeriod": {
+      "ja": "審査報告では通知記載の期限が支配する。短期期限となることがあるため、受領後直ちに現地代理人へ確認する。",
+      "en": "The deadline stated in the examination report controls. Because short periods may apply, confirm immediately with local counsel on receipt."
+    },
+    "extensionAvailable": {
+      "ja": "登録官の裁量により延長可能な手続がある。期限前申請を前提に確認する。",
+      "en": "Extensions may be available at the Registrar’s discretion; verify on the basis of a pre-expiry request."
+    },
+    "extensionLength": {
+      "ja": "一律ではない。通知、規則および登録官の指示を個別確認する。",
+      "en": "Not uniform; check the notice, Regulations and Registrar’s direction."
+    },
+    "extensionRequirements": {
+      "ja": "期限前の書面・電子申請、理由および所定料金の要否を現地代理人に確認する。",
+      "en": "Confirm whether a timely written/electronic request, reasons and prescribed fee are required."
+    },
+    "appealRoute": {
+      "ja": "登録官の決定についてFederal High Court（連邦高等裁判所）への上訴・司法手続を検討する。聴聞前置、送達、期限を確認する。",
+      "en": "A Registrar decision may be challenged before the Federal High Court; verify hearing prerequisites, service and deadline."
+    },
+    "refusalAppealPeriod": {
+      "ja": "公式な平均審理期間は確認できない。登録局での聴聞とFederal High Court手続を分けて現地見積りを取得する。",
+      "en": "No official average identified; obtain separate local estimates for the Registry hearing and Federal High Court proceedings."
+    },
+    "publicDatabase": {
+      "ja": "ナイジェリア商標登録局 電子検索・公報（利用範囲は要確認）",
+      "en": "Nigeria Trademarks Registry e-search / Journal (verify coverage)",
+      "url": "https://www.iponigeria.com/"
+    },
+    "publicationStage": {
+      "ja": "審査で受理された出願はTrade Marks Journalに公告され、異議期間に入る。公報発行は不定期となることがある。",
+      "en": "An accepted application is advertised in the Trade Marks Journal and enters opposition. Journal publication may be irregular."
+    },
+    "oppositionPeriod": {
+      "ja": "Trade Marks Journalの公告日から2か月。",
+      "en": "Two months from publication in the Trade Marks Journal."
+    },
+    "oppositionExtension": {
+      "ja": "法定2か月の異議期間は原則として延長を当然視せず、期間内提出を前提に管理する。",
+      "en": "Do not assume the statutory two-month opposition period is extendible; docket filing within it."
+    },
+    "averagePendency": {
+      "ja": "公報発行、バックログ、拒絶、異議、登録証発行により大きく変動する。通常・迅速ルート別に現地実績を確認する。",
+      "en": "Pendency varies substantially with journal publication, backlog, objections, opposition and certificate issuance; obtain local figures for regular and expedited routes."
+    },
+    "term": {
+      "ja": "初回は出願日から7年。その後は14年ごとに更新可能。",
+      "en": "The initial term is seven years from the filing date; renewals are for successive 14-year periods."
+    },
+    "termStart": {
+      "ja": "出願日から。登録後の権利は出願日に遡るとされるが、登録前の行使制限を確認する。",
+      "en": "From the filing date; registered rights are treated as dating from filing, subject to limits on enforcement before registration."
+    },
+    "renewalWindow": {
+      "ja": "満了前の所定期間内に更新。一般に満了前3か月が重要とされるため、登録局通知・現地実務を確認する。",
+      "en": "Renew within the prescribed pre-expiry period; the three months before expiry are commonly important, subject to Registry notice and current practice."
+    },
+    "gracePeriod": {
+      "ja": "更新遅延・登録簿からの除去後の回復手続あり。単純な6か月猶予と断定せず、公告、追加料金、回復期限を個別確認する。",
+      "en": "Late renewal/restoration after removal is available. Do not assume a simple six-month grace period; verify advertisement, surcharge and restoration deadline."
+    },
+    "renewalEvidence": {
+      "ja": "通常の更新に使用宣誓・使用証拠は不要。ただし5年不使用取消に備え、ナイジェリア国内の使用証拠を保存する。",
+      "en": "Use declarations/evidence are not ordinarily required on renewal; retain Nigerian use evidence against five-year non-use removal."
+    },
+    "nonUseCancellation": {
+      "ja": "あり。利害関係人が登録簿からの抹消・更正を申し立て得る。登録官またはFederal High Courtの管轄選択を確認する。",
+      "en": "Available through an interested person’s application for removal/rectification; verify forum choice between the Registrar and Federal High Court."
+    },
+    "nonUsePeriod": {
+      "ja": "取消申立ての1か月前まで継続5年以上、善意の使用がない場合が重要。実務上「5年＋1か月」として管理する。",
+      "en": "A continuous period of at least five years without bona fide use, ending one month before the application, is critical—commonly docketed as five years plus one month."
+    },
+    "nonUseDefenses": {
+      "ja": "商標権者または許諾を受けた者による善意の使用、輸入・販売・広告等、および貿易上の特別事情等の正当理由を立証する。立証責任を確認する。",
+      "en": "Prove bona fide use by the owner or authorized party through imports, sales, advertising and other evidence, or special circumstances in the trade; verify the burden of proof."
+    },
+    "otherCancellation": {
+      "ja": "登録条件違反、登録簿記載の瑕疵、誤認的使用、普通名称化等による抹消・更正の可能性を確認する。",
+      "en": "Check removal/rectification for breach of conditions, erroneous register entry, misleading use, genericide and other grounds."
+    },
+    "invalidation": {
+      "ja": "あり。登録要件欠缺、先行権利、詐欺・悪意、登録簿への不当な記載等を理由にFederal High Courtまたは登録官へ更正を求め得る。",
+      "en": "Available through rectification before the Federal High Court or Registrar for lack of registrability, earlier rights, fraud/bad faith or an entry wrongly remaining on the register."
+    },
+    "civilInjunction": {
+      "ja": "Federal High Courtで仮処分・終局的差止めを請求可能。未登録標章ではパッシング・オフの管轄・要件を確認する。",
+      "en": "Interim and final injunctions may be sought in the Federal High Court. For unregistered signs, verify jurisdiction and elements of passing off."
+    },
+    "civilDamages": {
+      "ja": "損害賠償または利益計算を請求可能。登録商標侵害とパッシング・オフで立証事項を区別する。",
+      "en": "Damages or an account of profits may be sought; distinguish proof for registered-mark infringement and passing off."
+    },
+    "civilEvidencePreservation": {
+      "ja": "Anton Piller型命令、証拠保全、開示、侵害品・帳簿の差押え等を事案に応じ検討する。",
+      "en": "Consider Anton Piller-type orders, evidence preservation, discovery and seizure of infringing goods/records as appropriate."
+    },
+    "civilOther": {
+      "ja": "侵害品・包装・製造手段の引渡し・廃棄、宣言、費用等があり得る。",
+      "en": "Delivery up/destruction of infringing goods, packaging or means, declarations and costs may be available."
+    },
+    "borderMeasures": {
+      "ja": "Nigeria Customs Serviceを通じた水際対応を検討可能。ただし中央の商標税関登録制度の範囲、申請、担保、留置期間を最新確認する。",
+      "en": "Border action through the Nigeria Customs Service may be considered; verify the scope of any centralized trademark recordal, application, security and detention period."
+    },
+    "administrativeRaid": {
+      "ja": "警察、税関、連邦競争・消費者保護委員会、NAFDAC等との摘発が商品分野に応じ利用され得る。権限と商標侵害の根拠を確認する。",
+      "en": "Raids involving police, customs, the Federal Competition and Consumer Protection Commission, NAFDAC and others may be used depending on the goods; verify authority and trademark basis."
+    },
+    "administrativeOther": {
+      "ja": "押収、没収、偽造品廃棄、輸入停止、消費者保護・製品規制上の措置等を組み合わせる。",
+      "en": "Combine seizure, forfeiture, destruction, import restraint and consumer/product-regulatory measures where available."
+    },
+    "criminalAvailability": {
+      "ja": "偽造商標、虚偽の商品表示、偽造品取引等について商標法・Merchandise Marks法その他の刑事責任があり得る。",
+      "en": "Criminal liability may arise for forged trademarks, false trade descriptions and counterfeit trade under the Trade Marks Act, Merchandise Marks legislation and other statutes."
+    },
+    "criminalFine": {
+      "ja": "あり得るが、旧法の罰金額は低額・旧通貨表記を含むことがある。適用法、最新改正および他法令の高額制裁を確認する。",
+      "en": "Available, although legacy statutory fines may be low or outdated; verify the applicable statute, amendments and higher sanctions under other laws."
+    },
+    "criminalImprisonment": {
+      "ja": "犯罪類型によりあり得る。偽造、虚偽表示、規制商品、組織的侵害等の適用法を確認する。",
+      "en": "Potentially available depending on the offense; verify laws governing counterfeiting, false descriptions, regulated goods and organized infringement."
+    },
+    "criminalOther": {
+      "ja": "偽造品・金型・包装等の没収・廃棄、営業・輸入関連措置等があり得る。",
+      "en": "Forfeiture/destruction of counterfeit goods, molds and packaging and business/import-related measures may be available."
+    }
+  },
+  "notablePoints": [
+    {
+      "title": {
+        "ja": "一区分一出願",
+        "en": "One application per class"
+      },
+      "detail": {
+        "ja": "多区分出願ではなく、原則として各区分に別出願・別料金が必要。標章の変形・カラー版を増やすと費用が大きくなる。",
+        "en": "Separate applications and fees are generally required per class. Variant and color filings therefore increase costs materially."
+      }
+    },
+    {
+      "title": {
+        "ja": "初回7年・更新14年",
+        "en": "Seven-year initial term; 14-year renewals"
+      },
+      "detail": {
+        "ja": "一般的な10年更新制ではない。初回は出願日から7年、その後は14年ごとに更新するため、期限管理を別設定にする。",
+        "en": "Nigeria does not follow the usual ten-year cycle: the first term is seven years from filing and renewals are every 14 years."
+      }
+    },
+    {
+      "title": {
+        "ja": "不使用は5年＋1か月",
+        "en": "Non-use: five years plus one month"
+      },
+      "detail": {
+        "ja": "継続5年の不使用期間が取消申立ての1か月前までに終了していることが条文上重要。単純な5年経過日だけで判断しない。",
+        "en": "The five-year continuous non-use period must end one month before the removal application; do not treat the bare fifth anniversary as sufficient."
+      }
+    },
+    {
+      "title": {
+        "ja": "公報発行と登録証の遅延",
+        "en": "Journal and certificate delays"
+      },
+      "detail": {
+        "ja": "審査後もTrade Marks Journalの発行時期と登録証発行が全体期間を左右する。迅速サービスの対象工程を確認する。",
+        "en": "After examination, Trade Marks Journal timing and certificate issuance may drive pendency. Confirm which stages any expedited service covers."
+      }
+    },
+    {
+      "title": {
+        "ja": "未登録標章はパッシング・オフ",
+        "en": "Passing off for unregistered signs"
+      },
+      "detail": {
+        "ja": "商標法上の侵害訴訟は登録が中心。未登録標章では営業上の信用、虚偽表示、損害を立証するパッシング・オフを検討する。",
+        "en": "Statutory trademark infringement centers on registration. For unregistered signs, consider passing off requiring goodwill, misrepresentation and damage."
+      }
+    }
+  ],
+  "statistics": {
+    "coverage": "2016–2025",
+    "status": "pending",
+    "series": []
+  },
+  "news": [
+    {
+      "id": "business-facilitation-act-2023",
+      "type": "law",
+      "date": "2023-02-14",
+      "title": {
+        "ja": "商標定義の拡張",
+        "en": "Expanded definition of trademark"
+      },
+      "summary": {
+        "ja": "Business Facilitation (Miscellaneous Provisions) Act 2022による商標法改正で、商品の形状、包装、色彩の組合せ等が商標の定義に明示的に加えられた。施行・審査実務を確認する。",
+        "en": "The Business Facilitation (Miscellaneous Provisions) Act 2022 amended the Trade Marks Act to expressly include shapes of goods, packaging and combinations of colors; verify implementation and examination practice."
+      },
+      "sourceUrl": "https://www.nigerianstat.gov.ng/pdfuploads/Business_Facilitation_Act_2023.pdf"
+    },
+    {
+      "id": "national-ip-policy-2025",
+      "type": "policy",
+      "date": "2025-01-01",
+      "title": {
+        "ja": "知的財産制度近代化の動向",
+        "en": "IP-system modernization"
+      },
+      "summary": {
+        "ja": "商標法全面改正、電子手続、知的財産庁再編に関する政策・法案が継続している。成立法と提案段階を区別して更新する。",
+        "en": "Policy and legislative work continues on comprehensive trademark reform, electronic procedures and institutional restructuring; distinguish enacted law from proposals when updating."
+      },
+      "sourceUrl": "https://fmiti.gov.ng/"
+    },
+    {
+      "id": "journal-monitoring-2026",
+      "type": "practice",
+      "date": "2026-09-13",
+      "title": {
+        "ja": "Trade Marks Journal監視の継続的重要性",
+        "en": "Continuing importance of Journal watching"
+      },
+      "summary": {
+        "ja": "異議期間は公告から2か月。公報発行が不定期となる場合があるため、現地代理人による発行監視と即時通報が重要。",
+        "en": "Opposition runs two months from advertisement. Because journal issuance may be irregular, local-agent monitoring and prompt reporting remain important."
+      },
+      "sourceUrl": "https://www.iponigeria.com/"
+    }
+  ],
+  "faqs": [
+    {
+      "tag": "Filing",
+      "question": {
+        "ja": "一区分一出願は現在も必須ですか。各区分の公式費用・代理人費用を示してください。",
+        "en": "Is one application per class still mandatory, and what are the official and agent fees per class?"
+      },
+      "followUp": {
+        "ja": "通常出願と迅速サービスで、審査・公告・登録証発行の期間はそれぞれどれくらいですか。",
+        "en": "For regular and expedited filing, how long do examination, publication and certificate issuance each take?"
+      }
+    },
+    {
+      "tag": "Documents",
+      "question": {
+        "ja": "外国出願人の委任状は単純署名で足り、原本・公証・領事認証は不要ですか。",
+        "en": "Is a simply signed power sufficient for a foreign applicant, without an original, notarization or legalization?"
+      },
+      "followUp": {
+        "ja": "優先権証明書と英訳の提出期限・認証要件は何ですか。",
+        "en": "What are the deadline and certification requirements for the priority document and English translation?"
+      }
+    },
+    {
+      "tag": "Examination",
+      "question": {
+        "ja": "先行商標拒絶に対し、同意書、聴聞、指定商品限定、取消のどれが有効ですか。",
+        "en": "Against an earlier-mark refusal, which is effective: consent, hearing, specification limitation or cancellation?"
+      },
+      "followUp": {
+        "ja": "審査報告の正確な応答期限、延長期間、理由および料金を確認してください。",
+        "en": "Please confirm the exact examination-response deadline, extension, reasons and fee."
+      }
+    },
+    {
+      "tag": "Opposition",
+      "question": {
+        "ja": "Trade Marks Journalの公告日から2か月の異議期限は延長できますか。",
+        "en": "Can the two-month opposition period from the Trade Marks Journal be extended?"
+      },
+      "followUp": {
+        "ja": "反論、証拠、宣誓供述書、聴聞、Federal High Court上訴の期限と費用は。",
+        "en": "What are the deadlines and costs for counterstatement, evidence, affidavits, hearing and Federal High Court appeal?"
+      }
+    },
+    {
+      "tag": "Non-use",
+      "question": {
+        "ja": "5年＋1か月の起算点と、登録官・Federal High Courtのどちらへ申し立てるべきか確認してください。",
+        "en": "Please confirm the five-years-plus-one-month calculation and whether to apply to the Registrar or Federal High Court."
+      },
+      "followUp": {
+        "ja": "輸入、少量販売、オンライン販売、広告のどの証拠が善意の使用として十分ですか。",
+        "en": "What evidence of imports, small sales, online sales or advertising is sufficient bona fide use?"
+      }
+    },
+    {
+      "tag": "Enforcement",
+      "question": {
+        "ja": "登録商標侵害、パッシング・オフ、行政摘発、刑事告訴のどれを優先すべきですか。",
+        "en": "Should we prioritize registered-mark infringement, passing off, an administrative raid or criminal complaint?"
+      },
+      "followUp": {
+        "ja": "Anton Piller型命令、担保、税関留置、費用回収の実務的見通しは。",
+        "en": "What is the practical outlook for Anton Piller-type relief, security, customs detention and cost recovery?"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "Nigeria IP Office — Official Portal",
+      "url": "https://www.iponigeria.com/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Federal Ministry of Industry, Trade and Investment",
+      "url": "https://fmiti.gov.ng/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Nigeria Trade Marks Act (WIPO Lex)",
+      "url": "https://www.wipo.int/wipolex/en/legislation/details/5385",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO Lex — Nigeria Legislation Profile",
+      "url": "https://www.wipo.int/wipolex/en/legislation/profile/NG",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Nigeria Business Facilitation Act 2023",
+      "url": "https://www.nigerianstat.gov.ng/pdfuploads/Business_Facilitation_Act_2023.pdf",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO — Nigeria Member Profile",
+      "url": "https://www.wipo.int/directory/en/details.jsp?country_code=NG",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO Madrid — Members",
+      "url": "https://www.wipo.int/madrid/en/members/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO Global Brand Database",
+      "url": "https://branddb.wipo.int/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO Nice Classification",
+      "url": "https://www.wipo.int/classifications/nice/en/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Nigeria Customs Service",
+      "url": "https://customs.gov.ng/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    }
+  ]
+}
