@@ -120,6 +120,10 @@
     "path": "./data/jurisdictions/de.json"
   },
   {
+    "id": "ch",
+    "path": "./data/jurisdictions/ch.json"
+  },
+  {
     "id": "es",
     "path": "./data/jurisdictions/es.json"
   },
