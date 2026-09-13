@@ -1,0 +1,711 @@
+{
+  "id": "fi",
+  "type": "country",
+  "flag": "🇫🇮",
+  "region": "europe",
+  "names": {
+    "ja": "フィンランド共和国",
+    "en": "Republic of Finland",
+    "fi": "Suomen tasavalta",
+    "sv": "Republiken Finland"
+  },
+  "office": {
+    "ja": "フィンランド特許登録庁（PRH）",
+    "en": "Finnish Patent and Registration Office (PRH)",
+    "fi": "Patentti- ja rekisterihallitus (PRH)",
+    "sv": "Patent- och registerstyrelsen (PRS)"
+  },
+  "availableLanguages": [
+    "fi",
+    "sv"
+  ],
+  "createdAt": "2026-09-13",
+  "updatedAt": "2026-09-13",
+  "status": "review",
+  "facts": {
+    "authority": {
+      "ja": "フィンランド特許登録庁（PRH）。国内出願、登録、異議、行政取消・無効を担当する。",
+      "en": "The Finnish Patent and Registration Office (PRH), responsible for national applications, registration, opposition and administrative revocation/invalidity.",
+      "fi": "Patentti- ja rekisterihallitus (PRH) käsittelee kansalliset hakemukset, rekisteröinnit, väitteet sekä hallinnolliset mitätöinti- ja menettämisasiat.",
+      "sv": "Patent- och registerstyrelsen (PRS) handlägger nationella ansökningar, registreringar, invändningar samt administrativa upphävande- och ogiltighetsärenden."
+    },
+    "protectionScope": {
+      "ja": "商品・役務の個別商標、団体商標、保証・証明商標、周知・定着商標。EU商標もフィンランドで効力を有する。",
+      "en": "Individual marks for goods/services, collective and guarantee/certification marks, and established or well-known signs. EUTMs also have effect in Finland.",
+      "sv": "Individuella varu- och tjänstevarumärken, kollektiv-, garanti- och kontrollmärken samt inarbetade eller välkända kännetecken. EU-varumärken gäller också i Finland.",
+      "fi": "Tavara- ja palvelumerkit, yhteisömerkit, tarkastus- ja takuutunnukset sekä käytön kautta vakiintuneet merkit. EU-tavaramerkki on voimassa Suomessa."
+    },
+    "markTypes": {
+      "ja": "文字、図形、結合、立体、位置、模様、色彩、音、動き、マルチメディア、ホログラム等。明確かつ正確に表示できることが必要。",
+      "en": "Word, figurative, composite, 3D, position, pattern, color, sound, motion, multimedia and hologram marks, provided the subject matter can be represented clearly and precisely.",
+      "sv": "Ord-, figur-, kombinations-, form-, positions-, mönster-, färg-, ljud-, rörelse-, multimedie- och hologrammärken, om skyddsföremålet kan återges klart och precist.",
+      "fi": "Sana-, kuvio-, yhdistelmä-, muoto-, sijainti-, kuviointi-, väri-, ääni-, liike-, multimedia- ja hologrammimerkit sekä muut selkeästi ja täsmällisesti esitettävät merkit."
+    },
+    "madridAccessionDate": {
+      "ja": "1996年4月1日（マドリッド協定議定書の効力発生日）。",
+      "en": "1 April 1996 (entry into force of the Madrid Protocol for Finland).",
+      "fi": "Madridin pöytäkirja tuli Suomen osalta voimaan 1.4.1996.",
+      "sv": "Den 1 april 1996 (Madridprotokollet trädde i kraft för Finland)."
+    },
+    "niceClassification": {
+      "ja": "採用。出願時のニース分類最新版およびPRHの商品・役務検索を確認する。",
+      "en": "Adopted; consult the current Nice edition and PRH goods-and-services tools at filing.",
+      "sv": "Niceklassificeringen används; kontrollera aktuell utgåva och PRH:s verktyg för varor och tjänster vid ansökan.",
+      "fi": "Nizzan luokitusta käytetään; tarkista hakemishetken voimassa oleva painos ja TMclass."
+    },
+    "classHeadingPractice": {
+      "ja": "類見出しは通常の字義範囲に限られ、区分全体を当然には包含しない。商品・役務を明確かつ具体的に記載する。",
+      "en": "Class headings cover their ordinary literal meaning and do not automatically cover the whole class; identify goods and services clearly and precisely.",
+      "sv": "Klassrubriker omfattar sin normala ordalydelse och inte automatiskt hela klassen; ange varor och tjänster klart och precist.",
+      "fi": "Luokkaotsikko kattaa sen sanamuodon tavanomaisen merkityksen, ei automaattisesti koko luokkaa; tavarat ja palvelut on yksilöitävä selkeästi."
+    },
+    "retailServices": {
+      "ja": "第35類で可。小売・卸売の対象商品を具体的に記載する。",
+      "en": "Available in Class 35; specify the goods to which retail or wholesale services relate.",
+      "sv": "Möjligt i klass 35; de varor som detalj- eller partihandelstjänsterna avser ska anges.",
+      "fi": "Mahdollinen luokassa 35; vähittäis- tai tukkukaupan kohteena olevat tavarat on yksilöitävä."
+    },
+    "multiClassApplication": {
+      "ja": "可。追加区分ごとに料金。分割および一部拒絶も可能。",
+      "en": "Available, with fees for additional classes; division and partial refusal are possible.",
+      "sv": "Möjligt, med avgift för tilläggsklasser; delning och partiellt avslag kan förekomma.",
+      "fi": "Mahdollinen; lisäluokista peritään maksu. Hakemus ja rekisteröinti voidaan jakaa, ja osittainen hylkäys on mahdollinen."
+    },
+    "applicationForm": {
+      "ja": "PRHのオンラインサービスで、出願人、標章、商品・役務、区分、優先権、代理人等をフィンランド語またはスウェーデン語で提出する。",
+      "en": "File through the PRH online service in Finnish or Swedish, identifying the applicant, mark, goods/services, classes, priority and representative.",
+      "fi": "Hakemus tehdään PRH:n verkkopalvelussa suomeksi tai ruotsiksi ja siinä ilmoitetaan hakija, merkki, tavarat/palvelut, luokat, etuoikeus ja asiamies.",
+      "sv": "Ansökan lämnas i PRS:s e-tjänst på finska eller svenska med sökande, märke, varor/tjänster, klasser, prioritet och ombud."
+    },
+    "powerOfAttorney": {
+      "ja": "代理人選任時も委任状は通常の出願では常時提出を要しないことがあるが、PRHの請求、権限争い、譲渡等では確認する。",
+      "en": "A power of attorney may not be routinely filed in every represented application, but PRH may request it and authority disputes or assignments require separate review.",
+      "sv": "Fullmakt behöver inte alltid ges in rutinmässigt, men PRH kan begära den och behörighetsfrågor eller överlåtelser måste bedömas särskilt.",
+      "fi": "Valtakirjaa ei yleensä tarvitse liittää tavalliseen sähköiseen hakemukseen, mutta PRH voi pyytää sitä; tarkista myös siirrot ja riita-asiat."
+    },
+    "priorityDocuments": {
+      "ja": "パリ優先権は最初の出願から6か月以内に主張する。PRHが求める優先権証明・翻訳の提出期限を確認する。",
+      "en": "Claim Paris priority within six months from the first filing and verify deadlines for any priority certificate or translation requested by PRH.",
+      "sv": "Parisprioritet åberopas inom sex månader från den första ansökan; kontrollera frister för prioritetsbevis och eventuell översättning som PRH begär.",
+      "fi": "Pariisin etuoikeus vaaditaan kuuden kuukauden kuluessa ensimmäisestä hakemuksesta; tarkista PRH:n pyytämän todistuksen ja käännöksen määräajat."
+    },
+    "homeRegistrationCertificate": {
+      "ja": "通常の直接出願には不要。パリ条約第6条の5に基づく本国登録援用等では別途確認する。",
+      "en": "Not normally required for a direct filing; verify separately when relying on home-country registration under Paris Convention Article 6quinquies.",
+      "sv": "Krävs normalt inte för en direkt ansökan; kontrollera särskilt när hemlandsregistrering åberopas enligt Pariskonventionen artikel 6quinquies.",
+      "fi": "Ei tavallisesti tarvita suorassa hakemuksessa; tarkista erikseen, jos vedotaan Pariisin yleissopimuksen 6quinquies artiklaan."
+    },
+    "useEvidenceAtFiling": {
+      "ja": "通常不要。使用による識別力、定着、周知・名声または先使用を主張する場合はフィンランドでの証拠を提出する。",
+      "en": "Not normally required; Finnish evidence is needed for acquired distinctiveness, establishment, reputation or prior-use claims.",
+      "sv": "Krävs normalt inte; finsk bevisning behövs vid förvärvad särskiljningsförmåga, inarbetning, renommé eller äldre användning.",
+      "fi": "Ei yleensä tarvita; käyttöön perustuva erottamiskyky, vakiintuminen, maine tai aiempi käyttö on näytettävä Suomea koskevalla aineistolla."
+    },
+    "notarizationCertification": {
+      "ja": "通常の委任状に公証・アポスティーユは原則不要。譲渡、合併、外国公文書等は手続別に確認する。",
+      "en": "An ordinary power generally requires no notarization or apostille; assignments, mergers and foreign official documents should be checked separately.",
+      "sv": "Vanlig fullmakt kräver normalt inte notarisering eller apostille; överlåtelse, fusion och utländska officiella handlingar kontrolleras särskilt.",
+      "fi": "Tavallinen valtakirja ei yleensä vaadi notaaria tai apostillea; siirrot, sulautumiset ja ulkomaiset viralliset asiakirjat tarkistetaan erikseen."
+    },
+    "otherDocuments": {
+      "ja": "商標表示、優先権証明、団体・保証・証明商標の使用規則、非伝統的商標ファイル、使用による識別力・名声の証拠等。",
+      "en": "Representation, priority document, regulations governing collective/guarantee/certification marks, non-traditional mark files and evidence of acquired distinctiveness or reputation.",
+      "sv": "Återgivning, prioritetsbevis, bestämmelser för kollektiv-, garanti- eller kontrollmärke, filer för okonventionella märken samt bevis om inarbetning eller renommé.",
+      "fi": "Merkin esitys, etuoikeustodistus, yhteisö- tai tarkastusmerkin säännöt, uudenlaisen merkin tiedostot sekä näyttö vakiintumisesta tai maineesta."
+    },
+    "absoluteGroundsExamination": {
+      "ja": "あり。PRHが職権審査する。",
+      "en": "Yes; examined ex officio by PRH.",
+      "sv": "Ja; PRH prövar absoluta registreringshinder ex officio.",
+      "fi": "Kyllä; PRH tutkii ehdottomat rekisteröintiesteet viran puolesta."
+    },
+    "distinctivenessGrounds": {
+      "ja": "識別力欠如、普通名称、商品・役務の種類・品質・用途・価値・産地等の記述、慣用表示、単純な色彩・形状等。使用による識別力を立証できる場合がある。",
+      "en": "Non-distinctive, generic, descriptive or customary signs and simple colors or shapes may be refused; acquired distinctiveness may be established.",
+      "sv": "Tecken som saknar särskiljningsförmåga eller är generiska, beskrivande eller sedvanliga samt enkla färger eller former kan vägras; inarbetning kan visas.",
+      "fi": "Erottamiskyvyttömät, yleiset, kuvailevat tai tavanomaiset merkit sekä yksinkertaiset värit tai muodot voidaan hylätä; käytöllä saavutettu erottamiskyky voidaan näyttää."
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "法令、公序良俗、欺瞞性、国旗・紋章・公的記章、人道法上の標章、機能的・本質的形状、地理的表示、伝統的用語、植物品種名称、悪意等。",
+      "en": "Grounds include illegality, public order or morality, deception, official and humanitarian emblems, functional or inherent shapes, GIs, traditional terms, plant-variety names and bad faith.",
+      "sv": "Hinder omfattar lagstridighet, allmän ordning eller goda seder, vilseledande, officiella och humanitära kännetecken, funktionella former, geografiska beteckningar, traditionella uttryck, växtsortsnamn och ond tro.",
+      "fi": "Esteitä ovat muun muassa lainvastaisuus, yleinen järjestys ja hyvät tavat, harhaanjohtavuus, viralliset tunnukset, toiminnalliset muodot, maantieteelliset merkinnät, kasvilajikenimet ja vilpillinen mieli."
+    },
+    "relativeGroundsExamination": {
+      "ja": "あり。PRHは登録簿上の国内商標、EU商標、フィンランドまたはEU指定の国際登録および国内商号等との混同のおそれを職権審査する。未登録の定着商標等は異議段階で問題となる。",
+      "en": "Yes. PRH examines conflicts with recorded national marks, EUTMs, international registrations designating Finland or the EU, and domestic trade names. Unrecorded established marks are generally raised by opposition.",
+      "fi": "Kyllä. PRH tutkii rekisteriin merkityt kansalliset merkit, EU-tavaramerkit, Suomeen tai EU:hun kohdistetut kansainväliset rekisteröinnit sekä kaupparekisteriin merkityt toiminimet.",
+      "sv": "Ja. PRS prövar konflikter med registrerade nationella märken, EU-varumärken, internationella registreringar som designerar Finland eller EU samt nationella firmor. Oregistrerade inarbetade märken åberopas normalt genom invändning."
+    },
+    "disclaimer": {
+      "ja": "あり得る。非識別部分について保護対象外の注記を付す場合があるが、標章全体の識別力不足を当然には解消しない。",
+      "en": "A disclaimer may be entered for non-distinctive matter, but does not automatically cure lack of distinctiveness of the mark as a whole.",
+      "sv": "En disclaimer kan antecknas för en beståndsdel utan särskiljningsförmåga men avhjälper inte automatiskt bristande särskiljningsförmåga i märket som helhet.",
+      "fi": "Rekisteröinnissä voidaan rajata yksinoikeuden ulkopuolelle erottamiskyvytön osa, mutta tämä ei automaattisesti korjaa koko merkin erottamiskyvyn puutetta."
+    },
+    "consent": {
+      "ja": "先行権利者の同意により相対的拒絶理由を解消できる制度あり。対象権利・商品役務・同意範囲を明確にする。",
+      "en": "Earlier-owner consent can remove certain relative-ground obstacles; clearly identify the right, goods/services and scope of consent.",
+      "sv": "Samtycke från innehavaren av den äldre rättigheten kan undanröja vissa relativa hinder; rättigheten, varorna/tjänsterna och samtyckets omfattning ska anges tydligt.",
+      "fi": "Aikaisemman oikeuden haltijan suostumus voi poistaa sekaannusvaaran muodostaman esteen; suostumuksen kohde ja tavarat/palvelut on yksilöitävä."
+    },
+    "acceleratedExamination": {
+      "ja": "極めて重大な理由がある場合のみ迅速化可能。係属中の訴訟などが例示され、理由・証拠を付して申請する。",
+      "en": "Acceleration is available only for very weighty reasons, such as ongoing litigation concerning the mark, supported by reasons and evidence.",
+      "fi": "Käsittelyä voidaan nopeuttaa vain erittäin painavista syistä, kuten vireillä olevasta oikeudenkäynnistä; pyyntö ja näyttö arvioidaan tapauskohtaisesti.",
+      "sv": "Påskyndad handläggning är möjlig endast av mycket vägande skäl, exempelvis en pågående rättegång om märket, och kräver motivering och bevis."
+    },
+    "thirdPartyObservation": {
+      "ja": "登録後3か月以内の正式異議が中心。審査中の第三者情報提出の可否・対象理由は最新PRH実務を確認する。",
+      "en": "Formal opposition within three months after registration is the main route; verify current PRH practice for third-party observations during examination.",
+      "sv": "Formell invändning inom tre månader efter registrering är huvudvägen; kontrollera aktuell PRH-praxis för tredjemansyttranden under granskningen.",
+      "fi": "Rekisteröinnin julkaisemisen jälkeen voidaan tehdä väite kahdessa kuukaudessa. Rekisteröimättömät vakiintuneet oikeudet tulevat käytännössä esiin väitemenettelyssä."
+    },
+    "directExaminationPeriod": {
+      "ja": "PRHの2026年第36週の公表値では国内出願は42営業日。直ちに登録できない場合は最初の通知までの目安となる。",
+      "en": "PRH reported 42 working days for national applications in week 36 of 2026; where immediate registration is not possible, this is the estimate to first office action.",
+      "fi": "PRH:n viikon 36/2026 arvion mukaan kansallisia hakemuksia käsitellään 42 työpäivässä; aika muuttuu työtilanteen ja esteiden mukaan.",
+      "sv": "PRS angav 42 arbetsdagar för nationella ansökningar vecka 36 år 2026; om omedelbar registrering inte är möjlig avser tiden första föreläggandet."
+    },
+    "madridExaminationPeriod": {
+      "ja": "PRHの2026年第36週の公表値ではフィンランド指定国際登録は40営業日。WIPOへの暫定拒絶通報期限は原則18か月。",
+      "en": "PRH reported 40 working days for designations of international registrations in week 36 of 2026; provisional refusal must generally be notified to WIPO within 18 months.",
+      "fi": "PRH:n viikon 36/2026 arvion mukaan Suomeen kohdistettuja kansainvälisiä rekisteröintejä käsitellään 40 työpäivässä; Madridin 18 kuukauden ilmoitusraja on silti huomioitava.",
+      "sv": "PRS angav 40 arbetsdagar för internationella registreringar som designerar Finland vecka 36 år 2026; provisoriskt avslag ska normalt meddelas WIPO inom 18 månader."
+    },
+    "colourPriorityIdentity": {
+      "ja": "優先権基礎とフィンランド出願の標章の同一性を確認する。白黒・カラー間や配色変更が同一性を損なうかはEU共通実務と個別事情を踏まえる。",
+      "en": "Confirm identity between the priority and Finnish marks; assess black-and-white/color or color-scheme changes under EU convergence practice and the facts.",
+      "sv": "Kontrollera identitet mellan prioritetsmärket och den finska ansökan; bedöm svartvitt/färg och ändrad färgsättning enligt EU:s konvergenspraxis och omständigheterna.",
+      "fi": "Etuoikeusmerkin ja Suomen hakemuksen on oltava samat; mustavalkoisen ja värillisen version tai värityksen muutoksen vaikutus arvioidaan EU:n yhteisen käytännön ja tapauskohtaisen kokonaisuuden perusteella."
+    },
+    "colourRelativeGrounds": {
+      "ja": "色彩は外観の一要素。称呼・観念・構成・識別的要素・商品役務を総合比較し、色違いのみで混同が解消するとは限らない。",
+      "en": "Color is one visual factor; compare sound, concept, composition, distinctive elements and goods/services overall. Color difference alone may not avoid confusion.",
+      "sv": "Färg är ett visuellt moment; ljud, begrepp, uppbyggnad, särskiljande delar och varor/tjänster bedöms samlat. Färgskillnad utesluter inte alltid förväxling.",
+      "fi": "Väri on yksi ulkoasun osatekijä; ääniasu, merkityssisältö, rakenne, erottavat osat sekä tavarat ja palvelut arvioidaan kokonaisuutena."
+    },
+    "colourGenuineUse": {
+      "ja": "登録態様と使用態様の色彩差が識別的性格を変更するかを確認する。主要配色の変更は使用立証上のリスクとなり得る。",
+      "en": "Assess whether color differences between registration and use alter distinctive character; changing a principal color scheme may create proof-of-use risk.",
+      "sv": "Bedöm om färgskillnaden mellan registrering och användning ändrar särskiljningsförmågan; ändrad huvudfärgsättning kan innebära risk vid bevisning om bruk.",
+      "fi": "Arvioi, muuttaako rekisteröidyn ja käytetyn version väriero merkin erottamiskykyä; olennaisen värityksen muutos voi vaarantaa käyttönäytön."
+    },
+    "colourInfringementScope": {
+      "ja": "登録表示、色彩の識別力、標章全体、商品・役務、関連需要者、混同のおそれを総合判断する。",
+      "en": "Assess the registration, color distinctiveness, signs as a whole, goods/services, relevant public and likelihood of confusion.",
+      "sv": "Bedöm registreringen, färgens särskiljningsförmåga, märkena som helhet, varor/tjänster, omsättningskretsen och förväxlingsrisken.",
+      "fi": "Arvioinnissa huomioidaan rekisteröinti, värin erottamiskyky, merkit kokonaisuutena, tavarat/palvelut, kohdeyleisö ja sekaannusvaara."
+    },
+    "colourFilingStrategy": {
+      "ja": "ブランド色が重要ならカラー版を、変更運用があるなら白黒版・主要配色を別出願する。フィンランド語での意味・称呼も確認する。",
+      "en": "If brand color matters, file in color; if branding varies, consider separate black-and-white and key-color filings and check Finnish meaning and pronunciation.",
+      "sv": "Om varumärkesfärgen är viktig, ansök i färg; vid varierande användning överväg separata svartvita och centrala färgversioner samt kontrollera finsk betydelse och uttal.",
+      "fi": "Jos väri on brändille olennainen, hae värillisenä; vaihtelevassa käytössä harkitse erillisiä mustavalkoisia ja keskeisiä väriversioita sekä tarkista suomen- ja ruotsinkieliset merkitykset."
+    },
+    "refusalResponseRoute": {
+      "ja": "PRHの通知にオンラインで意見書、補正、指定限定、同意書、使用証拠等を提出する。最終決定はフィンランド市場裁判所へ不服申立てる。",
+      "en": "Respond to PRH online with arguments, amendment, limitation, consent or use evidence. Appeal a final decision to the Finnish Market Court.",
+      "fi": "PRH:n välipäätökseen vastataan verkkopalvelussa lausumalla, rajoituksella, suostumuksella tai käyttönäytöllä. Lopullisesta päätöksestä valitetaan markkinaoikeuteen.",
+      "sv": "Besvara PRS:s föreläggande online med argument, ändring, begränsning, samtycke eller bruksbevis. Ett slutligt beslut överklagas till marknadsdomstolen."
+    },
+    "responsePeriod": {
+      "ja": "通知に記載された期限が支配する。案件・通知類型ごとに直ちに期限を確認し、未応答による却下を避ける。",
+      "en": "The deadline stated in the PRH order controls; verify it immediately for each case and avoid dismissal for non-response.",
+      "sv": "Fristen i PRH:s föreläggande gäller; kontrollera den omedelbart i varje ärende och undvik avskrivning på grund av uteblivet svar.",
+      "fi": "Välipäätöksessä ilmoitettu määräaika ratkaisee. Jos vastausta ei anneta ajoissa, hakemus voidaan jättää sillensä."
+    },
+    "extensionAvailable": {
+      "ja": "指定応答期間は期限前申請により延長できる場合がある。異議・不服申立て等の法定期限は別途厳格管理する。",
+      "en": "A designated response period may sometimes be extended on a timely request; statutory opposition and appeal periods require separate strict docketing.",
+      "sv": "En förelagd svarsfrist kan ibland förlängas efter begäran i tid; lagstadgade invändnings- och överklagandefrister måste bevakas strikt.",
+      "fi": "Asetettua vastausaikaa voidaan tietyin edellytyksin pidentää; lakisääteinen väite- ja valitusaika on valvottava erikseen."
+    },
+    "extensionLength": {
+      "ja": "延長期間・回数は通知および手続により異なるため、PRHに確認する。",
+      "en": "The length and number of extensions vary by notice and procedure; confirm with PRH.",
+      "sv": "Förlängningens längd och antal varierar med föreläggandet och förfarandet; kontrollera med PRH.",
+      "fi": "Pidennyksen pituus ja määrä riippuvat menettelystä ja PRH:n päätöksestä; tarkista asia ennen määräajan päättymistä."
+    },
+    "extensionRequirements": {
+      "ja": "期限前の申請、理由および手数料の有無を確認する。却下後は期限満了から2か月以内の再開制度が利用できる場合がある。",
+      "en": "Verify a pre-expiry request, reasons and any fee. Reinstatement may be available within two months after expiry following dismissal.",
+      "sv": "Kontrollera begäran före fristen, skäl och eventuell avgift. Återupptagande kan vara möjligt inom två månader efter fristens utgång efter avskrivning.",
+      "fi": "Tarkista ennen määräaikaa tehtävä pyyntö, perustelut ja mahdollinen maksu sekä määräajan palauttamisen edellytykset."
+    },
+    "appealRoute": {
+      "ja": "PRHの商標決定は市場裁判所へ不服申立てる。その後の最高行政裁判所への上訴は通常、上訴許可を要する。",
+      "en": "Appeal PRH trademark decisions to the Finnish Market Court; further appeal to the Supreme Administrative Court generally requires leave.",
+      "fi": "PRH:n tavaramerkkipäätöksestä valitetaan markkinaoikeuteen; jatkovalitus korkeimpaan hallinto-oikeuteen edellyttää yleensä valituslupaa.",
+      "sv": "PRS:s varumärkesbeslut överklagas till marknadsdomstolen; fortsatt överklagande till högsta förvaltningsdomstolen kräver i regel besvärstillstånd."
+    },
+    "refusalAppealPeriod": {
+      "ja": "決定の送達から60日以内に市場裁判所へ不服申立て。平均審理期間は最新の裁判所統計・現地代理人見積りを確認する。",
+      "en": "Appeal to the Market Court within 60 days after service of the decision; check current court statistics or local counsel for average duration.",
+      "fi": "Valitus markkinaoikeuteen on tehtävä 60 päivän kuluessa päätöksen tiedoksisaannista. Keskimääräinen käsittelyaika tarkistetaan markkinaoikeudelta tai paikalliselta asiamieheltä.",
+      "sv": "Överklagande till marknadsdomstolen ska göras inom 60 dagar från delgivningen; kontrollera aktuell handläggningstid hos domstolen eller lokalt ombud."
+    },
+    "publicDatabase": {
+      "ja": "PRH商標情報サービス",
+      "en": "PRH Trademark Information Service",
+      "fi": "PRH:n tavaramerkkitietopalvelu",
+      "sv": "PRS:s varumärkesinformationstjänst",
+      "url": "https://tavaramerkkitietopalvelu.prh.fi/en/"
+    },
+    "publicationStage": {
+      "ja": "審査を通過すると登録され、商標公報に公告される。公告日から2か月の登録後異議期間が始まる。",
+      "en": "After examination, the mark is registered and published in the Trademark Gazette, triggering a two-month post-registration opposition period.",
+      "fi": "Kun PRH hyväksyy hakemuksen, merkki rekisteröidään ja julkaistaan Tavaramerkkilehdessä; julkaisemisesta alkaa kahden kuukauden väiteaika.",
+      "sv": "Efter granskningen registreras och publiceras märket i Varumärkestidningen, vilket inleder en två månader lång invändningsfrist efter registreringen."
+    },
+    "oppositionPeriod": {
+      "ja": "登録公告日から2か月以内。延長不可。",
+      "en": "Within two months from publication of the registration; non-extendible.",
+      "fi": "Kaksi kuukautta rekisteröinnin julkaisemispäivästä; määräaikaa ei voida pidentää.",
+      "sv": "Inom två månader från publiceringen av registreringen; fristen kan inte förlängas."
+    },
+    "oppositionExtension": {
+      "ja": "異議申立期間自体は延長不可。異議係属後は、当事者の共同申請により和解交渉のため2か月の手続停止が可能。",
+      "en": "The opposition filing period cannot be extended. Once pending, proceedings may be suspended for two months on the parties’ joint request for settlement talks.",
+      "fi": "Väitteen tekemisen kahden kuukauden määräaikaa ei voida pidentää. Menettely voidaan osapuolten yhteisestä pyynnöstä keskeyttää kahdeksi kuukaudeksi sovintoneuvotteluja varten.",
+      "sv": "Invändningsfristen kan inte förlängas. Efter att invändning gjorts kan förfarandet avbrytas i två månader på gemensam begäran för förlikningsförhandlingar."
+    },
+    "averagePendency": {
+      "ja": "現在のPRH公表値は国内出願42営業日、フィンランド指定国際登録40営業日。拒絶・補正・異議・不服申立てにより長期化する。",
+      "en": "Current PRH estimates are 42 working days for national applications and 40 working days for Finland-designated international registrations; objections, amendments, opposition or appeal extend the case.",
+      "fi": "PRH:n ajantasainen arvio on 42 työpäivää kansalliselle hakemukselle, jos merkki voidaan rekisteröidä heti tai ensimmäinen välipäätös annetaan; väite tai valitus pidentää kokonaisaikaa.",
+      "sv": "PRS:s aktuella uppskattningar är 42 arbetsdagar för nationella ansökningar och 40 arbetsdagar för internationella registreringar som designerar Finland; hinder, ändringar, invändning eller överklagande förlänger tiden."
+    },
+    "term": {
+      "ja": "2019年5月1日以降の出願は出願日から10年。それ以前の出願は登録日から10年。10年ごとに更新可能。",
+      "en": "Applications filed on or after 1 May 2019 have a ten-year term from filing; earlier applications have a ten-year term from registration. Renewable in ten-year periods.",
+      "fi": "Kymmenen vuotta hakemispäivästä 1.5.2019 tai sen jälkeen vireille tulleille hakemuksille; vanhemmissa hakemuksissa kymmenen vuotta rekisteröintipäivästä.",
+      "sv": "Ansökningar från och med den 1 maj 2019 gäller tio år från ansökningsdagen; äldre ansökningar tio år från registreringsdagen. Förnyelse sker med tio år i taget."
+    },
+    "termStart": {
+      "ja": "2019年5月1日以降の出願は出願日から。それ以前は登録日から。",
+      "en": "From the filing date for applications filed on or after 1 May 2019; from registration for earlier applications.",
+      "fi": "Hakemispäivästä uusissa hakemuksissa; ennen 1.5.2019 vireille tulleissa rekisteröintipäivästä.",
+      "sv": "Från ansökningsdagen för ansökningar från och med den 1 maj 2019; från registreringen för äldre ansökningar."
+    },
+    "renewalWindow": {
+      "ja": "満了前1年から更新可能。",
+      "en": "Renewal is available from one year before expiry.",
+      "fi": "Uudistaminen voidaan tehdä aikaisintaan vuosi ennen voimassaolon päättymistä.",
+      "sv": "Förnyelse kan göras från ett år före utgången."
+    },
+    "gracePeriod": {
+      "ja": "あり。満了後6か月以内は追加料金を伴う遅延更新が可能。",
+      "en": "Yes; late renewal is available within six months after expiry with a surcharge.",
+      "sv": "Ja; sen förnyelse kan ske inom sex månader efter utgången mot tilläggsavgift.",
+      "fi": "Kyllä; uudistaminen on mahdollista kuuden kuukauden ajan päättymisen jälkeen korotetulla maksulla."
+    },
+    "renewalEvidence": {
+      "ja": "更新時の使用証拠は通常不要。ただし5年不使用取消・異議等に備え、真正使用証拠を保存する。",
+      "en": "No use evidence is normally required at renewal; preserve genuine-use evidence for non-use revocation, opposition and enforcement.",
+      "sv": "Bruksbevis krävs normalt inte vid förnyelse; bevara bevis om verkligt bruk för hävning, invändning och intrångsmål.",
+      "fi": "Käyttönäyttöä ei yleensä tarvita uudistettaessa; säilytä kuitenkin näyttö aidosta käytöstä väitteitä, menettämistä ja loukkausasioita varten."
+    },
+    "nonUseCancellation": {
+      "ja": "あり。5年を超える真正使用の欠如を理由に、PRHまたは市場裁判所へ取消請求可能。",
+      "en": "Available for more than five years of non-use through PRH or the Finnish Market Court.",
+      "fi": "Kyllä. Yli viiden vuoden käyttämättömyyden perusteella menettämistä voidaan hakea PRH:lta tai markkinaoikeudelta.",
+      "sv": "Ja. Upphävande på grund av mer än fem års uteblivet verkligt bruk kan begäras hos PRS eller marknadsdomstolen."
+    },
+    "nonUsePeriod": {
+      "ja": "登録手続終了後、正当理由なく継続5年間フィンランドで真正使用されていない場合。使用開始後の5年中断も対象。",
+      "en": "Five continuous years without genuine use in Finland after completion of registration, absent proper reasons; a later five-year interruption also counts.",
+      "sv": "Fem sammanhängande år utan verkligt bruk i Finland efter avslutat registreringsförfarande, utan giltiga skäl; även ett senare femårigt avbrott omfattas.",
+      "fi": "Viisi yhtäjaksoista vuotta ilman tavaramerkin tosiasiallista käyttöä Suomessa rekisteröintimenettelyn päättymisen jälkeen, ellei käyttämättömyydelle ole pätevää syytä."
+    },
+    "nonUseDefenses": {
+      "ja": "権利者が対象期間・商品役務について真正使用または正当理由を立証する。EU商標の場合はEU域内使用、国内商標の場合はフィンランド使用を区別する。",
+      "en": "The owner proves genuine use or proper reasons for the relevant period and goods/services. Distinguish EU-wide use for an EUTM from Finnish use for a national mark.",
+      "sv": "Innehavaren visar verkligt bruk eller giltiga skäl för perioden och varorna/tjänsterna. Skilj unionsbruk för EU-varumärke från bruk i Finland för nationellt märke.",
+      "fi": "Haltija osoittaa aidon käytön tai pätevän syyn kyseiseltä ajalta ja kyseisille tavaroille tai palveluille. Kansallisen merkin Suomen käyttö erotetaan EU-tavaramerkin unionikäytöstä."
+    },
+    "otherCancellation": {
+      "ja": "普通名称化、権利者の使用による誤認、公序良俗違反、更新欠缺等により取消・失効し得る。",
+      "en": "Revocation or lapse may result from genericide, misleading use by the owner, conflict with public order or morality, or non-renewal.",
+      "sv": "Hävning eller upphörande kan följa av degeneration, vilseledande användning, strid mot allmän ordning eller goda seder eller utebliven förnyelse.",
+      "fi": "Menettäminen voi perustua merkin muuttumiseen yleisnimeksi, haltijan harhaanjohtavaan käyttöön, yhteisö- tai tarkastusmerkin sääntöjen rikkomiseen tai uudistamatta jättämiseen."
+    },
+    "invalidation": {
+      "ja": "あり。絶対的・相対的理由、悪意、先行権利等に基づき異議、行政取消または裁判手続を検討する。黙認等の制限も確認する。",
+      "en": "Available on absolute or relative grounds, bad faith or earlier rights through opposition, administrative revocation or court proceedings; check acquiescence limits.",
+      "sv": "Möjligt på absoluta eller relativa grunder, ond tro eller äldre rättigheter genom invändning, administrativ hävning eller domstol; kontrollera passivitetsregler.",
+      "fi": "Rekisteröinti voidaan mitätöidä ehdottomilla tai suhteellisilla perusteilla, vilpillisen mielen tai aikaisemman oikeuden vuoksi PRH:ssa tai markkinaoikeudessa; passiivisuuden vaikutus tarkistetaan."
+    },
+    "civilInjunction": {
+      "ja": "フィンランド市場裁判所で暫定的・終局的差止めを請求可能。管轄、緊急性、権利有効性、比例性、担保を確認する。",
+      "en": "Interim and final injunctions are available before the Finnish Market Court; assess jurisdiction, urgency, validity, proportionality and security.",
+      "fi": "Markkinaoikeudelta voidaan hakea väliaikaista ja lopullista kieltoa; toimivalta, kiireellisyys, oikeuden voimassaolo, suhteellisuus ja vakuus on arvioitava.",
+      "sv": "Interimistiskt och slutligt förbud kan begäras vid marknadsdomstolen; bedöm behörighet, brådska, giltighet, proportionalitet och säkerhet."
+    },
+    "civilDamages": {
+      "ja": "合理的使用料相当額および追加損害（逸失利益、侵害者利益、信用損害、精神的損害等）の賠償を請求し得る。",
+      "en": "Reasonable compensation for use and additional damages, including lost profit, infringer profit, reputational and non-economic harm, may be recovered.",
+      "sv": "Skälig ersättning för utnyttjandet och ytterligare skada, bland annat utebliven vinst, intrångsgörarens vinst, anseendeskada och ideell skada, kan ersättas.",
+      "fi": "Kohtuullinen hyvitys käytöstä sekä lisävahinko, kuten menetetty voitto, loukkaajan hyöty ja mainevahinko, voivat tulla korvattaviksi; tuottamus ja kulut tarkistetaan."
+    },
+    "civilEvidencePreservation": {
+      "ja": "侵害調査命令、情報命令、文書提出、専門家意見、テスト購入、オンライン証拠保存等を検討する。",
+      "en": "Consider infringement investigation orders, information orders, document production, expert evidence, test purchases and preservation of online evidence.",
+      "sv": "Överväg intrångsundersökning, informationsföreläggande, editionsföreläggande, sakkunnigbevisning, testköp och säkring av digital bevisning.",
+      "fi": "Harkitse turvaamistoimia, todistelun turvaamista, asiakirjojen esittämistä, asiantuntijoita, testostoja ja verkkotodisteiden säilyttämistä."
+    },
+    "civilOther": {
+      "ja": "侵害品・材料・器具の回収、変更、廃棄、判決公表、訴訟費用等があり得る。",
+      "en": "Recall, alteration or destruction of infringing goods, materials and tools, publication of judgment and costs may be available.",
+      "sv": "Återkallelse, ändring eller förstöring av intrångsvaror, material och hjälpmedel, offentliggörande av dom samt rättegångskostnader kan aktualiseras.",
+      "fi": "Loukkauksellisten tavaroiden, materiaalien ja välineiden takaisinveto tai hävittäminen, tuomion julkaiseminen, tiedonsaantimääräys ja oikeudenkäyntikulut voivat tulla kyseeseen."
+    },
+    "borderMeasures": {
+      "ja": "フィンランド税関へ権利行使申請を行い、EU税関規則上の国内申請または連合申請により疑義貨物の留置を求める。",
+      "en": "Apply to Finnish Customs for detention of suspected goods through a national or Union application under the EU customs regime.",
+      "fi": "Tee Suomen Tullille oikeuksien valvontapyyntö ja harkitse EU:n tulliasetuksen mukaista kansallista tai unionihakemusta epäiltyjen tavaroiden pysäyttämiseksi.",
+      "sv": "Ansök hos Tullen om kvarhållande av misstänkta varor genom nationell ansökan eller unionsansökan enligt EU:s tullregler."
+    },
+    "administrativeRaid": {
+      "ja": "税関、警察、検察による捜索・押収等を刑事告訴・裁判所措置と組み合わせる。PRHは一般的な市場摘発主体ではない。",
+      "en": "Combine customs, police and prosecutor searches or seizures with criminal complaint and court relief. PRH is not the general market-raid authority.",
+      "sv": "Kombinera tullens, polisens och åklagarens husrannsakan eller beslag med anmälan och domstolsåtgärder. PRH är inte allmän marknadskontrollmyndighet.",
+      "fi": "Yhdistä Tullin, poliisin ja syyttäjän etsintä- tai takavarikkotoimet rikosilmoitukseen ja tuomioistuimen turvaamistoimiin. PRH ei ole yleinen markkinavalvontaviranomainen."
+    },
+    "administrativeOther": {
+      "ja": "オンライン削除、.seドメイン紛争、消費者・広告・製品安全・不正競争上の措置等を併用する。",
+      "en": "Use platform takedowns, .se domain disputes and consumer, advertising, product-safety or unfair-marketing measures where appropriate.",
+      "sv": "Använd plattformsnedtagning, .se-domäntvist och åtgärder enligt konsument-, marknadsförings- eller produktsäkerhetsregler när det är lämpligt.",
+      "fi": "Käytä tarvittaessa verkkoalustojen poistopyyntöjä, .fi-verkkotunnusriitoja sekä kuluttaja-, markkinointi-, tuote- ja sopimattoman menettelyn keinoja."
+    },
+    "criminalAvailability": {
+      "ja": "あり。故意の商標権侵害・模倣品取引は、知的財産権犯罪または商標違反として刑事責任の対象となり得る。",
+      "en": "Available. Intentional trademark infringement and counterfeit trade may incur criminal liability as an industrial property rights offense or trademark violation.",
+      "fi": "Kyllä. Tahallinen tavaramerkkioikeuden loukkaus ja väärennöskauppa voivat johtaa rikosoikeudelliseen vastuuseen.",
+      "sv": "Ja. Uppsåtligt varumärkesintrång och handel med förfalskningar kan medföra straffansvar som industriellt rättsbrott eller varumärkesförseelse."
+    },
+    "criminalFine": {
+      "ja": "あり。商標違反では罰金、重大な知的財産権犯罪では罰金または拘禁刑となり得る。法人責任も確認する。",
+      "en": "Available. A trademark violation may attract a fine, while a serious industrial property rights offense may attract a fine or imprisonment; check corporate liability.",
+      "fi": "Kyllä; rangaistus riippuu rikosnimikkeestä, tahallisuudesta, laajuudesta ja yhteisösakon edellytyksistä.",
+      "sv": "Ja. En varumärkesförseelse kan ge böter, medan ett allvarligt industriellt rättsbrott kan ge böter eller fängelse; kontrollera även juridiska personers ansvar."
+    },
+    "criminalImprisonment": {
+      "ja": "重大な知的財産権犯罪では拘禁刑があり得る。適用犯罪類型、故意、経済的損害、最新の刑期を事案ごとに確認する。",
+      "en": "Imprisonment may be available for a serious industrial property rights offense; verify the offense, intent, economic harm and current sentencing range case by case.",
+      "fi": "Vankeus on mahdollinen vakavassa teollisoikeusrikoksessa; tarkista voimassa oleva rangaistusasteikko ja syytekäytäntö.",
+      "sv": "Fängelse kan följa för ett allvarligt industriellt rättsbrott; kontrollera brottstyp, uppsåt, ekonomisk skada och aktuell straffskala i varje fall."
+    },
+    "criminalOther": {
+      "ja": "侵害品、包装、製造器具および犯罪収益の押収・没収・廃棄等があり得る。",
+      "en": "Seizure, forfeiture and destruction of infringing goods, packaging, equipment and criminal proceeds may apply.",
+      "fi": "Loukkaukselliset tavarat, pakkaukset, valmistusvälineet ja rikoshyöty voidaan takavarikoida, menettää valtiolle tai hävittää.",
+      "sv": "Beslag, förverkande och förstöring av intrångsvaror, förpackningar, utrustning och brottsvinster kan förekomma."
+    }
+  },
+  "notablePoints": [
+    {
+      "title": {
+        "ja": "フィンランド語・スウェーデン語での電子手続",
+        "en": "Online filing in Finnish or Swedish",
+        "fi": "Sähköinen asiointi suomeksi tai ruotsiksi",
+        "sv": "Elektronisk ansökan på finska eller svenska"
+      },
+      "detail": {
+        "ja": "PRHの主要な商標電子サービスはフィンランド語・スウェーデン語で運用される。外国出願人は商品役務表と通知対応の翻訳体制を準備する。",
+        "en": "Core PRH trademark e-services operate in Finnish and Swedish; foreign applicants should arrange translation of specifications and correspondence.",
+        "fi": "PRH:n keskeiset tavaramerkkipalvelut toimivat suomeksi ja ruotsiksi; ulkomaisen hakijan on järjestettävä tavara- ja palveluluettelon sekä kirjeenvaihdon käännökset.",
+        "sv": "PRS:s centrala e-tjänster för varumärken används på finska och svenska; utländska sökande bör ordna översättning av förteckningen och korrespondensen."
+      }
+    },
+    {
+      "title": {
+        "ja": "登録簿上の先行権利を職権審査",
+        "en": "Recorded earlier rights examined ex officio",
+        "fi": "Rekisteröidyt aiemmat oikeudet tutkitaan viran puolesta",
+        "sv": "Registrerade äldre rättigheter prövas ex officio"
+      },
+      "detail": {
+        "ja": "PRHは国内商標、EU商標、国際登録、国内商号等を比較するが、未登録の定着商標や未反映のWIPO・EUIPOデータは異議リスクとして残る。",
+        "en": "PRH compares national marks, EUTMs, international registrations and domestic trade names, but unrecorded established marks and delayed WIPO/EUIPO data remain opposition risks.",
+        "fi": "PRH vertaa kansallisia merkkejä, EU-tavaramerkkejä, kansainvälisiä rekisteröintejä ja toiminimiä, mutta rekisteröimättömät vakiintuneet merkit sekä viivästynyt WIPO/EUIPO-tieto jäävät väiteriskiksi.",
+        "sv": "PRS jämför nationella märken, EU-varumärken, internationella registreringar och firmor, men oregistrerade inarbetade märken och fördröjda WIPO/EUIPO-uppgifter kvarstår som invändningsrisk."
+      }
+    },
+    {
+      "title": {
+        "ja": "登録後2か月の異議",
+        "en": "Two-month post-registration opposition",
+        "fi": "Kahden kuukauden väite rekisteröinnin jälkeen",
+        "sv": "Två månaders invändning efter registrering"
+      },
+      "detail": {
+        "ja": "審査後に登録・公告され、その公告日から2か月以内に異議を申し立てる。期間は延長できない。",
+        "en": "The mark is registered and published after examination; opposition must be filed within two months from publication and the period cannot be extended.",
+        "fi": "Merkki rekisteröidään ja julkaistaan tutkinnan jälkeen; väite on tehtävä kahdessa kuukaudessa julkaisusta eikä määräaikaa voida pidentää.",
+        "sv": "Märket registreras och publiceras efter granskning; invändning ska göras inom två månader från publiceringen och fristen kan inte förlängas."
+      }
+    },
+    {
+      "title": {
+        "ja": "2019年5月1日を境に存続期間の起算が異なる",
+        "en": "Term start differs at 1 May 2019",
+        "fi": "Voimassaoloajan alku muuttui 1.5.2019",
+        "sv": "Giltighetstidens början ändrades den 1 maj 2019"
+      },
+      "detail": {
+        "ja": "同日以降の出願は出願日から10年、それ以前の出願は登録日から10年。旧登録の更新管理では起算日を個別確認する。",
+        "en": "Applications from that date run ten years from filing; earlier applications run ten years from registration. Check each legacy record individually.",
+        "fi": "Tuosta päivästä alkaen hakemus on voimassa kymmenen vuotta hakemispäivästä; aiempi hakemus rekisteröintipäivästä. Vanhojen oikeuksien päivät tarkistetaan rekisteristä.",
+        "sv": "Ansökningar från detta datum gäller tio år från ansökningsdagen; äldre ansökningar från registreringsdagen. Kontrollera äldre rättigheter individuellt."
+      }
+    },
+    {
+      "title": {
+        "ja": "行政取消・無効をPRHで請求可能",
+        "en": "Administrative revocation and invalidity before PRH",
+        "fi": "Hallinnollinen menettämis- ja mitätöintimenettely PRH:ssa",
+        "sv": "Administrativt upphävande och ogiltighet hos PRS"
+      },
+      "detail": {
+        "ja": "5年不使用や無効理由についてPRHの書面手続を利用でき、同一当事者間で市場裁判所に同一事件が係属する場合の重複制限に注意する。",
+        "en": "PRH offers written administrative proceedings for non-use and invalidity; parallel proceedings before the Market Court between the same parties may prevent PRH handling.",
+        "fi": "PRH:ssa voidaan käsitellä kirjallisesti käyttämättömyyttä ja mitättömyyttä, mutta samaa merkkiä koskeva asia markkinaoikeudessa samojen osapuolten välillä voi estää PRH-käsittelyn.",
+        "sv": "PRS erbjuder skriftligt administrativt förfarande om uteblivet bruk och ogiltighet; parallellt mål i marknadsdomstolen mellan samma parter kan hindra PRS:s handläggning."
+      }
+    }
+  ],
+  "statistics": {
+    "coverage": "2016–2025",
+    "status": "pending",
+    "series": []
+  },
+  "news": [
+    {
+      "id": "processing-week36-2026",
+      "type": "practice",
+      "date": "2026-09-04",
+      "title": {
+        "ja": "PRHが国内42営業日・マドプロ40営業日の処理目安を公表",
+        "en": "PRH reports 42 and 40 working-day processing estimates",
+        "fi": "PRH ilmoittaa käsittelyajoiksi 42 ja 40 työpäivää",
+        "sv": "PRS anger behandlingstider på 42 och 40 arbetsdagar"
+      },
+      "summary": {
+        "ja": "2026年第36週時点で、国内出願は42営業日、フィンランド指定国際登録は40営業日。公表値は随時変動する。",
+        "en": "In week 36 of 2026, the estimates were 42 working days for national applications and 40 for Finland-designated international registrations; figures change with workload.",
+        "fi": "Viikolla 36/2026 arviot olivat 42 työpäivää kansallisille hakemuksille ja 40 työpäivää Suomeen kohdistetuille kansainvälisille rekisteröinneille; arviot muuttuvat.",
+        "sv": "Vecka 36 år 2026 var uppskattningarna 42 arbetsdagar för nationella ansökningar och 40 för internationella registreringar som designerar Finland; tiderna ändras."
+      },
+      "sourceUrl": "https://www.prh.fi/en/processing-times/processing_time_of_trademark_applications.html"
+    },
+    {
+      "id": "fees-2026",
+      "type": "practice",
+      "date": "2026-01-01",
+      "title": {
+        "ja": "2026年商標料金改定",
+        "en": "Trademark fee changes from 1 January 2026",
+        "fi": "Tavaramerkkimaksut muuttuivat 1.1.2026",
+        "sv": "Varumärkesavgifterna ändrades den 1 januari 2026"
+      },
+      "summary": {
+        "ja": "出願、異議、取消・無効、更新等の料金が改定された。提出時に電子・紙の現行料金を確認する。",
+        "en": "Fees for filing, opposition, revocation/invalidity and renewal were updated; verify current online and paper fees at filing.",
+        "fi": "Hakemus-, väite-, menettämis-, mitätöinti- ja uudistamismaksuja muutettiin; tarkista sähköisen ja paperihakemuksen ajantasainen maksu.",
+        "sv": "Avgifter för ansökan, invändning, upphävande, ogiltighet och förnyelse ändrades; kontrollera aktuella elektroniska och pappersavgifter."
+      },
+      "sourceUrl": "https://www.prh.fi/en/price-lists/trademark_fees/fees_for_trademark_applications.html"
+    },
+    {
+      "id": "risk-confusion-update-2026",
+      "type": "practice",
+      "date": "2026-08-06",
+      "title": {
+        "ja": "PRHが混同審査に関する案内を更新",
+        "en": "PRH updates guidance on likelihood-of-confusion examination",
+        "fi": "PRH päivitti sekaannusvaaran tutkimista koskevan ohjeen",
+        "sv": "PRS uppdaterade vägledningen om förväxlingsrisk"
+      },
+      "summary": {
+        "ja": "登録簿上の国内・EU・国際商標および商号を職権比較する一方、未登録の定着商標やデータ反映遅延は審査で把握されない場合があると明示した。",
+        "en": "PRH confirms ex officio comparison of recorded national, EU and international marks and trade names, while unrecorded established marks or delayed register data may escape examination.",
+        "fi": "PRH vertaa viran puolesta rekisteröityjä kansallisia, EU- ja kansainvälisiä merkkejä sekä toiminimiä, mutta vakiintuneet rekisteröimättömät merkit tai viivästynyt rekisteritieto voivat jäädä tutkimatta.",
+        "sv": "PRS jämför ex officio registrerade nationella, EU- och internationella märken samt firmor, men oregistrerade inarbetade märken eller fördröjda registeruppgifter kan undgå granskning."
+      },
+      "sourceUrl": "https://www.prh.fi/en/intellectualpropertyrights/trademarks/ennen_tavaramerkin_hakemista/requirements_for_trademark_registration/risk_of_confusion.html"
+    }
+  ],
+  "faqs": [
+    {
+      "tag": "Route",
+      "question": {
+        "ja": "国内PRH出願、EU商標、マドプロのフィンランド指定・EU指定のどれが適切ですか。",
+        "en": "Should we use a PRH filing, EUTM, Madrid-Finland designation or Madrid-EU designation?",
+        "fi": "Pitäisikö valita PRH-hakemus, EU-tavaramerkki, Madridin Suomi- vai EU-nimeäminen?",
+        "sv": "Bör vi välja PRS-ansökan, EU-varumärke, Madridutpekande av Finland eller av EU?"
+      },
+      "followUp": {
+        "ja": "費用、地域、先行権利審査、使用立証、攻撃耐性の違いは。",
+        "en": "How do cost, territory, earlier-right examination, proof of use and vulnerability differ?",
+        "fi": "Miten kustannus, alue, aiempien oikeuksien tutkinta, käyttönäyttö ja haavoittuvuus eroavat?",
+        "sv": "Hur skiljer sig kostnad, territorium, granskning av äldre rättigheter, bruksbevis och sårbarhet?"
+      }
+    },
+    {
+      "tag": "Language",
+      "question": {
+        "ja": "出願・通知対応はフィンランド語とスウェーデン語のどちらが実務上適切ですか。",
+        "en": "Should filing and prosecution be conducted in Finnish or Swedish?",
+        "fi": "Kannattaako hakemus ja kirjeenvaihto hoitaa suomeksi vai ruotsiksi?",
+        "sv": "Bör ansökan och handläggning ske på finska eller svenska?"
+      },
+      "followUp": {
+        "ja": "英語の商品役務表・証拠の翻訳要件と費用は。",
+        "en": "What translation requirements and costs apply to English specifications and evidence?",
+        "fi": "Mitä käännösvaatimuksia ja kustannuksia englanninkieliseen luetteloon ja näyttöön liittyy?",
+        "sv": "Vilka översättningskrav och kostnader gäller för engelska förteckningar och bevis?"
+      }
+    },
+    {
+      "tag": "Examination",
+      "question": {
+        "ja": "PRHが職権で審査する先行権利と、審査に反映されない権利は何ですか。",
+        "en": "Which earlier rights does PRH examine ex officio, and which may be missed?",
+        "fi": "Mitkä aiemmat oikeudet PRH tutkii viran puolesta ja mitkä voivat jäädä havaitsematta?",
+        "sv": "Vilka äldre rättigheter prövar PRS ex officio och vilka kan missas?"
+      },
+      "followUp": {
+        "ja": "未登録の定着商標、商号、著作権、ドメインも別途調査すべきですか。",
+        "en": "Should established unregistered marks, trade names, copyright and domains be searched separately?",
+        "fi": "Pitäisikö vakiintuneet rekisteröimättömät merkit, toiminimet, tekijänoikeudet ja verkkotunnukset tutkia erikseen?",
+        "sv": "Bör inarbetade oregistrerade märken, firmor, upphovsrätt och domäner sökas separat?"
+      }
+    },
+    {
+      "tag": "Appeal",
+      "question": {
+        "ja": "PRH拒絶を市場裁判所へ争う60日期限、証拠、平均審理期間は。",
+        "en": "What evidence and average duration apply to the 60-day Market Court appeal?",
+        "fi": "Mitä näyttöä ja käsittelyaikaa sovelletaan 60 päivän markkinaoikeusvalitukseen?",
+        "sv": "Vilken bevisning och handläggningstid gäller för överklagande till marknadsdomstolen inom 60 dagar?"
+      },
+      "followUp": {
+        "ja": "最高行政裁判所への上訴許可基準と概算費用は。",
+        "en": "What are the leave-to-appeal standard and estimated cost before the Supreme Administrative Court?",
+        "fi": "Mitkä ovat valitusluvan perusteet ja arvioidut kustannukset korkeimmassa hallinto-oikeudessa?",
+        "sv": "Vilka är grunderna för besvärstillstånd och uppskattad kostnad i högsta förvaltningsdomstolen?"
+      }
+    },
+    {
+      "tag": "Non-use",
+      "question": {
+        "ja": "5年不使用取消に対抗するフィンランド使用証拠は何ですか。",
+        "en": "What Finnish use evidence defends a five-year non-use action?",
+        "fi": "Millainen Suomessa tapahtunutta käyttöä koskeva näyttö tarvitaan viiden vuoden käyttämättömyysasiassa?",
+        "sv": "Vilken finländsk bruksbevisning krävs mot upphävande efter fem års uteblivet bruk?"
+      },
+      "followUp": {
+        "ja": "EU商標の使用、輸出、オンライン販売、ライセンシー使用、色彩・ロゴ変更はどこまで認められますか。",
+        "en": "How are EUTM use, exports, online sales, licensee use and color/logo variations treated?",
+        "fi": "Miten EU-tavaramerkin käyttö, vienti, verkkokauppa, lisenssikäyttö sekä väri- tai logomuutokset arvioidaan?",
+        "sv": "Hur bedöms bruk av EU-varumärke, export, nätförsäljning, licenstagarbruk och färg- eller logovariationer?"
+      }
+    },
+    {
+      "tag": "Enforcement",
+      "question": {
+        "ja": "市場裁判所の仮処分、フィンランド税関、刑事告訴をどう組み合わせますか。",
+        "en": "How should Market Court interim relief, Finnish Customs and criminal complaint be combined?",
+        "fi": "Miten markkinaoikeuden turvaamistoimet, Tulli ja rikosilmoitus yhdistetään?",
+        "sv": "Hur kombineras interimistiska åtgärder i marknadsdomstolen, Tullen och polisanmälan?"
+      },
+      "followUp": {
+        "ja": "証拠保全、担保、管轄、概算費用・期間は。",
+        "en": "What evidence preservation, security, venue, estimated cost and duration apply?",
+        "fi": "Mitä vaatimuksia liittyy todistelun turvaamiseen, vakuuteen, toimivaltaan, kustannuksiin ja kestoon?",
+        "sv": "Vad gäller för bevissäkring, säkerhet, forum, uppskattad kostnad och tid?"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "PRH — Trademarks",
+      "url": "https://www.prh.fi/en/intellectualpropertyrights/trademarks.html",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "PRH — Trademark Application Process",
+      "url": "https://www.prh.fi/en/intellectualpropertyrights/trademarks/how_to_apply/trademark_application_process_at_prh.html",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "PRH — Current Processing Times",
+      "url": "https://www.prh.fi/en/processing-times/processing_time_of_trademark_applications.html",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "PRH — Opposition",
+      "url": "https://www.prh.fi/en/intellectualpropertyrights/trademarks/trademark_disputes/opposition_against_a_trademark.html",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "PRH — Revocation and Invalidation",
+      "url": "https://www.prh.fi/en/intellectualpropertyrights/trademarks/trademark_disputes/revocation_and_invalidation_procedure.html",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "PRH — Appeals",
+      "url": "https://www.prh.fi/en/intellectualpropertyrights/trademarks/trademark_disputes/appealing_against_trademark_decisions.html",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Finlex — Trademarks Act 544/2019",
+      "url": "https://www.finlex.fi/en/legislation/translations/2019/eng/544",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Finnish Market Court",
+      "url": "https://www.markkinaoikeus.fi/en/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Finnish Customs — IPR",
+      "url": "https://tulli.fi/en/businesses/import/intellectual-property-rights",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO Lex — Finland",
+      "url": "https://www.wipo.int/wipolex/en/legislation/members/profile/FI",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO Madrid Monitor",
+      "url": "https://www3.wipo.int/madrid/monitor/en/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "TMview",
+      "url": "https://www.tmdn.org/tmview/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO Nice Classification",
+      "url": "https://www.wipo.int/classifications/nice/en/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    }
+  ]
+}
