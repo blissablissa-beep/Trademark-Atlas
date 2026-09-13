@@ -1,0 +1,605 @@
+{
+  "id": "br",
+  "type": "country",
+  "flag": "🇧🇷",
+  "region": "americas",
+  "names": {
+    "ja": "ブラジル連邦共和国",
+    "en": "Federative Republic of Brazil",
+    "pt": "República Federativa do Brasil"
+  },
+  "office": {
+    "ja": "ブラジル産業財産庁（INPI）",
+    "en": "Brazilian National Institute of Industrial Property (INPI)",
+    "pt": "Instituto Nacional da Propriedade Industrial (INPI)"
+  },
+  "availableLanguages": [
+    "pt"
+  ],
+  "createdAt": "2026-09-13",
+  "updatedAt": "2026-09-13",
+  "status": "review",
+  "facts": {
+    "authority": {
+      "ja": "ブラジル産業財産庁（INPI）。行政上の出願・登録・異議・無効手続を担当する。",
+      "en": "Brazilian National Institute of Industrial Property (INPI), responsible for administrative filing, registration, opposition and invalidity proceedings.",
+      "pt": "Instituto Nacional da Propriedade Industrial (INPI), responsável pelos procedimentos administrativos de depósito, registro, oposição e nulidade."
+    },
+    "protectionScope": {
+      "ja": "商品・役務の商標、団体商標、証明商標、著名商標。商号・地理的表示等は別制度も関係する。",
+      "en": "Marks for goods and services, collective marks, certification marks and well-known/highly renowned marks; trade names and GIs involve separate regimes.",
+      "pt": "Marcas de produtos e serviços, marcas coletivas, marcas de certificação e marcas notoriamente conhecidas ou de alto renome; nomes empresariais e indicações geográficas seguem regimes próprios."
+    },
+    "markTypes": {
+      "ja": "記名的標章、図形標章、結合標章、立体標章、位置商標等。音・匂い等の非視覚的標章の登録可否は現行法・INPI実務を確認する。",
+      "en": "Word, figurative, composite, three-dimensional and position marks; verify current law and INPI practice for non-visual signs such as sound or scent.",
+      "pt": "Marcas nominativas, figurativas, mistas, tridimensionais e de posição; deve-se confirmar a legislação e a prática do INPI quanto a sinais não visuais, como sons e odores."
+    },
+    "madridAccessionDate": {
+      "ja": "2019年10月2日（マドリッド協定議定書の効力発生日）。",
+      "en": "2 October 2019 (entry into force of the Madrid Protocol for Brazil).",
+      "pt": "2 de outubro de 2019 (entrada em vigor do Protocolo de Madri para o Brasil)."
+    },
+    "niceClassification": {
+      "ja": "採用。INPIの商品・役務補助リストおよび審査マニュアルも確認する。",
+      "en": "Adopted; also consult INPI’s auxiliary lists of goods/services and Trademark Manual.",
+      "pt": "Adotada; consultar também as listas auxiliares de produtos e serviços e o Manual de Marcas do INPI."
+    },
+    "classHeadingPractice": {
+      "ja": "類見出しだけで区分全体を当然に包含しない。明確・具体的でINPIが受理する商品・役務名称を使用する。",
+      "en": "Class headings do not automatically cover an entire class; use clear, specific terms accepted by INPI.",
+      "pt": "Os títulos das classes não abrangem automaticamente toda a classe; devem ser usados termos claros, específicos e aceitos pelo INPI."
+    },
+    "retailServices": {
+      "ja": "第35類で可。小売・卸売の対象商品または業務分野を具体的に記載する。",
+      "en": "Available in Class 35; identify the goods or business field covered by retail or wholesale services.",
+      "pt": "Disponível na classe 35; devem ser especificados os produtos ou o ramo de atividade abrangidos pelos serviços de varejo ou atacado."
+    },
+    "multiClassApplication": {
+      "ja": "国内直接出願は原則として一出願一区分。区分ごとに別出願する。マドプロによる多区分国際登録のブラジル指定は別途運用を確認する。",
+      "en": "A national direct application is generally single-class, requiring separate applications by class. Confirm separately the handling of multi-class Madrid designations.",
+      "pt": "O pedido nacional direto é, em regra, monoclasse, exigindo pedidos separados por classe. O tratamento de designações multiclasse pelo Sistema de Madri deve ser confirmado separadamente."
+    },
+    "applicationForm": {
+      "ja": "INPI電子システムを通じ、出願人、標章、指定商品・役務、区分、優先権、商標の性質等をポルトガル語で提出する。",
+      "en": "File through INPI’s electronic system in Portuguese, identifying the applicant, mark, goods/services, class, priority and nature of the mark.",
+      "pt": "O pedido é apresentado em português pelo sistema eletrônico do INPI, com identificação do requerente, marca, produtos ou serviços, classe, prioridade e natureza da marca."
+    },
+    "powerOfAttorney": {
+      "ja": "外国出願人はブラジル居住の代理人を選任する。委任状は通常、出願後60日以内に提出可能だが、期限・権限文言を確認する。",
+      "en": "A foreign applicant must appoint a representative domiciled in Brazil. A power may generally be filed within 60 days after filing; verify deadline and authority wording.",
+      "pt": "O requerente domiciliado no exterior deve constituir procurador domiciliado no Brasil. A procuração pode, em geral, ser apresentada em até 60 dias do depósito; confirmar o prazo e os poderes."
+    },
+    "priorityDocuments": {
+      "ja": "パリ優先権は最初の出願から6か月以内。出願時に主張し、優先権証明書は原則4か月以内に提出する。翻訳・デジタルアクセスの要否を確認する。",
+      "en": "Paris priority must be claimed within six months and declared at filing; the priority document is generally due within four months. Verify translation and digital-access rules.",
+      "pt": "A prioridade unionista deve ser reivindicada em até seis meses e declarada no depósito; o documento de prioridade é, em regra, apresentado em até quatro meses. Confirmar tradução e acesso digital."
+    },
+    "homeRegistrationCertificate": {
+      "ja": "通常の直接出願には不要。出願人の事業分野・適法な活動に関する宣言または書類が必要となる場合を確認する。",
+      "en": "Not normally required for a direct filing; check declarations or documents concerning the applicant’s lawful activity and business field.",
+      "pt": "Não é normalmente exigido para o pedido direto; verificar declarações ou documentos relativos à atividade lícita e ao ramo de atuação do requerente."
+    },
+    "useEvidenceAtFiling": {
+      "ja": "通常不要。ただし使用による識別力、周知・高名性、善意の先使用権等を主張する場合はブラジルでの証拠が必要。",
+      "en": "Not normally required; Brazilian evidence is needed for acquired distinctiveness, fame/high renown or good-faith prior-use claims.",
+      "pt": "Não é normalmente exigida; provas de uso no Brasil são necessárias para distintividade adquirida, notoriedade ou direito de precedência por uso de boa-fé."
+    },
+    "notarizationCertification": {
+      "ja": "通常の委任状は公証・領事認証不要とされることが多い。署名方式、電子署名、譲渡・宣誓書等は個別確認する。",
+      "en": "An ordinary power commonly requires no notarization or legalization; verify signature/e-signature rules and requirements for assignments or declarations.",
+      "pt": "A procuração comum geralmente dispensa reconhecimento de firma e legalização; confirmar assinatura eletrônica e requisitos para cessões ou declarações."
+    },
+    "otherDocuments": {
+      "ja": "商標見本、事業活動との関連情報、委任状、優先権証明、団体・証明商標の使用規則、立体・位置商標の説明等。",
+      "en": "Representation, business-activity information, power, priority document, regulations for collective/certification marks and descriptions for 3D or position marks.",
+      "pt": "Representação da marca, informações sobre a atividade, procuração, documento de prioridade, regulamentos de marcas coletivas ou de certificação e descrições de marcas tridimensionais ou de posição."
+    },
+    "absoluteGroundsExamination": {
+      "ja": "あり。INPIが職権審査する。",
+      "en": "Yes; examined ex officio by INPI.",
+      "pt": "Sim; examinados de ofício pelo INPI."
+    },
+    "distinctivenessGrounds": {
+      "ja": "普通・必要・一般的・単なる記述的表示、広告表現、単独の文字・数字・日付、一般的な形状・包装、色彩単独等は拒絶され得る。使用による識別力の取扱いを確認する。",
+      "en": "Generic, necessary, common or merely descriptive signs, advertising expressions, isolated letters/numbers/dates, common shapes/packaging and colors alone may be refused; verify acquired-distinctiveness practice.",
+      "pt": "Sinais genéricos, necessários, comuns ou meramente descritivos, expressões de propaganda, letras, números ou datas isolados, formas ou embalagens comuns e cores isoladas podem ser recusados; confirmar a prática sobre distintividade adquirida."
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "公序良俗、国旗・紋章・公的記章、宗教・尊厳を害する表示、虚偽表示、原産地・品質等の誤認、機能的形状、技術用語、植物品種、地理的表示等を確認する。",
+      "en": "Check public order/morality, flags/emblems/official signs, offensive religious or dignitary matter, false or misleading origin/quality, functional shapes, technical terms, plant varieties and GIs.",
+      "pt": "Devem ser verificados ordem pública e moral, bandeiras, brasões e sinais oficiais, ofensa religiosa ou à dignidade, falsidade ou engano quanto à origem ou qualidade, formas funcionais, termos técnicos, cultivares e indicações geográficas."
+    },
+    "relativeGroundsExamination": {
+      "ja": "あり。先行ブラジル出願・登録、周知商標、他人の商号・氏名・肖像・著作物等との抵触を審査する。第三者の異議がなくても問題となり得る。",
+      "en": "Yes; INPI examines conflicts with earlier Brazilian applications/registrations, well-known marks, trade names, names, portraits and copyright, even without opposition.",
+      "pt": "Sim; o INPI examina conflitos com pedidos ou registros anteriores, marcas notoriamente conhecidas, nomes empresariais, nomes civis, retratos e direitos autorais, ainda que não haja oposição."
+    },
+    "disclaimer": {
+      "ja": "出願人が任意に非識別部分を放棄して拒絶を当然に解消する一般制度ではない。INPIが「標章全体として保護」等の限定を付す実務を確認する。",
+      "en": "There is no general elective disclaimer that automatically cures refusal; verify INPI practice stating protection is granted to the mark as a whole or imposing limitations.",
+      "pt": "Não há renúncia voluntária geral que elimine automaticamente a recusa; deve-se verificar a prática do INPI de conceder proteção ao conjunto da marca ou impor ressalvas."
+    },
+    "consent": {
+      "ja": "同意書・共存契約は考慮され得るがINPIを拘束せず、混同のおそれに関する拒絶を当然には解消しない。具体的表示・市場条件・公益を確認する。",
+      "en": "Consent or coexistence agreements may be considered but do not bind INPI or automatically overcome confusion; assess the signs, market conditions and public interest.",
+      "pt": "Cartas de consentimento ou acordos de coexistência podem ser considerados, mas não vinculam o INPI nem afastam automaticamente o risco de confusão; analisar sinais, mercado e interesse público."
+    },
+    "acceleratedExamination": {
+      "ja": "優先処理制度あり。年齢・障害・重大疾病、権利侵害、訴訟、スタートアップその他の対象事由と証拠・申請方式を最新規則で確認する。",
+      "en": "Priority processing is available on prescribed grounds such as age, disability/serious illness, infringement, litigation or qualifying startups; verify current rules and evidence.",
+      "pt": "Há trâmite prioritário por motivos previstos, como idade, deficiência ou doença grave, infração, litígio ou startup elegível; confirmar regras e provas atuais."
+    },
+    "thirdPartyObservation": {
+      "ja": "出願公告後60日以内に第三者異議を提出可能。さらに審査資料としての情報提出可否・形式はINPI実務を確認する。",
+      "en": "A third-party opposition may be filed within 60 days after publication; separately verify any procedure for submitting examination information.",
+      "pt": "Terceiros podem apresentar oposição em até 60 dias da publicação; deve-se confirmar separadamente eventual apresentação de subsídios ao exame."
+    },
+    "directExaminationPeriod": {
+      "ja": "異議のない直接出願は概ね18～24か月程度が目安となることがある。異議、補正、審査滞貨、優先処理で変動するため最新INPI統計を確認する。",
+      "en": "An unopposed direct filing may take roughly 18–24 months, varying with opposition, amendments, backlog and priority processing; check current INPI statistics.",
+      "pt": "Um pedido direto sem oposição pode levar aproximadamente 18 a 24 meses, variando conforme oposição, exigências, estoque e prioridade; consultar estatísticas atuais do INPI."
+    },
+    "madridExaminationPeriod": {
+      "ja": "国際事務局の通報日から原則18か月以内に暫定拒絶を通報する。ブラジル指定の実際の審査・最終処分期間は案件により異なる。",
+      "en": "INPI generally must notify provisional refusal within 18 months from WIPO notification; actual examination and final disposition of a Brazilian designation vary.",
+      "pt": "O INPI deve, em regra, notificar recusa provisória em até 18 meses da notificação da OMPI; o exame e a decisão final variam conforme o caso."
+    },
+    "colourPriorityIdentity": {
+      "ja": "優先権基礎とブラジル出願の標章が同一である必要がある。白黒・カラー間、配色・配置変更が優先権の同一性を損なうかを個別確認する。",
+      "en": "The Brazilian mark must be identical to the priority filing; assess individually whether black-and-white/color or arrangement changes impair identity.",
+      "pt": "A marca brasileira deve ser idêntica à do pedido prioritário; avaliar individualmente se alterações entre preto e branco e cores, ou de disposição, prejudicam a identidade."
+    },
+    "colourRelativeGrounds": {
+      "ja": "色彩は標章全体の外観要素。称呼・観念・図形・支配的要素・商品役務・市場状況と総合比較し、色違いのみで非類似とは限らない。",
+      "en": "Color is part of overall appearance; compare pronunciation, concept, devices, dominant elements, goods/services and market context. Color difference alone may not avoid similarity.",
+      "pt": "A cor integra a aparência global; devem ser comparados som, conceito, elementos figurativos e dominantes, produtos ou serviços e contexto de mercado. A diferença de cor, por si só, pode não afastar a semelhança."
+    },
+    "colourGenuineUse": {
+      "ja": "登録態様と使用態様の色彩差が標章の識別的性格を変更するかを確認する。色彩が主要部分の場合、異色使用のみでは不使用取消防御にリスクがある。",
+      "en": "Assess whether color differences between registration and use alter distinctive character; risk is higher where color is dominant.",
+      "pt": "Avaliar se diferenças de cor entre registro e uso alteram o caráter distintivo; o risco é maior quando a cor é elemento dominante."
+    },
+    "colourInfringementScope": {
+      "ja": "登録表示、色彩の役割、標章全体、商品・役務、需要者、混同・関連付けのおそれを総合評価する。",
+      "en": "Assess the registered representation, role of color, overall signs, goods/services, consumers and likelihood of confusion or association.",
+      "pt": "Avaliar a representação registrada, o papel das cores, o conjunto dos sinais, produtos ou serviços, consumidores e risco de confusão ou associação."
+    },
+    "colourFilingStrategy": {
+      "ja": "主要カラー版と白黒版の別出願を検討する。ポルトガル語訳・音写ブランド、位置商標、包装・立体形状も必要に応じて確保する。",
+      "en": "Consider separate key-color and black-and-white filings, plus Portuguese translation/transliteration, position, packaging and 3D marks where appropriate.",
+      "pt": "Considerar pedidos separados da versão em cores principais e em preto e branco, além de tradução ou transliteração em português, marca de posição, embalagem e forma tridimensional."
+    },
+    "refusalResponseRoute": {
+      "ja": "INPIの審査要求には原則60日以内に意見・補正・指定限定・証拠等で応答する。拒絶査定には行政不服申立てを行い、行政確定後は連邦裁判所での司法審査を検討する。",
+      "en": "Respond to INPI office actions generally within 60 days with arguments, amendment, limitation or evidence. Appeal a refusal administratively, then consider federal-court review after final agency action.",
+      "pt": "Responder às exigências do INPI, em regra, em 60 dias com argumentos, emendas, limitações ou provas. Da recusa cabe recurso administrativo e, após decisão final, eventual ação perante a Justiça Federal."
+    },
+    "responsePeriod": {
+      "ja": "通常の審査要求・異議答弁は公告から60日が重要。形式上の要求等は異なる短期期限があり得るため、各公報掲載事項を確認する。",
+      "en": "A 60-day period is important for ordinary office-action responses and replies to opposition; formal requirements may have shorter deadlines, so check each publication.",
+      "pt": "O prazo de 60 dias é relevante para manifestações a exigências e oposição; exigências formais podem ter prazos menores, devendo-se conferir cada publicação."
+    },
+    "extensionAvailable": {
+      "ja": "法定期限は原則として延長困難。期限内応答を前提とし、不可抗力・システム障害等の救済は個別確認する。",
+      "en": "Statutory periods are generally not extendible; plan timely responses and verify exceptional relief for force majeure or system failures.",
+      "pt": "Os prazos legais são, em regra, improrrogáveis; deve-se responder tempestivamente e verificar remédios excepcionais por força maior ou falha de sistema."
+    },
+    "extensionLength": {
+      "ja": "通常の任意延長は想定しない。適用可能な例外・期間回復は手続別に確認する。",
+      "en": "No ordinary discretionary extension should be assumed; verify procedure-specific exceptions or restoration.",
+      "pt": "Não se deve presumir prorrogação ordinária; confirmar exceções ou restauração conforme o procedimento."
+    },
+    "extensionRequirements": {
+      "ja": "公報掲載日からの期限計算、祝日・電子システム停止、手数料を厳格に管理する。救済には証拠が必要となり得る。",
+      "en": "Docket from the official publication date and monitor holidays, e-system outages and fees strictly; exceptional relief may require evidence.",
+      "pt": "Controlar rigorosamente o prazo contado da publicação oficial, feriados, indisponibilidade do sistema e taxas; remédios excepcionais podem exigir prova."
+    },
+    "appealRoute": {
+      "ja": "拒絶査定の公告から原則60日以内にINPI長官宛ての行政不服申立て。その最終行政判断に対し、リオデジャネイロ等の連邦裁判所で取消訴訟を検討する。",
+      "en": "File an administrative appeal to the President of INPI generally within 60 days from publication of refusal; a final agency decision may be challenged in federal court.",
+      "pt": "Da decisão de indeferimento cabe recurso ao Presidente do INPI, em regra, em 60 dias da publicação; a decisão administrativa final pode ser impugnada na Justiça Federal."
+    },
+    "refusalAppealPeriod": {
+      "ja": "原則60日。行政不服申立ての平均審理期間は滞貨・論点により大きく異なるため、最新INPI統計・現地代理人見積りを確認する。",
+      "en": "Generally 60 days. Administrative appeal duration varies substantially with backlog and issues; obtain current INPI statistics and local estimates.",
+      "pt": "Em regra, 60 dias. A duração do recurso administrativo varia conforme estoque e complexidade; consultar estatísticas atuais do INPI e estimativa local."
+    },
+    "publicDatabase": {
+      "ja": "INPI商標検索データベース",
+      "en": "INPI Trademark Search Database",
+      "pt": "Base de Busca de Marcas do INPI",
+      "url": "https://busca.inpi.gov.br/pePI/"
+    },
+    "publicationStage": {
+      "ja": "方式審査後にRPIで出願公告され、60日の異議期間に入る。その後実体審査、許可・拒絶、登録料納付を経て登録。",
+      "en": "After formality review, the application is published in the RPI for a 60-day opposition period, followed by substantive examination, allowance/refusal and registration fee.",
+      "pt": "Após o exame formal, o pedido é publicado na RPI para oposição em 60 dias, seguindo-se exame de mérito, deferimento ou indeferimento e pagamento para registro."
+    },
+    "oppositionPeriod": {
+      "ja": "RPIでの出願公告から60日以内。",
+      "en": "Within 60 days from publication of the application in the RPI.",
+      "pt": "Em até 60 dias da publicação do pedido na RPI."
+    },
+    "oppositionExtension": {
+      "ja": "法定60日の異議申立期間は原則延長不可。出願人の異議答弁期間も通常60日。",
+      "en": "The statutory 60-day opposition period is generally non-extendible; the applicant normally has 60 days to reply.",
+      "pt": "O prazo legal de 60 dias para oposição é, em regra, improrrogável; o requerente normalmente dispõe de 60 dias para manifestação."
+    },
+    "averagePendency": {
+      "ja": "異議なしで概ね18～24か月、異議・要求・不服があるとさらに長期化し得る。最新INPI処理統計を確認する。",
+      "en": "Roughly 18–24 months if unopposed, potentially longer with opposition, office actions or appeals; check current INPI pendency data.",
+      "pt": "Aproximadamente 18 a 24 meses sem oposição, podendo demorar mais com oposição, exigências ou recursos; consultar dados atuais do INPI."
+    },
+    "term": {
+      "ja": "登録許可日から10年。10年ごとに更新可能。",
+      "en": "10 years from the grant date, renewable for successive ten-year periods.",
+      "pt": "10 anos contados da concessão, renováveis por períodos sucessivos de 10 anos."
+    },
+    "termStart": {
+      "ja": "登録許可日から。",
+      "en": "From the date of grant.",
+      "pt": "Da data da concessão."
+    },
+    "renewalWindow": {
+      "ja": "満了前の最後の1年間に更新申請可能。",
+      "en": "Renewal may be filed during the final year of the registration term.",
+      "pt": "A prorrogação pode ser requerida durante o último ano de vigência do registro."
+    },
+    "gracePeriod": {
+      "ja": "あり。満了後6か月以内は追加料金を伴う更新が可能。",
+      "en": "Yes; late renewal is available within six months after expiry with an additional fee.",
+      "pt": "Sim; a prorrogação pode ser requerida nos seis meses após o término, mediante taxa adicional."
+    },
+    "renewalEvidence": {
+      "ja": "更新時の使用宣誓・使用証拠は通常不要。ただし5年不使用取消に備え、ブラジルでの使用証拠を保存する。",
+      "en": "No declaration or evidence of use is normally required at renewal; preserve Brazilian use evidence against five-year non-use cancellation.",
+      "pt": "Não se exige normalmente declaração ou prova de uso na prorrogação; conservar provas de uso no Brasil contra caducidade por cinco anos."
+    },
+    "nonUseCancellation": {
+      "ja": "あり。INPIへの行政上の不使用取消（caducidade）。登録許可から5年経過後に請求可能。",
+      "en": "Available as an administrative non-use cancellation (caducidade) before INPI, requestable after five years from grant.",
+      "pt": "Disponível como procedimento administrativo de caducidade perante o INPI, requerível após cinco anos da concessão."
+    },
+    "nonUsePeriod": {
+      "ja": "登録許可後5年以内にブラジルで使用を開始しない場合、または使用が継続5年以上中断した場合。正当理由の有無を確認する。",
+      "en": "Failure to commence use in Brazil within five years after grant, or interruption for more than five consecutive years, subject to legitimate reasons.",
+      "pt": "Falta de início de uso no Brasil nos cinco anos após a concessão ou interrupção por mais de cinco anos consecutivos, ressalvadas razões legítimas."
+    },
+    "nonUseDefenses": {
+      "ja": "商標権者が調査対象期間のブラジルにおける真正使用または正当な不使用理由を立証する。使用標章の変更、輸出、ライセンス、一部商品との対応を確認する。",
+      "en": "The owner proves genuine Brazilian use during the relevant period or legitimate reasons for non-use; assess variations, exports, licensing and partial goods.",
+      "pt": "O titular deve provar uso efetivo no Brasil no período relevante ou razões legítimas para o desuso; verificar variações da marca, exportações, licenças e uso parcial."
+    },
+    "otherCancellation": {
+      "ja": "登録料不納、更新欠缺、権利者要件喪失等による消滅のほか、行政無効・司法無効がある。",
+      "en": "Rights may lapse for non-payment, failure to renew or loss of qualification, and may be cancelled through administrative or judicial invalidity.",
+      "pt": "O direito pode extinguir-se por falta de pagamento, ausência de prorrogação ou perda de requisitos, além de nulidade administrativa ou judicial."
+    },
+    "invalidation": {
+      "ja": "INPIによる行政無効手続は登録許可公告から180日以内に職権または請求で開始可能。司法上の無効訴訟は原則登録許可から5年以内。",
+      "en": "Administrative invalidity may be initiated ex officio or on request within 180 days from grant publication; a judicial invalidity action is generally due within five years from grant.",
+      "pt": "O processo administrativo de nulidade pode ser instaurado de ofício ou a requerimento em até 180 dias da concessão; a ação judicial de nulidade, em regra, em até cinco anos."
+    },
+    "civilInjunction": {
+      "ja": "連邦・州の管轄を確認の上、侵害差止め・予防、仮処分を請求可能。緊急性、権利有効性、担保を検討する。",
+      "en": "Injunctions and preliminary relief are available, subject to federal/state jurisdiction, urgency, validity and security considerations.",
+      "pt": "São cabíveis tutela inibitória e medidas liminares, observada a competência federal ou estadual, urgência, validade do direito e eventual caução."
+    },
+    "civilDamages": {
+      "ja": "実損、逸失利益、侵害者利益、合理的ライセンス料等の算定方法を検討する。道徳的損害・不正競争請求も事案により関係する。",
+      "en": "Consider actual loss, lost profits, infringer profits and reasonable royalty; moral damages and unfair-competition claims may also be relevant.",
+      "pt": "Considerar dano emergente, lucros cessantes, lucros do infrator e remuneração razoável; danos morais e concorrência desleal também podem ser pertinentes."
+    },
+    "civilEvidencePreservation": {
+      "ja": "公証購入、オンライン公証、証拠の早期提出・保全、捜索押収、専門家鑑定、帳簿開示等を検討する。",
+      "en": "Consider notarized purchases/online evidence, early production and preservation, search and seizure, expert examination and accounting evidence.",
+      "pt": "Considerar ata notarial, compra documentada, produção antecipada de prova, busca e apreensão, perícia e exibição contábil."
+    },
+    "civilOther": {
+      "ja": "侵害品・包装・金型等の廃棄、公告・信用回復、不当利得返還等があり得る。",
+      "en": "Destruction of infringing goods, packaging or molds, publication/reputation relief and restitution may be available.",
+      "pt": "Podem ser cabíveis destruição de produtos, embalagens ou moldes, publicação da decisão, reparação à reputação e restituição."
+    },
+    "borderMeasures": {
+      "ja": "税関への権利情報提供、輸入貨物の留置・差止めを検討する。税関が一元的な商標登録簿制度を有するか、港ごとの運用・保証を確認する。",
+      "en": "Consider providing rights information to customs and seeking detention/suspension of imports; verify current recordal, port practice and security requirements.",
+      "pt": "Considerar fornecimento de informações à aduana e retenção de importações; confirmar cadastro vigente, prática por porto e eventual caução."
+    },
+    "administrativeRaid": {
+      "ja": "警察・税関・消費者保護機関・地方当局による摘発を刑事告訴や民事措置と組み合わせる。州ごとの運用差に注意する。",
+      "en": "Combine action by police, customs, consumer bodies or local authorities with criminal and civil measures; practice varies by state.",
+      "pt": "Combinar atuação policial, aduaneira, de órgãos de defesa do consumidor ou autoridades locais com medidas criminais e cíveis; a prática varia por estado."
+    },
+    "administrativeOther": {
+      "ja": "オンラインプラットフォーム削除、ドメイン名紛争、消費者・広告・衛生規制、不正競争上の措置等を併用する。",
+      "en": "Use platform takedowns, domain-name disputes, consumer/advertising/health regulation and unfair-competition measures where appropriate.",
+      "pt": "Utilizar remoções em plataformas, disputas de nomes de domínio, regras de consumo, publicidade ou saúde e medidas de concorrência desleal, conforme o caso."
+    },
+    "criminalAvailability": {
+      "ja": "あり。登録商標の偽造・模倣、偽造商標付き商品の輸入・販売等は刑事責任の対象となり得る。原則として私訴・告訴期限を確認する。",
+      "en": "Available for counterfeiting/imitation and importing or selling counterfeit-marked goods; verify private-prosecution and complaint deadlines.",
+      "pt": "Há responsabilidade criminal por falsificação ou imitação de marca e importação ou venda de produtos contrafeitos; confirmar ação penal privada e prazo decadencial."
+    },
+    "criminalFine": {
+      "ja": "あり。犯罪類型、法人への行政・民事責任との関係、最新法定額を確認する。",
+      "en": "Available; verify current amounts by offense and interaction with corporate administrative/civil liability.",
+      "pt": "Há multa; confirmar valores atuais por delito e sua relação com a responsabilidade administrativa e civil da pessoa jurídica."
+    },
+    "criminalImprisonment": {
+      "ja": "拘禁刑が定められる犯罪類型あり。故意、行為態様、手続形態を含め最新法定刑を確認する。",
+      "en": "Custodial penalties exist for certain offenses; verify current terms, intent elements, conduct and procedure.",
+      "pt": "Há penas privativas de liberdade para certos delitos; confirmar penas atuais, dolo, conduta e procedimento."
+    },
+    "criminalOther": {
+      "ja": "侵害品・ラベル・包装・製造器具の捜索押収・没収・廃棄、営業停止等があり得る。",
+      "en": "Search, seizure, forfeiture and destruction of goods, labels, packaging and equipment, and business restrictions may be available.",
+      "pt": "Podem ocorrer busca e apreensão, perdimento e destruição de produtos, rótulos, embalagens e equipamentos, além de restrições à atividade."
+    }
+  },
+  "notablePoints": [
+    {
+      "title": {
+        "ja": "国内出願は原則一出願一区分",
+        "en": "National filings are generally single-class",
+        "pt": "Pedidos nacionais são, em regra, monoclasse"
+      },
+      "detail": {
+        "ja": "商品・役務区分ごとに別出願・別番号・別更新となる。マドプロの多区分指定と管理単位が異なり得る。",
+        "en": "Each class generally has a separate application, number and renewal; Madrid multi-class designations may be managed differently.",
+        "pt": "Cada classe normalmente exige pedido, número e prorrogação separados; designações multiclasse de Madri podem ter gestão distinta."
+      }
+    },
+    {
+      "title": {
+        "ja": "善意の先使用による優先権",
+        "en": "Good-faith prior-user preference",
+        "pt": "Direito de precedência do usuário de boa-fé"
+      },
+      "detail": {
+        "ja": "出願日・優先日前少なくとも6か月、ブラジルで同一・類似商標を同一・類似商品役務に善意使用した者の優先権を検討する。主張時期と証拠が重要。",
+        "en": "A person who used an identical/similar mark in good faith in Brazil for at least six months before filing/priority may claim preference; timing and evidence are critical.",
+        "pt": "Quem usava de boa-fé marca idêntica ou semelhante no Brasil por pelo menos seis meses antes do depósito ou prioridade pode invocar precedência; momento e prova são essenciais."
+      }
+    },
+    {
+      "title": {
+        "ja": "高名商標の全区分保護",
+        "en": "Cross-class protection for highly renowned marks",
+        "pt": "Proteção especial da marca de alto renome"
+      },
+      "detail": {
+        "ja": "ブラジルで登録された高名商標は、INPIによる認定を受ければ全活動分野で特別保護を得る。周知商標との制度差に注意する。",
+        "en": "A Brazilian registered mark recognized as highly renowned may obtain special protection across all fields; distinguish this from well-known-mark protection.",
+        "pt": "A marca registrada reconhecida pelo INPI como de alto renome pode receber proteção especial em todos os ramos; distinguir da marca notoriamente conhecida."
+      }
+    },
+    {
+      "title": {
+        "ja": "5年不使用取消と立証責任",
+        "en": "Five-year non-use and burden of proof",
+        "pt": "Caducidade por cinco anos e ônus da prova"
+      },
+      "detail": {
+        "ja": "取消請求後、権利者が対象期間のブラジルでの使用または正当理由を立証する。請求を予測して請求書、広告、配送、契約を保存する。",
+        "en": "After a cancellation request, the owner proves Brazilian use or legitimate reasons during the relevant period; retain invoices, advertising, logistics and agreements.",
+        "pt": "Após o pedido de caducidade, o titular prova uso no Brasil ou razões legítimas no período; conservar notas fiscais, publicidade, logística e contratos."
+      }
+    },
+    {
+      "title": {
+        "ja": "RPI公告を基準に60日期限管理",
+        "en": "Docket 60-day periods from the RPI",
+        "pt": "Controle dos prazos de 60 dias pela RPI"
+      },
+      "detail": {
+        "ja": "異議、異議答弁、審査要求、拒絶不服など多くの期限はRPI公告が起点。現地代理人のウォッチングが不可欠。",
+        "en": "Many opposition, reply, office-action and appeal periods run from the RPI publication; local docket monitoring is essential.",
+        "pt": "Muitos prazos de oposição, manifestação, exigência e recurso correm da publicação na RPI; o acompanhamento local é indispensável."
+      }
+    }
+  ],
+  "statistics": {
+    "coverage": "2016–2025",
+    "status": "pending",
+    "series": []
+  },
+  "news": [
+    {
+      "id": "trademark-manual-current",
+      "type": "practice",
+      "date": "2025-01-01",
+      "title": {
+        "ja": "INPI商標マニュアル・審査運用の継続更新",
+        "en": "Continuing updates to INPI trademark examination practice",
+        "pt": "Atualizações contínuas do Manual de Marcas do INPI"
+      },
+      "summary": {
+        "ja": "商品・役務名称、位置商標、方式・実体審査、電子手続はマニュアル改訂の影響を受けるため、出願時の現行版を確認する。",
+        "en": "Goods/services terminology, position marks, formality/substantive examination and e-filing are affected by manual updates; check the version current at filing.",
+        "pt": "Terminologia de produtos e serviços, marca de posição, exame formal e de mérito e peticionamento eletrônico dependem das atualizações do Manual; consultar a versão vigente."
+      },
+      "sourceUrl": "https://manualdemarcas.inpi.gov.br/"
+    },
+    {
+      "id": "madrid-practice-consolidation",
+      "type": "practice",
+      "date": "2024-01-01",
+      "title": {
+        "ja": "マドプロのブラジル指定実務の定着",
+        "en": "Consolidation of Brazilian Madrid practice",
+        "pt": "Consolidação da prática brasileira no Sistema de Madri"
+      },
+      "summary": {
+        "ja": "暫定拒絶、現地代理人選任、異議、区分・料金、更新後の国内記録を、直接出願とは分けて管理する必要がある。",
+        "en": "Provisional refusals, local representation, opposition, classes/fees and post-renewal national records require management distinct from direct filings.",
+        "pt": "Recusas provisórias, representação local, oposição, classes, taxas e anotações após renovação exigem gestão distinta dos pedidos nacionais."
+      },
+      "sourceUrl": "https://www.gov.br/inpi/pt-br/servicos/marcas/marcas-internacionais-protocolo-de-madri"
+    },
+    {
+      "id": "nice-13-2026",
+      "type": "practice",
+      "date": "2026-01-01",
+      "title": {
+        "ja": "ニース国際分類第13版への対応",
+        "en": "Implementation of the 13th edition of the Nice Classification",
+        "pt": "Aplicação da 13ª edição da Classificação de Nice"
+      },
+      "summary": {
+        "ja": "2026年出願では第13版とINPIの現行商品・役務リストを併せて確認する。",
+        "en": "For 2026 filings, consult the 13th edition together with INPI’s current lists of goods and services.",
+        "pt": "Para pedidos de 2026, consultar a 13ª edição juntamente com as listas vigentes de produtos e serviços do INPI."
+      },
+      "sourceUrl": "https://www.wipo.int/classifications/nice/en/"
+    }
+  ],
+  "faqs": [
+    {
+      "tag": "Filing",
+      "question": {
+        "ja": "国内直接出願では、各区分をどのように分割して出願・更新管理すべきですか。",
+        "en": "How should classes be split and managed for filing and renewal in a national application?",
+        "pt": "Como dividir e administrar as classes para depósito e prorrogação de pedidos nacionais?"
+      },
+      "followUp": {
+        "ja": "マドプロ指定との費用・審査・権利管理上の差は。",
+        "en": "How does this differ from a Madrid designation in cost, examination and portfolio management?",
+        "pt": "Quais são as diferenças de custo, exame e gestão em relação à designação de Madri?"
+      }
+    },
+    {
+      "tag": "Clearance",
+      "question": {
+        "ja": "商号、州レベルの名称、ドメイン、善意の先使用を含め、どの範囲まで調査すべきですか。",
+        "en": "How broadly should clearance cover trade names, state-level names, domains and good-faith prior use?",
+        "pt": "Qual deve ser o alcance da busca quanto a nomes empresariais, registros estaduais, domínios e uso anterior de boa-fé?"
+      },
+      "followUp": {
+        "ja": "出願前6か月以上の使用を示す証拠として何が有効ですか。",
+        "en": "What evidence proves use for at least six months before filing?",
+        "pt": "Quais provas demonstram uso por pelo menos seis meses antes do depósito?"
+      }
+    },
+    {
+      "tag": "Opposition",
+      "question": {
+        "ja": "RPI公告から60日以内の異議に必要な主張・証拠と費用は。",
+        "en": "What arguments, evidence and costs are required for opposition within 60 days of RPI publication?",
+        "pt": "Quais fundamentos, provas e custos são necessários para oposição em 60 dias da publicação na RPI?"
+      },
+      "followUp": {
+        "ja": "異議答弁を出さない場合の実務上の不利益は。",
+        "en": "What practical prejudice follows if no reply to opposition is filed?",
+        "pt": "Quais são as consequências práticas de não apresentar manifestação à oposição?"
+      }
+    },
+    {
+      "tag": "Refusal",
+      "question": {
+        "ja": "拒絶不服申立ての平均審理期間と、行政段階で新証拠を提出できる範囲は。",
+        "en": "What is the average appeal duration and scope for new evidence at the administrative stage?",
+        "pt": "Qual é a duração média do recurso e o alcance para novas provas na fase administrativa?"
+      },
+      "followUp": {
+        "ja": "行政確定後の連邦裁判所訴訟の管轄、期間、概算費用は。",
+        "en": "What venue, duration and estimated cost apply to federal-court review after final agency action?",
+        "pt": "Qual é a competência, duração e custo estimado da ação federal após a decisão administrativa final?"
+      }
+    },
+    {
+      "tag": "Non-use",
+      "question": {
+        "ja": "5年不使用取消に対抗するため、対象期間のどのブラジル使用証拠を保存すべきですか。",
+        "en": "Which Brazilian use evidence should be retained to defend a five-year non-use cancellation?",
+        "pt": "Quais provas de uso no Brasil devem ser guardadas para defesa em caducidade por cinco anos?"
+      },
+      "followUp": {
+        "ja": "輸出、オンライン販売、ライセンシー使用、ロゴ・色彩変更は有効な使用ですか。",
+        "en": "Do exports, online sales, licensee use and logo/color variations count?",
+        "pt": "Exportação, vendas online, uso por licenciado e variações de logotipo ou cor são válidos?"
+      }
+    },
+    {
+      "tag": "Enforcement",
+      "question": {
+        "ja": "州警察・連邦警察、税関、民事仮処分、刑事私訴をどう組み合わせますか。",
+        "en": "How should state/federal police, customs, civil injunctions and private criminal prosecution be combined?",
+        "pt": "Como combinar polícia estadual ou federal, aduana, liminar cível e ação penal privada?"
+      },
+      "followUp": {
+        "ja": "公証購入、捜索押収、損害立証、保証金に必要な資料は。",
+        "en": "What evidence is needed for notarized purchase, search/seizure, damages and security?",
+        "pt": "Quais documentos são necessários para compra documentada, busca e apreensão, danos e caução?"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "INPI — Marcas",
+      "url": "https://www.gov.br/inpi/pt-br/servicos/marcas",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "INPI — Trademark Search",
+      "url": "https://busca.inpi.gov.br/pePI/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "INPI — Revista da Propriedade Industrial (RPI)",
+      "url": "https://revistas.inpi.gov.br/rpi/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "INPI — Manual de Marcas",
+      "url": "https://manualdemarcas.inpi.gov.br/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Brazil — Industrial Property Law No. 9,279/1996",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9279.htm",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "INPI — Madrid Protocol",
+      "url": "https://www.gov.br/inpi/pt-br/servicos/marcas/marcas-internacionais-protocolo-de-madri",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO — Madrid Member Profile: Brazil",
+      "url": "https://www.wipo.int/madrid/memberprofiles/#/result?countries=9147",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO Madrid Monitor",
+      "url": "https://www3.wipo.int/madrid/monitor/en/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Brazilian Federal Justice",
+      "url": "https://www.cjf.jus.br/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Receita Federal — Customs",
+      "url": "https://www.gov.br/receitafederal/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO Nice Classification",
+      "url": "https://www.wipo.int/classifications/nice/en/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    }
+  ]
+}
