@@ -1,0 +1,605 @@
+{
+  "id": "no",
+  "type": "country",
+  "flag": "🇳🇴",
+  "region": "europe",
+  "names": {
+    "ja": "ノルウェー王国",
+    "en": "Kingdom of Norway",
+    "no": "Kongeriket Norge"
+  },
+  "office": {
+    "ja": "ノルウェー産業財産庁（NIPO／Patentstyret）",
+    "en": "Norwegian Industrial Property Office (NIPO / Patentstyret)",
+    "no": "Patentstyret"
+  },
+  "availableLanguages": [
+    "no"
+  ],
+  "createdAt": "2026-09-13",
+  "updatedAt": "2026-09-13",
+  "status": "review",
+  "facts": {
+    "authority": {
+      "ja": "ノルウェー産業財産庁（NIPO／Patentstyret）。出願、登録、異議および行政上の無効・取消を担当する。",
+      "en": "Norwegian Industrial Property Office (NIPO / Patentstyret), responsible for filing, registration, opposition and administrative invalidity/revocation.",
+      "no": "Patentstyret behandler søknader, registrering, innsigelser og administrativ overprøving om ugyldighet eller sletting."
+    },
+    "protectionScope": {
+      "ja": "商品・役務の個別商標、団体商標、保証・証明商標、周知・名声商標。EU商標はノルウェーを保護しない。",
+      "en": "Individual marks for goods/services, collective and guarantee/certification marks, and well-known/reputed marks. An EUTM does not cover Norway.",
+      "no": "Individuelle vare- og tjenestemerker, kollektivmerker, garanti- og kontrollmerker samt velkjente merker. Et EU-varemerke gjelder ikke i Norge."
+    },
+    "markTypes": {
+      "ja": "文字、図形、結合、立体、位置、模様、色彩、音、動き、マルチメディア、ホログラム等。保護対象を明確かつ正確に表示できることが必要。",
+      "en": "Word, figurative, composite, 3D, position, pattern, color, sound, motion, multimedia and hologram marks, provided the subject matter is represented clearly and precisely.",
+      "no": "Ordmerker, figurmerker, kombinerte merker, form-, posisjons-, mønster-, farge-, lyd-, bevegelses-, multimedie- og hologrammerker, når vernet kan gjengis klart og presist."
+    },
+    "madridAccessionDate": {
+      "ja": "1996年3月29日（マドリッド協定議定書の効力発生日）。",
+      "en": "29 March 1996 (entry into force of the Madrid Protocol for Norway).",
+      "no": "29. mars 1996 (Madridprotokollen trådte i kraft for Norge)."
+    },
+    "niceClassification": {
+      "ja": "採用。Patentstyretの商品・役務分類支援およびニース分類最新版を確認する。",
+      "en": "Adopted; consult the current Nice edition and Patentstyret classification tools.",
+      "no": "Niceklassifikasjonen brukes; kontroller gjeldende utgave og Patentstyrets klassifikasjonsverktøy."
+    },
+    "classHeadingPractice": {
+      "ja": "類見出しは通常の字義範囲に限られ、区分全体を当然には包含しない。明確・具体的に指定する。",
+      "en": "Class headings cover their ordinary literal meaning, not automatically the whole class; specify clearly and precisely.",
+      "no": "Klasseoverskrifter dekker sin vanlige ordlyd, ikke automatisk hele klassen; varer og tjenester må angis klart og presist."
+    },
+    "retailServices": {
+      "ja": "第35類で可。小売・卸売の対象商品を具体的に記載する。",
+      "en": "Available in Class 35; specify the goods concerned by retail/wholesale services.",
+      "no": "Mulig i klasse 35; varene som detalj- eller engroshandelstjenestene gjelder, må spesifiseres."
+    },
+    "multiClassApplication": {
+      "ja": "可。追加区分ごとに料金。分割、一部拒絶・更新の管理を確認する。",
+      "en": "Available, with fees for additional classes; consider division, partial refusal and renewal.",
+      "no": "En søknad kan omfatte flere klasser, med gebyr for tilleggsklasser; håndter deling, delvis avslag og fornyelse."
+    },
+    "applicationForm": {
+      "ja": "Patentstyretへオンラインまたは所定様式で、出願人、標章、商品・役務、区分、優先権、代理人等を原則ノルウェー語で提出する。",
+      "en": "File online or on the prescribed form with Patentstyret, identifying the applicant, mark, goods/services, classes, priority and representative, generally in Norwegian.",
+      "no": "Søknaden leveres elektronisk eller på skjema til Patentstyret med søker, merke, varer/tjenester, klasser, prioritet og fullmektig, som hovedregel på norsk."
+    },
+    "powerOfAttorney": {
+      "ja": "外国出願人はノルウェーまたはEEAの代理人・送達先を要する場合がある。委任状は通常提出不要でも、Patentstyretの請求・権限争い・譲渡では確認する。",
+      "en": "A foreign applicant may need an EEA/Norwegian representative or service address. A power is often not routinely filed but may be requested or needed for authority disputes/assignments.",
+      "no": "Utenlandsk søker kan trenge fullmektig eller adresse i Norge/EØS. Fullmakt leveres ofte ikke rutinemessig, men kan kreves ved spørsmål om kompetanse eller overdragelse."
+    },
+    "priorityDocuments": {
+      "ja": "パリ優先権は最初の出願から6か月以内。出願時に主張し、Patentstyretが求める証明書・翻訳の期限を確認する。",
+      "en": "Paris priority must be claimed within six months at filing; verify deadlines for any certificate or translation requested by Patentstyret.",
+      "no": "Parisprioritet må kreves innen seks måneder ved innlevering; kontroller fristen for prioritetsbevis og eventuell oversettelse som Patentstyret krever."
+    },
+    "homeRegistrationCertificate": {
+      "ja": "通常の直接出願には不要。パリ条約第6条の5等を援用する場合は別途確認する。",
+      "en": "Not normally required for a direct filing; verify separately if Paris Convention Article 6quinquies is invoked.",
+      "no": "Kreves normalt ikke ved direkte søknad; må kontrolleres særskilt hvis Pariskonvensjonen artikkel 6quinquies påberopes."
+    },
+    "useEvidenceAtFiling": {
+      "ja": "通常不要。使用による識別力、周知・名声、先使用等を主張する場合はノルウェーでの証拠が必要。",
+      "en": "Not normally required; Norwegian evidence is needed for acquired distinctiveness, reputation or prior-use claims.",
+      "no": "Kreves normalt ikke; norske bevis er nødvendige ved innarbeidelse, kjent merke eller eldre bruk."
+    },
+    "notarizationCertification": {
+      "ja": "通常の委任状は公証・アポスティーユ不要。譲渡、合併、宣誓・外国公文書等は手続別に確認する。",
+      "en": "An ordinary power generally needs no notarization or apostille; verify assignments, mergers, declarations and foreign official documents separately.",
+      "no": "Vanlig fullmakt krever normalt ikke notarialbekreftelse eller apostille; overdragelse, fusjon og utenlandske dokumenter må kontrolleres særskilt."
+    },
+    "otherDocuments": {
+      "ja": "商標表示、優先権証明、団体・保証商標規則、非伝統的商標ファイル、使用による識別力・名声の証拠等。",
+      "en": "Representation, priority document, collective/guarantee regulations, non-traditional mark files and acquired-distinctiveness/reputation evidence.",
+      "no": "Gjengivelse av merket, prioritetsdokument, bestemmelser for kollektiv- eller garantimerke, filer for utradisjonelle merker og bevis for innarbeidelse eller anseelse."
+    },
+    "absoluteGroundsExamination": {
+      "ja": "あり。Patentstyretが職権審査する。",
+      "en": "Yes; examined ex officio by Patentstyret.",
+      "no": "Ja; Patentstyret undersøker absolutte registreringshindre av eget tiltak."
+    },
+    "distinctivenessGrounds": {
+      "ja": "識別力欠如、普通名称、商品・役務の種類・品質・用途・価値・産地等の記述、慣用表示、単純な色彩・形状等。使用による識別力を立証できる場合がある。",
+      "en": "Non-distinctive, generic, descriptive or customary signs and simple colors/shapes may be refused; acquired distinctiveness may be established.",
+      "no": "Tegn uten særpreg, generiske, beskrivende eller sedvanlige tegn og enkle farger/former kan nektes; innarbeidet særpreg kan dokumenteres."
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "公序良俗、欺瞞性、国旗・紋章・公的記章、機能的・本質的形状、地理的表示、伝統的用語、植物品種名称、悪意等を確認する。",
+      "en": "Check public order/morality, deception, official emblems, functional/inherent shapes, GIs, traditional terms, plant varieties and bad faith.",
+      "no": "Kontroller offentlig orden og moral, villedning, offentlige emblemer, funksjonelle eller vesentlige former, geografiske betegnelser, tradisjonelle uttrykk, plantesorter og ond tro."
+    },
+    "relativeGroundsExamination": {
+      "ja": "あり。先行ノルウェー出願・登録、ノルウェー指定の国際登録、周知商標等との混同のおそれを職権審査する。異議による追加権利も確認する。",
+      "en": "Yes. Patentstyret examines conflicts with earlier Norwegian applications/registrations, international registrations designating Norway and well-known marks ex officio.",
+      "no": "Ja. Patentstyret undersøker av eget tiltak konflikt med eldre norske søknader/registreringer, internasjonale registreringer som gjelder Norge og velkjente merker."
+    },
+    "disclaimer": {
+      "ja": "あり得る。非識別部分について保護範囲を限定する注記を付す場合があるが、標章全体の識別力不足を当然には解消しない。",
+      "en": "A disclaimer may be entered for non-distinctive matter, but it does not automatically cure lack of distinctiveness of the mark as a whole.",
+      "no": "Det kan tas unntaksanmerkning for elementer uten særpreg, men dette avhjelper ikke automatisk manglende særpreg for merket som helhet."
+    },
+    "consent": {
+      "ja": "先行権利者の同意・共存契約により相対的拒絶を解消できる場合がある。対象商品・役務、権利範囲、消費者混同上の留保を確認する。",
+      "en": "Earlier-owner consent/coexistence may overcome a relative-ground objection in some cases; verify covered goods, rights and public confusion safeguards.",
+      "no": "Samtykke eller sameksistensavtale fra eldre rettighetshaver kan i enkelte tilfeller avhjelpe relativt hinder; kontroller varer, rettigheter og forvekslingshensyn."
+    },
+    "acceleratedExamination": {
+      "ja": "特別な緊急事情がある場合に優先・迅速処理を求められることがある。一般的な自動ファストトラックではないため、理由・証拠・目標期間を確認する。",
+      "en": "Priority/expedited handling may be requested for special urgency. It is not a general automatic fast track; verify grounds, evidence and target timing.",
+      "no": "Prioritert behandling kan anmodes ved særlig hast. Det er ikke en generell automatisk hurtigordning; kontroller grunnlag, dokumentasjon og forventet tid."
+    },
+    "thirdPartyObservation": {
+      "ja": "登録公告後3か月以内の正式異議が中心。審査中の第三者意見・情報提供の可否と対象理由はPatentstyret実務を確認する。",
+      "en": "Formal opposition within three months after registration publication is the main route; verify any pre-registration third-party observation practice.",
+      "no": "Formell innsigelse innen tre måneder etter kunngjøring av registreringen er hovedveien; kontroller eventuell tredjepartsmerknad før registrering."
+    },
+    "directExaminationPeriod": {
+      "ja": "通常出願は概ね3～6か月程度で最初の結果または登録に至ることがある。拒絶・補正・滞貨で変動するため最新Patentstyret情報を確認する。",
+      "en": "An ordinary filing may receive a first result or registration in roughly three to six months; objections, amendments and backlog may change this.",
+      "no": "En ordinær søknad kan få første resultat eller registrering på omtrent tre til seks måneder; innsigelser, retting og restanser kan endre tiden."
+    },
+    "madridExaminationPeriod": {
+      "ja": "Patentstyretは国際事務局の通報日から原則18か月以内に暫定拒絶を通報する。最終保護認容は応答・異議により異なる。",
+      "en": "Patentstyret generally must notify provisional refusal within 18 months from WIPO notification; final protection depends on response and opposition.",
+      "no": "Patentstyret må som hovedregel varsle foreløpig nektelse innen 18 måneder etter WIPO-meldingen; endelig vern avhenger av svar og innsigelse."
+    },
+    "colourPriorityIdentity": {
+      "ja": "優先権基礎とノルウェー出願の標章が同一であるかを確認する。白黒・カラー間、配色・配置変更が同一性を損なうかを個別評価する。",
+      "en": "Confirm identity between the priority and Norwegian marks; assess whether black-and-white/color or arrangement changes impair identity.",
+      "no": "Kontroller at prioritetsmerket og den norske søknaden er identiske; vurder om overgang mellom svart-hvitt og farge eller endret plassering bryter identiteten."
+    },
+    "colourRelativeGrounds": {
+      "ja": "色彩は外観の一要素。称呼・観念・構成・識別力ある要素・商品役務を総合比較し、色違いのみで混同が解消するとは限らない。",
+      "en": "Color is one visual factor; compare sound, concept, composition, distinctive elements and goods/services overall. Color change alone may not avoid confusion.",
+      "no": "Farge er ett visuelt moment; lyd, begrep, oppbygning, særpregede elementer og varer/tjenester vurderes samlet. Fargeendring alene fjerner ikke nødvendigvis forveksling."
+    },
+    "colourGenuineUse": {
+      "ja": "登録態様と使用態様の色彩差が識別的性格を変更するかを確認する。主要配色の変更は不使用防御のリスクとなり得る。",
+      "en": "Assess whether color differences between registration and use alter distinctive character; changing a principal color scheme may create non-use risk.",
+      "no": "Vurder om fargeforskjeller mellom registrering og bruk endrer merkets særpreg; endring av dominerende farger kan gi bruksrisiko."
+    },
+    "colourInfringementScope": {
+      "ja": "登録表示、色彩の識別力、標章全体、商品・役務、関連需要者、混同のおそれを総合判断する。",
+      "en": "Assess the registration, color distinctiveness, signs as a whole, goods/services, relevant public and likelihood of confusion.",
+      "no": "Vurder registreringen, fargens særpreg, merkene som helhet, varer/tjenester, relevant omsetningskrets og forvekslingsfare."
+    },
+    "colourFilingStrategy": {
+      "ja": "ブランド色が重要ならカラー版を、変更運用があるなら白黒版・主要配色を別出願する。ノルウェー語での意味・称呼も確認する。",
+      "en": "If brand color matters, file in color; if branding varies, consider separate black-and-white/key-color filings and check Norwegian meaning/pronunciation.",
+      "no": "Er merkefargen viktig, søk i farge; ved variabel bruk vurder egne svart-hvitt- og hovedfargeversjoner og kontroller norsk betydning og uttale."
+    },
+    "refusalResponseRoute": {
+      "ja": "Patentstyretの通知に意見書、補正、指定限定、同意書、使用証拠等で応答する。最終拒絶には産業財産権不服審判委員会（KFIR）へ不服申立て。",
+      "en": "Respond to Patentstyret with arguments, amendment, limitation, consent or use evidence. Appeal final refusal to the Norwegian Board of Appeal for Industrial Property Rights (KFIR).",
+      "no": "Svar Patentstyret med argumenter, endring, begrensning, samtykke eller bruksbevis. Endelig avslag påklages til Klagenemnda for industrielle rettigheter (KFIR)."
+    },
+    "responsePeriod": {
+      "ja": "通知記載期限が支配する。通常3か月程度の応答期間が用いられることがあるため、通知類型・国際登録ごとに直ちに確認する。",
+      "en": "The notice controls. A period around three months is common; verify immediately by notice type and Madrid status.",
+      "no": "Fristen i brevet gjelder. Omtrent tre måneder er vanlig; kontroller straks etter type varsel og om saken er internasjonal."
+    },
+    "extensionAvailable": {
+      "ja": "指定期間は期限前申請により延長可能な場合がある。法定の異議・KFIR不服期限は別途厳格管理する。",
+      "en": "Designated periods may be extended on a timely request; statutory opposition and KFIR appeal periods must be docketed separately.",
+      "no": "Fastsatte svarfrister kan i noen tilfeller forlenges ved rettidig begjæring; lovbestemte innsigelses- og KFIR-frister må følges særskilt."
+    },
+    "extensionLength": {
+      "ja": "通常1～2か月単位となる場合があるが、回数・最大期間・自動性を手続ごとに確認する。",
+      "en": "May be granted in one- or two-month increments; verify number, maximum and whether automatic for each procedure.",
+      "no": "Kan gis med én eller to måneder; kontroller antall, maksimal tid og om forlengelse er automatisk i den enkelte prosedyren."
+    },
+    "extensionRequirements": {
+      "ja": "期限前の申請、理由、手数料の有無を確認する。正当な不遵守には期間回復も個別検討する。",
+      "en": "Verify pre-expiry request, reasons and any fee; consider restoration for excusable failure separately.",
+      "no": "Kontroller begjæring før frist, begrunnelse og eventuelt gebyr; vurder fristgjenoppretting ved unnskyldelig fristoversittelse."
+    },
+    "appealRoute": {
+      "ja": "Patentstyretの最終決定をKFIRへ不服申立て。KFIR決定はオスロ地方裁判所等で司法審査を求め、その後控訴可能。対象決定と管轄を確認する。",
+      "en": "Appeal final Patentstyret decisions to KFIR. Seek judicial review of KFIR decisions before the competent court, generally Oslo District Court, with further appeal as applicable.",
+      "no": "Endelige vedtak fra Patentstyret påklages til KFIR. KFIRs vedtak kan prøves for kompetent domstol, normalt Oslo tingrett, med videre anke etter reglene."
+    },
+    "refusalAppealPeriod": {
+      "ja": "決定通知から原則2か月以内にKFIRへ不服申立て。司法審査期限も通常2か月が重要。平均審理期間は最新KFIR統計を確認する。",
+      "en": "A KFIR appeal is generally due within two months from notification; a two-month judicial-review period is also commonly critical. Check current KFIR duration.",
+      "no": "Klage til KFIR må som hovedregel leveres innen to måneder etter melding; også søksmålsfristen er ofte to måneder. Kontroller aktuell behandlingstid."
+    },
+    "publicDatabase": {
+      "ja": "Patentstyret商標検索",
+      "en": "Patentstyret Trademark Search",
+      "no": "Patentstyrets varemerkeregister",
+      "url": "https://search.patentstyret.no/"
+    },
+    "publicationStage": {
+      "ja": "絶対的・相対的理由の審査を通過すると登録され、公報に公告される。公告後3か月の異議期間に入るため登録後異議である点に注意する。",
+      "en": "After absolute and relative examination, the mark is registered and published, triggering a three-month post-registration opposition period.",
+      "no": "Etter undersøkelse av absolutte og relative hindre registreres og kunngjøres merket; deretter løper en tre måneders innsigelsesfrist."
+    },
+    "oppositionPeriod": {
+      "ja": "登録公告日から3か月以内。",
+      "en": "Within three months from publication of registration.",
+      "no": "Innen tre måneder fra kunngjøringen av registreringen."
+    },
+    "oppositionExtension": {
+      "ja": "法定3か月の異議申立期間は原則延長不可。異議後の答弁・証拠提出期限は別途確認する。",
+      "en": "The statutory three-month opposition filing period is generally non-extendible; verify later response/evidence periods.",
+      "no": "Den lovbestemte innsigelsesfristen på tre måneder kan normalt ikke forlenges; senere svar- og bevisfrister må kontrolleres."
+    },
+    "averagePendency": {
+      "ja": "異議なしで概ね3～6か月。拒絶・補正・異議・KFIR不服があると長期化する。",
+      "en": "Roughly three to six months if unopposed; objections, amendments, opposition and KFIR appeal extend the case.",
+      "no": "Omtrent tre til seks måneder uten innsigelse; innvendinger, endringer, innsigelse og KFIR-klage forlenger saken."
+    },
+    "term": {
+      "ja": "原則、出願日から10年。2023年改正前の登録は旧起算日の経過措置を登録ごとに確認する。",
+      "en": "Generally 10 years from the filing date. For pre-2023 registrations, check transitional rules and the recorded expiry individually.",
+      "no": "Som hovedregel 10 år fra søknadsdagen. For registreringer fra før 2023 må overgangsreglene og registrert utløpsdato kontrolleres."
+    },
+    "termStart": {
+      "ja": "出願日から（2023年改正の経過措置に注意）。",
+      "en": "From the filing date, subject to the 2023 transitional rules.",
+      "no": "Fra søknadsdagen, med forbehold for overgangsreglene fra 2023."
+    },
+    "renewalWindow": {
+      "ja": "満了前6か月以内に更新申請可能。",
+      "en": "Renewal may be filed within six months before expiry.",
+      "no": "Fornyelse kan begjæres innen seks måneder før utløpsdatoen."
+    },
+    "gracePeriod": {
+      "ja": "あり。満了後6か月以内は追加料金を伴う遅延更新が可能。",
+      "en": "Yes; late renewal is available within six months after expiry with a surcharge.",
+      "no": "Ja; fornyelse kan skje innen seks måneder etter utløp mot tilleggsgebyr."
+    },
+    "renewalEvidence": {
+      "ja": "更新時の使用証拠は通常不要。ただし5年不使用取消・異議での使用証明に備え、ノルウェーでの真正使用証拠を保存する。",
+      "en": "No use evidence is normally required at renewal; preserve genuine Norwegian use evidence for non-use cancellation and proof-of-use defenses.",
+      "no": "Bruksbevis kreves normalt ikke ved fornyelse; oppbevar bevis for reell bruk i Norge til sletting og bruksinnsigelser."
+    },
+    "nonUseCancellation": {
+      "ja": "あり。継続5年の不使用についてPatentstyretへの行政上の無効・取消請求または裁判上の請求が可能。",
+      "en": "Available for five continuous years of non-use through administrative review before Patentstyret or court proceedings.",
+      "no": "Sletting etter fem års manglende bruk kan kreves ved administrativ overprøving hos Patentstyret eller for domstolene."
+    },
+    "nonUsePeriod": {
+      "ja": "登録手続終了後、正当理由なく継続5年間ノルウェーで真正使用されていない場合。使用開始後の5年中断も対象。",
+      "en": "Five continuous years without genuine use in Norway after completion of registration, absent proper reasons; a five-year interruption also counts.",
+      "no": "Fem sammenhengende år uten reell bruk i Norge etter avsluttet registreringsprosess, uten rimelig grunn; også fem års avbrudd omfattes."
+    },
+    "nonUseDefenses": {
+      "ja": "権利者が対象期間・商品役務についてノルウェーでの真正使用または正当理由を立証する。EEA・EU域内の他国使用だけでは通常足りない。",
+      "en": "The owner proves genuine use in Norway or proper reasons for the relevant period/goods. Use only elsewhere in the EEA/EU is normally insufficient.",
+      "no": "Innehaveren beviser reell bruk i Norge eller rimelig grunn for perioden og varene/tjenestene. Bruk bare ellers i EØS/EU er normalt ikke nok."
+    },
+    "otherCancellation": {
+      "ja": "普通名称化、誤認を生じさせる使用、団体・保証商標規則違反、更新欠缺等による取消・失効があり得る。",
+      "en": "Revocation/lapse may result from genericide, misleading use, collective/guarantee failures or non-renewal.",
+      "no": "Sletting kan følge av degenerasjon, villedende bruk, brudd på regler for kollektiv-/garantimerke eller manglende fornyelse."
+    },
+    "invalidation": {
+      "ja": "あり。絶対的・相対的理由、悪意、先行権利等に基づきPatentstyretの行政手続または裁判所で請求可能。黙認等の制限を確認する。",
+      "en": "Available before Patentstyret or courts on absolute/relative grounds, bad faith and earlier rights; check acquiescence and other limits.",
+      "no": "Ugyldighet kan kreves hos Patentstyret eller domstolene på absolutte/relative grunner, ond tro og eldre rettigheter; kontroller passivitet og andre grenser."
+    },
+    "civilInjunction": {
+      "ja": "地方裁判所で暫定的・終局的差止めを請求可能。管轄、緊急性、権利有効性、比例性、担保を確認する。",
+      "en": "Interim and final injunctions are available before district courts; assess venue, urgency, validity, proportionality and security.",
+      "no": "Midlertidig forføyning og endelig forbud kan kreves for tingretten; vurder verneting, hast, gyldighet, forholdsmessighet og sikkerhet."
+    },
+    "civilDamages": {
+      "ja": "実損・逸失利益、侵害者利益、合理的ライセンス料、追加補償等を検討する。故意・過失、善意侵害、費用回収を確認する。",
+      "en": "Consider actual loss/lost profits, infringer profits, reasonable royalty and additional compensation; verify fault, innocent infringement and costs.",
+      "no": "Vurder økonomisk tap, tapt fortjeneste, vinningsavståelse, rimelig lisens og tilleggserstatning; kontroller skyld, god tro og sakskostnader."
+    },
+    "civilEvidencePreservation": {
+      "ja": "証拠保全、侵害品・帳簿の提出、現場確認、専門家意見、テスト購入、オンライン証拠保存等を検討する。",
+      "en": "Consider preservation, production of goods/accounts, inspection, expert evidence, test purchases and online evidence.",
+      "no": "Vurder bevissikring, fremleggelse av varer/regnskap, inspeksjon, sakkyndige, testkjøp og sikring av nettbevis."
+    },
+    "civilOther": {
+      "ja": "侵害品・材料・器具の回収・廃棄、判決公表、情報提供等があり得る。",
+      "en": "Recall/destruction of goods, materials and tools, publication of judgment and information orders may be available.",
+      "no": "Tilbakekalling eller ødeleggelse av varer, materialer og verktøy, publisering av dom og opplysningspålegg kan være mulig."
+    },
+    "borderMeasures": {
+      "ja": "ノルウェー税関へ権利情報を提出し、輸出入貨物の留置を求める。EU税関AFAはノルウェーを当然には含まないため国内手続を別途行う。",
+      "en": "Seek detention through Norwegian Customs. An EU customs AFA does not automatically cover Norway, so use the separate Norwegian procedure.",
+      "no": "Be Tolletaten holde tilbake varer. En EU-søknad om tolltiltak omfatter ikke automatisk Norge; bruk den norske ordningen særskilt."
+    },
+    "administrativeRaid": {
+      "ja": "税関、警察、検察等による捜索・押収を刑事告訴・裁判所措置と組み合わせる。Patentstyretは一般的な市場摘発主体ではない。",
+      "en": "Combine customs, police and prosecutor action with criminal complaint and court relief. Patentstyret is not the general market-raid authority.",
+      "no": "Kombiner toll-, politi- og påtalemyndighetstiltak med anmeldelse og domstolstiltak. Patentstyret er ikke generell kontrollmyndighet i markedet."
+    },
+    "administrativeOther": {
+      "ja": "オンライン削除、.noドメイン紛争、消費者・広告・製品安全、不正競争上の措置等を併用する。",
+      "en": "Use platform takedowns, .no domain disputes and consumer, advertising, product-safety or unfair-competition measures where appropriate.",
+      "no": "Bruk fjerning på plattformer, .no-domenetvister og tiltak etter forbruker-, markedsførings-, produktsikkerhets- eller konkurranseregler."
+    },
+    "criminalAvailability": {
+      "ja": "あり。故意の商標権侵害・模倣品流通等は刑事責任の対象となり得る。実務上の告訴・起訴方針を確認する。",
+      "en": "Available for intentional infringement and counterfeit trade; verify complaint and prosecution practice.",
+      "no": "Forsettlig varemerkeinngrep og handel med piratkopier kan straffes; kontroller anmeldelses- og påtalepraksis."
+    },
+    "criminalFine": {
+      "ja": "あり。自然人・法人、犯罪類型、最新法定額により異なる。",
+      "en": "Available; amounts vary by individual/entity, offense and current statutory levels.",
+      "no": "Bøter kan ilegges; nivået varierer med person, foretak, overtredelse og gjeldende lov."
+    },
+    "criminalImprisonment": {
+      "ja": "あり得る。重大・加重侵害について故意、規模、組織性等を踏まえ最新の刑期を確認する。",
+      "en": "Potentially available for serious/aggravated infringement; verify current terms based on intent, scale and organization.",
+      "no": "Fengsel kan brukes ved alvorlig eller grovt inngrep; kontroller strafferammen ut fra forsett, omfang og organisering."
+    },
+    "criminalOther": {
+      "ja": "侵害品・包装・製造器具の押収・没収・廃棄、犯罪収益措置等があり得る。",
+      "en": "Seizure, forfeiture and destruction of goods, packaging and equipment and proceeds measures may apply.",
+      "no": "Beslag, inndragning og ødeleggelse av varer, emballasje og utstyr samt tiltak mot utbytte kan brukes."
+    }
+  },
+  "notablePoints": [
+    {
+      "title": {
+        "ja": "EU商標はノルウェーを保護しない",
+        "en": "An EUTM does not cover Norway",
+        "no": "EU-varemerket gjelder ikke i Norge"
+      },
+      "detail": {
+        "ja": "ノルウェーはEEA加盟国だがEU加盟国ではない。EUIPO登録とは別にノルウェー直接出願またはマドプロ指定が必要。",
+        "en": "Norway is in the EEA but not the EU; an EUIPO registration requires a separate Norwegian filing or Madrid designation.",
+        "no": "Norge er med i EØS, men ikke EU. EUIPO-registrering krever egen norsk søknad eller Madrid-utpekning."
+      }
+    },
+    {
+      "title": {
+        "ja": "先行権利を職権審査",
+        "en": "Earlier rights examined ex officio",
+        "no": "Eldre rettigheter undersøkes av eget tiltak"
+      },
+      "detail": {
+        "ja": "EUIPO・スイス等と異なり、Patentstyretが先行ノルウェー商標・国際登録との混同を審査する。それでも商号・未登録権利を含む事前調査は必要。",
+        "en": "Unlike EUIPO or Switzerland, Patentstyret examines earlier-mark conflicts, although clearance should still cover trade names and unregistered rights.",
+        "no": "I motsetning til EUIPO og Sveits undersøker Patentstyret eldre merker, men søk bør også dekke foretaksnavn og uregistrerte rettigheter."
+      }
+    },
+    {
+      "title": {
+        "ja": "2023年商標制度改正",
+        "en": "2023 trademark-law reform",
+        "no": "Varemerkelovendringer i 2023"
+      },
+      "detail": {
+        "ja": "EU商標指令に沿う改正により、図形表示要件、存続期間の起算、手続・権利範囲等が変更された。旧登録の経過措置を確認する。",
+        "en": "Reforms aligned with the EU Trademark Directive changed representation, term calculation and procedures; check transitional treatment of older rights.",
+        "no": "Endringer tilpasset EUs varemerkedirektiv berørte gjengivelse, beregning av vernetid og prosedyrer; overgangsregler for eldre rettigheter må sjekkes."
+      }
+    },
+    {
+      "title": {
+        "ja": "登録後3か月の異議",
+        "en": "Three-month post-registration opposition",
+        "no": "Tre måneders innsigelse etter registrering"
+      },
+      "detail": {
+        "ja": "審査後に登録・公告され、その後に異議。登録証取得時点でも異議期間終了までは先行権利リスクが残る。",
+        "en": "Registration/publication precedes opposition; earlier-right risk remains until the three-month period expires.",
+        "no": "Registrering og kunngjøring skjer før innsigelse; risikoen fra eldre rettigheter består til tremånedersfristen er ute."
+      }
+    },
+    {
+      "title": {
+        "ja": "ノルウェー国内の5年使用",
+        "en": "Five-year use requirement in Norway",
+        "no": "Femårs brukskrav i Norge"
+      },
+      "detail": {
+        "ja": "EU・EEA他国の使用だけでは通常ノルウェー商標を維持できない。ノルウェーの販売、広告、輸入、オンライン取引証拠を保存する。",
+        "en": "Use elsewhere in the EU/EEA is normally insufficient; retain Norwegian sales, advertising, import and online-trade evidence.",
+        "no": "Bruk ellers i EU/EØS er normalt ikke nok; oppbevar norske salgs-, reklame-, import- og netthandelsbevis."
+      }
+    }
+  ],
+  "statistics": {
+    "coverage": "2016–2025",
+    "status": "pending",
+    "series": []
+  },
+  "news": [
+    {
+      "id": "trademark-reform-2023",
+      "type": "law",
+      "date": "2023-03-01",
+      "title": {
+        "ja": "改正商標法・規則が施行",
+        "en": "Trademark Act and regulation amendments took effect",
+        "no": "Endringer i varemerkeloven og forskriften trådte i kraft"
+      },
+      "summary": {
+        "ja": "EU商標指令に対応する改正により、非伝統的商標の表示、存続期間の起算、手続等が更新された。旧登録との経過措置を確認する。",
+        "en": "EU-directive-aligned reforms updated representation of non-traditional marks, term calculation and procedures; transitional rules matter for older registrations.",
+        "no": "Endringer tilpasset EU-direktivet oppdaterte gjengivelse av utradisjonelle merker, beregning av vernetid og prosedyrer; overgangsregler er viktige."
+      },
+      "sourceUrl": "https://www.patentstyret.no/en/trademark/"
+    },
+    {
+      "id": "digital-register-current",
+      "type": "practice",
+      "date": "2025-01-01",
+      "title": {
+        "ja": "Patentstyret電子手続・登録簿の現行運用",
+        "en": "Current Patentstyret digital filing and register practice",
+        "no": "Gjeldende digitale tjenester og registerpraksis"
+      },
+      "summary": {
+        "ja": "出願、通信、異議、行政上の取消・無効、更新は電子サービスと現行料金表に従う。提出時の方式・期限を確認する。",
+        "en": "Filing, correspondence, opposition, administrative review and renewal follow current e-services and fees; verify format and deadlines at filing.",
+        "no": "Søknad, korrespondanse, innsigelse, administrativ overprøving og fornyelse følger gjeldende e-tjenester og gebyrer; kontroller format og frister."
+      },
+      "sourceUrl": "https://www.patentstyret.no/"
+    },
+    {
+      "id": "nice-13-2026",
+      "type": "practice",
+      "date": "2026-01-01",
+      "title": {
+        "ja": "ニース国際分類第13版への対応",
+        "en": "Implementation of the 13th Nice edition",
+        "no": "Bruk av 13. utgave av Niceklassifikasjonen"
+      },
+      "summary": {
+        "ja": "2026年出願では第13版とPatentstyretの商品・役務分類支援を併せて確認する。",
+        "en": "For 2026 filings, consult the 13th edition together with Patentstyret classification tools.",
+        "no": "For søknader i 2026 må 13. utgave brukes sammen med Patentstyrets klassifikasjonsverktøy."
+      },
+      "sourceUrl": "https://www.wipo.int/classifications/nice/en/"
+    }
+  ],
+  "faqs": [
+    {
+      "tag": "Territory",
+      "question": {
+        "ja": "EU商標があってもノルウェーへ別出願・マドプロ指定が必要ですか。",
+        "en": "Is a separate Norwegian filing or Madrid designation needed despite an EUTM?",
+        "no": "Trengs egen norsk søknad eller Madrid-utpekning selv om vi har EU-varemerke?"
+      },
+      "followUp": {
+        "ja": "直接出願とマドプロ指定の費用・審査・代理人対応の差は。",
+        "en": "How do direct filing and Madrid differ in cost, examination and representation?",
+        "no": "Hvordan skiller direkte søknad og Madrid seg i kostnad, prøving og fullmektigbehov?"
+      }
+    },
+    {
+      "tag": "Examination",
+      "question": {
+        "ja": "Patentstyretが職権で調査する先行権利の範囲は。",
+        "en": "Which earlier rights does Patentstyret examine ex officio?",
+        "no": "Hvilke eldre rettigheter undersøker Patentstyret av eget tiltak?"
+      },
+      "followUp": {
+        "ja": "商号、未登録商標、著作権、ドメインも別途調査すべきですか。",
+        "en": "Should trade names, unregistered marks, copyright and domains be searched separately?",
+        "no": "Bør foretaksnavn, uregistrerte merker, opphavsrett og domener undersøkes separat?"
+      }
+    },
+    {
+      "tag": "Reform",
+      "question": {
+        "ja": "2023年改正前後で存続期間・更新日・非伝統的商標の取扱いはどう変わりますか。",
+        "en": "How do term, renewal date and non-traditional mark treatment differ before and after the 2023 reform?",
+        "no": "Hvordan varierer vernetid, fornyelsesdato og utradisjonelle merker før og etter 2023-endringene?"
+      },
+      "followUp": {
+        "ja": "既存ポートフォリオに適用される経過措置は。",
+        "en": "Which transitional rules apply to the existing portfolio?",
+        "no": "Hvilke overgangsregler gjelder for den eksisterende porteføljen?"
+      }
+    },
+    {
+      "tag": "Appeal",
+      "question": {
+        "ja": "拒絶・異議決定へのKFIR不服申立ての期限、証拠、平均審理期間は。",
+        "en": "What deadline, evidence scope and average duration apply to a KFIR appeal?",
+        "no": "Hvilken frist, bevisadgang og behandlingstid gjelder ved klage til KFIR?"
+      },
+      "followUp": {
+        "ja": "KFIR決定をオスロ地方裁判所で争う期間・費用は。",
+        "en": "What time and cost apply to judicial review of KFIR before Oslo District Court?",
+        "no": "Hva er tid og kostnad ved prøving av KFIRs vedtak i Oslo tingrett?"
+      }
+    },
+    {
+      "tag": "Non-use",
+      "question": {
+        "ja": "5年不使用取消に対抗するノルウェー使用証拠として何が必要ですか。",
+        "en": "What Norwegian use evidence defends a five-year non-use action?",
+        "no": "Hvilke norske bruksbevis trengs mot sletting etter fem års manglende bruk?"
+      },
+      "followUp": {
+        "ja": "輸出、オンライン販売、ライセンシー使用、色彩・ロゴ変更は認められますか。",
+        "en": "Do exports, online sales, licensee use and color/logo variations count?",
+        "no": "Teller eksport, nettsalg, lisensiert bruk og endringer i farge eller logo?"
+      }
+    },
+    {
+      "tag": "Enforcement",
+      "question": {
+        "ja": "地方裁判所の仮処分、ノルウェー税関、刑事告訴をどう組み合わせますか。",
+        "en": "How should district-court injunctions, Norwegian Customs and criminal complaint be combined?",
+        "no": "Hvordan kombineres midlertidig forføyning, Tolletaten og straffanmeldelse?"
+      },
+      "followUp": {
+        "ja": "証拠保全、担保、管轄、概算費用・期間は。",
+        "en": "What evidence preservation, security, venue, estimated cost and duration apply?",
+        "no": "Hva gjelder for bevissikring, sikkerhet, verneting, anslått kostnad og tid?"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "Patentstyret — Trademarks",
+      "url": "https://www.patentstyret.no/en/trademark/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Patentstyret — Search Service",
+      "url": "https://search.patentstyret.no/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Lovdata — Trademarks Act",
+      "url": "https://lovdata.no/dokument/NL/lov/2010-03-26-8",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Lovdata — Trademark Regulations",
+      "url": "https://lovdata.no/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "KFIR — Norwegian Board of Appeal",
+      "url": "https://www.kfir.no/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Norwegian Courts",
+      "url": "https://www.domstol.no/en/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Norwegian Customs — IPR",
+      "url": "https://www.toll.no/en/corporate/import/intellectual-property-rights-ipr/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO — Madrid Member Profile: Norway",
+      "url": "https://www.wipo.int/madrid/memberprofiles/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO Madrid Monitor",
+      "url": "https://www3.wipo.int/madrid/monitor/en/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "TMview",
+      "url": "https://www.tmdn.org/tmview/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO Nice Classification",
+      "url": "https://www.wipo.int/classifications/nice/en/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    }
+  ]
+}
