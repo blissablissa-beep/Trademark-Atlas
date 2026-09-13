@@ -24,6 +24,10 @@
     "path": "./data/jurisdictions/co.json"
   },
   {
+    "id": "br",
+    "path": "./data/jurisdictions/br.json"
+  },
+  {
     "id": "au",
     "path": "./data/jurisdictions/au.json"
   },
