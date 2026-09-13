@@ -1,0 +1,599 @@
+{
+  "id": "tw",
+  "type": "country",
+  "flag": "🇹🇼",
+  "region": "asia",
+  "names": {
+    "ja": "台湾",
+    "en": "Taiwan",
+    "zh": "臺灣"
+  },
+  "office": {
+    "ja": "経済部智慧財産局（TIPO）",
+    "en": "Taiwan Intellectual Property Office, Ministry of Economic Affairs (TIPO)",
+    "zh": "經濟部智慧財產局（TIPO）"
+  },
+  "availableLanguages": [
+    "zh"
+  ],
+  "createdAt": "2026-09-13",
+  "updatedAt": "2026-09-13",
+  "status": "review",
+  "facts": {
+    "authority": {
+      "ja": "経済部智慧財産局（TIPO）",
+      "en": "Taiwan Intellectual Property Office, Ministry of Economic Affairs (TIPO)",
+      "zh": "經濟部智慧財產局（TIPO）"
+    },
+    "protectionScope": {
+      "ja": "商品・役務の商標、団体標章、団体商標、証明標章、著名商標。中国本土・香港・マカオの登録とは相互に独立する。",
+      "en": "Marks for goods/services, collective emblems, collective marks, certification marks and well-known marks. Rights are independent from Mainland China, Hong Kong and Macao.",
+      "zh": "商品及服務商標、團體標章、團體商標、證明標章及著名商標；與中國內地、香港及澳門的註冊相互獨立。"
+    },
+    "markTypes": {
+      "ja": "文字、図形、記号、色彩、立体形状、動き、ホログラム、音およびこれらの組合せ等。匂い・模様・位置等も識別標識として要件を満たせば検討可能。",
+      "en": "Words, devices, symbols, colors, 3D shapes, motion, holograms, sounds and combinations; scents, patterns and position signs may also be considered if statutory requirements are met.",
+      "zh": "文字、圖形、記號、顏色、立體形狀、動態、全像圖、聲音及其組合等；氣味、圖案、位置等如符合法定要件亦可考慮。"
+    },
+    "madridAccessionDate": {
+      "ja": "未加盟。マドプロによる台湾指定は不可。台湾へ直接出願する。",
+      "en": "Not a member; Taiwan cannot be designated through Madrid and requires a direct filing.",
+      "zh": "非會員；不可透過馬德里體系指定臺灣，須直接提出申請。"
+    },
+    "niceClassification": {
+      "ja": "採用。ただしTIPO独自の類似群コード・商品役務名称検索を審査と先行調査に使用する。",
+      "en": "Adopted, but TIPO’s own similarity-group codes and goods/services name search are used for examination and clearance.",
+      "zh": "採用尼斯分類，但審查及檢索另使用TIPO的類似組群代碼及商品服務名稱查詢。"
+    },
+    "classHeadingPractice": {
+      "ja": "類見出しだけで区分全体を包含しない。TIPOの電子申請参考名称・類似群コードに沿って具体的に指定する。",
+      "en": "Class headings do not cover the whole class; specify items using TIPO’s accepted e-filing reference terms and similarity-group codes.",
+      "zh": "類別標題不涵蓋整類；應依TIPO電子申請參考名稱及類似組群代碼具體指定。"
+    },
+    "retailServices": {
+      "ja": "第35類で可。小売対象商品および提供形態を具体化し、TIPOの類似群コードを確認する。",
+      "en": "Available in Class 35; specify retail goods and mode and check TIPO similarity-group codes.",
+      "zh": "可在第35類申請；應具體列明零售商品及提供方式，並確認TIPO類似組群代碼。"
+    },
+    "multiClassApplication": {
+      "ja": "可。追加区分ごとに料金が生じる。分割・補正・更新時の管理を確認する。",
+      "en": "Available, with fees for additional classes; verify division, amendment and renewal management.",
+      "zh": "可以多類別申請，新增類別須繳費；應確認分割、修正及續展管理。"
+    },
+    "applicationForm": {
+      "ja": "TIPOへ電子または所定様式で、申請人、商標、商品・役務、区分、優先権、代理人等を繁体字中国語で提出する。",
+      "en": "File electronically or on the prescribed form with TIPO, providing applicant, mark, goods/services, classes, priority and representative in Traditional Chinese.",
+      "zh": "以電子方式或指定表格向TIPO提交繁體中文的申請人、商標、商品服務、類別、優先權及代理人資料。"
+    },
+    "powerOfAttorney": {
+      "ja": "台湾に住所・営業所を有しない外国出願人は、台湾内に住所を有する商標代理人を選任し、委任状を提出する。",
+      "en": "A foreign applicant without domicile or business establishment in Taiwan must appoint a trademark agent domiciled in Taiwan and file a power.",
+      "zh": "在臺灣無住所或營業所之外國申請人，應委任在臺灣有住所的商標代理人並提交委任書。"
+    },
+    "priorityDocuments": {
+      "ja": "パリ優先権相当の主張は最初の出願から6か月以内。出願時に主張し、証明書は原則として台湾出願日の翌日から4か月以内に提出する。",
+      "en": "A Paris-type priority claim must be made within six months and declared at filing; the priority document is generally due within four months from the day after the Taiwan filing date.",
+      "zh": "相當於巴黎優先權的主張須在首次申請後六個月內提出並於申請時聲明；證明文件原則上須自臺灣申請日翌日起四個月內提交。"
+    },
+    "homeRegistrationCertificate": {
+      "ja": "通常の直接出願には不要。相互承認・優先権資格は出願人の国・地域ごとに確認する。",
+      "en": "Not normally required for a direct filing; verify reciprocity and priority eligibility for the applicant’s country/territory.",
+      "zh": "一般直接申請毋須本國註冊證明；互惠及優先權資格應按申請人國家或地區確認。"
+    },
+    "useEvidenceAtFiling": {
+      "ja": "通常不要。使用による識別力、著名性、誠実な先使用等を主張する場合は証拠が必要。",
+      "en": "Not normally required; evidence is needed for acquired distinctiveness, well-known status or bona fide prior use.",
+      "zh": "通常毋須提交；如主張使用取得識別性、著名或善意先使用，則須提出證據。"
+    },
+    "notarizationCertification": {
+      "ja": "通常の委任状は公証・領事認証不要。譲渡、法人変更、宣誓・外国公文書は手続別に確認する。",
+      "en": "An ordinary power generally requires no notarization/legalization; check assignment, corporate changes, affidavits and foreign official documents separately.",
+      "zh": "普通委任書一般毋須公證認證；轉讓、公司變更、宣誓及外國公文書應按程序另行確認。"
+    },
+    "otherDocuments": {
+      "ja": "商標見本・説明、申請人資格資料、委任状、優先権証明・繁体字訳、非伝統的商標の電子ファイル、使用・著名性証拠等。",
+      "en": "Representation/description, applicant-status documents, power, priority document/Traditional Chinese translation, non-traditional mark files and use or reputation evidence.",
+      "zh": "商標圖樣及說明、申請人資格文件、委任書、優先權證明及繁體中文譯本、非傳統商標電子檔及使用或知名度證據。"
+    },
+    "absoluteGroundsExamination": {
+      "ja": "あり。TIPOが職権審査する。",
+      "en": "Yes; examined ex officio by TIPO.",
+      "zh": "有。TIPO依職權審查。"
+    },
+    "distinctivenessGrounds": {
+      "ja": "識別力欠如、普通名称、品質・用途・原料・産地等の記述、慣用標識、単純形状・色彩等は拒絶され得る。使用による識別力を証明可能。",
+      "en": "Non-distinctive, generic, descriptive or customary signs and simple shapes/colors may be refused; acquired distinctiveness may be proven.",
+      "zh": "缺乏識別性、通用名稱、品質用途原料產地等描述、慣用標誌及簡單形狀顏色可被拒絕；可證明經使用取得識別性。"
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "公序良俗、欺瞞性、公的機関・国旗・紋章、品質・産地の誤認、専ら機能的・本質的形状、ワイン・酒類の地理的表示等を確認する。",
+      "en": "Check public order/morality, deception, official bodies/flags/emblems, misleading quality or origin, exclusively functional/inherent shapes and GIs for wines/spirits.",
+      "zh": "應審查公共秩序或善良風俗、欺騙性、公務機關或旗幟徽章、品質產地誤導、純功能性或商品本質形狀，以及葡萄酒烈酒地理標示。"
+    },
+    "relativeGroundsExamination": {
+      "ja": "あり。先行台湾出願・登録、著名商標、代理人・代表者による冒認、他人の氏名・肖像・商号・著作権等を職権審査する。",
+      "en": "Yes; TIPO examines earlier Taiwan applications/registrations, well-known marks, agent/representative filings, names/portraits, trade names and copyright ex officio.",
+      "zh": "有。TIPO依職權審查在先臺灣申請或註冊、著名商標、代理人代表人搶註、他人姓名肖像、商號及著作權等。"
+    },
+    "disclaimer": {
+      "ja": "あり。非識別部分が商標権範囲に疑義を生じさせる場合、権利不要求声明が必要となり得る。",
+      "en": "Available; a disclaimer may be required where a non-distinctive element creates doubt about the scope of rights.",
+      "zh": "有。商標中不具識別性部分如可能使權利範圍產生疑義，可能須聲明不專用。"
+    },
+    "consent": {
+      "ja": "先行権利者の同意により登録可能となる場合があるが、同一商標・同一商品役務等の例外や公益判断を確認する。",
+      "en": "Earlier-owner consent may permit registration, subject to exceptions such as identical marks for identical goods/services and public-interest considerations.",
+      "zh": "在先權利人同意可能使商標獲准註冊，但須確認相同商標指定相同商品服務等例外及公共利益考量。"
+    },
+    "acceleratedExamination": {
+      "ja": "あり。2024年5月1日開始。権利取得の緊急性を示す事実・証拠と追加料金が必要で、要件を満たす案件に限定される。",
+      "en": "Available from 1 May 2024. It requires facts/evidence showing an urgent need to obtain rights and an additional fee, and is limited to qualifying cases.",
+      "zh": "有，自2024年5月1日起實施。須提出急需取得權利的事實及證據並繳納額外費用，僅限符合要件案件。"
+    },
+    "thirdPartyObservation": {
+      "ja": "審査中の出願について第三者意見書を提出可能。登録公告後の正式異議申立てとは区別する。",
+      "en": "Third-party observations may be filed during examination; distinguish them from formal opposition after registration publication.",
+      "zh": "審查中申請可提交第三人意見書；應與註冊公告後正式異議區分。"
+    },
+    "directExaminationPeriod": {
+      "ja": "通常審査の初回結果は概ね6～8か月程度が目安となることがある。早期審査は要件充足後の短縮目標を確認し、拒絶・補正を含む総期間と区別する。",
+      "en": "A first result in ordinary examination may take roughly six to eight months. For accelerated cases, verify the current target after acceptance and distinguish it from total pendency with objections.",
+      "zh": "一般審查首次結果可約需六至八個月；快速審查應確認受理後現行目標，並與含核駁或補正的總期間區分。"
+    },
+    "madridExaminationPeriod": {
+      "ja": "適用なし。台湾はマドリッド協定議定書の締約地域ではない。",
+      "en": "Not applicable because Taiwan is not a Madrid Protocol contracting territory.",
+      "zh": "不適用，因臺灣並非《馬德里議定書》締約地區。"
+    },
+    "colourPriorityIdentity": {
+      "ja": "優先権基礎と台湾出願で色彩の有無・配置を整合させる。色彩変更が同一性を損なうかを個別確認する。",
+      "en": "Align the presence and arrangement of color with the priority filing; assess individually whether color changes impair identity.",
+      "zh": "應使臺灣申請的顏色及排列與優先權申請一致，並個別判斷顏色變更是否影響同一性。"
+    },
+    "colourRelativeGrounds": {
+      "ja": "色彩は全体的印象の一要素。色変更のみで類似性が解消するとは限らず、文字・称呼・観念・図形・類似群を総合比較する。",
+      "en": "Color is one factor in overall impression; changing it alone may not avoid similarity. Compare wording, pronunciation, concept, devices and similarity groups globally.",
+      "zh": "顏色是整體印象因素之一；僅改變顏色不一定排除近似。應綜合比較文字、讀音、觀念、圖形及類似組群。"
+    },
+    "colourGenuineUse": {
+      "ja": "登録態様と使用態様の色彩差が同一性・識別性を変更するかを評価する。色彩自体が主要部分なら異色使用のリスクが高い。",
+      "en": "Assess whether color differences between registration and use alter identity/distinctive character; risk is higher where color is a dominant feature.",
+      "zh": "應判斷註冊與使用形式的顏色差異是否改變同一性或識別性；顏色為主要部分時，異色使用風險較高。"
+    },
+    "colourInfringementScope": {
+      "ja": "登録表示・指定色、商標全体、商品・役務、需要者、混同誤認のおそれを総合評価する。",
+      "en": "Assess the registered representation/claimed color, mark as a whole, goods/services, consumers and likelihood of confusion.",
+      "zh": "應綜合判斷註冊圖樣或指定顏色、商標整體、商品服務、消費者及混淆誤認可能性。"
+    },
+    "colourFilingStrategy": {
+      "ja": "色彩が重要ならカラー版を、柔軟性が必要なら白黒版・主要カラー版を別出願する。繁体字・簡体字・英字ブランドも地域別に整理する。",
+      "en": "If color matters, file in color; for flexibility file black-and-white and key color versions separately. Coordinate traditional, simplified and Latin-script brands by territory.",
+      "zh": "如顏色重要，應申請彩色版本；如需靈活性，可另申請黑白及主要彩色版本，並按地區協調繁體、簡體及拉丁字母品牌。"
+    },
+    "refusalResponseRoute": {
+      "ja": "TIPOの核駁理由先行通知に、意見書、補正、指定商品限定、権利不要求、同意書、使用証拠等で応答する。最終拒絶には行政救済を検討する。",
+      "en": "Respond to TIPO’s preliminary refusal notice with submissions, amendment, limitation, disclaimer, consent or use evidence; consider administrative remedies against final refusal.",
+      "zh": "可就TIPO核駁理由先行通知提交意見、修正、限制商品服務、聲明不專用、同意書或使用證據；最終核駁可提起行政救濟。"
+    },
+    "responsePeriod": {
+      "ja": "通知記載期限が支配する。実務上、意見書提出は通常2か月程度が重要で、外国案件では送達・延長を直ちに確認する。",
+      "en": "The stated deadline controls. A period around two months is commonly critical for submissions; verify service and extension immediately in foreign cases.",
+      "zh": "以通知所載期限為準；實務上通常約兩個月內須提出意見，外國案件應立即確認送達及延期。"
+    },
+    "extensionAvailable": {
+      "ja": "手続により申請可能。期限前に理由を付して延長を申請する。",
+      "en": "Available for certain procedures; request before expiry with reasons.",
+      "zh": "部分程序可申請延期；應在期限屆滿前敘明理由提出。"
+    },
+    "extensionLength": {
+      "ja": "通常の延長期間・回数は通知と手続により異なる。一般的な2か月延長の可否を個別確認する。",
+      "en": "Length and number vary by notice/procedure; verify whether a typical two-month extension applies.",
+      "zh": "延期長度及次數依通知和程序而異；應個別確認是否可延長通常兩個月。"
+    },
+    "extensionRequirements": {
+      "ja": "期限前の申請、理由および所定料金の有無を確認する。法定不服期限は別に厳格管理する。",
+      "en": "Verify timely request, reasons and fee; separately docket statutory appeal deadlines strictly.",
+      "zh": "應確認期限前申請、理由及是否須繳費；法定救濟期限須另行嚴格管理。"
+    },
+    "appealRoute": {
+      "ja": "TIPOの拒絶処分について経済部への訴願を行い、その後、智慧財産及商業法院への行政訴訟、最高行政法院への上訴を検討する。",
+      "en": "Challenge a TIPO refusal by administrative appeal to the Ministry of Economic Affairs, followed by administrative litigation before the Intellectual Property and Commercial Court and appeal as applicable.",
+      "zh": "對TIPO核駁處分可向經濟部提起訴願，其後向智慧財產及商業法院提起行政訴訟，並依法上訴最高行政法院。"
+    },
+    "refusalAppealPeriod": {
+      "ja": "訴願は原則として処分到達日の翌日から30日以内。平均審理期間は訴願・各審級を分けて現地確認する。",
+      "en": "Administrative appeal is generally due within 30 days from the day after service. Obtain separate local estimates for appeal and each court level.",
+      "zh": "訴願原則上須自處分送達翌日起三十日內提出；平均審理時間應按訴願及各審級分別確認。"
+    },
+    "publicDatabase": {
+      "ja": "TIPO商標検索システム",
+      "en": "TIPO Trademark Search System",
+      "zh": "TIPO商標檢索系統",
+      "url": "https://cloud.tipo.gov.tw/S282/S282WV1/"
+    },
+    "publicationStage": {
+      "ja": "審査許可後、登録料納付により登録され、商標公報に登録公告される。公告後3か月の異議期間に入る。",
+      "en": "After allowance and payment of the registration fee, the mark is registered and published; a three-month post-registration opposition period follows.",
+      "zh": "核准後繳納註冊費即予註冊並刊登商標公報，之後進入三個月的註冊後異議期。"
+    },
+    "oppositionPeriod": {
+      "ja": "登録公告日の翌日から3か月以内。登録前公告ではない点に注意する。",
+      "en": "Within three months from the day after registration publication; note that this is not a pre-registration publication.",
+      "zh": "自註冊公告日翌日起三個月內；須注意並非註冊前公告。"
+    },
+    "oppositionExtension": {
+      "ja": "法定3か月の異議申立期間は原則延長不可。期限内申立てと証拠提出・補充期間を分けて管理する。",
+      "en": "The statutory three-month opposition period is generally non-extendible; distinguish timely filing from evidence submission/supplement periods.",
+      "zh": "法定三個月異議期原則上不可延長；應區分及時提出異議與證據提交或補充期限。"
+    },
+    "averagePendency": {
+      "ja": "無拒絶の場合でも審査、登録料納付、公告を要する。通常・早期審査、異議・不服の有無を分けて最新TIPO統計を確認する。",
+      "en": "Even an unobjectionable case requires examination, fee payment and publication. Check current TIPO statistics separately for ordinary/accelerated and contested cases.",
+      "zh": "即使無核駁，仍須經審查、繳納註冊費及公告；應按一般或快速審查及有無異議救濟分別確認TIPO最新統計。"
+    },
+    "term": {
+      "ja": "登録公告日から10年。10年ごとに更新可能。",
+      "en": "10 years from the registration publication date, renewable for successive ten-year periods.",
+      "zh": "自註冊公告日起十年，可每十年延展。"
+    },
+    "termStart": {
+      "ja": "登録公告日から。",
+      "en": "From the registration publication date.",
+      "zh": "自註冊公告日起。"
+    },
+    "renewalWindow": {
+      "ja": "満了前6か月以内に更新申請可能。",
+      "en": "Renewal may be filed within six months before expiry.",
+      "zh": "可在期滿前六個月內申請延展。"
+    },
+    "gracePeriod": {
+      "ja": "あり。満了後6か月以内は倍額の登録料等を伴う遅延更新が可能。",
+      "en": "Yes; late renewal within six months after expiry is available with an increased fee.",
+      "zh": "有。期滿後六個月內可繳納加倍等費用辦理延展。"
+    },
+    "renewalEvidence": {
+      "ja": "更新時の使用宣誓・使用証拠は不要。ただし3年不使用取消に備え、台湾での使用証拠を保存する。",
+      "en": "No declaration/evidence of use is required for renewal; retain Taiwan use evidence against three-year non-use cancellation.",
+      "zh": "延展毋須提交使用聲明或證據；但應保存臺灣使用證據，以應對連續三年未使用撤銷。"
+    },
+    "nonUseCancellation": {
+      "ja": "あり。TIPOが職権または何人の申請によって登録を取り消し得る行政手続。",
+      "en": "Available as an administrative procedure before TIPO ex officio or on application by any person.",
+      "zh": "有。TIPO可依職權或任何人申請，透過行政程序撤銷註冊。"
+    },
+    "nonUsePeriod": {
+      "ja": "正当理由なく継続3年間使用されていない場合。指定商品・役務ごとに一部取消となり得る。",
+      "en": "Three continuous years of non-use without proper reasons; cancellation may be partial by goods/services.",
+      "zh": "無正當理由連續三年未使用；可按指定商品或服務部分撤銷。"
+    },
+    "nonUseDefenses": {
+      "ja": "商標権者が台湾における商業慣行に合致した真正使用、ライセンシー使用、輸出使用または正当理由を証明する。対象期間・商品との証拠連結が重要。",
+      "en": "The owner proves genuine use in Taiwan consistent with trade practice, licensee use, export use or proper reasons. Link evidence to the relevant period and goods.",
+      "zh": "商標權人須證明符合商業交易習慣的臺灣真實使用、被授權人使用、出口使用或正當理由，並使證據對應相關期間及商品。"
+    },
+    "otherCancellation": {
+      "ja": "登録事項の無断変更、普通名称化、品質誤認的使用、団体・証明標章の管理違反等による取消があり得る。",
+      "en": "Cancellation may arise from unauthorized alteration, genericide, misleading use as to quality or failures concerning collective/certification marks.",
+      "zh": "擅自變更註冊事項、商標通用化、品質誤導性使用或團體證明標章管理違反等可導致撤銷。"
+    },
+    "invalidation": {
+      "ja": "あり。絶対的・相対的理由、悪意、先行権利等を理由にTIPOへ評定を請求できる。根拠により5年の期間制限等が異なる。",
+      "en": "Available through invalidation before TIPO on absolute/relative grounds, bad faith, earlier rights and other bases; five-year and other limits vary by ground.",
+      "zh": "有。可基於絕對或相對理由、惡意、在先權利等向TIPO申請評定；五年等期限依理由而異。"
+    },
+    "civilInjunction": {
+      "ja": "智慧財産及商業法院等で仮処分・終局的差止めを請求可能。緊急性、担保、管轄を確認する。",
+      "en": "Interim and final injunctions may be sought before the Intellectual Property and Commercial Court; verify urgency, security and jurisdiction.",
+      "zh": "可向智慧財產及商業法院等申請定暫時狀態處分及永久禁制；應確認緊迫性、擔保及管轄。"
+    },
+    "civilDamages": {
+      "ja": "実損・逸失利益、侵害者利益、販売数量に基づく算定、法定倍数等から適切な方法を検討する。故意侵害の加重も確認する。",
+      "en": "Consider actual loss/lost profits, infringer’s profits, unit-sales calculations and statutory multiples; verify enhancement for intentional infringement.",
+      "zh": "可考慮實際損失或所失利益、侵權所得、銷售數量計算及法定倍數，並確認故意侵權的加重賠償。"
+    },
+    "civilEvidencePreservation": {
+      "ja": "証拠保全、仮差押え・仮処分、侵害品・帳簿の提出、公証・オンライン証拠保全等を検討する。",
+      "en": "Consider evidence preservation, provisional attachment/injunction, production of goods/records and notarized or online evidence preservation.",
+      "zh": "可考慮證據保全、假扣押或假處分、提出侵權品或帳簿，以及公證或網路證據保全。"
+    },
+    "civilOther": {
+      "ja": "侵害品・原料・器具の廃棄、信用回復措置、合理的費用等があり得る。",
+      "en": "Destruction of infringing goods, materials and equipment, reputation-restoring measures and reasonable expenses may be available.",
+      "zh": "可命令銷毀侵權商品、原料及器具，採取消除影響措施並賠償合理費用。"
+    },
+    "borderMeasures": {
+      "ja": "税関への商標権提示・侵害物品輸出入差止め制度あり。担保、通知、鑑定、提訴期限を確認する。",
+      "en": "Customs recordal/presentation and suspension of infringing imports/exports are available; verify security, notice, identification and merits-action deadlines.",
+      "zh": "可向海關提示商標權並申請暫停侵權貨物進出口；應確認擔保、通知、鑑定及起訴期限。"
+    },
+    "administrativeRaid": {
+      "ja": "警察・検察・税関等による刑事摘発を検討する。TIPOは登録・行政審判機関であり、一般的な市場摘発主体ではない。",
+      "en": "Consider criminal raids by police, prosecutors and customs. TIPO is the registration/adjudication office rather than the general market-raid authority.",
+      "zh": "可考慮由警察、檢察及海關進行刑事查緝；TIPO為註冊及行政審判機關，並非一般市場查緝機關。"
+    },
+    "administrativeOther": {
+      "ja": "税関留置、オンラインプラットフォーム削除、公平交易・消費者・製品規制上の措置等を組み合わせる。",
+      "en": "Combine customs detention, platform takedowns and fair-trade, consumer or product-regulatory measures where applicable.",
+      "zh": "可結合海關扣留、網路平台下架及公平交易、消費者或產品規管措施。"
+    },
+    "criminalAvailability": {
+      "ja": "商標・団体商標・証明標章の故意侵害、偽造ラベル・包装の販売・所持・輸入等について刑事責任あり。",
+      "en": "Criminal liability applies to intentional infringement and dealing in, possessing or importing counterfeit labels/packaging.",
+      "zh": "故意侵害商標、團體商標或證明標章，以及販賣、持有或輸入仿冒標籤包裝等，可能負刑事責任。"
+    },
+    "criminalFine": {
+      "ja": "あり。犯罪類型、自然人・法人、最新改正により額が異なるため確認する。",
+      "en": "Available; amounts vary by offense, natural/legal person and current amendments.",
+      "zh": "有。罰金依罪名、自然人或法人及最新修法而異，應予確認。"
+    },
+    "criminalImprisonment": {
+      "ja": "あり得る。故意侵害・偽造品流通等について最新の刑期・構成要件を確認する。",
+      "en": "Potentially available; verify current terms and elements for intentional infringement and counterfeit trade.",
+      "zh": "可能判處徒刑；應確認故意侵權及仿冒品流通等現行刑期與構成要件。"
+    },
+    "criminalOther": {
+      "ja": "侵害品・ラベル・包装・製造器具の没収・廃棄、法人両罰、犯罪収益措置等があり得る。",
+      "en": "Confiscation/destruction of goods, labels, packaging and equipment, corporate dual liability and proceeds measures may apply.",
+      "zh": "可沒收或銷毀侵權品、標籤、包裝及設備，並可能適用法人兩罰及犯罪所得措施。"
+    }
+  },
+  "notablePoints": [
+    {
+      "title": {
+        "ja": "中国本土・香港・マカオとは別法域",
+        "en": "Separate from Mainland China, Hong Kong and Macao",
+        "zh": "與中國內地、香港及澳門屬不同法域"
+      },
+      "detail": {
+        "ja": "各地域の登録は台湾を保護しない。台湾へ別途直接出願し、繁体字・簡体字・英字のブランドを地域別に確保する。",
+        "en": "Registrations in the other territories do not cover Taiwan. File directly in Taiwan and secure traditional, simplified and Latin-script brands by territory.",
+        "zh": "其他地區註冊不涵蓋臺灣；須在臺灣直接申請，並按地區保護繁體、簡體及拉丁字母品牌。"
+      }
+    },
+    {
+      "title": {
+        "ja": "マドプロは利用不可",
+        "en": "Madrid unavailable",
+        "zh": "馬德里體系不可用"
+      },
+      "detail": {
+        "ja": "台湾はマドプロ指定国・地域ではない。国際登録ではなくTIPOへの直接出願が必要。",
+        "en": "Taiwan is not a Madrid designation; a direct TIPO filing is required.",
+        "zh": "臺灣不是馬德里體系指定地區，須直接向TIPO提出申請。"
+      }
+    },
+    {
+      "title": {
+        "ja": "登録公告後の異議",
+        "en": "Post-registration opposition",
+        "zh": "註冊公告後異議"
+      },
+      "detail": {
+        "ja": "審査許可・登録料納付後に登録公告され、その翌日から3か月以内に異議申立て。登録前異議制度と混同しない。",
+        "en": "Opposition runs for three months from the day after publication following allowance and fee payment; do not treat it as pre-registration opposition.",
+        "zh": "核准並繳納註冊費後始註冊公告，自公告翌日起三個月內可異議；不可與註冊前異議混同。"
+      }
+    },
+    {
+      "title": {
+        "ja": "2024年開始の早期審査",
+        "en": "Accelerated examination from 2024",
+        "zh": "2024年起快速審查"
+      },
+      "detail": {
+        "ja": "単なる希望では足りず、権利取得が急務である事実・証拠と追加料金が必要。対象案件を現地代理人と選別する。",
+        "en": "A mere preference is insufficient; facts/evidence of urgent need and an extra fee are required. Screen eligibility with local counsel.",
+        "zh": "僅有加快希望並不足夠；須提出急需取得權利的事實證據並繳費，應與代理人篩選適格案件。"
+      }
+    },
+    {
+      "title": {
+        "ja": "3年不使用・権利者が使用立証",
+        "en": "Three-year non-use; owner proves use",
+        "zh": "連續三年未使用及權利人舉證"
+      },
+      "detail": {
+        "ja": "何人も取消申請可能。台湾での真正使用を、発票、契約、広告、物流、オンライン記録等の連続した証拠で示す。",
+        "en": "Any person may seek cancellation. Prove genuine Taiwan use through a coherent chain of invoices, contracts, advertising, logistics and online records.",
+        "zh": "任何人均可申請撤銷；權利人應以發票、契約、廣告、物流及網路紀錄等連貫證據證明臺灣真實使用。"
+      }
+    }
+  ],
+  "statistics": {
+    "coverage": "2016–2025",
+    "status": "pending",
+    "series": []
+  },
+  "news": [
+    {
+      "id": "accelerated-examination-2024",
+      "type": "law",
+      "date": "2024-05-01",
+      "title": {
+        "ja": "商標登録出願の早期審査制度開始",
+        "en": "Accelerated trademark examination commenced",
+        "zh": "商標註冊申請快速審查開始"
+      },
+      "summary": {
+        "ja": "2023年改正商標法の施行により、権利取得が急務である一定案件について、事実・証拠と追加料金を伴う早期審査が導入された。",
+        "en": "The 2023 amendment, effective in 2024, introduced accelerated examination for qualifying urgently needed rights with supporting facts/evidence and an extra fee.",
+        "zh": "2023年商標法修正於2024年施行，對急需取得權利的適格案件，導入須提出事實證據並繳費的快速審查。"
+      },
+      "sourceUrl": "https://www.tipo.gov.tw/en/"
+    },
+    {
+      "id": "agent-system-2024",
+      "type": "law",
+      "date": "2024-05-01",
+      "title": {
+        "ja": "商標代理人制度の整備",
+        "en": "Trademark agent system reformed",
+        "zh": "商標代理人制度改革"
+      },
+      "summary": {
+        "ja": "同改正により商標代理人の資格・登録・管理制度が整備された。外国出願人は登録状況を含め代理人資格を確認する。",
+        "en": "The same reform established qualification, registration and management rules for trademark agents; foreign applicants should verify agent status.",
+        "zh": "同次修法建立商標代理人資格、登錄及管理制度；外國申請人應確認代理人登錄狀態。"
+      },
+      "sourceUrl": "https://www.tipo.gov.tw/en/"
+    },
+    {
+      "id": "nice-13-2026",
+      "type": "practice",
+      "date": "2026-01-01",
+      "title": {
+        "ja": "ニース国際分類第13版と類似群の確認",
+        "en": "Nice 13th edition and similarity groups",
+        "zh": "尼斯分類第十三版及類似組群"
+      },
+      "summary": {
+        "ja": "2026年出願では第13版とTIPOの商品・役務名称検索、類似群コードを併せて確認する。",
+        "en": "For 2026 filings, check the 13th edition together with TIPO accepted-term search and similarity-group codes.",
+        "zh": "2026年申請應結合尼斯分類第十三版、TIPO商品服務名稱查詢及類似組群代碼。"
+      },
+      "sourceUrl": "https://www.wipo.int/classifications/nice/en/"
+    }
+  ],
+  "faqs": [
+    {
+      "tag": "Territory",
+      "question": {
+        "ja": "台湾、中国本土、香港、マカオにそれぞれ別出願が必要ですか。",
+        "en": "Are separate filings required in Taiwan, Mainland China, Hong Kong and Macao?",
+        "zh": "臺灣、中國內地、香港及澳門是否各須分別申請？"
+      },
+      "followUp": {
+        "ja": "繁体字、簡体字、英字の各ブランドをどの地域で確保すべきですか。",
+        "en": "Which traditional, simplified and Latin-script brands should be protected in each territory?",
+        "zh": "繁體、簡體及拉丁字母品牌應分別在哪些地區保護？"
+      }
+    },
+    {
+      "tag": "Classification",
+      "question": {
+        "ja": "対象商品・役務はどのTIPO類似群コードに属し、どの群をクロスサーチすべきですか。",
+        "en": "Which TIPO similarity-group codes cover the goods/services and which groups require cross-searching?",
+        "zh": "相關商品服務屬於哪些TIPO類似組群，並須交叉檢索哪些組群？"
+      },
+      "followUp": {
+        "ja": "第35類小売役務の対象商品をどの程度具体化すべきですか。",
+        "en": "How specifically should the goods be identified for Class 35 retail services?",
+        "zh": "第35類零售服務的相關商品應具體到何種程度？"
+      }
+    },
+    {
+      "tag": "Fast track",
+      "question": {
+        "ja": "この案件は2024年開始の早期審査対象となり、どの緊急性証拠が必要ですか。",
+        "en": "Does this matter qualify for accelerated examination introduced in 2024, and what urgency evidence is required?",
+        "zh": "本案是否符合2024年開始的快速審查？須提出哪些急迫性證據？"
+      },
+      "followUp": {
+        "ja": "早期審査の官費、初回結果、最終登録までの実務期間は。",
+        "en": "What are the fee and practical timing to first result and final registration?",
+        "zh": "快速審查官費、首次結果及最終註冊的實務時間為何？"
+      }
+    },
+    {
+      "tag": "Opposition",
+      "question": {
+        "ja": "登録公告後3か月の異議と、審査中の第三者意見書をどう使い分けますか。",
+        "en": "How should post-registration opposition and third-party observations during examination be used?",
+        "zh": "註冊公告後三個月異議與審查中第三人意見書應如何選擇？"
+      },
+      "followUp": {
+        "ja": "同意書、指定商品限定、不使用取消、評定のどれが有効ですか。",
+        "en": "Which is effective: consent, limitation, non-use cancellation or invalidation?",
+        "zh": "同意書、限制商品服務、未使用撤銷或評定，哪種方式較有效？"
+      }
+    },
+    {
+      "tag": "Non-use",
+      "question": {
+        "ja": "取消前3年間について、台湾での真正使用を示すために必要な証拠は何ですか。",
+        "en": "What evidence proves genuine use in Taiwan during the relevant three years?",
+        "zh": "在相關三年內，證明於臺灣真實使用須提交哪些證據？"
+      },
+      "followUp": {
+        "ja": "輸出、オンライン販売、ライセンシー使用、商標の軽微な変更はどこまで認められますか。",
+        "en": "To what extent do exports, online sales, licensee use and minor mark variations count?",
+        "zh": "出口、網路銷售、被授權人使用及商標輕微變更可在多大程度上被接受？"
+      }
+    },
+    {
+      "tag": "Enforcement",
+      "question": {
+        "ja": "智慧財産及商業法院の仮処分、税関、刑事告訴をどう組み合わせるべきですか。",
+        "en": "How should IPCC interim relief, customs and criminal complaints be combined?",
+        "zh": "應如何結合智慧財產及商業法院臨時措施、海關及刑事告訴？"
+      },
+      "followUp": {
+        "ja": "損害額算定、故意侵害、証拠保全、担保に必要な資料は。",
+        "en": "What evidence is needed for damages, intentional infringement, preservation and security?",
+        "zh": "損害計算、故意侵權、證據保全及擔保須哪些資料？"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "TIPO — Trademarks",
+      "url": "https://www.tipo.gov.tw/en/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "TIPO — Trademark Search",
+      "url": "https://cloud.tipo.gov.tw/S282/S282WV1/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Taiwan Laws — Trademark Act",
+      "url": "https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=J0070001",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Taiwan Laws — Enforcement Rules of the Trademark Act",
+      "url": "https://law.moj.gov.tw/ENG/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "TIPO — Examination Guidelines",
+      "url": "https://www.tipo.gov.tw/en/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "TIPO — Accelerated Examination",
+      "url": "https://www.tipo.gov.tw/en/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Intellectual Property and Commercial Court",
+      "url": "https://ipc.judicial.gov.tw/en/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "Taiwan Customs — Intellectual Property",
+      "url": "https://web.customs.gov.tw/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "TIPO — Goods and Services Names / Classification",
+      "url": "https://cloud.tipo.gov.tw/S282/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "label": "WIPO Nice Classification",
+      "url": "https://www.wipo.int/classifications/nice/en/",
+      "type": "official",
+      "checkedAt": "2026-09-13"
+    }
+  ]
+}
