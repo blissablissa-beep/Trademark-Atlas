@@ -996,6 +996,10 @@ function renderDetail() {
          if (language === "tr") {
           label = "Türkçe";
        }
+
+        if (language === "pl") {
+          label = "Polski";
+       }
         
         if (language === "zh") {
           label = "中文";
