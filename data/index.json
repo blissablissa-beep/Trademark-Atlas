@@ -164,6 +164,10 @@
     "path": "./data/jurisdictions/fi.json"
   },
   {
+    "id": "pl",
+    "path": "./data/jurisdictions/pl.json"
+  },
+  {
     "id": "ng",
     "path": "./data/jurisdictions/ng.json"
   },
