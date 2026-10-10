@@ -1,0 +1,723 @@
+{
+  "id": "jp",
+  "type": "country",
+  "flag": "🇯🇵",
+  "region": "asia",
+  "names": {
+    "ja": "日本国",
+    "en": "Japan",
+    "de": "Japan"
+  },
+  "office": {
+    "ja": "経済産業省 特許庁（JPO）",
+    "en": "Japan Patent Office (JPO)",
+    "de": "Japanisches Patentamt (JPO)"
+  },
+  "availableLanguages": [
+    "de"
+  ],
+  "createdAt": "2026-09-26",
+  "updatedAt": "2026-09-26",
+  "status": "review",
+  "facts": {
+    "authority": {
+      "ja": "経済産業省 特許庁（JPO）。商標出願の審査、登録、異議、審判および国際商標登録出願を担当する。",
+      "en": "The Japan Patent Office (JPO), under the Ministry of Economy, Trade and Industry, handles examination, registration, opposition, trials and international trademark applications.",
+      "de": "Das Japanische Patentamt (JPO) im Ministerium für Wirtschaft, Handel und Industrie ist für Prüfung, Eintragung, Widerspruchs- und Beschwerdeverfahren sowie internationale Markenanmeldungen zuständig."
+    },
+    "protectionScope": {
+      "ja": "商品・役務商標、団体商標、地域団体商標、防護標章等。登録商標と指定商品・役務の組合せを中心に保護される。",
+      "en": "Marks for goods and services, collective marks, regional collective marks and defensive marks. Protection principally concerns the registered mark in relation to the designated goods and services.",
+      "de": "Geschützt werden Waren- und Dienstleistungsmarken, Kollektivmarken, regionale Kollektivmarken und Defensivmarken. Maßgeblich ist grundsätzlich die eingetragene Marke in Verbindung mit den bezeichneten Waren und Dienstleistungen."
+    },
+    "markTypes": {
+      "ja": "文字、図形、記号、立体的形状、これらと色彩の結合、動き、ホログラム、色彩のみ、音、位置商標。香り・味等は現行法上の登録対象外。",
+      "en": "Words, devices, symbols, three-dimensional shapes, combinations of these with color, motion, hologram, color per se, sound and position marks. Scent and taste marks are not currently registrable.",
+      "de": "Eintragungsfähig sind Wort-, Bild-, Zeichen- und dreidimensionale Marken, Kombinationen mit Farben sowie Bewegungs-, Hologramm-, Farb-, Klang- und Positionsmarken. Geruchs- und Geschmacksmarken sind derzeit nicht eintragungsfähig."
+    },
+    "madridAccessionDate": {
+      "ja": "2000年3月14日（マドリッド協定議定書の効力発生日）。",
+      "en": "14 March 2000 (entry into force of the Madrid Protocol for Japan).",
+      "de": "14. März 2000 (Inkrafttreten des Madrider Protokolls für Japan)."
+    },
+    "niceClassification": {
+      "ja": "採用。出願時のニース分類最新版、類似商品・役務審査基準およびJ-PlatPatの商品・役務名検索を確認する。",
+      "en": "Adopted. Check the current Nice edition, the JPO Similarity Code Guidelines and the J-PlatPat goods/services search at filing.",
+      "de": "Die Nizza-Klassifikation wird angewandt. Bei der Anmeldung sind die aktuelle Ausgabe, die JPO-Richtlinien zu Ähnlichkeitscodes und die Waren-/Dienstleistungssuche in J-PlatPat zu prüfen."
+    },
+    "classHeadingPractice": {
+      "ja": "類見出しの文言が明確で受理可能な場合でも、当該区分の全商品・役務を当然には包含しない。具体的な表示を推奨。",
+      "en": "Even where wording from a class heading is sufficiently clear and acceptable, it does not automatically cover every good or service in the class. Specific terms are recommended.",
+      "de": "Auch wenn eine Klassenüberschrift hinreichend klar und zulässig ist, umfasst sie nicht automatisch sämtliche Waren oder Dienstleistungen der Klasse. Konkrete Begriffe werden empfohlen."
+    },
+    "retailServices": {
+      "ja": "第35類で可。総合小売等役務または特定の商品に関する小売・卸売役務として、JPOの受理可能な表示に従い指定する。",
+      "en": "Available in Class 35. Specify general retail services or retail/wholesale services relating to identified goods using wording acceptable to the JPO.",
+      "de": "In Klasse 35 möglich. Allgemeine Einzelhandelsdienstleistungen oder Einzel-/Großhandelsdienstleistungen für bestimmte Waren sind mit vom JPO akzeptierten Formulierungen anzugeben."
+    },
+    "multiClassApplication": {
+      "ja": "可。区分数に応じて出願料・登録料が増加する。分割出願も所定要件下で可能。",
+      "en": "Available. Filing and registration fees increase with the number of classes; division is possible subject to statutory requirements.",
+      "de": "Mehrklassenanmeldungen sind möglich. Anmelde- und Eintragungsgebühren steigen mit der Klassenzahl; eine Teilung ist unter den gesetzlichen Voraussetzungen möglich."
+    },
+    "applicationForm": {
+      "ja": "願書に出願人、商標、指定商品・役務、区分等を記載し、原則として電子出願する。新しいタイプの商標には種類の記載・詳細な説明・所定ファイル等が必要。",
+      "en": "File an application identifying the applicant, mark, goods/services and classes, normally electronically. New types of marks require an indication of type, detailed description and prescribed files where applicable.",
+      "de": "Die Anmeldung bezeichnet Anmelder, Marke, Waren/Dienstleistungen und Klassen und wird grundsätzlich elektronisch eingereicht. Neue Markenformen erfordern gegebenenfalls Typangabe, genaue Beschreibung und vorgeschriebene Dateien."
+    },
+    "powerOfAttorney": {
+      "ja": "通常の出願では委任状を常時提出しない運用があるが、取下げ・放棄、審判、登録後手続等では特別授権を含む委任状が必要となり得る。在外者は原則として日本の特許管理人を要する。",
+      "en": "A power of attorney is not routinely filed for every ordinary application, but may be required for withdrawal, abandonment, appeals and post-registration acts, sometimes with specific authority. A non-resident generally needs a patent administrator in Japan.",
+      "de": "Bei einer gewöhnlichen Anmeldung wird nicht stets eine Vollmacht eingereicht; für Rücknahme, Verzicht, Beschwerde- und Registerverfahren kann jedoch eine besondere Bevollmächtigung erforderlich sein. Ausländische Beteiligte benötigen grundsätzlich einen Patentverwalter in Japan."
+    },
+    "priorityDocuments": {
+      "ja": "パリ優先権は最初の出願から6か月以内に主張する。優先権証明書またはDAS等による電子的交換を所定期限内に手配し、日本語翻訳の要否を確認する。",
+      "en": "Claim Paris priority within six months from the first filing. Arrange the priority document or electronic exchange through DAS within the prescribed period and check translation requirements.",
+      "de": "Die Pariser Priorität ist innerhalb von sechs Monaten ab der Erstanmeldung zu beanspruchen. Prioritätsbeleg oder elektronischer Austausch über DAS sind fristgerecht zu veranlassen; Übersetzungserfordernisse sind zu prüfen."
+    },
+    "homeRegistrationCertificate": {
+      "ja": "通常の国内出願には不要。パリ条約第6条の5に基づき本国登録を援用する場合等は別途確認する。",
+      "en": "Not normally required for a domestic filing. Check separately when relying on home-country registration under Paris Convention Article 6quinquies.",
+      "de": "Für eine gewöhnliche nationale Anmeldung nicht erforderlich. Bei Berufung auf eine Heimatregistrierung nach Art. 6quinquies PVÜ ist dies gesondert zu prüfen."
+    },
+    "useEvidenceAtFiling": {
+      "ja": "原則不要。ただし、使用意思への合理的疑義、広範な小売等役務指定、使用による識別力、周知・著名性等では使用予定または実績の証拠を求められ得る。",
+      "en": "Generally not required. Evidence of intended or actual use may be requested where bona fide intent is doubtful, for broad retail specifications, or to establish acquired distinctiveness or fame.",
+      "de": "Grundsätzlich nicht erforderlich. Bei Zweifeln an der Benutzungsabsicht, breiten Einzelhandelsverzeichnissen oder zum Nachweis erworbener Unterscheidungskraft bzw. Bekanntheit können Benutzungs- oder Absichtsbelege verlangt werden."
+    },
+    "notarizationCertification": {
+      "ja": "通常の願書・委任状に公証やアポスティーユは原則不要。譲渡、合併、相続その他の名義変更資料は手続別に確認する。",
+      "en": "Notarization or apostille is generally unnecessary for an ordinary application or power. Check requirements separately for assignments, mergers, succession and other recordal documents.",
+      "de": "Für gewöhnliche Anmeldungen oder Vollmachten sind notarielle Beglaubigung und Apostille grundsätzlich nicht erforderlich. Abtretung, Verschmelzung, Rechtsnachfolge und Umschreibungsunterlagen sind gesondert zu prüfen."
+    },
+    "otherDocuments": {
+      "ja": "商標見本、優先権証明、団体・地域団体商標の定款・証明資料、新しいタイプの商標の説明・音声等、使用による識別力・周知性の証拠。",
+      "en": "Representation of the mark, priority document, constitutive and supporting documents for collective/regional collective marks, descriptions or sound files for new mark types, and evidence of acquired distinctiveness or fame.",
+      "de": "Markendarstellung, Prioritätsbeleg, Satzungs- und Nachweisunterlagen für Kollektiv- bzw. regionale Kollektivmarken, Beschreibungen oder Klangdateien neuer Markenformen sowie Nachweise erworbener Unterscheidungskraft oder Bekanntheit."
+    },
+    "absoluteGroundsExamination": {
+      "ja": "あり。特許庁が職権審査する。",
+      "en": "Yes; examined ex officio by the JPO.",
+      "de": "Ja; das JPO prüft von Amts wegen."
+    },
+    "distinctivenessGrounds": {
+      "ja": "普通名称、慣用商標、記述的表示、ありふれた氏・名称、極めて簡単・ありふれた標章、その他識別力を欠く商標。使用による識別力を立証できる場合がある。",
+      "en": "Generic, customary, descriptive, common surnames/names, very simple or commonplace signs, and other non-distinctive marks may be refused. Acquired distinctiveness may be established in eligible cases.",
+      "de": "Gattungsbezeichnungen, übliche, beschreibende, aus häufigen Namen bestehende, sehr einfache oder sonst nicht unterscheidungskräftige Zeichen können zurückgewiesen werden. Verkehrsdurchsetzung kann in geeigneten Fällen nachgewiesen werden."
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "公益団体等の著名標章、国旗・菊花紋章・外国国章等、公序良俗、品質等の誤認、商品等の機能確保に不可欠な立体形状、他人の氏名、地理的表示、悪意ある出願等。",
+      "en": "Grounds include protected public-interest emblems and well-known public-body marks, flags and state emblems, public order or morality, deception as to quality, indispensable functional shapes, names of others, protected GIs and bad-faith filings.",
+      "de": "Zu den Gründen gehören geschützte Hoheitszeichen und bekannte Zeichen öffentlicher Stellen, Flaggen und Staatswappen, öffentliche Ordnung oder gute Sitten, Täuschung über Eigenschaften, technisch notwendige Formen, Namen Dritter, geschützte geografische Angaben und bösgläubige Anmeldungen."
+    },
+    "relativeGroundsExamination": {
+      "ja": "あり。先行登録商標等との同一・類似、他人の周知・著名商標、不正目的等を職権審査する。出願前にJ-PlatPatで検索し、類似群コードだけに依存しない判断が必要。",
+      "en": "Yes. The JPO examines conflicts with earlier registered marks and grounds involving another party's well-known or famous mark or improper purpose. Conduct a J-PlatPat clearance without relying solely on similarity codes.",
+      "de": "Ja. Das JPO prüft Konflikte mit älteren eingetragenen Marken sowie Tatbestände zu bekannten oder berühmten Marken Dritter und unlauteren Absichten von Amts wegen. Eine J-PlatPat-Recherche darf sich nicht nur auf Ähnlichkeitscodes stützen."
+    },
+    "disclaimer": {
+      "ja": "原則として米国型のディスクレーム制度なし。非識別部分を含む結合商標でも商標全体として登録性・権利範囲が判断される。",
+      "en": "Japan generally has no U.S.-style disclaimer system. A composite mark containing non-distinctive matter is assessed as a whole for registrability and scope.",
+      "de": "Ein Disclaimer-System nach US-amerikanischem Vorbild besteht grundsätzlich nicht. Kombinationsmarken mit nicht unterscheidungskräftigen Bestandteilen werden hinsichtlich Eintragungsfähigkeit und Schutzumfang insgesamt beurteilt."
+    },
+    "consent": {
+      "ja": "あり。2024年4月1日以後の出願には留保型コンセント制度を利用可能。先行権利者の承諾に加え、出所混同のおそれがないことの立証が必要。単なる同意書のみでは足りない。",
+      "en": "Available for applications filed on or after 1 April 2024 under a reserved-consent system. In addition to the earlier owner's consent, the applicant must establish that no likelihood of source confusion exists; consent alone is insufficient.",
+      "de": "Für Anmeldungen ab dem 1. April 2024 steht ein qualifiziertes Zustimmungssystem zur Verfügung. Neben der Zustimmung des älteren Inhabers ist nachzuweisen, dass keine Herkunftsverwechslung droht; eine bloße Zustimmung genügt nicht."
+    },
+    "acceleratedExamination": {
+      "ja": "あり。使用中・使用準備が相当程度進行していること、外国出願等の所定要件を満たして申出する。無料。コンセント制度適用主張、他人の氏名を含む商標、日本指定国際登録等は対象外となる場合がある。",
+      "en": "Available without an official fee where prescribed use/readiness and urgency or foreign-filing conditions are met. Applications relying on consent, involving another person's name, or international registrations designating Japan may be excluded under current guidelines.",
+      "de": "Gebührenfrei verfügbar, wenn die vorgeschriebenen Voraussetzungen zu Benutzung/Benutzungsvorbereitung und Dringlichkeit oder Auslandsanmeldungen erfüllt sind. Anmeldungen mit Zustimmung, Namen Dritter oder internationale Registrierungen mit Benennung Japans können nach den geltenden Richtlinien ausgeschlossen sein."
+    },
+    "thirdPartyObservation": {
+      "ja": "情報提供制度あり。刊行物等提出書により、登録前の出願について拒絶理由に関する情報・証拠を提出できる。提出者への審査結果通知や当事者参加は原則ない。",
+      "en": "A third-party information-submission system is available before registration. Information and evidence relevant to refusal may be filed, but the submitter generally does not become a party or receive the examination outcome.",
+      "de": "Vor der Eintragung können Dritte Informationen und Beweismittel zu Zurückweisungsgründen einreichen. Der Einreichende wird grundsätzlich weder Verfahrensbeteiligter noch über das Prüfungsergebnis unterrichtet."
+    },
+    "responsePeriod": {
+      "ja": "拒絶理由通知では通常、国内居住者40日、在外者3か月。通知記載の起算日・満了日を必ず確認する。国際商標登録出願も原則3か月。",
+      "en": "An Office Action normally sets 40 days for a domestic applicant and three months for a non-resident. Always verify the stated start and expiry dates. Japan-designated international applications generally receive three months.",
+      "de": "Eine Beanstandung setzt regelmäßig 40 Tage für inländische Anmelder und drei Monate für Ausländer. Beginn und Ablauf sind stets dem Bescheid zu entnehmen. Für internationale Registrierungen mit Benennung Japans gelten grundsätzlich drei Monate."
+    },
+    "extensionAvailable": {
+      "ja": "あり。対象通知では期間内または期間経過後の所定期間内に期間延長請求が可能。法定期間・審判段階は別ルール。",
+      "en": "Available for eligible examination notices through an in-time or prescribed post-deadline extension request. Statutory periods and appeal-stage notices follow separate rules.",
+      "de": "Für bestimmte Prüfungsbescheide ist eine Verlängerung innerhalb der Frist oder in einem vorgeschriebenen Nachfristfenster möglich. Gesetzliche Fristen und Bescheide im Beschwerdeverfahren unterliegen Sonderregeln."
+    },
+    "extensionLength": {
+      "ja": "期間内請求では通常1か月、期間経過後は満了翌日から2か月以内の請求により2か月延長される運用。最新様式・料金を確認する。",
+      "en": "Current practice generally allows a one-month in-time extension, or a two-month extension requested within two months after expiry. Verify current forms and fees.",
+      "de": "Nach geltender Praxis ist regelmäßig eine einmonatige Verlängerung vor Fristablauf oder eine zweimonatige Verlängerung bei Antrag innerhalb von zwei Monaten nach Ablauf möglich. Formulare und Gebühren sind aktuell zu prüfen."
+    },
+    "extensionRequirements": {
+      "ja": "期間延長請求書と手数料が必要。対象通知、請求時期および審判段階によって理由・可否が異なる。",
+      "en": "A request and official fee are required. Availability and any required explanation depend on the notice, timing and procedural stage.",
+      "de": "Erforderlich sind Verlängerungsantrag und Amtsgebühr. Zulässigkeit und Begründung richten sich nach Bescheid, Zeitpunkt und Verfahrensstadium."
+    },
+    "refusalResponseRoute": {
+      "ja": "拒絶理由通知には意見書および必要に応じ手続補正書で応答する。拒絶査定後は拒絶査定不服審判を請求し、審決には知的財産高等裁判所への取消訴訟が可能。",
+      "en": "Respond to an Office Action by written arguments and, where appropriate, amendment. After a final refusal, file an appeal trial; a trial decision may be challenged before the Intellectual Property High Court.",
+      "de": "Auf einen Beanstandungsbescheid wird mit Stellungnahme und gegebenenfalls Änderung reagiert. Nach endgültiger Zurückweisung ist Beschwerde zum JPO möglich; die Entscheidung kann vor dem IP High Court angefochten werden."
+    },
+    "refusalAppealPeriod": {
+      "ja": "拒絶査定謄本の送達日から3か月以内。審決取消訴訟も原則として審決謄本送達から30日以内（在外者の付加期間等は個別確認）。",
+      "en": "An appeal trial must generally be requested within three months from service of the refusal. An action to cancel a trial decision is generally due within 30 days from service, subject to any additional period for non-residents.",
+      "de": "Die Beschwerde ist grundsätzlich innerhalb von drei Monaten nach Zustellung der Zurückweisung einzulegen. Die Klage gegen die Beschwerdeentscheidung ist grundsätzlich binnen 30 Tagen nach Zustellung zu erheben; Zusatzfristen für Ausländer sind gesondert zu prüfen."
+    },
+    "appealRoute": {
+      "ja": "特許庁の拒絶査定不服審判（三名または五名の審判官合議体）を経て、知財高裁、最高裁判所へ。補正可能範囲と審判請求時の主張・証拠を一体検討する。",
+      "en": "Appeal to a JPO panel of three or five trial examiners, followed by the IP High Court and potentially the Supreme Court. Coordinate amendments, arguments and evidence at filing of the appeal.",
+      "de": "Beschwerde zu einem Spruchkörper aus drei oder fünf JPO-Prüfern, anschließend zum IP High Court und gegebenenfalls zum Obersten Gerichtshof. Änderungen, Argumente und Beweise sind bei Beschwerdeeinlegung abgestimmt vorzubereiten."
+    },
+    "publicDatabase": {
+      "ja": "J-PlatPat（特許情報プラットフォーム）",
+      "en": "J-PlatPat (Japan Platform for Patent Information)",
+      "de": "J-PlatPat (Japan Platform for Patent Information)",
+      "url": "https://www.j-platpat.inpit.go.jp/"
+    },
+    "publicationStage": {
+      "ja": "出願公開後に実体審査。登録査定後、登録料納付と設定登録を経て商標掲載公報が発行され、付与後異議期間が開始する。",
+      "en": "After publication of the application, substantive examination proceeds. Following allowance, payment and registration, the Trademark Gazette is issued and the post-grant opposition period begins.",
+      "de": "Nach Veröffentlichung der Anmeldung erfolgt die Sachprüfung. Nach positiver Entscheidung, Gebührenzahlung und Eintragung wird das Markenblatt veröffentlicht und die nachgelagerte Widerspruchsfrist beginnt."
+    },
+    "oppositionPeriod": {
+      "ja": "商標掲載公報発行日から2か月以内。何人も、指定商品・役務ごとに登録異議を申し立てられる。",
+      "en": "Within two months from publication of the registered mark in the Trademark Gazette. Any person may oppose, including for selected goods or services.",
+      "de": "Innerhalb von zwei Monaten nach Veröffentlichung der eingetragenen Marke im Markenblatt. Jedermann kann Widerspruch einlegen, auch beschränkt auf einzelne Waren oder Dienstleistungen."
+    },
+    "oppositionExtension": {
+      "ja": "法定2か月の申立期間は原則延長不可。申立理由・証拠の実質的記載不足は後から補えない場合があるため、期限内に骨格を完成させる。",
+      "en": "The statutory two-month filing period is generally not extendable. Substantive deficiencies in grounds or evidence may not be curable later, so the case framework must be complete by the deadline.",
+      "de": "Die gesetzliche Zweimonatsfrist ist grundsätzlich nicht verlängerbar. Wesentliche Mängel bei Gründen oder Beweismitteln können später unheilbar sein; die Begründungsstruktur muss fristgerecht vollständig sein."
+    },
+    "directExaminationPeriod": {
+      "ja": "JPO年次報告の2024年実績では、商標の平均ファーストアクション期間は約5.8か月。案件、区分数、補正・拒絶理由により変動する。",
+      "en": "According to the JPO 2025 Annual Report, the 2024 average trademark first-action pendency was approximately 5.8 months. Timing varies by case, class count and objections.",
+      "de": "Nach dem JPO-Jahresbericht 2025 betrug die durchschnittliche Zeit bis zum Erstbescheid im Jahr 2024 etwa 5,8 Monate. Sie variiert nach Fall, Klassenzahl und Beanstandungen."
+    },
+    "madridExaminationPeriod": {
+      "ja": "日本指定の国際登録は原則18か月の拒絶通報期間内に審査される。国内出願とは統計定義が異なり、安定した別建て平均値は最新JPO・WIPO資料で確認する。",
+      "en": "A Japan designation is examined within the Madrid refusal-notification framework, generally 18 months. Statistics are not directly comparable with national filings; confirm any separate current average in JPO/WIPO materials.",
+      "de": "Eine Benennung Japans wird innerhalb des Madrider Rahmens für Zurückweisungsmitteilungen, grundsätzlich 18 Monate, geprüft. Statistiken sind mit nationalen Anmeldungen nicht unmittelbar vergleichbar; aktuelle getrennte Durchschnittswerte sind bei JPO/WIPO zu prüfen."
+    },
+    "averagePendency": {
+      "ja": "2024年実績の権利化までの平均期間は約6.9か月。拒絶応答、同意制度、異議・手続不備、登録料納付等により長期化する。",
+      "en": "The 2024 average total pendency to registration was approximately 6.9 months. Office Actions, consent submissions, procedural defects and fee payment can extend the period.",
+      "de": "Die durchschnittliche Gesamtdauer bis zur Eintragung betrug 2024 etwa 6,9 Monate. Beanstandungen, Zustimmungsunterlagen, Formmängel und Gebührenzahlung können das Verfahren verlängern."
+    },
+    "term": {
+      "ja": "10年",
+      "en": "10 years",
+      "de": "10 Jahre"
+    },
+    "termStart": {
+      "ja": "設定登録日から10年。更新により10年ごとに反復延長可能。",
+      "en": "Ten years from the date of registration, renewable repeatedly for further ten-year periods.",
+      "de": "Zehn Jahre ab dem Eintragungstag; beliebig oft um weitere zehn Jahre verlängerbar."
+    },
+    "renewalWindow": {
+      "ja": "存続期間満了前6か月から満了日まで。全区分または一部区分について更新できる。分割納付制度の適用時は前後期を別管理する。",
+      "en": "From six months before expiry until the expiry date. Renewal may cover all or selected classes. Where installment payment is used, manage the two payment periods separately.",
+      "de": "Von sechs Monaten vor Ablauf bis zum Ablaufdatum. Eine Verlängerung ist für alle oder ausgewählte Klassen möglich. Bei Ratenzahlung sind die beiden Zahlungszeiträume getrennt zu überwachen."
+    },
+    "gracePeriod": {
+      "ja": "満了後6か月以内に割増登録料を伴う更新申請が可能。さらに回復制度が適用され得る場合があるが、非故意等の要件と絶対期限を厳格に確認する。",
+      "en": "Renewal is possible within six months after expiry with a surcharge. A further restoration route may apply in limited cases, subject to strict non-intentionality and ultimate-deadline requirements.",
+      "de": "Eine Verlängerung ist innerhalb von sechs Monaten nach Ablauf gegen Zuschlagsgebühr möglich. In engen Fällen kann eine Wiederherstellung in Betracht kommen; Voraussetzungen fehlender Absicht und Ausschlussfristen sind streng zu prüfen."
+    },
+    "renewalEvidence": {
+      "ja": "通常、使用証拠は更新要件ではない。更新申請、区分、登録料、名義・住所および分割納付状況を確認する。",
+      "en": "Proof of use is not normally required for renewal. Check the request, classes, registration fee, owner/address details and any installment-payment status.",
+      "de": "Ein Benutzungsnachweis ist für die Verlängerung grundsätzlich nicht erforderlich. Antrag, Klassen, Registergebühr, Inhaber-/Adressdaten und etwaige Ratenzahlung sind zu prüfen."
+    },
+    "nonUseCancellation": {
+      "ja": "あり。利害関係を問わず何人も不使用取消審判を請求できる。指定商品・役務の全部または一部が対象。",
+      "en": "Available. Any person may request a non-use cancellation trial, against all or selected designated goods or services.",
+      "de": "Verfügbar. Jedermann kann einen Verfallsantrag wegen Nichtbenutzung für alle oder einzelne Waren bzw. Dienstleistungen stellen."
+    },
+    "nonUsePeriod": {
+      "ja": "審判請求登録前、継続して3年以上、日本国内で商標権者・専用使用権者・通常使用権者のいずれも登録商標を使用していない場合。",
+      "en": "A continuous period of at least three years before registration of the cancellation request, during which neither the owner nor an exclusive or non-exclusive licensee used the registered mark in Japan.",
+      "de": "Mindestens drei Jahre ununterbrochene Nichtbenutzung in Japan vor Eintragung des Löschungsantrags durch Inhaber, ausschließlichen oder einfachen Lizenznehmer."
+    },
+    "nonUseDefenses": {
+      "ja": "商標権者側が日本での真正な使用または不使用の正当理由を立証する。登録商標と社会通念上同一の商標の使用も含まれ得る。駆け込み使用の抗弁制限に注意。",
+      "en": "The owner bears the burden of proving genuine use in Japan or proper reasons for non-use. Use of a mark socially regarded as identical may qualify. Anti-token-use rules before filing must be considered.",
+      "de": "Der Inhaber trägt die Beweislast für ernsthafte Benutzung in Japan oder berechtigte Nichtbenutzungsgründe. Die Benutzung einer nach der Verkehrsauffassung identischen Marke kann genügen. Regeln gegen kurzfristige Scheinbenutzung sind zu beachten."
+    },
+    "otherCancellation": {
+      "ja": "不正使用による取消、使用権者の不正使用、コンセント登録後の混同防止措置違反等に関する取消審判があり得る。",
+      "en": "Cancellation trials may be available for improper use by the owner or licensee and for conduct linked to post-consent confusion-prevention obligations.",
+      "de": "Löschungsverfahren kommen unter anderem bei unlauterer Benutzung durch Inhaber oder Lizenznehmer sowie bei Verstößen gegen Verwechslungspräventionspflichten nach Zustimmung in Betracht."
+    },
+    "invalidation": {
+      "ja": "あり。登録要件違反、先行権利、悪意その他の法定理由に基づく無効審判。理由により除斥期間の有無が異なる。",
+      "en": "Available through an invalidation trial for failure of registrability, earlier rights, bad faith and other statutory grounds. Limitation periods vary by ground.",
+      "de": "Ein Nichtigkeitsverfahren ist wegen fehlender Eintragungsvoraussetzungen, älterer Rechte, Bösgläubigkeit und weiterer gesetzlicher Gründe möglich. Ausschlussfristen hängen vom Grund ab."
+    },
+    "colourPriorityIdentity": {
+      "ja": "優先権の基礎商標と日本出願商標の一致を厳格に確認する。白黒から色彩付きへの変更またはその逆は、構成・色彩の具体的差異により優先権が認められない可能性がある。",
+      "en": "Strictly compare the priority mark and the Japanese application. A change from black-and-white to color or vice versa may defeat priority depending on the precise representation and role of color.",
+      "de": "Prioritätsmarke und japanische Anmeldung sind streng auf Übereinstimmung zu prüfen. Ein Wechsel von Schwarz-Weiß zu Farbe oder umgekehrt kann je nach Darstellung und Bedeutung der Farbe die Priorität gefährden."
+    },
+    "colourRelativeGrounds": {
+      "ja": "外観・称呼・観念および取引の実情を総合判断する。色彩が称呼・観念または強い識別的印象を生む場合は重視されるが、通常の色差だけで非類似とは限らない。色彩のみ商標では色相・彩度・明度等が主要要素。",
+      "en": "Similarity is assessed globally through appearance, sound, concept and trade circumstances. Color receives weight where it creates a pronunciation, concept or strong distinctive impression; ordinary color differences do not necessarily avoid similarity. Hue, saturation and brightness are central for color-only marks.",
+      "de": "Die Ähnlichkeit wird insgesamt nach Bild, Klang, Bedeutung und Verkehrsverhältnissen beurteilt. Farbe wiegt stärker, wenn sie Klang, Vorstellung oder einen prägenden Eindruck erzeugt; gewöhnliche Farbabweichungen schließen Ähnlichkeit nicht zwingend aus. Bei reinen Farbmarken sind Farbton, Sättigung und Helligkeit zentral."
+    },
+    "colourGenuineUse": {
+      "ja": "登録色と実使用色が異なる場合、商標法50条の「社会通念上同一」に当たるかを個別判断する。色彩が識別性の本質なら変更リスクが高く、文字・図形主体で軽微な色差なら認められる余地がある。",
+      "en": "Where registered and used colors differ, determine case by case whether the mark is socially regarded as identical under Article 50. Risk is high where color is essential to distinctiveness; minor color changes in a word/device-dominant mark may be accepted.",
+      "de": "Weichen Eintragungs- und Benutzungsfarbe ab, ist im Einzelfall zu prüfen, ob die Marke nach Art. 50 verkehrsüblich als identisch gilt. Ist Farbe wesensprägend, ist das Risiko hoch; geringfügige Farbänderungen bei wort-/bildgeprägten Marken können anerkannt werden."
+    },
+    "colourFilingStrategy": {
+      "ja": "色に依存しないロゴは白黒または複数出願、ブランドカラー自体が重要なら色彩付き・色彩のみ商標を検討する。優先権基礎、実使用予定、長期的変更可能性を揃える。",
+      "en": "For color-independent logos consider black-and-white or multiple filings; where brand color itself matters, consider a color version or color-only mark. Align the priority filing, intended use and likely long-term changes.",
+      "de": "Für farbunabhängige Logos kommen Schwarz-Weiß- oder Mehrfachanmeldungen in Betracht; ist die Markenfarbe selbst wesentlich, sind farbige bzw. reine Farbmarken zu prüfen. Prioritätsanmeldung, geplante Benutzung und langfristige Varianten sind abzustimmen."
+    },
+    "colourInfringementScope": {
+      "ja": "登録商標と被疑標章の外観・称呼・観念、指定商品・役務、具体的取引事情を総合判断する。色彩の変更が要部・識別的印象・混同可能性へ与える影響を証拠化する。",
+      "en": "Infringement is assessed globally through appearance, sound, concept, goods/services and concrete trade circumstances. Evidence should address how color changes affect dominant features, distinctiveness and confusion.",
+      "de": "Verletzung wird insgesamt nach Bild, Klang, Bedeutung, Waren/Dienstleistungen und konkreten Verkehrsverhältnissen beurteilt. Zu belegen ist, wie Farbänderungen prägende Merkmale, Kennzeichnungskraft und Verwechslungsgefahr beeinflussen."
+    },
+    "civilInjunction": {
+      "ja": "差止請求および侵害組成物の廃棄等が可能。仮処分も利用でき、被保全権利、侵害、保全の必要性、担保等を検討する。",
+      "en": "Injunction and destruction or removal measures are available. Preliminary injunctions may be sought, subject to the right, infringement, necessity and possible security.",
+      "de": "Unterlassung sowie Vernichtung oder Beseitigung können verlangt werden. Einstweiliger Rechtsschutz ist bei Nachweis von Recht, Verletzung, Dringlichkeit und gegebenenfalls Sicherheitsleistung möglich."
+    },
+    "civilDamages": {
+      "ja": "損害賠償、損害額推定規定、侵害者利益・合理的使用料相当額等を利用可能。故意過失の推定、損害立証、消滅時効を個別確認する。",
+      "en": "Damages are available with statutory calculation presumptions, including infringer's profits and reasonable royalty measures. Check presumptions of fault, evidence and limitation periods.",
+      "de": "Schadensersatz mit gesetzlichen Berechnungs- und Vermutungsregeln, einschließlich Verletzergewinn und angemessener Lizenzgebühr, ist möglich. Verschulden, Nachweis und Verjährung sind fallbezogen zu prüfen."
+    },
+    "civilEvidencePreservation": {
+      "ja": "証拠保全、文書提出命令、査証制度の適用可能性、訴訟前の公証・購入調査・ウェブ保存等を検討する。営業秘密保護命令にも留意。",
+      "en": "Consider evidence preservation, document-production orders, possible inspection procedures, notarization, test purchases and web archiving. Trade-secret protective orders may apply.",
+      "de": "Zu prüfen sind Beweissicherung, Urkundenvorlage, mögliche Inspektionsverfahren, notarielle Sicherung, Testkäufe und Webarchivierung. Geheimnisschutzanordnungen können einschlägig sein."
+    },
+    "civilOther": {
+      "ja": "信用回復措置、廃棄・除去、税関・刑事手続との連携等。第一審は東京・大阪地方裁判所の専属管轄が問題となる。",
+      "en": "Measures to restore business reputation, destruction/removal and coordination with customs or criminal proceedings may apply. Exclusive first-instance jurisdiction of the Tokyo or Osaka District Court should be checked.",
+      "de": "Maßnahmen zur Wiederherstellung des geschäftlichen Ansehens, Vernichtung/Beseitigung und Koordination mit Zoll- oder Strafverfahren sind möglich. Die ausschließliche erstinstanzliche Zuständigkeit der Bezirksgerichte Tokio oder Osaka ist zu prüfen."
+    },
+    "borderMeasures": {
+      "ja": "あり。税関への輸入・輸出差止申立て、認定手続および職権取締り。登録原簿、公報、侵害疎明資料、真正品・模倣品識別資料等を準備する。",
+      "en": "Available through import/export suspension applications, customs determination procedures and ex officio action. Prepare register/gazette documents, prima facie infringement evidence and genuine/counterfeit identification materials.",
+      "de": "Verfügbar durch Anträge auf Aussetzung von Ein- und Ausfuhren, zollrechtliche Feststellungsverfahren und Maßnahmen von Amts wegen. Register-/Blattunterlagen, Glaubhaftmachung und Erkennungsmerkmale echter bzw. gefälschter Waren sind vorzubereiten."
+    },
+    "administrativeRaid": {
+      "ja": "税関、警察・検察による摘発があり得る。特許庁自体は通常の侵害摘発機関ではない。オンライン・店舗調査と告訴資料を整理する。",
+      "en": "Customs, police and prosecutors may conduct enforcement actions; the JPO itself is not normally an infringement-raiding authority. Organize online/store investigations and complaint materials.",
+      "de": "Zoll, Polizei und Staatsanwaltschaft können einschreiten; das JPO ist grundsätzlich keine Vollzugsbehörde für Markenverletzungen. Online-/Ladenermittlungen und Strafanzeigeunterlagen sind aufzubereiten."
+    },
+    "administrativeOther": {
+      "ja": "税関の認定手続、没収・廃棄、輸出入者への通知等。並行輸入の適法性および少量貨物・越境ECへの対応を個別検討する。",
+      "en": "Customs determination, confiscation/destruction and notices to importers/exporters are available. Assess lawful parallel imports and procedures for small consignments and cross-border e-commerce.",
+      "de": "Zollfeststellung, Einziehung/Vernichtung und Mitteilungen an Ein-/Ausführer sind möglich. Zulässige Parallelimporte sowie Kleinpakete und grenzüberschreitender E-Commerce sind gesondert zu beurteilen."
+    },
+    "criminalAvailability": {
+      "ja": "あり。商標権侵害、侵害とみなす行為、偽造品販売等について刑事責任が成立し得る。故意および侵害態様の立証が重要。",
+      "en": "Available for trademark infringement, deemed infringement and dealing in counterfeit goods. Proof of intent and the infringing conduct is important.",
+      "de": "Strafrechtliche Verfolgung ist bei Markenverletzung, gesetzlich gleichgestellten Handlungen und Handel mit Fälschungen möglich. Vorsatz und Verletzungshandlung sind wesentlich."
+    },
+    "criminalFine": {
+      "ja": "個人には罰金があり、商標権侵害では1,000万円以下となり得る。法人両罰規定ではより高額（3億円以下となり得る）。適用条文・最新額を確認する。",
+      "en": "Fines are available; trademark infringement by an individual may attract a fine of up to JPY 10 million, while corporate dual-liability provisions may reach JPY 300 million. Verify the current provision and amount.",
+      "de": "Geldstrafen sind möglich; bei einer natürlichen Person kann Markenverletzung mit bis zu 10 Mio. JPY, bei juristischen Personen nach Verbandsstrafvorschriften mit bis zu 300 Mio. JPY geahndet werden. Aktuelle Norm und Höhe sind zu prüfen."
+    },
+    "criminalImprisonment": {
+      "ja": "商標権侵害では10年以下の拘禁刑となり得、罰金との併科も可能。具体的罪名、故意、規模、反復性を確認する。",
+      "en": "Trademark infringement may be punishable by imprisonment for up to ten years, potentially combined with a fine. Confirm the precise offense, intent, scale and repetition.",
+      "de": "Markenverletzung kann mit Freiheitsstrafe bis zu zehn Jahren, gegebenenfalls neben Geldstrafe, geahndet werden. Tatbestand, Vorsatz, Umfang und Wiederholung sind zu prüfen."
+    },
+    "criminalOther": {
+      "ja": "侵害品・製造手段の没収、廃棄、捜索差押え等があり得る。刑事告訴と民事・税関措置の証拠整合性を管理する。",
+      "en": "Confiscation and destruction of infringing goods or tools, search and seizure and related measures may apply. Coordinate evidence across criminal, civil and customs actions.",
+      "de": "Einziehung und Vernichtung verletzender Waren oder Werkzeuge sowie Durchsuchung und Beschlagnahme sind möglich. Beweise in Straf-, Zivil- und Zollverfahren sind aufeinander abzustimmen."
+    }
+  },
+  "statistics": {
+    "coverage": "2016–2025",
+    "status": "pending",
+    "series": []
+  },
+  "notablePoints": [
+    {
+      "category": "examination",
+      "importance": "high",
+      "status": "verified",
+      "title": {
+        "ja": "留保型コンセント制度",
+        "en": "Reserved-consent system",
+        "de": "Qualifiziertes Zustimmungssystem"
+      },
+      "summary": {
+        "ja": "2024年4月1日以後の出願では、引用商標権者の承諾と混同のおそれがないことを示せば、類似する先行登録商標との併存登録が可能となり得る。",
+        "en": "For applications filed on or after 1 April 2024, coexistence with a cited similar registration may be possible upon consent plus proof that confusion is unlikely.",
+        "de": "Für Anmeldungen ab 1. April 2024 kann Koexistenz mit einer ähnlichen älteren Registrierung bei Zustimmung und Nachweis fehlender Verwechslungsgefahr möglich sein."
+      },
+      "practicalImpact": {
+        "ja": "同意書だけでは足りず、両当事者の業務、需要者、販売経路、表示態様、混同防止措置等の資料設計が必要。",
+        "en": "Consent alone is insufficient; evidence should address the parties' businesses, consumers, channels, presentation and confusion-prevention measures.",
+        "de": "Die Zustimmung allein genügt nicht; darzulegen sind Geschäftsfelder, Abnehmer, Vertriebswege, Benutzungsformen und Maßnahmen zur Verwechslungsprävention."
+      },
+      "recommendedAction": {
+        "ja": "引用通知直後に、譲渡・指定削除・コンセント・審判の費用と成功可能性を比較する。",
+        "en": "Immediately compare assignment, specification restriction, consent and appeal in terms of cost and prospects.",
+        "de": "Unmittelbar Abtretung, Einschränkung, Zustimmung und Beschwerde nach Kosten und Erfolgsaussichten vergleichen."
+      },
+      "agentQuestion": {
+        "ja": "本件資料で『混同を生ずるおそれがない』ことを立証するには、どの事実と契約条項が不足していますか。",
+        "en": "What facts and contractual provisions are still needed to establish no likelihood of confusion?",
+        "de": "Welche Tatsachen und Vertragsklauseln fehlen noch, um eine Verwechslungsgefahr auszuschließen?"
+      },
+      "sourceUrl": "https://www.jpo.go.jp/system/trademark/gaiyo/consent/index.html",
+      "checkedAt": "2026-09-26"
+    },
+    {
+      "category": "filing",
+      "importance": "high",
+      "status": "verified",
+      "title": {
+        "ja": "広すぎる指定と使用意思の確認",
+        "en": "Broad specifications and bona fide intent",
+        "de": "Breite Verzeichnisse und Benutzungsabsicht"
+      },
+      "summary": {
+        "ja": "出願時の使用証拠は通常不要だが、広範な指定、とくに多数の類似関係にわたる役務・小売等役務では、使用または使用意思の合理的説明を求められ得る。",
+        "en": "Use evidence is normally unnecessary at filing, but a very broad specification, particularly broad service or retail coverage, may trigger an inquiry into actual use or bona fide intent.",
+        "de": "Benutzungsnachweise sind bei Anmeldung normalerweise nicht nötig; sehr breite Dienstleistungs- oder Einzelhandelsverzeichnisse können jedoch eine Prüfung tatsächlicher Benutzung oder ernsthafter Benutzungsabsicht auslösen."
+      },
+      "practicalImpact": {
+        "ja": "費用削減だけでなく、拒絶回避と将来の不使用取消耐性のため、実際の事業計画に沿って表示を選ぶ必要がある。",
+        "en": "Specifications should track the real business plan to avoid objections and improve future non-use resilience, not merely to reduce fees.",
+        "de": "Das Verzeichnis sollte dem realen Geschäftsplan folgen, um Beanstandungen zu vermeiden und spätere Nichtbenutzungsrisiken zu mindern, nicht nur Gebühren zu sparen."
+      },
+      "recommendedAction": {
+        "ja": "使用中・使用予定の商品役務、開始時期、証拠の所在を出願前チェックリスト化する。",
+        "en": "Before filing, list current/intended goods and services, launch dates and available supporting evidence.",
+        "de": "Vor Anmeldung benutzte/geplante Waren und Dienstleistungen, Starttermine und verfügbare Belege erfassen."
+      },
+      "agentQuestion": {
+        "ja": "この指定範囲では使用意思の確認通知が予想されますか。受理可能な限定案は何ですか。",
+        "en": "Is a bona-fide-intent inquiry likely for this specification, and what acceptable limitation would you propose?",
+        "de": "Ist bei diesem Verzeichnis eine Prüfung der Benutzungsabsicht zu erwarten, und welche zulässige Einschränkung empfehlen Sie?"
+      },
+      "sourceUrl": "https://www.jpo.go.jp/system/laws/rule/guideline/trademark/kijun/",
+      "checkedAt": "2026-09-26"
+    },
+    {
+      "category": "examination",
+      "importance": "high",
+      "status": "verified",
+      "title": {
+        "ja": "先行登録商標を職権審査",
+        "en": "Ex officio earlier-right examination",
+        "de": "Prüfung älterer Rechte von Amts wegen"
+      },
+      "summary": {
+        "ja": "日本では特許庁が先行登録商標との類否を審査するため、第三者異議だけに依存する制度とは異なる。",
+        "en": "The JPO examines similarity to earlier registered marks ex officio, unlike systems relying primarily on third-party opposition.",
+        "de": "Das JPO prüft die Ähnlichkeit mit älteren eingetragenen Marken von Amts wegen, anders als vorwiegend widerspruchsbasierte Systeme."
+      },
+      "practicalImpact": {
+        "ja": "類似群コードは検索の入口にすぎず、外観・称呼・観念、商品役務の生産・販売部門、用途、需要者等まで検討する。",
+        "en": "Similarity codes are only a search starting point; assess appearance, sound, concept and the production, sales, purpose and consumers of the goods/services.",
+        "de": "Ähnlichkeitscodes sind nur Ausgangspunkt; Bild, Klang, Bedeutung sowie Herstellung, Vertrieb, Zweck und Abnehmer sind zu prüfen."
+      },
+      "recommendedAction": {
+        "ja": "文字・称呼・図形および関連類似群を組み合わせて出願前検索し、重要引用には使用状況も調査する。",
+        "en": "Combine word, pronunciation, figurative and related similarity-code searches, and investigate use of important citations.",
+        "de": "Wort-, Klang-, Bild- und verwandte Code-Recherchen kombinieren und die Benutzung wichtiger Treffer untersuchen."
+      },
+      "agentQuestion": {
+        "ja": "JPO実務上、本件で最も危険な引用と、非類似主張が通り得る取引事情は何ですか。",
+        "en": "Which citation presents the greatest JPO risk, and what trade circumstances could support dissimilarity?",
+        "de": "Welcher Treffer birgt das größte JPO-Risiko, und welche Verkehrsverhältnisse könnten Unähnlichkeit stützen?"
+      },
+      "sourceUrl": "https://www.jpo.go.jp/system/laws/rule/guideline/trademark/kijun/",
+      "checkedAt": "2026-09-26"
+    },
+    {
+      "category": "non-use",
+      "importance": "high",
+      "status": "verified",
+      "title": {
+        "ja": "3年不使用と立証責任",
+        "en": "Three-year non-use and burden of proof",
+        "de": "Dreijährige Nichtbenutzung und Beweislast"
+      },
+      "summary": {
+        "ja": "取消請求登録前3年間の日本での使用を、商標権者側が商品役務ごとに立証する。請求は何人でも可能。",
+        "en": "The owner must prove use in Japan during the three-year period before registration of the cancellation request, for the challenged goods/services. Any person may file.",
+        "de": "Der Inhaber muss die Benutzung in Japan während der drei Jahre vor Eintragung des Verfallsantrags für die angegriffenen Waren/Dienstleistungen nachweisen. Jedermann ist antragsberechtigt."
+      },
+      "practicalImpact": {
+        "ja": "請求書、納品書、ウェブページ、広告、包装等について、日付・日本との関連・標章・対象商品役務を一つの証拠連鎖で示す必要がある。",
+        "en": "Invoices, delivery records, webpages, advertising and packaging should form an evidence chain showing date, Japan nexus, mark and relevant goods/services.",
+        "de": "Rechnungen, Lieferbelege, Webseiten, Werbung und Verpackungen müssen eine Beweiskette zu Datum, Japanbezug, Marke und Waren/Dienstleistungen bilden."
+      },
+      "recommendedAction": {
+        "ja": "主要登録ごとに年1回、商品役務別の使用証拠を保存し、登録表示と実使用表示の差を記録する。",
+        "en": "Archive use evidence annually by registration and goods/services, recording differences between the registered and used versions.",
+        "de": "Benutzungsnachweise jährlich nach Registrierung und Waren/Dienstleistungen archivieren und Abweichungen zwischen Eintragung und Benutzungsform dokumentieren."
+      },
+      "agentQuestion": {
+        "ja": "現在の実使用は社会通念上同一と評価されますか。取消対象をどこまで部分指定できますか。",
+        "en": "Is the current form of use socially regarded as identical, and how narrowly can the cancellation target be framed?",
+        "de": "Gilt die aktuelle Benutzungsform als verkehrsüblich identisch, und wie eng kann der Verfallsangriff gefasst werden?"
+      },
+      "sourceUrl": "https://laws.e-gov.go.jp/law/334AC0000000127",
+      "checkedAt": "2026-09-26"
+    },
+    {
+      "category": "border-measures",
+      "importance": "medium",
+      "status": "verified",
+      "title": {
+        "ja": "税関差止めと並行輸入",
+        "en": "Customs suspension and parallel imports",
+        "de": "Zollbeschlagnahme und Parallelimporte"
+      },
+      "summary": {
+        "ja": "商標権者は輸出入差止申立てを利用できるが、真正品の並行輸入は一定要件下で非侵害となり得る。",
+        "en": "A trademark owner may seek import and export suspension, while genuine parallel imports may be non-infringing under established conditions.",
+        "de": "Markeninhaber können die Aussetzung von Ein- und Ausfuhren beantragen; echte Parallelimporte können unter bestimmten Voraussetzungen nicht verletzend sein."
+      },
+      "practicalImpact": {
+        "ja": "税関には、登録資料だけでなく、侵害疎明、真正品と模倣品の識別点、流通・ライセンス関係を迅速に説明できる資料が必要。",
+        "en": "Customs needs not only registration documents but also prima facie infringement material, product-identification points and distribution/licensing information.",
+        "de": "Der Zoll benötigt neben Registerunterlagen auch Glaubhaftmachung, Erkennungsmerkmale und Informationen zu Vertrieb und Lizenzen."
+      },
+      "recommendedAction": {
+        "ja": "主要ブランドについて税関申立てと識別研修資料を整備し、並行輸入判定の社内基準を作る。",
+        "en": "Maintain customs applications and identification guides for key brands and establish internal parallel-import criteria.",
+        "de": "Für Kernmarken Zollanträge und Erkennungsleitfäden pflegen und interne Kriterien für Parallelimporte festlegen."
+      },
+      "agentQuestion": {
+        "ja": "本件商品は適法な並行輸入に該当する余地がありますか。税関申立てに追加すべき識別資料は何ですか。",
+        "en": "Could these goods qualify as lawful parallel imports, and what additional identification material should support the customs application?",
+        "de": "Könnten diese Waren zulässige Parallelimporte sein, und welche zusätzlichen Erkennungsunterlagen benötigt der Zollantrag?"
+      },
+      "sourceUrl": "https://www.customs.go.jp/mizugiwa/chiteki/pages/b_004_4.htm",
+      "checkedAt": "2026-09-26"
+    }
+  ],
+  "news": [
+    {
+      "id": "guidelines-17-2026",
+      "type": "practice",
+      "date": "2026-04-01",
+      "title": {
+        "ja": "商標審査基準第17版を適用",
+        "en": "JPO applies the 17th edition of the Trademark Examination Guidelines",
+        "de": "JPO wendet die 17. Ausgabe der Markenprüfungsrichtlinien an"
+      },
+      "summary": {
+        "ja": "コンセント制度について、両商標の商品・役務の出所が実質的に同一の場合など、混同のおそれがないと判断できる類型を明確化。関連審査便覧も改訂された。",
+        "en": "The revision clarifies categories in which confusion may be found unlikely under the consent system, including where the sources of the goods or services are substantially identical, and updates the examination manual.",
+        "de": "Die Neufassung konkretisiert Fallgruppen fehlender Verwechslungsgefahr im Zustimmungssystem, etwa bei wirtschaftlich im Wesentlichen identischer Herkunft, und aktualisiert das Prüfungshandbuch."
+      },
+      "sourceUrl": "https://www.jpo.go.jp/system/laws/rule/guideline/trademark/kijun-kaitei/17th_kaitei_2026.html"
+    },
+    {
+      "id": "first-consent-registration-2025",
+      "type": "practice",
+      "date": "2025-04-07",
+      "title": {
+        "ja": "コンセント制度を適用した初の商標登録",
+        "en": "First trademark registered under the consent system",
+        "de": "Erste Markeneintragung nach dem Zustimmungssystem"
+      },
+      "summary": {
+        "ja": "2024年4月導入の留保型コンセント制度について、特許庁が初の適用登録を公表。承諾に加えて混同のおそれがないことの実証が重要な実務課題となった。",
+        "en": "The JPO announced the first registration under the reserved-consent system introduced in April 2024, confirming the practical importance of proving absence of confusion in addition to consent.",
+        "de": "Das JPO gab die erste Eintragung nach dem im April 2024 eingeführten qualifizierten Zustimmungssystem bekannt; neben der Zustimmung ist der Nachweis fehlender Verwechslungsgefahr zentral."
+      },
+      "sourceUrl": "https://www.jpo.go.jp/system/trademark/gaiyo/consent/index.html"
+    },
+    {
+      "id": "accelerated-guidelines-2025",
+      "type": "practice",
+      "date": "2025-10-01",
+      "title": {
+        "ja": "商標早期審査・早期審理ガイドライン改訂",
+        "en": "Revised accelerated trademark examination and appeal guidelines",
+        "de": "Überarbeitete Richtlinien zur beschleunigten Markenprüfung und -beschwerde"
+      },
+      "summary": {
+        "ja": "2025年10月1日以降の出願に新運用を適用。対象要件が整理され、コンセント制度適用主張や他人の氏名を含む一定の出願、日本指定国際登録は対象外となる場合がある。",
+        "en": "New rules apply to filings from 1 October 2025. Eligibility was reorganized, with certain consent-based or personal-name applications and Japan-designated international registrations excluded under current practice.",
+        "de": "Für Anmeldungen ab 1. Oktober 2025 gelten neue Regeln. Die Voraussetzungen wurden neu geordnet; bestimmte Zustimmungs-/Namensanmeldungen und internationale Registrierungen mit Benennung Japans sind ausgeschlossen."
+      },
+      "sourceUrl": "https://www.jpo.go.jp/system/trademark/shinsa/soki/shohyo_souki_kaitei.html"
+    }
+  ],
+  "faqs": [
+    {
+      "tag": "Filing",
+      "question": {
+        "ja": "この商品・役務表示はJPOで受理され、使用意思の確認を受けずに済みますか。",
+        "en": "Will the JPO accept this specification without raising a bona-fide-intent inquiry?",
+        "de": "Akzeptiert das JPO dieses Verzeichnis ohne Prüfung der ernsthaften Benutzungsabsicht?"
+      },
+      "followUp": {
+        "ja": "推奨表示、類似群コード、削除・限定案、将来の不使用取消リスクも教えてください。",
+        "en": "Please advise on recommended wording, similarity codes, fallback limitations and future non-use risk.",
+        "de": "Bitte empfehlen Sie Formulierung, Ähnlichkeitscodes, Einschränkungsoptionen und das spätere Nichtbenutzungsrisiko."
+      }
+    },
+    {
+      "tag": "Clearance",
+      "question": {
+        "ja": "本件商標について、外観・称呼・観念および類似商品役務をどこまで検索すべきですか。",
+        "en": "How broadly should we search appearance, sound, concept and similar goods/services for this mark?",
+        "de": "Wie weit sind Bild, Klang, Bedeutung und ähnliche Waren/Dienstleistungen zu recherchieren?"
+      },
+      "followUp": {
+        "ja": "最も危険な先行商標と、非類似主張・譲渡・コンセントの優先順位は何ですか。",
+        "en": "Which earlier marks are most risky, and how should we rank dissimilarity arguments, assignment and consent?",
+        "de": "Welche älteren Marken sind am riskantesten, und wie sind Unähnlichkeitsargument, Abtretung und Zustimmung zu priorisieren?"
+      }
+    },
+    {
+      "tag": "Consent",
+      "question": {
+        "ja": "引用商標権者の承諾を得れば、本件はコンセント制度で登録できますか。",
+        "en": "Can this application register through the consent system if the cited owner agrees?",
+        "de": "Kann diese Anmeldung bei Zustimmung des zitierten Inhabers über das Zustimmungssystem eingetragen werden?"
+      },
+      "followUp": {
+        "ja": "混同のおそれがないことを示す証拠、契約条項、登録後の混同防止措置を具体的に教えてください。",
+        "en": "Please identify the evidence, contract provisions and post-registration confusion-prevention measures required.",
+        "de": "Bitte benennen Sie erforderliche Beweise, Vertragsklauseln und Verwechslungspräventionsmaßnahmen nach der Eintragung."
+      }
+    },
+    {
+      "tag": "Refusal",
+      "question": {
+        "ja": "この拒絶理由通知にはいつまでに、意見書・補正・面接のどの組合せで応答すべきですか。",
+        "en": "By when, and with what combination of argument, amendment and examiner interview, should we answer this Office Action?",
+        "de": "Bis wann und mit welcher Kombination aus Stellungnahme, Änderung und Prüfergespräch ist zu antworten?"
+      },
+      "followUp": {
+        "ja": "期間延長、拒絶査定不服審判、早期審理の期限・費用・見込みも確認してください。",
+        "en": "Please also confirm extension, appeal and accelerated-appeal deadlines, costs and prospects.",
+        "de": "Bitte bestätigen Sie auch Fristen, Kosten und Aussichten von Verlängerung, Beschwerde und beschleunigter Beschwerde."
+      }
+    },
+    {
+      "tag": "Use",
+      "question": {
+        "ja": "不使用取消審判に耐えるため、現在の使用証拠で十分ですか。",
+        "en": "Is the current evidence sufficient to withstand a non-use cancellation trial?",
+        "de": "Reichen die aktuellen Nachweise aus, um ein Nichtbenutzungsverfahren abzuwehren?"
+      },
+      "followUp": {
+        "ja": "社会通念上同一、色彩変更、ライセンシー使用、オンライン販売、日本との関連を評価してください。",
+        "en": "Please assess socially identical variants, color changes, licensee use, online sales and the nexus to Japan.",
+        "de": "Bitte beurteilen Sie verkehrsübliche Identität, Farbänderungen, Lizenznehmerbenutzung, Online-Verkäufe und den Japanbezug."
+      }
+    },
+    {
+      "tag": "Enforcement",
+      "question": {
+        "ja": "日本で最も効果的な初動は、警告、仮処分、訴訟、税関、刑事告訴のどれですか。",
+        "en": "What is the most effective first step in Japan: warning, preliminary injunction, litigation, customs or criminal complaint?",
+        "de": "Was ist in Japan der wirksamste erste Schritt: Abmahnung, einstweiliger Rechtsschutz, Klage, Zoll oder Strafanzeige?"
+      },
+      "followUp": {
+        "ja": "並行輸入、証拠保全、管轄、担保、損害額、相手方情報の入手可能性も比較してください。",
+        "en": "Please compare parallel-import issues, evidence preservation, jurisdiction, security, damages and access to defendant information.",
+        "de": "Bitte vergleichen Sie Parallelimport, Beweissicherung, Zuständigkeit, Sicherheit, Schadenshöhe und Zugang zu Gegnerinformationen."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "JPO – Trademark system",
+      "url": "https://www.jpo.go.jp/system/trademark/",
+      "type": "official",
+      "checkedAt": "2026-09-26"
+    },
+    {
+      "label": "JPO – Procedures for obtaining a trademark right",
+      "url": "https://www.jpo.go.jp/e/system/trademark/gaiyo/trademark.html",
+      "type": "official",
+      "checkedAt": "2026-09-26"
+    },
+    {
+      "label": "JPO – Trademark Examination Guidelines",
+      "url": "https://www.jpo.go.jp/system/laws/rule/guideline/trademark/kijun/",
+      "type": "official",
+      "checkedAt": "2026-09-26"
+    },
+    {
+      "label": "JPO – Trademark Examination Manual",
+      "url": "https://www.jpo.go.jp/system/laws/rule/guideline/trademark/binran/index.html",
+      "type": "official",
+      "checkedAt": "2026-09-26"
+    },
+    {
+      "label": "JPO – Consent system",
+      "url": "https://www.jpo.go.jp/system/trademark/gaiyo/consent/index.html",
+      "type": "official",
+      "checkedAt": "2026-09-26"
+    },
+    {
+      "label": "JPO – Accelerated examination and appeal",
+      "url": "https://www.jpo.go.jp/system/trademark/shinsa/soki/shkouhou.html",
+      "type": "official",
+      "checkedAt": "2026-09-26"
+    },
+    {
+      "label": "JPO – Office Action response and extension",
+      "url": "https://www.jpo.go.jp/system/trademark/shinsa/letter/index.html",
+      "type": "official",
+      "checkedAt": "2026-09-26"
+    },
+    {
+      "label": "JPO – Opposition guidance",
+      "url": "https://www.jpo.go.jp/system/trial_appeal/shubetu-shohyo-igi/att00003.html",
+      "type": "official",
+      "checkedAt": "2026-09-26"
+    },
+    {
+      "label": "JPO Annual Report 2025",
+      "url": "https://www.jpo.go.jp/resources/report/nenji/2025/index.html",
+      "type": "official",
+      "checkedAt": "2026-09-26"
+    },
+    {
+      "label": "J-PlatPat",
+      "url": "https://www.j-platpat.inpit.go.jp/",
+      "type": "official",
+      "checkedAt": "2026-09-26"
+    },
+    {
+      "label": "e-Gov – Trademark Act",
+      "url": "https://laws.e-gov.go.jp/law/334AC0000000127",
+      "type": "official",
+      "checkedAt": "2026-09-26"
+    },
+    {
+      "label": "Japan Customs – Intellectual Property",
+      "url": "https://www.customs.go.jp/mizugiwa/chiteki/",
+      "type": "official",
+      "checkedAt": "2026-09-26"
+    },
+    {
+      "label": "WIPO – Madrid Protocol, Japan",
+      "url": "https://www.wipo.int/wipolex/en/treaties/notifications/details/treaty_madridp-gp_120",
+      "type": "official",
+      "checkedAt": "2026-09-26"
+    },
+    {
+      "label": "WIPO – Japan IP profile",
+      "url": "https://www.wipo.int/en/web/country-profiles/JP",
+      "type": "official",
+      "checkedAt": "2026-09-26"
+    }
+  ]
+}
