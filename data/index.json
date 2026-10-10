@@ -60,6 +60,10 @@
     "path": "./data/jurisdictions/kr.json"
   },
   {
+    "id":"jp",
+    "path":"./data/jurisdictions/jp.json"
+  },
+  {
     "id": "mn",
     "path": "./data/jurisdictions/mn.json"
   },
