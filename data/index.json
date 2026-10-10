@@ -61,7 +61,7 @@
   },
   {
     "id":"jp",
-    "path":"./data/jurisdictions/jp.json"
+    "path": "./data/jurisdictions/jp.json"
   },
   {
     "id": "mn",
@@ -170,6 +170,10 @@
   {
     "id": "pl",
     "path": "./data/jurisdictions/pl.json"
+  },
+  {
+    "id": "bg",
+    "path": "./data/jurisdictions/bg.json"
   },
   {
     "id": "ng",
