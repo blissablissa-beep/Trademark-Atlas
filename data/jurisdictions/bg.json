@@ -1,0 +1,613 @@
+{
+  "id": "bg",
+  "type": "country",
+  "flag": "🇧🇬",
+  "region": "europe",
+  "names": {
+    "ja": "ブルガリア共和国",
+    "en": "Republic of Bulgaria"
+  },
+  "office": {
+    "ja": "ブルガリア共和国特許庁（BPO）",
+    "en": "Patent Office of the Republic of Bulgaria (BPO)"
+  },
+  "availableLanguages": [],
+  "createdAt": "2026-10-10",
+  "updatedAt": "2026-10-10",
+  "status": "review",
+  "facts": {
+    "authority": {
+      "ja": "ブルガリア共和国特許庁（BPO）。国内商標の出願、審査、登録、異議、取消・無効等を担当する。",
+      "en": "Patent Office of the Republic of Bulgaria (BPO), responsible for national trademark filing, examination, registration, opposition, revocation and invalidity."
+    },
+    "protectionScope": {
+      "ja": "商品・役務の個別商標、団体商標、証明商標。ブルガリアを指定する国際登録およびEU商標もブルガリアで効力を有する。",
+      "en": "Individual marks for goods and services, collective marks and certification marks. International registrations designating Bulgaria and EUTMs also have effect in Bulgaria."
+    },
+    "markTypes": {
+      "ja": "文字、名称、文字・数字、図形、立体・包装形状、位置、模様、色彩、音、動き、マルチメディア、ホログラム等。保護対象を明確かつ正確に特定できる表示が必要。",
+      "en": "Word, name, letter, numeral, figurative, shape/packaging, position, pattern, color, sound, motion, multimedia and hologram marks, provided the subject matter can be represented clearly and precisely."
+    },
+    "madridAccessionDate": {
+      "ja": "1985年8月1日（マドリッド協定）、2001年10月2日（マドリッド協定議定書）。",
+      "en": "1 August 1985 (Madrid Agreement); 2 October 2001 (Madrid Protocol)."
+    },
+    "niceClassification": {
+      "ja": "採用。出願時の最新版、TMclassおよびBPOの表示実務を確認する。",
+      "en": "Adopted; consult the current edition, TMclass and BPO specification practice at filing."
+    },
+    "classHeadingPractice": {
+      "ja": "区分番号だけでは足りず、商品・役務の完全な一覧を明確かつ正確に記載する。類見出しは通常の字義範囲を超えて区分全体を当然には包含しない。",
+      "en": "A class number alone is insufficient; provide a clear and precise full list of goods and services. Class headings do not automatically cover the whole class beyond their ordinary literal meaning."
+    },
+    "retailServices": {
+      "ja": "第35類で可。小売・卸売の対象商品を具体的に記載する。",
+      "en": "Available in Class 35; specify the goods to which the retail or wholesale services relate."
+    },
+    "multiClassApplication": {
+      "ja": "可。追加区分に応じて料金が増加する。",
+      "en": "Available, with fees increasing for additional classes."
+    },
+    "applicationForm": {
+      "ja": "BPO所定の願書または電子出願。出願人、標章、商品・役務、優先権等を記載し、ブルガリア語で提出する。2026年改正により出願の署名要件にも注意。",
+      "en": "File on the prescribed BPO form or electronically, identifying the applicant, mark, goods/services and priority, in Bulgarian. Note the signature requirement introduced by the 2026 amendment."
+    },
+    "powerOfAttorney": {
+      "ja": "代理人を選任する場合は委任状を提出する。外国の自然人・法人は、原則としてブルガリアの産業財産代理人を通じてBPOで手続する。",
+      "en": "File a power of attorney when appointing a representative. Foreign natural and legal persons generally act before BPO through a Bulgarian industrial property representative."
+    },
+    "priorityDocuments": {
+      "ja": "パリ優先権は最初の出願から6か月以内に主張し、優先権証明書および必要なブルガリア語訳を所定期限内に提出する。",
+      "en": "Claim Paris priority within six months of the first filing and submit the priority document and any required Bulgarian translation within the prescribed period."
+    },
+    "homeRegistrationCertificate": {
+      "ja": "通常の直接出願には不要。パリ条約第6条の5に基づき本国登録を援用する場合等は個別確認する。",
+      "en": "Not normally required for a direct filing; check separately if relying on home-country registration under Paris Convention Article 6quinquies."
+    },
+    "useEvidenceAtFiling": {
+      "ja": "通常不要。使用による識別力、周知・名声、先使用その他の主張を行う場合は、ブルガリアに関係する証拠を提出する。",
+      "en": "Not normally required. Evidence relating to Bulgaria is needed when claiming acquired distinctiveness, well-known status, reputation, prior use or similar matters."
+    },
+    "notarizationCertification": {
+      "ja": "通常の委任状について公証・アポスティーユが常に必要とは限らない。署名権限、譲渡・合併、外国公文書は手続別に確認する。",
+      "en": "Notarization or apostille is not invariably required for an ordinary power of attorney. Check authority to sign, assignments, mergers and foreign official documents for the particular procedure."
+    },
+    "otherDocuments": {
+      "ja": "料金支払書類、団体・証明商標の使用規則、非伝統的商標の電子ファイル、優先権資料、使用による識別力・名声の証拠等。",
+      "en": "Fee-payment document, regulations for collective/certification marks, electronic files for non-traditional marks, priority materials and evidence of acquired distinctiveness or reputation, as applicable."
+    },
+    "absoluteGroundsExamination": {
+      "ja": "あり。BPOが形式要件と絶対的拒絶理由を職権で審査する。",
+      "en": "Yes. BPO examines formalities and absolute grounds ex officio."
+    },
+    "distinctivenessGrounds": {
+      "ja": "識別力欠如、記述的表示、普通名称・慣用表示等。出願前の使用により識別力を獲得したことを証拠で立証できる場合がある。",
+      "en": "Non-distinctive, descriptive, generic or customary signs may be refused; acquired distinctiveness through pre-filing use may be established by evidence."
+    },
+    "otherAbsoluteGrounds": {
+      "ja": "公序・善良な風俗、欺瞞性、国旗・紋章等の公的記章、商品自体の性質・技術的結果・実質的価値に由来する形状等、地理的表示、伝統的用語、植物品種名称、悪意等。",
+      "en": "Grounds include public policy or morality, deception, official emblems, shapes or characteristics resulting from the nature of the goods, technical result or substantial value, GIs, traditional terms, plant-variety names and bad faith."
+    },
+    "relativeGroundsExamination": {
+      "ja": "先行権利との抵触は原則として職権審査ではなく、公告後3か月以内の異議で争われる。出願前検索とウォッチングが重要。",
+      "en": "Conflicts with earlier rights are generally addressed by opposition within three months after publication rather than ex officio examination. Clearance and watching are important."
+    },
+    "disclaimer": {
+      "ja": "非識別部分の保護範囲は標章全体と個別判断による。任意のディスクレームだけで絶対的拒絶理由が当然に解消するとは考えない。",
+      "en": "The treatment of non-distinctive matter depends on the mark as a whole and the particular decision; do not assume that a voluntary disclaimer automatically cures an absolute-ground objection."
+    },
+    "consent": {
+      "ja": "先行権利者の同意のみで登録が当然に認められるとは限らない。異議の取下げ、共存契約、BPOの公益判断を個別に確認する。",
+      "en": "Consent alone does not necessarily guarantee registration. Assess withdrawal of opposition, coexistence terms and BPO public-interest considerations individually."
+    },
+    "acceleratedExamination": {
+      "ja": "一般的な早期審査制度は公表資料上明確でない。緊急事情がある場合は理由・証拠を整え、BPOまたは現地代理人に可否を確認する。",
+      "en": "A general accelerated-examination route is not clearly identified in the published materials. For urgency, document the grounds and confirm current BPO practice through local counsel."
+    },
+    "thirdPartyObservation": {
+      "ja": "公告から3か月以内および異議手続終結まで、絶対的拒絶理由に関する第三者の異議・情報提出が可能。先行権利は正式な異議で主張する。",
+      "en": "A third party may raise absolute-ground objections from publication through the end of any opposition proceedings. Earlier rights should be asserted by formal opposition."
+    },
+    "responsePeriod": {
+      "ja": "絶対的拒絶理由の通知には原則2か月以内に意見書・補正等で応答する。通知ごとに起算日と期限を確認する。",
+      "en": "Respond to an absolute-ground objection, generally within two months, by observations, amendment or limitation as appropriate. Verify the start date and deadline in each notice."
+    },
+    "extensionAvailable": {
+      "ja": "手続・期限の性質により可能な場合がある。法定の延長不能期限、とりわけ異議・不服申立期限に注意。",
+      "en": "Available for certain procedural periods depending on the deadline. Take particular care with statutory non-extendable opposition and appeal periods."
+    },
+    "extensionLength": {
+      "ja": "通知、期限の性質およびBPOの決定による。自動延長を前提にしない。",
+      "en": "Depends on the notice, nature of the deadline and BPO decision; do not assume an automatic extension."
+    },
+    "extensionRequirements": {
+      "ja": "期限前の申請、理由および所定料金が必要となり得る。期限徒過後の回復は別個の厳格な要件を確認する。",
+      "en": "A timely request, reasons and a fee may be required. Post-deadline restoration is subject to separate strict conditions."
+    },
+    "refusalResponseRoute": {
+      "ja": "審査中の拒絶理由通知には意見書、証拠、商品・役務の限定等で応答する。全面拒絶決定にはBPOの争訟部門への不服申立て、その後の司法審査を検討する。",
+      "en": "Answer examination objections with observations, evidence or limitation of goods/services. A complete refusal may be challenged through BPO appeal proceedings followed by judicial review."
+    },
+    "refusalAppealPeriod": {
+      "ja": "全面拒絶決定の受領から原則2か月。部分拒絶では分割申請について1か月の期限があり得るため、決定の教示を確認する。",
+      "en": "Generally two months from receipt of a complete refusal. A one-month period may apply to division following partial refusal, so check the instructions in the decision."
+    },
+    "appealRoute": {
+      "ja": "BPOの拒絶・異議・取消等の決定に対する行政上の不服申立てを経て、ソフィア市行政裁判所等への司法審査が可能。決定類型ごとの経路を確認する。",
+      "en": "Administrative challenge of BPO refusal, opposition, revocation or invalidity decisions may be followed by judicial review, including before the Administrative Court Sofia City; confirm the route for the specific decision."
+    },
+    "publicDatabase": {
+      "ja": "BPO商標国家登録簿",
+      "en": "BPO State Register of Trademarks",
+      "url": "https://portal.bpo.bg/bpo-registers/marks"
+    },
+    "publicationStage": {
+      "ja": "形式・絶対的拒絶理由の審査を通過した出願はBPO公報に公告され、3か月の異議期間に入る。国際登録もBPO通知後に公告される。",
+      "en": "An application that passes formal and absolute-ground examination is published in the BPO Official Bulletin for a three-month opposition period. International registrations are also published after notification to BPO."
+    },
+    "oppositionPeriod": {
+      "ja": "国内出願は公告日から3か月。国際登録については公告時期・異議可能期間の特則を現地代理人に確認する。",
+      "en": "Three months from publication for a national application. Confirm the publication and opposition timing applicable to an international registration with local counsel."
+    },
+    "oppositionExtension": {
+      "ja": "法定3か月の異議申立期間は原則延長不可。申立後の和解・手続期限は別途確認する。",
+      "en": "The statutory three-month opposition period is generally not extendable. Settlement and procedural periods after filing should be checked separately."
+    },
+    "directExaminationPeriod": {
+      "ja": "行政サービス情報では、料金納付後の標準的な処理目安として5～12か月が示される。異議、補正、通知、料金納付により長期化する。",
+      "en": "Government service information indicates an indicative processing time of 5–12 months after payment of fees. Opposition, amendments, objections and fee issues may extend this."
+    },
+    "madridExaminationPeriod": {
+      "ja": "ブルガリアはマドリッド議定書第5条(2)(b)の18か月宣言をしている。実際の審査は国内手続と同様の絶対的拒絶理由審査・公告・異議を含む。",
+      "en": "Bulgaria has made the 18-month declaration under Madrid Protocol Article 5(2)(b). Substantive processing includes absolute-ground examination, publication and opposition under the national framework."
+    },
+    "averagePendency": {
+      "ja": "無異議・無拒絶の標準案件でも出願内容と庁の処理状況により変動する。BPOの最新年次報告と案件別照会で更新する。",
+      "en": "Timing varies even for an unopposed application without objections. Update from the latest BPO annual report and case-specific status information."
+    },
+    "term": {
+      "ja": "10年",
+      "en": "10 years"
+    },
+    "termStart": {
+      "ja": "出願日から。10年ごとに無期限に更新可能。",
+      "en": "From the filing date; renewable indefinitely for successive ten-year periods."
+    },
+    "renewalWindow": {
+      "ja": "満了前に更新申請・料金納付を行う。実務上の受付開始時期および最新料金はBPOまたは現地代理人に確認する。",
+      "en": "File the renewal request and pay the fee before expiry. Confirm the opening of the renewal window and current fees with BPO or local counsel."
+    },
+    "gracePeriod": {
+      "ja": "満了後6か月。割増料金が必要。",
+      "en": "Six months after expiry, subject to a surcharge."
+    },
+    "renewalEvidence": {
+      "ja": "通常、使用証拠は更新要件ではない。更新申請、料金、権利者情報および代理権を確認する。",
+      "en": "Proof of use is not normally a renewal requirement. Verify the renewal request, fee, owner details and representation."
+    },
+    "nonUseCancellation": {
+      "ja": "あり。BPOへの行政上の取消請求。",
+      "en": "Available through an administrative revocation request before BPO."
+    },
+    "nonUsePeriod": {
+      "ja": "登録手続完了後5年間、正当な理由なくブルガリアで真正な使用がない場合、または使用が連続5年間中断した場合。",
+      "en": "Five years without genuine use in Bulgaria after completion of registration, absent proper reasons, or an uninterrupted five-year suspension of use."
+    },
+    "nonUseDefenses": {
+      "ja": "関連期間の真正使用、正当な不使用理由、取消請求を予見する前の使用開始・再開等を立証する。商品・役務ごとの部分取消と立証責任に注意。",
+      "en": "Prove genuine use during the relevant period, proper reasons for non-use, or qualifying commencement/resumption before the revocation request was anticipated. Consider burden of proof and partial revocation by goods/services."
+    },
+    "otherCancellation": {
+      "ja": "普通名称化、誤認を生じさせる使用、団体・証明商標の規則違反等により取消しとなる場合がある。",
+      "en": "Revocation may also arise from genericide, misleading use or breach of collective/certification-mark regulations."
+    },
+    "invalidation": {
+      "ja": "あり。絶対的拒絶理由、悪意、先行権利等に基づきBPOへ請求できる。",
+      "en": "Available before BPO on absolute grounds, bad faith, earlier rights and other statutory bases."
+    },
+    "colourPriorityIdentity": {
+      "ja": "EUIPN共通実務CP4を参照。白黒・グレースケールと色彩版は、色差が些細で平均的消費者が気づきにくい場合に限り、優先権上同一となり得る。",
+      "en": "Consult EUIPN Common Practice CP4. Black-and-white/greyscale and color versions are identical for priority only where color differences are insignificant and may go unnoticed by the average consumer."
+    },
+    "colourRelativeGrounds": {
+      "ja": "「同一」はCP4の厳格基準で判断する。同一でなくても、標章全体、識別的要素、色彩の役割、商品・役務から類似・混同のおそれを総合判断する。",
+      "en": "Identity follows the strict CP4 test. Even if not identical, similarity and confusion are assessed globally, including distinctive elements, the role of color and the goods/services."
+    },
+    "colourGenuineUse": {
+      "ja": "登録色と異なる使用でも、識別性を変えず、主要な識別要素が一致し、色自体が主要な識別要素でない等の条件を満たせば真正使用となり得る。",
+      "en": "Use in a different color may qualify where distinctive character is unchanged, the main distinctive elements coincide and color itself is not a principal distinctive element, among other factors."
+    },
+    "colourFilingStrategy": {
+      "ja": "色彩がブランドの中核なら色彩版を出願し、色に依存しないロゴは白黒版も検討する。優先権基礎、実使用予定、証拠保存を一体で設計する。",
+      "en": "If color is core to the brand, file the color version; for a color-independent logo consider a black-and-white filing. Align priority, intended use and evidence retention."
+    },
+    "colourInfringementScope": {
+      "ja": "侵害判断は標章と商品・役務を全体比較する。登録色、実使用、色彩の識別力、標章の類似度および混同のおそれを個別評価する。",
+      "en": "Infringement requires an overall comparison of the signs and goods/services, considering registered color, actual use, color distinctiveness, similarity and likelihood of confusion."
+    },
+    "civilInjunction": {
+      "ja": "仮処分・終局的差止めが可能。権利、侵害、緊急性、比例性および担保の要否を検討する。",
+      "en": "Interim and final injunctions are available, subject to the right, infringement, urgency, proportionality and any security requirement."
+    },
+    "civilDamages": {
+      "ja": "損害賠償、逸失利益、侵害者利益または合理的ロイヤルティ等の救済を事案に応じて検討する。",
+      "en": "Damages, lost profits, infringer profits or a reasonable-royalty measure may be considered depending on the case."
+    },
+    "civilEvidencePreservation": {
+      "ja": "証拠保全、侵害品・文書の確保、情報開示等の手続が利用できる場合がある。秘密保持と比例性に注意。",
+      "en": "Evidence-preservation, securing infringing goods/documents and information measures may be available, subject to confidentiality and proportionality."
+    },
+    "civilOther": {
+      "ja": "侵害品の回収・廃棄、判決公表、費用等。管轄裁判所と請求の組合せを現地代理人に確認する。",
+      "en": "Recall/destruction, publication of judgment and costs may be available. Confirm the competent court and combination of remedies with local counsel."
+    },
+    "borderMeasures": {
+      "ja": "EU税関規則に基づく水際措置あり。税関への申立て、真正品識別資料、輸入者情報および即応連絡先を準備する。",
+      "en": "EU customs border measures are available. Prepare an application for action, genuine-product identifiers, importer information and rapid-response contacts."
+    },
+    "administrativeRaid": {
+      "ja": "BPOには知的財産権侵害に関する行政罰活動があり、税関・警察・検察等による摘発もあり得る。権限分担を案件別に確認する。",
+      "en": "BPO conducts administrative-penal activity concerning IP infringements, and customs, police or prosecutors may also act. Confirm the division of competence case by case."
+    },
+    "administrativeOther": {
+      "ja": "行政上の制裁、侵害品の差押え・廃棄、税関留置、オンライン市場からの偽造品削除等。2026年改正によるBPO権限拡張にも注意。",
+      "en": "Administrative sanctions, seizure/destruction, customs detention and removal of counterfeit goods from online marketplaces may apply. Note the 2026 expansion of BPO powers."
+    },
+    "criminalAvailability": {
+      "ja": "故意の商標偽造、偽造標章商品の流通等について刑事手続あり。",
+      "en": "Criminal proceedings are available for intentional trademark counterfeiting and trade in counterfeit-marked goods."
+    },
+    "criminalFine": {
+      "ja": "罰金あり。犯罪態様、規模、反復性等により異なるため、現行刑法と個別事案を確認する。",
+      "en": "Fines are available and depend on the conduct, scale and repetition; check the current Criminal Code and facts."
+    },
+    "criminalImprisonment": {
+      "ja": "拘禁・懲役があり得る。加重事由と法定刑は現行法で確認する。",
+      "en": "Imprisonment may be available; verify aggravating factors and current statutory penalties."
+    },
+    "criminalOther": {
+      "ja": "侵害品・製造手段の没収・廃棄、判決公表等があり得る。",
+      "en": "Forfeiture/destruction of infringing goods and production means, and publication of judgment, may be available."
+    }
+  },
+  "statistics": {
+    "coverage": "2016–2025",
+    "status": "pending",
+    "series": []
+  },
+  "notablePoints": [
+    {
+      "category": "filing",
+      "importance": "high",
+      "status": "verified",
+      "title": {
+        "ja": "国内・EU・マドプロの三経路",
+        "en": "National, EUTM and Madrid routes"
+      },
+      "summary": {
+        "ja": "ブルガリアのみならBPO国内出願、EU全域ならEU商標、国際展開ならブルガリア指定またはEU指定を比較する。",
+        "en": "Compare a BPO filing for Bulgaria only, an EUTM for EU-wide cover, and Madrid designation of Bulgaria or the EU for broader expansion."
+      },
+      "practicalImpact": {
+        "ja": "EU商標は広域だが単一性リスクがあり、国内出願はブルガリア語・現地代理運用が必要。",
+        "en": "An EUTM is broad but carries unitary risk, while a national filing requires a Bulgarian-language/local-representation workflow."
+      },
+      "recommendedAction": {
+        "ja": "費用、対象地域、先行権利、使用予定、拒絶時の転換可能性を比較して経路を選ぶ。",
+        "en": "Choose the route after comparing cost, territory, earlier rights, intended use and options if the broader right encounters objections."
+      },
+      "agentQuestion": {
+        "ja": "本件では国内出願、EU商標、ブルガリア指定・EU指定のどれが最も安全ですか。",
+        "en": "Which route—national, EUTM, Bulgaria designation or EU designation—is safest for this matter?"
+      },
+      "sourceUrl": "https://www.bpo.bg/en/obekti/marki/vazmozhnost-za-registratsiya/registratsiya-po-natsionalen-red",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "category": "opposition",
+      "importance": "high",
+      "status": "verified",
+      "title": {
+        "ja": "先行権利は3か月異議で守る",
+        "en": "Protect earlier rights through the three-month opposition"
+      },
+      "summary": {
+        "ja": "BPOは絶対的拒絶理由を審査した後に出願を公告し、先行権利者は公告から3か月以内に異議を申し立てる。",
+        "en": "BPO publishes after absolute-ground examination, and an earlier-right owner must oppose within three months from publication."
+      },
+      "practicalImpact": {
+        "ja": "先行権利の職権引用を期待できないため、出願前検索と公告ウォッチが重要。",
+        "en": "Because ex officio citation of earlier rights should not be relied on, clearance and publication watching are critical."
+      },
+      "recommendedAction": {
+        "ja": "重要商標はBPO、TMview、Madrid Monitorを監視し、証拠・使用立証を早期に準備する。",
+        "en": "Watch BPO, TMview and Madrid Monitor for key marks, and prepare standing and use evidence early."
+      },
+      "agentQuestion": {
+        "ja": "本件の異議期限、当事者適格、使用証明要求、和解余地を確認してください。",
+        "en": "Please confirm the opposition deadline, standing, proof-of-use issues and settlement options."
+      },
+      "sourceUrl": "https://www.bpo.bg/en/chzv/chzv-natsionalna-marka",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "category": "local-practice",
+      "importance": "high",
+      "status": "verified",
+      "title": {
+        "ja": "ブルガリア語・署名・現地代理の運用",
+        "en": "Bulgarian-language, signature and local-representation workflow"
+      },
+      "summary": {
+        "ja": "手続はブルガリア語で行われ、外国出願人は原則として産業財産代理人を通じる。2026年改正では商標出願の署名要件が導入された。",
+        "en": "Proceedings are in Bulgarian and foreign applicants generally act through an industrial property representative. A 2026 amendment introduced a signature requirement for trademark applications."
+      },
+      "practicalImpact": {
+        "ja": "翻訳、署名者権限、委任状、電子出願フォームの不備が方式遅延につながる。",
+        "en": "Translation, signatory authority, power-of-attorney and e-filing defects can delay formal processing."
+      },
+      "recommendedAction": {
+        "ja": "出願前にブルガリア語の商品役務表、署名方法、委任状形式を代理人と確定する。",
+        "en": "Before filing, settle the Bulgarian specification, signature method and power-of-attorney form with local counsel."
+      },
+      "agentQuestion": {
+        "ja": "2026年改正後の署名方法と、委任状の原本・認証要否を確認してください。",
+        "en": "Please confirm the signature method after the 2026 amendment and whether the original or authentication of the power is required."
+      },
+      "sourceUrl": "https://www.bpo.bg/bg/novini/2026/obnarodvani-sa-izmeneniyata-v-zakona-za-markite-i-geografskite-oznacheniya",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "category": "non-use",
+      "importance": "high",
+      "status": "verified",
+      "title": {
+        "ja": "5年不使用と使用証拠管理",
+        "en": "Five-year non-use and evidence management"
+      },
+      "summary": {
+        "ja": "登録手続完了後5年間の不使用または連続5年間の使用中断は、取消しの対象となり得る。",
+        "en": "Five years of non-use after completion of registration, or an uninterrupted five-year suspension, may expose the registration to revocation."
+      },
+      "practicalImpact": {
+        "ja": "商品・役務の一部だけの使用では部分取消となり得る。ブルガリア市場との関連を示す証拠が必要。",
+        "en": "Use for only some goods/services may lead to partial revocation, and evidence should demonstrate a connection to the Bulgarian market."
+      },
+      "recommendedAction": {
+        "ja": "請求書、広告、販売資料、ウェブ履歴、数量・地域資料を年次かつ商品役務別に保存する。",
+        "en": "Retain invoices, advertising, sales materials, web archives and volume/territory records annually and by goods/services."
+      },
+      "agentQuestion": {
+        "ja": "本件証拠はブルガリアでの真正使用をどこまで立証でき、不足資料は何ですか。",
+        "en": "How far does our evidence establish genuine use in Bulgaria, and what is missing?"
+      },
+      "sourceUrl": "https://www.bpo.bg/en/obekti/marki/vazmozhnost-za-registratsiya/registratsiya-po-natsionalen-red",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "category": "enforcement",
+      "importance": "medium",
+      "status": "verified",
+      "title": {
+        "ja": "行政・税関・民刑事の併用",
+        "en": "Coordinate administrative, customs, civil and criminal routes"
+      },
+      "summary": {
+        "ja": "BPOの行政罰活動、EU税関措置、民事差止め・損害賠償、悪質な偽造への刑事手続を組み合わせ得る。",
+        "en": "BPO administrative-penal activity, EU customs measures, civil injunction/damages and criminal action against serious counterfeiting may be coordinated."
+      },
+      "practicalImpact": {
+        "ja": "販売チャネルと緊急性によって最適な機関、証拠、費用、速度が異なる。",
+        "en": "The best authority, evidence, cost and speed differ with the sales channel and urgency."
+      },
+      "recommendedAction": {
+        "ja": "テスト購入、オンライン画面、輸入情報、真正品識別資料を保全し、初動ルートを代理人と決める。",
+        "en": "Preserve test purchases, online captures, import data and genuine-product identifiers, and agree the first-response route with counsel."
+      },
+      "agentQuestion": {
+        "ja": "この案件では税関申立て、行政摘発、仮処分、刑事告訴のどれを先行すべきですか。",
+        "en": "For this matter, should customs, administrative action, interim relief or a criminal complaint come first?"
+      },
+      "sourceUrl": "https://www.bpo.bg/en/obekti/administrativnonakazatelna-deynost",
+      "checkedAt": "2026-10-10"
+    }
+  ],
+  "news": [
+    {
+      "id": "tgia-amendment-2026",
+      "type": "law",
+      "date": "2026-03-06",
+      "title": {
+        "ja": "商標・地理的表示法の2026年改正",
+        "en": "2026 amendments to the Trademarks and Geographical Indications Act"
+      },
+      "summary": {
+        "ja": "工芸・工業製品GIのEU制度を実施し、BPOの行政罰権限を拡張。商標実務では出願への署名要件が導入されたため、願書・電子出願の運用確認が必要。",
+        "en": "The amendments implement the EU craft and industrial GI regime, expand BPO administrative-penal powers and introduce a signature requirement for trademark applications, requiring filing-workflow review."
+      },
+      "sourceUrl": "https://www.bpo.bg/bg/novini/2026/obnarodvani-sa-izmeneniyata-v-zakona-za-markite-i-geografskite-oznacheniya"
+    },
+    {
+      "id": "guidelines-articles-11-12-2025",
+      "type": "practice",
+      "date": "2025-02-04",
+      "title": {
+        "ja": "第11条・第12条の新審査指針が発効",
+        "en": "New guidelines on Articles 11 and 12 took effect"
+      },
+      "summary": {
+        "ja": "BPOは絶対的・相対的拒絶理由に関する国内・EUの行政・司法実務を整理し、旧例を更新した新指針を施行。出願、異議、紛争の判断資料として重要。",
+        "en": "BPO issued revised guidance consolidating national and EU administrative and judicial practice on absolute and relative grounds, replacing outdated examples and supporting filing, opposition and dispute analysis."
+      },
+      "sourceUrl": "https://www.bpo.bg/bg/novini/2025/novi-metodicheski-ukazaniya-za-prilagane-na-chl11-i-chl12-ot-zakona-za-markite-i-geografskite-oznacheniya"
+    },
+    {
+      "id": "annual-report-2025",
+      "type": "statistics",
+      "date": "2026-09-01",
+      "title": {
+        "ja": "BPOが2025年年次報告と電子サービス改善を公表",
+        "en": "BPO publishes its 2025 annual report and e-service improvements"
+      },
+      "summary": {
+        "ja": "商標等の保護需要の伸びと、電子サービス・電子登録簿の機能、情報範囲、速度の改善が報告された。統計欄更新時の一次資料とする。",
+        "en": "BPO reported increased demand for protection and improvements to the functionality, information coverage and speed of its e-services and electronic registers; use the report as a primary source for future statistics updates."
+      },
+      "sourceUrl": "https://www.bpo.bg/bg/novini/2026/publikuvan-e-godishniyat-otchet-na-patentnoto-vedomstvo-za-2025-g-polozhitelni-tendentsii-i-sakrateni-srokove-otchita-vedomstvoto"
+    }
+  ],
+  "faqs": [
+    {
+      "tag": "Route",
+      "question": {
+        "ja": "ブルガリア国内出願、EU商標、マドプロのブルガリア指定・EU指定のどれが適切ですか。",
+        "en": "Should we file nationally, as an EUTM, or designate Bulgaria/the EU through Madrid?"
+      },
+      "followUp": {
+        "ja": "費用、地域、単一性リスク、先行権利、使用立証、拒絶時の代替策を比較してください。",
+        "en": "Please compare cost, territory, unitary risk, earlier rights, proof of use and fallback options."
+      }
+    },
+    {
+      "tag": "Filing",
+      "question": {
+        "ja": "この商品・役務表示と願書はBPOでそのまま受理されますか。",
+        "en": "Will BPO accept this specification and application as filed?"
+      },
+      "followUp": {
+        "ja": "ブルガリア語訳、署名、委任状、優先権書類、追加区分料金を確認してください。",
+        "en": "Please check the Bulgarian translation, signature, power of attorney, priority documents and extra-class fees."
+      }
+    },
+    {
+      "tag": "Opposition",
+      "question": {
+        "ja": "この公告に3か月以内に異議を申し立てるべきですか。",
+        "en": "Should we oppose this publication within three months?"
+      },
+      "followUp": {
+        "ja": "当事者適格、先行権利、使用証明要求、証拠、費用、和解可能性を教えてください。",
+        "en": "Please address standing, earlier rights, proof-of-use issues, evidence, cost and settlement prospects."
+      }
+    },
+    {
+      "tag": "Refusal",
+      "question": {
+        "ja": "この通知への応答期限、延長、補正および不服申立経路は何ですか。",
+        "en": "What are the response deadline, extension, amendment and appeal routes for this notice?"
+      },
+      "followUp": {
+        "ja": "2か月期限の起算日、商品役務の限定、追加証拠、期限徒過時の救済も確認してください。",
+        "en": "Please confirm the start of the two-month period, specification limitation, further evidence and any missed-deadline remedy."
+      }
+    },
+    {
+      "tag": "Use",
+      "question": {
+        "ja": "5年不使用取消に備えるため、どの証拠を保存すべきですか。",
+        "en": "What evidence should we retain against a five-year non-use attack?"
+      },
+      "followUp": {
+        "ja": "オンライン販売、輸出、EU域内使用、色彩変更、部分使用の扱いを教えてください。",
+        "en": "Please address online sales, exports, EU use, color variants and partial use."
+      }
+    },
+    {
+      "tag": "Enforcement",
+      "question": {
+        "ja": "ブルガリアで最も迅速な侵害対応は何ですか。",
+        "en": "What is the fastest enforcement route in Bulgaria?"
+      },
+      "followUp": {
+        "ja": "証拠保全、行政摘発、仮処分、税関申立て、刑事告訴を比較してください。",
+        "en": "Please compare evidence preservation, administrative action, interim relief, customs and criminal complaint."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "BPO – Trademark summary",
+      "url": "https://www.bpo.bg/en/obekti/marki/nay-vazhnoto-za-markata",
+      "type": "official",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "label": "BPO – National trademark procedure",
+      "url": "https://www.bpo.bg/en/obekti/marki/vazmozhnost-za-registratsiya/registratsiya-po-natsionalen-red",
+      "type": "official",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "label": "BPO – Electronic trademark filing and procedure",
+      "url": "https://www.bpo.bg/en/obekti/marki/protsedura-po-zayavyavane/elektronno-zayavyavane-na-targovska-marka",
+      "type": "official",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "label": "BPO – National trademark Q&A",
+      "url": "https://www.bpo.bg/en/chzv/chzv-natsionalna-marka",
+      "type": "official",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "label": "BPO – Forms and instructions",
+      "url": "https://www.bpo.bg/en/obekti/marki/blanki-i-ukazaniya",
+      "type": "official",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "label": "BPO – State Register of Trademarks",
+      "url": "https://portal.bpo.bg/bpo-registers/marks",
+      "type": "official",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "label": "BPO – Administrative-penal activity",
+      "url": "https://www.bpo.bg/en/obekti/administrativnonakazatelna-deynost",
+      "type": "official",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "label": "BPO – Tariffs",
+      "url": "https://www.bpo.bg/en/tarifi",
+      "type": "official",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "label": "WIPO Lex – Bulgaria Trademark and GI Act",
+      "url": "https://www.wipo.int/wipolex/en/legislation/details/20459",
+      "type": "official",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "label": "WIPO – Madrid Protocol accession by Bulgaria",
+      "url": "https://www.wipo.int/wipolex/en/treaties/notifications/details/treaty_madridp-gp_134",
+      "type": "official",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "label": "WIPO – Madrid declarations",
+      "url": "https://www.wipo.int/en/web/madrid-system/members/declarations",
+      "type": "official",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "label": "EUIPN – Common Practices",
+      "url": "https://www.euipn.org/en/practices",
+      "type": "official",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "label": "EUIPO – Search IP / TMview",
+      "url": "https://www.euipo.europa.eu/en/search-ip",
+      "type": "official",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "label": "EU Customs – IPR enforcement",
+      "url": "https://taxation-customs.ec.europa.eu/customs/prohibitions-restrictions/counterfeit-piracy-and-other-ipr-violations_en",
+      "type": "official",
+      "checkedAt": "2026-10-10"
+    }
+  ]
+}
